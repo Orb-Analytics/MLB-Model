@@ -2,18 +2,18 @@ name: Run Daily MLB Notebooks
 
 on:
   schedule:
-    - cron: '0 16 * * *'  # Runs daily at 9AM Pacific (16:00 UTC)
-  workflow_dispatch:       # Allows manual trigger via GitHub UI
+    - cron: '0 16 * * *'  # 9AM Pacific = 16:00 UTC (9AM Pacific Time)
+  workflow_dispatch:
 
 jobs:
   run-notebooks:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-latest
 
     steps:
       - name: 🧾 Checkout code
         uses: actions/checkout@v3
 
-      - name: 🐍 Set up Python 3.11
+      - name: 🐍 Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.11'
@@ -24,31 +24,24 @@ jobs:
           pip install -r requirements.txt
           pip install papermill ipykernel
 
-      - name: 🚀 Run notebooks (skip training-set.ipynb)
+      - name: 🚀 Run all notebooks
         run: |
-          echo "🔍 Discovering notebooks..."
+          echo "🔍 Looking for notebooks..."
           for nb in $(find . -name "*.ipynb" ! -path "./.ipynb_checkpoints/*"); do
-            if [[ "$nb" == *"training-set.ipynb" ]]; then
-              echo "⏭️ Skipping $nb"
-            else
-              echo "📘 Running $nb"
-              python -m papermill "$nb" "$nb" --execution-timeout 300 || echo "❌ Failed: $nb"
-            fi
+            echo "📘 Running $nb"
+            papermill "$nb" "$nb"
           done
 
-      - name: 📤 Auto-commit updated CSVs
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: 📝 Commit CSV results
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          
-          git add '**/*.csv'
-
-          if ! git diff --cached --quiet; then
-            echo "📄 Committing updated CSV files..."
-            git commit -m "📊 Auto-update CSV outputs - $(date +'%Y-%m-%d %H:%M:%S')"
-            git push https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git HEAD:main
-          else
+          git add '*.csv'
+          if git diff --cached --quiet; then
             echo "✅ No CSV changes to commit."
-          fi
+          else
+            echo "📄 CSV changes found — committing..."
+            git commit -m "📊 Auto-update CSV outputs - $(date -u +"%Y-%m-%d %H:%M:%S")"
+            git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
