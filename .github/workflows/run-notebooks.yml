@@ -7,7 +7,7 @@ on:
 
 jobs:
   run-notebooks:
-    runs-on: ubuntu-22.04  # Force stable Ubuntu version
+    runs-on: ubuntu-22.04
 
     steps:
       - name: 🧾 Checkout code
@@ -16,7 +16,7 @@ jobs:
       - name: 🐍 Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.10'
+          python-version: '3.10'  # ✅ quotes are CRUCIAL
 
       - name: 🐍 Verify Python Version
         run: python --version
