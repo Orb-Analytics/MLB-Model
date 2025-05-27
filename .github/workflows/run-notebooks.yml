@@ -2,8 +2,8 @@ name: Run Daily MLB Notebooks
 
 on:
   schedule:
-    - cron: '0 16 * * *'  # Runs at 9AM PT daily (16:00 UTC)
-  workflow_dispatch:      # Manual trigger option
+    - cron: '0 16 * * *'  # 9AM Pacific = 16:00 UTC
+  workflow_dispatch:      # Allow manual runs from GitHub UI
 
 jobs:
   run-notebooks:
@@ -16,30 +16,24 @@ jobs:
       - name: 🐍 Set up Python
         uses: actions/setup-python@v4
         with:
-            python-version: '3.10'  # Downgraded to 3.10 for compatibility
+          python-version: '3.11'  # Updated for torch/ipython compatibility
 
-      - name: 🐍 Verify Python Version
-        run: python --version
-
-      - name: 🚀 Install and run notebooks (excluding statsapi & training-set)
+      - name: 🚀 Install and run notebooks
         run: |
-            echo "📦 Installing dependencies..."
-            python -m pip install --upgrade pip
-            pip install -r requirements.txt
-            pip install papermill ipykernel
+          echo "📦 Installing dependencies..."
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          pip install papermill ipykernel
 
-            echo "🔍 Looking for notebooks..."
-            find . -name "*.ipynb" ! -path "./.ipynb_checkpoints/*"
+          echo "🔍 Looking for notebooks..."
+          find . -name "*.ipynb" ! -path "./.ipynb_checkpoints/*"
 
-            echo "🔁 Executing notebooks..."
-            for nb in $(find . -name "*.ipynb" ! -path "./.ipynb_checkpoints/*"); do
-            if [[ "$nb" == *"statsapi.ipynb" || "$nb" == *"training-set.ipynb" ]]; then
-            echo "⏭️ Skipping $nb"
+          echo "🔁 Executing notebooks..."
+          for nb in $(find . -name "*.ipynb" ! -path "./.ipynb_checkpoints/*"); do
+            if [[ "$nb" == *"statsapi.ipynb" || "$nb" == *"training-set.ipynb" || "$nb" == *"mlb-api.ipynb" ]]; then
+              echo "⏭️ Skipping $nb"
             else
-            echo "📘 Running $nb"
-            python -m papermill "$nb" "$nb" --execution-timeout 600 || echo "❌ Failed: $nb"
+              echo "📘 Running $nb"
+              python -m papermill "$nb" "$nb" --execution-timeout 300 || echo "❌ Failed: $nb"
             fi
-            done
-
-      - name: 🔍 List Installed Packages
-        run: pip list
+          done
