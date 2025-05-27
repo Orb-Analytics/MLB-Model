@@ -2,12 +2,12 @@ name: Run Daily MLB Notebooks
 
 on:
   schedule:
-    - cron: '0 16 * * *'  # 9AM Pacific = 16:00 UTC
-  workflow_dispatch:  # Allow manual runs from GitHub
+    - cron: '0 16 * * *'  # Runs at 9AM PT daily (16:00 UTC)
+  workflow_dispatch:      # Manual trigger option
 
 jobs:
   run-notebooks:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04  # Force stable Ubuntu version
 
     steps:
       - name: 🧾 Checkout code
@@ -16,7 +16,10 @@ jobs:
       - name: 🐍 Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: 3.10
+          python-version: '3.10'
+
+      - name: 🐍 Verify Python Version
+        run: python --version
 
       - name: 📦 Install dependencies
         run: |
@@ -32,6 +35,6 @@ jobs:
               echo "⏭️ Skipping $nb"
             else
               echo "📘 Executing $nb"
-              papermill "$nb" "$nb"
+              papermill "$nb" "$nb" --execution-timeout 600
             fi
           done
