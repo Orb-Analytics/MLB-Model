@@ -21,17 +21,23 @@ jobs:
       - name: 🐍 Verify Python Version
         run: python --version
 
-      - name: 🚀 Run notebooks (excluding statsapi & training-set)
+      - name: 🚀 Install and run notebooks (excluding statsapi & training-set)
         run: |
-         echo "🔍 Looking for notebooks..."
-         find . -name "*.ipynb" ! -path "./.ipynb_checkpoints/*"
+            echo "📦 Installing dependencies..."
+            python -m pip install --upgrade pip
+            pip install -r requirements.txt
+            pip install papermill ipykernel
 
-         echo "🔁 Executing notebooks..."
-         for nb in $(find . -name "*.ipynb" ! -path "./.ipynb_checkpoints/*"); do
-         if [[ "$nb" == *"statsapi.ipynb" || "$nb" == *"training-set.ipynb" ]]; then
-         echo "⏭️ Skipping $nb"
-         else
-         echo "📘 Running $nb"
-         python -m papermill "$nb" "$nb" --execution-timeout 600 || echo "❌ Failed: $nb"
+            echo "🔍 Looking for notebooks..."
+            find . -name "*.ipynb" ! -path "./.ipynb_checkpoints/*"
+
+            echo "🔁 Executing notebooks..."
+            for nb in $(find . -name "*.ipynb" ! -path "./.ipynb_checkpoints/*"); do
+            if [[ "$nb" == *"statsapi.ipynb" || "$nb" == *"training-set.ipynb" ]]; then
+            echo "⏭️ Skipping $nb"
+            else
+            echo "📘 Running $nb"
+            python -m papermill "$nb" "$nb" --execution-timeout 600 || echo "❌ Failed: $nb"
             fi
             done
+
