@@ -2,7 +2,7 @@ name: Run Daily MLB Notebooks
 
 on:
   schedule:
-    - cron: '0 16 * * *'  # 9AM Pacific = 16:00 UTC
+    - cron: '0 16 * * *'  # Runs at 9AM Pacific / 16:00 UTC
   workflow_dispatch:      # Allow manual runs from GitHub UI
 
 jobs:
@@ -10,30 +10,43 @@ jobs:
     runs-on: ubuntu-22.04
 
     steps:
-      - name: 🧾 Checkout code
+      - name: 🧾 Checkout repo
         uses: actions/checkout@v3
 
-      - name: 🐍 Set up Python
+      - name: 🐍 Set up Python 3.11
         uses: actions/setup-python@v4
         with:
-          python-version: '3.11'  # Updated for torch/ipython compatibility
+          python-version: '3.11'
 
-      - name: 🚀 Install and run notebooks
+      - name: 📦 Install dependencies
         run: |
-          echo "📦 Installing dependencies..."
           python -m pip install --upgrade pip
           pip install -r requirements.txt
           pip install papermill ipykernel
 
-          echo "🔍 Looking for notebooks..."
-          find . -name "*.ipynb" ! -path "./.ipynb_checkpoints/*"
-
-          echo "🔁 Executing notebooks..."
+      - name: 🚀 Execute notebooks (excluding training-set)
+        run: |
+          echo "🔍 Discovering notebooks..."
           for nb in $(find . -name "*.ipynb" ! -path "./.ipynb_checkpoints/*"); do
-            if [[ "$nb" == *"statsapi.ipynb" || "$nb" == *"training-set.ipynb" || "$nb" == *"mlb-api.ipynb" ]]; then
+            if [[ "$nb" == *"training-set.ipynb" ]]; then
               echo "⏭️ Skipping $nb"
             else
               echo "📘 Running $nb"
               python -m papermill "$nb" "$nb" --execution-timeout 300 || echo "❌ Failed: $nb"
             fi
           done
+
+      - name: 📤 Auto-commit new CSV files
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add '**/*.csv'
+
+          if ! git diff --cached --quiet; then
+            echo "📄 CSV changes found — committing..."
+            git commit -m "📊 Auto-update CSV outputs - $(date +'%Y-%m-%d %H:%M:%S')"
+            git push origin ${{ github.ref_name }}
+          else
+            echo "✅ No CSV changes to commit."
+          fi
