@@ -32,6 +32,6 @@ jobs:
          echo "⏭️ Skipping $nb"
          else
          echo "📘 Running $nb"
-         papermill "$nb" "$nb" --execution-timeout 600 || echo "❌ Failed: $nb"
+         python -m papermill "$nb" "$nb" --execution-timeout 600 || echo "❌ Failed: $nb"
             fi
             done
