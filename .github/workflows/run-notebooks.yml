@@ -41,4 +41,3 @@ jobs:
             python -m papermill "$nb" "$nb" --execution-timeout 600 || echo "❌ Failed: $nb"
             fi
             done
-
