@@ -35,3 +35,12 @@ jobs:
           echo "▶️ Running $nb"
           jupyter nbconvert --to notebook --execute "$nb" --output "$(basename "$nb")" --ExecutePreprocessor.timeout=300 || exit 1
         done
+        
+    - name: Commit and push new CSVs
+      if: success()
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add data/**/*.csv training-data/**/*.csv
+        git commit -m "🤖 Update CSVs from scheduled notebook run" || echo "No changes to commit"
+        git push
