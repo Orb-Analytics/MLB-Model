@@ -3,10 +3,10 @@ name: Run Notebooks
 on:
   push:
     paths:
-      - 'notebooks/*.ipynb'
-      - 'training-data/*.ipynb'
+      - 'notebooks/**/*.ipynb'
+      - 'training-data/**/*.ipynb'
   schedule:
-    - cron: '30 13 * * *'  # 9:30 AM ET during Daylight Saving Time
+    - cron: '30 13 * * *'  # 9:30 AM ET (13:30 UTC)
   workflow_dispatch:
 
 jobs:
@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repo
+    - name: Checkout repository
       uses: actions/checkout@v3
 
     - name: Set up Python
@@ -29,8 +29,9 @@ jobs:
         pip install nbconvert nbformat ipykernel jupyter
 
     - name: Run notebooks (excluding training-set.ipynb)
+      working-directory: ${{ github.workspace }}
       run: |
         find notebooks training-data -name "*.ipynb" ! -name "training-set.ipynb" | while read nb; do
           echo "▶️ Running $nb"
-          jupyter nbconvert --to notebook --execute "$nb" --output "$nb"
+          jupyter nbconvert --to notebook --execute "$nb" --output "$nb" --ExecutePreprocessor.timeout=300 || exit 1
         done
