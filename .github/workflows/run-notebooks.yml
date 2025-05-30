@@ -3,8 +3,8 @@ name: Run Notebooks
 on:
   push:
     paths:
-      - 'notebooks/**/*.ipynb'
-      - 'training-data/**/*.ipynb'
+      - 'notebooks/*.ipynb'
+      - 'training-data/*.ipynb'
   schedule:
     - cron: '30 13 * * *'  # 9:30 AM ET during Daylight Saving Time
   workflow_dispatch:
