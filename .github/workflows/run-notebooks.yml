@@ -33,5 +33,5 @@ jobs:
       run: |
         find notebooks training-data -name "*.ipynb" ! -name "training-set.ipynb" | while read nb; do
           echo "▶️ Running $nb"
-          jupyter nbconvert --to notebook --execute "$nb" --output "$nb" --ExecutePreprocessor.timeout=300 || exit 1
+          jupyter nbconvert --to notebook --execute "$nb" --output "$(basename "$nb")" --ExecutePreprocessor.timeout=300 || exit 1
         done
