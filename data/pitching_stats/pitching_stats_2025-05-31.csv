@@ -1,15 +1,15 @@
 Date,Home Team,Home Starter,Home ERA,Home WHIP,Home IP,Home SO,Home AVG,Home BP ERA,Home BP WHIP,Home BP IP,Home BP SO,Away Team,Away Starter,Away ERA,Away WHIP,Away IP,Away SO,Away AVG,Away BP ERA,Away BP WHIP,Away BP IP,Away BP SO
 2025-05-31,Chicago Cubs,Drew Pomeranz,0.0,0.51,13.2,15,.091,3.95,1.28,507.0,452,Cincinnati Reds,Nick Lodolo,3.1,1.11,69.2,60,.239,3.81,1.21,452.8,412
 2025-05-31,Toronto Blue Jays,Braydon Fisher,4.66,0.93,9.2,13,.206,4.02,1.2,508.0,510,Athletics,Gunnar Hoglund,6.4,1.52,32.1,23,.299,5.63,1.53,491.0,442
-2025-05-31,Texas Rangers,Patrick Corbin,3.71,1.26,53.1,41,.249,3.07,1.14,460.0,415,St. Louis Cardinals,Sonny Gray,3.65,1.12,69.0,76,.242,3.8,1.26,443.1,342
-2025-05-31,Baltimore Orioles,Dean Kremer,4.7,1.39,67.0,51,.278,5.46,1.48,430.0,393,Chicago White Sox,Davis Martin,3.67,1.24,68.2,41,.260,4.18,1.39,428.0,375
-2025-05-31,Philadelphia Phillies,Jesús Luzardo,3.58,1.34,70.1,81,.266,4.12,1.31,449.1,485,Milwaukee Brewers,Chad Patrick,2.97,1.21,63.2,57,.246,4.09,1.34,455.9,420
-2025-05-31,Cleveland Guardians,Slade Cecconi,5.28,1.43,15.1,17,.274,4.13,1.41,484.9,471,Los Angeles Angels,Kyle Hendricks,5.34,1.29,59.0,39,.256,4.72,1.54,439.0,379
-2025-05-31,Kansas City Royals,Michael Wacha,2.88,1.17,68.2,50,.239,3.21,1.18,456.9,428,Detroit Tigers,Tarik Skubal,2.26,0.79,75.2,99,.194,3.38,1.22,449.8,413
-2025-05-31,New York Mets,Kodai Senga,1.6,1.18,62.0,59,.203,3.02,1.26,452.0,458,Colorado Rockies,Antonio Senzatela,7.14,1.98,58.0,31,.377,5.39,1.54,443.0,344
-2025-05-31,Houston Astros,Colton Gordon,5.95,1.37,19.2,20,.289,3.56,1.16,488.9,528,Tampa Bay Rays,Zack Littell,3.96,1.07,72.2,45,.251,3.48,1.19,444.9,393
-2025-05-31,Atlanta Braves,Spencer Schwellenbach,3.13,1.03,74.2,71,.229,3.78,1.28,427.8,424,Boston Red Sox,Walker Buehler,4.44,1.31,46.2,42,.260,3.93,1.34,491.0,455
-2025-05-31,Miami Marlins,Edward Cabrera,4.14,1.42,45.2,48,.261,5.24,1.45,451.8,398,San Francisco Giants,Robbie Ray,2.43,1.11,70.1,78,.194,3.24,1.2,438.0,425
+2025-05-31,Texas Rangers,Patrick Corbin,3.71,1.26,53.1,41,.249,3.06,1.14,461.0,415,St. Louis Cardinals,Sonny Gray,3.65,1.12,69.0,76,.242,3.79,1.25,444.2,344
+2025-05-31,Baltimore Orioles,Dean Kremer,4.7,1.39,67.0,51,.278,5.45,1.48,430.2,394,Chicago White Sox,Davis Martin,3.67,1.24,68.2,41,.260,4.18,1.39,429.0,376
+2025-05-31,Philadelphia Phillies,Jesús Luzardo,3.58,1.34,70.1,81,.266,4.11,1.31,451.1,485,Milwaukee Brewers,Chad Patrick,2.97,1.21,63.2,57,.246,4.07,1.34,457.9,422
+2025-05-31,Cleveland Guardians,Slade Cecconi,5.28,1.43,15.1,17,.274,4.11,1.41,485.1,472,Los Angeles Angels,Kyle Hendricks,5.34,1.29,59.0,39,.256,4.76,1.54,440.0,379
+2025-05-31,Kansas City Royals,Michael Wacha,2.88,1.17,68.2,50,.239,3.2,1.18,457.9,428,Detroit Tigers,Tarik Skubal,2.26,0.79,75.2,99,.194,3.38,1.22,449.8,413
+2025-05-31,New York Mets,Kodai Senga,1.6,1.18,62.0,59,.203,3.01,1.25,454.0,459,Colorado Rockies,Antonio Senzatela,7.14,1.98,58.0,31,.377,5.39,1.54,444.1,347
+2025-05-31,Houston Astros,Colton Gordon,5.95,1.37,19.2,20,.289,3.63,1.17,490.9,531,Tampa Bay Rays,Zack Littell,3.91,1.07,73.2,46,.251,3.48,1.19,444.9,393
+2025-05-31,Atlanta Braves,Spencer Schwellenbach,3.13,1.03,74.2,71,.229,3.76,1.28,428.8,424,Boston Red Sox,Walker Buehler,4.44,1.31,46.2,42,.260,3.91,1.34,491.9,456
+2025-05-31,Miami Marlins,Edward Cabrera,4.14,1.42,45.2,48,.261,5.23,1.45,452.8,398,San Francisco Giants,Robbie Ray,2.43,1.11,70.1,78,.194,3.24,1.2,438.9,425
 2025-05-31,Seattle Mariners,Bryce Miller,5.22,1.54,39.2,35,.268,3.84,1.31,469.0,411,Minnesota Twins,Bailey Ober,3.41,1.33,58.0,46,.275,3.32,1.14,433.1,449
 2025-05-31,Los Angeles Dodgers,Landon Knack,5.22,1.36,29.1,28,.256,4.08,1.3,478.9,494,New York Yankees,Will Warren,4.09,1.26,50.2,67,.227,3.27,1.15,444.8,465
 2025-05-31,San Diego Padres,Dylan Cease,4.58,1.25,59.0,72,.243,3.44,1.19,429.0,411,Pittsburgh Pirates,Bailey Falter,3.47,1.14,59.2,40,.223,4.05,1.26,455.8,386
