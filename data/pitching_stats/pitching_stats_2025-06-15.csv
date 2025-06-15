@@ -1,16 +1,16 @@
 Date,Home Team,Home Starter,Home ERA,Home WHIP,Home IP,Home SO,Home AVG,Home BP ERA,Home BP WHIP,Home BP IP,Home BP SO,Away Team,Away Starter,Away ERA,Away WHIP,Away IP,Away SO,Away AVG,Away BP ERA,Away BP WHIP,Away BP IP,Away BP SO
-2025-06-15,Detroit Tigers,Tyler Holton,4.09,1.24,33.0,29,.264,3.3,1.18,610.1,587,Cincinnati Reds,Wade Miley,8.0,2.11,9.0,3.0,.361,3.77,1.19,621.0,560.0
-2025-06-15,Baltimore Orioles,Scott Blewett,3.41,1.31,29.0,26,.248,5.01,1.42,575.1,540,Los Angeles Angels,Yusei Kikuchi,2.92,1.47,77.0,68.0,.248,5.02,1.49,529.1,445.0
-2025-06-15,Philadelphia Phillies,Zack Wheeler,2.85,0.9,82.0,101,.186,4.07,1.35,546.0,551,Toronto Blue Jays,José Berríos,3.38,1.25,82.2,71.0,.234,4.22,1.23,541.0,555.0
-2025-06-15,Atlanta Braves,Grant Holmes,4.07,1.22,73.0,77,.213,3.63,1.22,536.1,545,Colorado Rockies,Austin Gomber,,,,,,,,,
-2025-06-15,Washington Nationals,MacKenzie Gore,2.88,1.12,81.1,114,.230,5.24,1.43,533.9,434,Miami Marlins,Eury Pérez,12.0,2.0,3.0,5.0,.308,5.06,1.43,600.0,535.0
-2025-06-15,Boston Red Sox,Brayan Bello,3.96,1.55,52.1,37,.277,4.03,1.3,597.0,566,New York Yankees,Max Fried,1.84,0.93,88.0,81.0,.198,3.93,1.25,522.2,559.0
-2025-06-15,New York Mets,Griffin Canning,3.22,1.35,64.1,61,.241,2.84,1.23,570.0,567,Tampa Bay Rays,Shane Baz,4.97,1.34,70.2,65.0,.257,3.31,1.16,556.9,496.0
-2025-06-15,Kansas City Royals,Noah Cameron,2.17,0.88,37.1,25,.165,3.52,1.23,595.1,548,Athletics,Jeffrey Springs,4.64,1.3,73.2,64.0,.230,5.65,1.53,564.8,509.0
-2025-06-15,Houston Astros,Brandon Walter,1.64,0.91,11.0,10,.220,3.5,1.15,606.1,679,Minnesota Twins,Simeon Woods Richardson,5.74,1.63,42.1,39.0,.302,3.76,1.19,573.1,571.0
-2025-06-15,Milwaukee Brewers,Quinn Priester,3.65,1.3,61.2,43,.235,3.83,1.3,576.9,552,St. Louis Cardinals,Miles Mikolas,4.48,1.31,66.1,38.0,.267,3.94,1.28,563.1,468.0
-2025-06-15,Chicago Cubs,Colin Rea,3.92,1.37,62.0,48,.283,3.57,1.21,573.2,502,Pittsburgh Pirates,Mitch Keller,4.15,1.28,82.1,65.0,.261,3.66,1.18,556.9,473.0
-2025-06-15,Texas Rangers,Kumar Rocker,8.87,1.84,23.1,21,.346,2.92,1.11,596.9,537,Chicago White Sox,Aaron Civale,4.91,1.36,22.0,19.0,.274,4.12,1.39,591.1,498.0
-2025-06-15,Arizona Diamondbacks,Merrill Kelly,3.18,0.99,82.0,79,.199,4.95,1.4,543.0,511,San Diego Padres,Nick Pivetta,3.48,1.11,72.1,79.0,.219,3.54,1.23,540.0,523.0
-2025-06-15,Seattle Mariners,Emerson Hancock,5.04,1.5,55.1,41,.292,3.92,1.3,569.9,520,Cleveland Guardians,Luis L. Ortiz,4.26,1.45,69.2,76.0,.252,3.91,1.37,538.9,504.0
-2025-06-15,Los Angeles Dodgers,Dustin May,4.46,1.31,66.2,64,.242,4.16,1.32,567.8,567,San Francisco Giants,Kyle Harrison,4.56,1.27,23.2,25.0,.231,3.19,1.23,604.0,580.0
+2025-06-15,Detroit Tigers,Tyler Holton,4.09,1.24,33.0,29,.264,3.31,1.19,616.1,590,Cincinnati Reds,Wade Miley,6.75,1.75,12.0,7,.319,3.78,1.2,625.0,564
+2025-06-15,Baltimore Orioles,Scott Blewett,3.69,1.26,31.2,27,.244,4.95,1.42,581.9,547,Los Angeles Angels,Yusei Kikuchi,3.05,1.48,82.2,78,.252,5.09,1.49,531.9,449
+2025-06-15,Philadelphia Phillies,Zack Wheeler,2.76,0.89,88.0,110,.187,4.09,1.35,547.1,551,Toronto Blue Jays,José Berríos,3.81,1.29,87.1,76,.246,4.29,1.24,543.1,556
+2025-06-15,Atlanta Braves,Grant Holmes,3.97,1.17,79.1,92,.206,3.73,1.24,539.0,546,Colorado Rockies,Austin Gomber,0.0,0.6,5.0,4,.118,5.67,1.59,611.1,477
+2025-06-15,Washington Nationals,MacKenzie Gore,2.89,1.15,87.1,119,.238,5.23,1.43,536.9,436,Miami Marlins,Eury Pérez,6.43,1.86,7.0,5,.276,5.01,1.41,605.0,538
+2025-06-15,Boston Red Sox,Brayan Bello,3.49,1.47,59.1,45,.262,4.01,1.31,599.0,569,New York Yankees,Max Fried,1.89,0.95,95.0,90,.201,3.92,1.25,523.2,561
+2025-06-15,New York Mets,Griffin Canning,3.8,1.4,68.2,63,.241,2.83,1.22,573.9,572,Tampa Bay Rays,Shane Baz,4.54,1.32,77.1,71,.247,3.31,1.15,557.1,496
+2025-06-15,Kansas City Royals,Noah Cameron,1.91,0.9,42.1,32,.172,3.54,1.23,597.1,550,Athletics,Jeffrey Springs,4.52,1.29,79.2,66,.236,5.64,1.53,564.9,510
+2025-06-15,Houston Astros,Brandon Walter,1.53,0.91,17.2,19,.224,3.48,1.16,608.9,681,Minnesota Twins,Simeon Woods Richardson,5.13,1.5,47.1,43,.282,3.75,1.19,576.1,573
+2025-06-15,Milwaukee Brewers,Quinn Priester,3.46,1.24,67.2,46,.231,3.83,1.31,578.9,554,St. Louis Cardinals,Miles Mikolas,4.35,1.3,72.1,45,.268,3.94,1.28,565.1,471
+2025-06-15,Chicago Cubs,Colin Rea,3.84,1.32,68.0,52,.275,3.55,1.21,576.1,504,Pittsburgh Pirates,Mitch Keller,4.08,1.25,88.1,68,.254,3.64,1.17,558.9,473
+2025-06-15,Texas Rangers,Kumar Rocker,7.31,1.69,28.1,27,.325,2.91,1.11,596.9,537,Chicago White Sox,Aaron Civale,4.67,1.48,27.0,23,.282,4.13,1.4,591.1,498
+2025-06-15,Arizona Diamondbacks,Merrill Kelly,3.14,0.98,83.0,81,.197,4.96,1.41,543.0,511,San Diego Padres,Nick Pivetta,3.45,1.1,73.0,80,.218,3.53,1.24,540.0,523
+2025-06-15,Seattle Mariners,Emerson Hancock,4.95,1.47,56.1,42,.288,3.92,1.31,569.9,520,Cleveland Guardians,Luis L. Ortiz,4.22,1.44,70.1,76,.250,3.91,1.37,538.9,504
+2025-06-15,Los Angeles Dodgers,Dustin May,4.46,1.31,66.2,64,.242,4.16,1.32,567.8,567,San Francisco Giants,Kyle Harrison,4.56,1.27,23.2,25,.231,3.19,1.23,604.0,580
