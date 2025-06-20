@@ -4,9 +4,9 @@ on:
   push:
     paths:
       - 'notebooks/mlb-api.ipynb'
+      - 'notebooks/mlb-api-bulk.ipynb'
       - 'notebooks/novig-api.ipynb'
       - 'notebooks/pitchers.ipynb'
-      - 'notebooks/web-scrape.ipynb'
   schedule:
     - cron: '30 16 * * *'  # 9:30 AM PT / 12:30 PM ET / 16:30 UTC
   workflow_dispatch:
@@ -33,7 +33,7 @@ jobs:
     - name: Run selected notebooks
       working-directory: ${{ github.workspace }}
       run: |
-        for nb in notebooks/mlb-api.ipynb notebooks/novig-api.ipynb notebooks/pitchers.ipynb notebooks/web-scrape.ipynb; do
+        for nb in notebooks/mlb-api.ipynb notebooks/mlb-api-bulk.ipynb notebooks/novig-api.ipynb notebooks/pitchers.ipynb; do
           echo "▶️ Running $nb"
           jupyter nbconvert --to notebook --execute "$nb" --output "$(basename "$nb")" --ExecutePreprocessor.timeout=300 || exit 1
         done
