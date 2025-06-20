@@ -1,31 +1,31 @@
 team,division,wins,losses,winPct,gamesBack,runDiff,wildCardGB,lastTen
-New York Yankees,Unknown,42,31,.575,-,97,-,3-7
-Tampa Bay Rays,Unknown,41,33,.554,1.5,68,+3.0,7-3
-Toronto Blue Jays,Unknown,40,33,.548,2.0,-4,+2.5,6-4
-Boston Red Sox,Unknown,39,37,.513,4.5,18,-,8-2
-Baltimore Orioles,Unknown,31,42,.425,11.0,-79,6.5,5-5
-Detroit Tigers,Unknown,47,27,.635,-,84,-,6-4
-Cleveland Guardians,Unknown,37,35,.514,9.0,-23,-,4-6
-Minnesota Twins,Unknown,36,37,.493,10.5,4,1.5,2-8
-Kansas City Royals,Unknown,36,38,.486,11.0,-20,2.0,3-7
-Chicago White Sox,Unknown,23,50,.315,23.5,-72,14.5,3-7
+New York Yankees,Unknown,43,31,.581,-,101,-,4-6
+Tampa Bay Rays,Unknown,41,34,.547,2.5,65,+2.5,6-4
+Toronto Blue Jays,Unknown,40,34,.541,3.0,-8,+2.0,5-5
+Boston Red Sox,Unknown,39,37,.513,5.0,18,-,8-2
+Baltimore Orioles,Unknown,32,42,.432,11.0,-76,6.0,6-4
+Detroit Tigers,Unknown,48,28,.632,-,87,-,6-4
+Cleveland Guardians,Unknown,37,36,.507,9.5,-24,0.5,4-6
+Minnesota Twins,Unknown,37,37,.500,10.0,11,1.0,3-7
+Kansas City Royals,Unknown,37,38,.493,10.5,-17,1.5,4-6
+Chicago White Sox,Unknown,23,52,.307,24.5,-75,15.5,1-9
 Houston Astros,Unknown,43,31,.581,-,54,-,7-3
 Seattle Mariners,Unknown,37,36,.507,5.5,2,0.5,5-5
-Los Angeles Angels,Unknown,36,37,.493,6.5,-56,1.5,6-4
-Texas Rangers,Unknown,36,38,.486,7.0,19,2.0,7-3
+Los Angeles Angels,Unknown,36,38,.486,7.0,-60,2.0,6-4
+Texas Rangers,Unknown,36,39,.480,7.5,16,2.5,6-4
 Athletics,Unknown,30,46,.395,14.0,-128,9.0,5-5
-New York Mets,Unknown,45,29,.608,-,74,-,5-5
-Philadelphia Phillies,Unknown,44,30,.595,1.0,33,+4.5,7-3
-Atlanta Braves,Unknown,33,39,.458,11.0,18,5.5,6-4
-Washington Nationals,Unknown,30,44,.405,15.0,-71,9.5,0-10
-Miami Marlins,Unknown,29,43,.403,15.0,-88,9.5,5-5
-Chicago Cubs,Unknown,45,28,.616,-,107,-,6-4
-Cincinnati Reds,Unknown,39,35,.527,6.5,44,0.5,8-2
-Milwaukee Brewers,Unknown,39,35,.527,6.5,19,0.5,5-5
-St. Louis Cardinals,Unknown,38,35,.521,7.0,28,1.0,3-7
-Pittsburgh Pirates,Unknown,29,45,.392,16.5,-58,10.5,5-5
+New York Mets,Unknown,45,30,.600,-,68,+5.0,4-6
+Philadelphia Phillies,Unknown,45,30,.600,-,34,+5.0,8-2
+Atlanta Braves,Unknown,34,39,.466,10.0,24,5.0,7-3
+Washington Nationals,Unknown,31,44,.413,14.0,-70,9.0,1-9
+Miami Marlins,Unknown,29,44,.397,15.0,-89,10.0,5-5
+Chicago Cubs,Unknown,45,29,.608,-,106,-,5-5
+Milwaukee Brewers,Unknown,40,35,.533,5.5,20,-,5-5
+St. Louis Cardinals,Unknown,40,35,.533,5.5,31,-,4-6
+Cincinnati Reds,Unknown,39,36,.520,6.5,37,1.0,7-3
+Pittsburgh Pirates,Unknown,30,46,.395,16.0,-61,10.5,4-6
 Los Angeles Dodgers,Unknown,46,29,.613,-,77,-,8-2
-San Francisco Giants,Unknown,41,33,.554,4.5,42,+1.5,5-5
+San Francisco Giants,Unknown,42,33,.560,4.0,43,+2.0,5-5
 San Diego Padres,Unknown,39,34,.534,6.0,19,-,3-7
-Arizona Diamondbacks,Unknown,36,37,.493,9.0,-13,3.0,5-5
-Colorado Rockies,Unknown,17,57,.230,28.5,-195,22.5,5-5
+Arizona Diamondbacks,Unknown,37,37,.500,8.5,-9,2.5,6-4
+Colorado Rockies,Unknown,17,58,.227,29.0,-196,23.0,5-5
