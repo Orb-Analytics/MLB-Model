@@ -1,0 +1,31 @@
+team,division,wins,losses,winPct,gamesBack,runDiff,wildCardGB,lastTen
+New York Yankees,Unknown,46,34,.575,-,110,-,4-6
+Tampa Bay Rays,Unknown,46,35,.568,0.5,81,+4.5,7-3
+Toronto Blue Jays,Unknown,43,37,.538,3.0,-1,+2.0,5-5
+Boston Red Sox,Unknown,40,42,.488,7.0,7,2.0,4-6
+Baltimore Orioles,Unknown,34,46,.425,12.0,-87,7.0,4-6
+Detroit Tigers,Unknown,51,31,.622,-,94,-,5-5
+Cleveland Guardians,Unknown,40,39,.506,9.5,-32,0.5,5-5
+Minnesota Twins,Unknown,39,42,.481,11.5,-9,2.5,3-7
+Kansas City Royals,Unknown,38,43,.469,12.5,-32,3.5,4-6
+Chicago White Sox,Unknown,26,55,.321,24.5,-82,15.5,3-7
+Houston Astros,Unknown,48,33,.593,-,50,-,7-3
+Seattle Mariners,Unknown,41,39,.513,6.5,11,-,5-5
+Los Angeles Angels,Unknown,40,40,.500,7.5,-46,1.0,7-3
+Texas Rangers,Unknown,40,41,.494,8.0,18,1.5,5-5
+Athletics,Unknown,33,50,.398,16.0,-139,9.5,4-6
+New York Mets,Unknown,48,34,.585,-,65,-,3-7
+Philadelphia Phillies,Unknown,47,34,.580,0.5,37,+2.5,5-5
+Atlanta Braves,Unknown,37,43,.463,10.0,21,7.0,6-4
+Miami Marlins,Unknown,34,45,.430,12.5,-78,9.5,6-4
+Washington Nationals,Unknown,33,48,.407,14.5,-71,11.5,3-7
+Chicago Cubs,Unknown,48,33,.593,-,100,-,5-5
+Milwaukee Brewers,Unknown,45,36,.556,3.0,48,+0.5,7-3
+St. Louis Cardinals,Unknown,44,38,.537,4.5,30,1.0,7-3
+Cincinnati Reds,Unknown,42,39,.519,6.0,34,2.5,6-4
+Pittsburgh Pirates,Unknown,32,50,.390,16.5,-68,13.0,3-7
+Los Angeles Dodgers,Unknown,51,31,.622,-,89,-,8-2
+San Diego Padres,Unknown,44,36,.550,6.0,23,-,5-5
+San Francisco Giants,Unknown,44,37,.543,6.5,34,0.5,3-7
+Arizona Diamondbacks,Unknown,41,39,.513,9.0,6,3.0,5-5
+Colorado Rockies,Unknown,18,63,.222,32.5,-213,26.5,4-6
