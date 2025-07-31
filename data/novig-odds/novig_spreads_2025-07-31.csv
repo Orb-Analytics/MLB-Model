@@ -1,0 +1,4 @@
+fav_team,dog_team,fav_line,dog_line,fav_price,dog_price,fav_price_american,dog_price_american,home_favorite,game_time_est,market,market_timestamp
+SEA,TEX,-1.5,1.5,0.422,0.593,+137,-146,1,2025-07-31T21:40:00-04:00,SEA -1.5,2025-07-31T16:53:59.18+00:00
+TB,NYY,-1.5,1.5,0.424,0.598,+136,-149,0,2025-07-31T13:05:00-04:00,NYY +1.5,2025-07-31T16:54:13.183+00:00
+CIN,ATL,-1.5,1.5,0.463,0.556,+116,-125,1,2025-07-31T19:10:00-04:00,CIN -1.5,2025-07-31T16:53:23.69+00:00
