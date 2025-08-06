@@ -1,16 +1,18 @@
-name: Run ETL Pipeline
+---
+name: Run ETL Scripts
 
 on:
   workflow_run:
     workflows: ["Run Selected Notebooks"]
     types:
       - completed
+  workflow_dispatch:
 
 jobs:
-  etl:
-    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+  run-etl:
     runs-on: ubuntu-latest
-
+    if: >
+      github.event.workflow_run.conclusion == 'success'
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
@@ -32,12 +34,14 @@ jobs:
 
       - name: Run remaining ETL scripts
         run: |
-          echo "▶️ Running other ETL scripts..."
-          for script in src/etl/*.py; do
-            if [[ "$(basename "$script")" != "transform_matchups.py" ]]; then
-              echo "▶️ Running $script"
-              python "$script"
-            fi
+          echo "▶️ Running remaining ETL scripts"
+          for script in \
+            transform_starting_pitchers.py \
+            transform_team_pitching.py \
+            transform_team_batting.py \
+            combine_game_day_data.py; do
+            echo "▶️ Running $script"
+            python src/etl/$script
           done
 
       - name: Check for CSV changes
@@ -51,5 +55,5 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git commit -m "🤖 Update CSVs from scheduled ETL run"
+          git commit -m "🤖 Update CSVs from ETL workflow run"
           git push

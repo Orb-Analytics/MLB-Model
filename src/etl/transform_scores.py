@@ -1,6 +1,7 @@
 import pandas as pd
 from pathlib import Path
 from datetime import datetime, timedelta
+import pytz
 
 # Mapping full names to abbreviations
 TEAM_ABBR = {
@@ -16,25 +17,22 @@ TEAM_ABBR = {
     "Texas Rangers": "TEX", "Toronto Blue Jays": "TOR", "Washington Nationals": "WAS"
 }
 
-# Date range
-start_date = datetime.strptime("2025-07-29", "%Y-%m-%d")
-end_date = datetime.strptime("2025-08-05", "%Y-%m-%d")
-date_range = [start_date + timedelta(days=i) for i in range((end_date - start_date).days + 1)]
+# Determine yesterday's date in Pacific Time
+PACIFIC_TZ = pytz.timezone("America/Los_Angeles")
+yesterday = datetime.now(PACIFIC_TZ).date() - timedelta(days=1)
+date_str = yesterday.isoformat()
 
-for current_date in date_range:
-    date_str = current_date.strftime("%Y-%m-%d")
-    print(f"\n🔍 Processing {date_str}")
+print(f"\n🔍 Processing {date_str}")
 
-    # File paths
-    matchup_path = Path(f"processed/matchups/matchups_{date_str}.csv")
-    scores_path = Path(f"data/game-scores/game_scores_{date_str}.csv")
-    out_path = Path(f"processed/game-scores/game_scores_{date_str}.csv")
-    missing_log_path = Path(f"processed/game-scores/missing_scores_{date_str}.csv")
+# File paths
+matchup_path = Path(f"processed/matchups/matchups_{date_str}.csv")
+scores_path = Path(f"data/game-scores/game_scores_{date_str}.csv")
+out_path = Path(f"processed/game-scores/game_scores_{date_str}.csv")
+missing_log_path = Path(f"processed/game-scores/missing_scores_{date_str}.csv")
 
-    if not matchup_path.exists() or not scores_path.exists():
-        print(f"❌ Missing input files for {date_str}")
-        continue
-
+if not matchup_path.exists() or not scores_path.exists():
+    print(f"❌ Missing input files for {date_str}")
+else:
     # Load data
     matchups = pd.read_csv(matchup_path)
     scores = pd.read_csv(scores_path)
@@ -46,7 +44,12 @@ for current_date in date_range:
     scores = scores.rename(columns={"Home Score": "home_score", "Away Score": "away_score"})
 
     # Merge in both directions
-    merged_normal = pd.merge(matchups, scores[["home_team", "away_team", "home_score", "away_score"]], on=["home_team", "away_team"], how="left")
+    merged_normal = pd.merge(
+        matchups,
+        scores[["home_team", "away_team", "home_score", "away_score"]],
+        on=["home_team", "away_team"],
+        how="left"
+    )
 
     scores_flipped = scores.rename(columns={
         "home_team": "away_team",
@@ -54,15 +57,24 @@ for current_date in date_range:
         "home_score": "away_score_flipped",
         "away_score": "home_score_flipped"
     })
-    merged_flipped = pd.merge(matchups, scores_flipped[["home_team", "away_team", "home_score_flipped", "away_score_flipped"]], on=["home_team", "away_team"], how="left")
+    merged_flipped = pd.merge(
+        matchups,
+        scores_flipped[["home_team", "away_team", "home_score_flipped", "away_score_flipped"]],
+        on=["home_team", "away_team"],
+        how="left"
+    )
 
     # Combine results
     matchups["Home Score"] = merged_normal["home_score"].combine_first(merged_flipped["home_score_flipped"])
     matchups["Away Score"] = merged_normal["away_score"].combine_first(merged_flipped["away_score_flipped"])
 
     # Add Fav/Dog scores
-    matchups["Fav Score"] = matchups.apply(lambda row: row["Home Score"] if row["Fav Home?"] else row["Away Score"], axis=1)
-    matchups["Dog Score"] = matchups.apply(lambda row: row["Away Score"] if row["Fav Home?"] else row["Home Score"], axis=1)
+    matchups["Fav Score"] = matchups.apply(
+        lambda row: row["Home Score"] if row["Fav Home?"] else row["Away Score"], axis=1
+    )
+    matchups["Dog Score"] = matchups.apply(
+        lambda row: row["Away Score"] if row["Fav Home?"] else row["Home Score"], axis=1
+    )
 
     # Compute outcomes
     matchups["Fav/Dog +/-"] = matchups["Fav Score"] - matchups["Dog Score"]
