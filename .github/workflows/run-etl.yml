@@ -1,0 +1,56 @@
+name: Run ETL Transformations
+
+on:
+  workflow_run:
+    workflows: ["Run Selected Notebooks"]
+    types:
+      - completed
+
+jobs:
+  run-etl:
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Print working directory
+        run: "echo '➡️ Entered repo root: $PWD'"
+
+      - name: Run ETL scripts
+        run: |
+          echo "▶️ Running transform_matchups.py first"
+          python src/etl/transform_matchups.py
+
+          echo "▶️ Running all other transformation scripts"
+          for script in src/etl/*.py; do
+            if [[ "$script" != *"transform_matchups.py" ]]; then
+              echo "▶️ Running $script"
+              python "$script"
+            fi
+          done
+
+      - name: Check for CSV changes
+        id: git-check
+        run: |
+          git add data/**/*.csv processed/**/*.csv training-data/**/*.csv
+          git diff --cached --quiet || echo "changes=true" >> $GITHUB_OUTPUT
+
+      - name: Commit and push changes
+        if: steps.git-check.outputs.changes == 'true'
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git commit -m "🤖 Run ETL transformations and update CSVs"
+          git push
