@@ -1,4 +1,4 @@
-name: Run ETL Transformations
+name: Run ETL Pipeline
 
 on:
   workflow_run:
@@ -7,7 +7,7 @@ on:
       - completed
 
 jobs:
-  run-etl:
+  etl:
     if: ${{ github.event.workflow_run.conclusion == 'success' }}
     runs-on: ubuntu-latest
 
@@ -25,17 +25,16 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Print working directory
-        run: "echo '➡️ Entered repo root: $PWD'"
-
-      - name: Run ETL scripts
+      - name: Run transform_matchups.py
         run: |
-          echo "▶️ Running transform_matchups.py first"
+          echo "▶️ Running transform_matchups.py"
           python src/etl/transform_matchups.py
 
-          echo "▶️ Running all other transformation scripts"
+      - name: Run remaining ETL scripts
+        run: |
+          echo "▶️ Running other ETL scripts..."
           for script in src/etl/*.py; do
-            if [[ "$script" != *"transform_matchups.py" ]]; then
+            if [[ "$(basename "$script")" != "transform_matchups.py" ]]; then
               echo "▶️ Running $script"
               python "$script"
             fi
@@ -47,10 +46,10 @@ jobs:
           git add data/**/*.csv processed/**/*.csv training-data/**/*.csv
           git diff --cached --quiet || echo "changes=true" >> $GITHUB_OUTPUT
 
-      - name: Commit and push changes
+      - name: Commit and push new CSVs
         if: steps.git-check.outputs.changes == 'true'
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git commit -m "🤖 Run ETL transformations and update CSVs"
+          git commit -m "🤖 Update CSVs from scheduled ETL run"
           git push
