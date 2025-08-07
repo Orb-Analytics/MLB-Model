@@ -62,31 +62,46 @@ jobs:
         GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
       run: |
         python - <<EOF
-        import smtplib
-        import ssl
-        from datetime import datetime
-        from zoneinfo import ZoneInfo
-        from email.message import EmailMessage
+import smtplib
+import ssl
+from email.message import EmailMessage
+from datetime import datetime
+from pathlib import Path
+from zoneinfo import ZoneInfo
 
-        # Determine today's file
-        today = datetime.now(ZoneInfo("America/Los_Angeles")).date().isoformat()
-        file_path = f"training-data/dataset/full_dataset_{today}.csv"
+# Date for file naming (PST)
+today = datetime.now(ZoneInfo("America/Los_Angeles")).date()
+date_str = today.isoformat()
 
-        # Compose email
-        msg = EmailMessage()
-        msg["Subject"] = f"MLB Daily Dataset - {today}"
-        msg["From"] = "${{ secrets.GMAIL_USERNAME }}"
-        msg["To"] = "eborsook@gmail.com"
-        msg.set_content(f"Hi, here is the MLB dataset for {today} attached.")
+# File paths
+daily_file = f"training-data/dataset/full_dataset_{date_str}.csv"
+master_file = "training-data/training-set/training-set.csv"
 
-        # Attach CSV
-        with open(file_path, "rb") as f:
-            msg.add_attachment(f.read(), maintype="text", subtype="csv", filename=f"full_dataset_{today}.csv")
+# Email content
+msg = EmailMessage()
+msg['Subject'] = f"📊 MLB Data Files - {date_str}"
+msg['From'] = "${{ secrets.GMAIL_USERNAME }}"
+msg['To'] = "eborsook@gmail.com"
+msg.set_content(f'''
+Hi Ben,
 
-        # Send email
-        context = ssl.create_default_context()
-        with smtplib.SMTP_SSL("smtp.gmail.com", 465, context=context) as server:
-            server.login("${{ secrets.GMAIL_USERNAME }}", "${{ secrets.GMAIL_APP_PASSWORD }}")
-            server.send_message(msg)
-        print(f"📤 Sent dataset to eborsook@gmail.com")
-        EOF
+Attached are today's MLB data files:
+
+• full_dataset_{date_str}.csv
+• training-set.csv (updated master dataset)
+
+- Liam
+''')
+
+# Attach both files
+for file_path in [daily_file, master_file]:
+    with open(file_path, 'rb') as f:
+        data = f.read()
+        msg.add_attachment(data, maintype='application', subtype='octet-stream', filename=Path(file_path).name)
+
+# Send email via Gmail SMTP
+context = ssl.create_default_context()
+with smtplib.SMTP_SSL("smtp.gmail.com", 465, context=context) as server:
+    server.login("${{ secrets.GMAIL_USERNAME }}", "${{ secrets.GMAIL_APP_PASSWORD }}")
+    server.send_message(msg)
+EOF
