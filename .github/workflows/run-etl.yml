@@ -55,3 +55,38 @@ jobs:
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
         git add processed/**/*.csv training-data/**/*.csv
         git diff --cached --quiet || (git commit -m "🤖 Update ETL data pipeline output" && git push)
+
+    - name: Email Daily Dataset to Coworker
+      env:
+        GMAIL_USERNAME: ${{ secrets.GMAIL_USERNAME }}
+        GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+      run: |
+        python - <<EOF
+        import smtplib
+        import ssl
+        from datetime import datetime
+        from zoneinfo import ZoneInfo
+        from email.message import EmailMessage
+
+        # Determine today's file
+        today = datetime.now(ZoneInfo("America/Los_Angeles")).date().isoformat()
+        file_path = f"training-data/dataset/full_dataset_{today}.csv"
+
+        # Compose email
+        msg = EmailMessage()
+        msg["Subject"] = f"MLB Daily Dataset - {today}"
+        msg["From"] = "${{ secrets.GMAIL_USERNAME }}"
+        msg["To"] = "eborsook@gmail.com"
+        msg.set_content(f"Hi, here is the MLB dataset for {today} attached.")
+
+        # Attach CSV
+        with open(file_path, "rb") as f:
+            msg.add_attachment(f.read(), maintype="text", subtype="csv", filename=f"full_dataset_{today}.csv")
+
+        # Send email
+        context = ssl.create_default_context()
+        with smtplib.SMTP_SSL("smtp.gmail.com", 465, context=context) as server:
+            server.login("${{ secrets.GMAIL_USERNAME }}", "${{ secrets.GMAIL_APP_PASSWORD }}")
+            server.send_message(msg)
+        print(f"📤 Sent dataset to eborsook@gmail.com")
+        EOF
