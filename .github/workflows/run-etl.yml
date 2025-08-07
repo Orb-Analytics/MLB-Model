@@ -5,6 +5,7 @@ on:
     workflows: ["Run Selected Notebooks"]
     types:
       - completed
+      
   workflow_dispatch:  # ⬅️ Manual trigger support
 
 jobs:
