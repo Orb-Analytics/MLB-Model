@@ -5,7 +5,7 @@ on:
     workflows: ["Run Selected Notebooks"]
     types:
       - completed
-      
+
   workflow_dispatch:  # ⬅️ Manual trigger support
 
 jobs:
@@ -63,46 +63,38 @@ jobs:
         GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
       run: |
         python - <<EOF
-import smtplib
-import ssl
-from email.message import EmailMessage
-from datetime import datetime
-from pathlib import Path
-from zoneinfo import ZoneInfo
+        import smtplib
+        import ssl
+        from email.message import EmailMessage
+        from datetime import datetime
+        from pathlib import Path
+        from zoneinfo import ZoneInfo
 
-# Date for file naming (PST)
-today = datetime.now(ZoneInfo("America/Los_Angeles")).date()
-date_str = today.isoformat()
+        # Date for file naming (PST)
+        today = datetime.now(ZoneInfo("America/Los_Angeles")).date()
+        date_str = today.isoformat()
 
-# File paths
-daily_file = f"training-data/dataset/full_dataset_{date_str}.csv"
-master_file = "training-data/training-set/training-set.csv"
+        # File paths
+        daily_file = f"training-data/dataset/full_dataset_{date_str}.csv"
+        master_file = "training-data/training-set/training-set.csv"
 
-# Email content
-msg = EmailMessage()
-msg['Subject'] = f"📊 MLB Data Files - {date_str}"
-msg['From'] = "${{ secrets.GMAIL_USERNAME }}"
-msg['To'] = "eborsook@gmail.com"
-msg.set_content(f'''
-Hi Ben,
+        # Email setup
+        msg = EmailMessage()
+        msg["Subject"] = f"MLB Dataset for {date_str}"
+        msg["From"] = "${{ secrets.GMAIL_USERNAME }}"
+        msg["To"] = "eborsook@gmail.com"
+        msg.set_content(f"Attached are today's MLB dataset and the full training set as of {date_str}.")
 
-Attached are today's MLB data files:
+        # Attach files
+        for file_path in [daily_file, master_file]:
+            with open(file_path, "rb") as f:
+                data = f.read()
+                name = Path(file_path).name
+                msg.add_attachment(data, maintype="text", subtype="csv", filename=name)
 
-• full_dataset_{date_str}.csv
-• training-set.csv (updated master dataset)
-
-- Liam
-''')
-
-# Attach both files
-for file_path in [daily_file, master_file]:
-    with open(file_path, 'rb') as f:
-        data = f.read()
-        msg.add_attachment(data, maintype='application', subtype='octet-stream', filename=Path(file_path).name)
-
-# Send email via Gmail SMTP
-context = ssl.create_default_context()
-with smtplib.SMTP_SSL("smtp.gmail.com", 465, context=context) as server:
-    server.login("${{ secrets.GMAIL_USERNAME }}", "${{ secrets.GMAIL_APP_PASSWORD }}")
-    server.send_message(msg)
-EOF
+        # Send email
+        context = ssl.create_default_context()
+        with smtplib.SMTP_SSL("smtp.gmail.com", 465, context=context) as server:
+            server.login("${{ secrets.GMAIL_USERNAME }}", "${{ secrets.GMAIL_APP_PASSWORD }}")
+            server.send_message(msg)
+        EOF
