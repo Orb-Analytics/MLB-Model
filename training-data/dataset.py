@@ -36,10 +36,10 @@ if __name__ == "__main__":
     today = datetime.now(ZoneInfo("America/Los_Angeles")).date()
     date_str = today.isoformat()
 
-    # ── File paths ────────────────────────────────────────────
-    base_path = Path("/workspaces/MLB-Model/processed")
-    daily_out_dir = Path("/workspaces/MLB-Model/training-data/dataset")
-    master_fp = Path("/workspaces/MLB-Model/training-data/training-set/training-set.csv")
+    # ── Relative File Paths (compatible with GitHub Actions) ─
+    base_path = Path("processed")
+    daily_out_dir = Path("training-data/dataset")
+    master_fp = Path("training-data/training-set/training-set.csv")
     daily_fp = daily_out_dir / f"full_dataset_{date_str}.csv"
 
     daily_out_dir.mkdir(parents=True, exist_ok=True)
