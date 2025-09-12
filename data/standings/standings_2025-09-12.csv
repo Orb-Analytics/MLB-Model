@@ -1,0 +1,31 @@
+team,division,wins,losses,winPct,gamesBack,runDiff,wildCardGB,lastTen
+Toronto Blue Jays,Unknown,84,62,.575,-,71,-,6-4
+New York Yankees,Unknown,81,65,.555,3.0,126,+2.5,5-5
+Boston Red Sox,Unknown,81,66,.551,3.5,107,+2.0,6-4
+Tampa Bay Rays,Unknown,72,74,.493,12.0,51,6.5,5-5
+Baltimore Orioles,Unknown,69,77,.473,15.0,-79,9.5,8-2
+Detroit Tigers,Unknown,84,63,.571,-,101,-,5-5
+Cleveland Guardians,Unknown,75,71,.514,8.5,-38,3.5,7-3
+Kansas City Royals,Unknown,74,73,.503,10.0,-11,5.0,4-6
+Minnesota Twins,Unknown,64,82,.438,19.5,-85,14.5,2-8
+Chicago White Sox,Unknown,57,90,.388,27.0,-76,22.0,8-2
+Houston Astros,Unknown,79,68,.537,-,13,-,4-6
+Seattle Mariners,Unknown,79,68,.537,-,39,-,6-4
+Texas Rangers,Unknown,77,70,.524,2.0,91,2.0,7-3
+Los Angeles Angels,Unknown,69,78,.469,10.0,-119,10.0,5-5
+Athletics,Unknown,67,80,.456,12.0,-82,12.0,4-6
+Philadelphia Phillies,Unknown,87,60,.592,-,124,-,8-2
+New York Mets,Unknown,76,71,.517,11.0,49,-,3-7
+Miami Marlins,Unknown,68,79,.463,19.0,-100,8.0,3-7
+Atlanta Braves,Unknown,65,81,.445,21.5,-39,10.5,4-6
+Washington Nationals,Unknown,60,86,.411,26.5,-172,15.5,7-3
+Milwaukee Brewers,Unknown,89,58,.605,-,167,-,4-6
+Chicago Cubs,Unknown,83,63,.568,5.5,120,+7.5,5-5
+Cincinnati Reds,Unknown,74,72,.507,14.5,32,1.5,6-4
+St. Louis Cardinals,Unknown,72,75,.490,17.0,-46,4.0,4-6
+Pittsburgh Pirates,Unknown,64,83,.435,25.0,-72,12.0,3-7
+Los Angeles Dodgers,Unknown,82,64,.562,-,111,-,5-5
+San Diego Padres,Unknown,80,67,.544,2.5,54,+4.0,4-6
+San Francisco Giants,Unknown,74,72,.507,8.0,32,1.5,7-3
+Arizona Diamondbacks,Unknown,73,74,.497,9.5,19,3.0,5-5
+Colorado Rockies,Unknown,40,107,.272,42.5,-388,36.0,1-9
