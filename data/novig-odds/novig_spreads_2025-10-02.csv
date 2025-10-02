@@ -1,0 +1,4 @@
+fav_team,dog_team,fav_line,dog_line,fav_price,dog_price,fav_price_american,dog_price_american,home_favorite,game_time_est,market,market_timestamp
+CLE,DET,-1.5,1.5,0.357,0.653,+180,-188,1,2025-10-02T15:08:00-04:00,CLE -1.5,2025-10-02T16:43:44.3+00:00
+CHC,SD,-1.5,1.5,0.338,0.677,+196,-210,0,2025-10-02T17:08:00-04:00,CHC -1.5,2025-10-02T16:35:57.562+00:00
+NYY,BOS,-1.5,1.5,0.399,0.613,+151,-158,0,2025-10-02T20:08:00-04:00,NYY -1.5,2025-10-02T16:34:23.045+00:00
