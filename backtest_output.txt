@@ -1,0 +1,202 @@
+/workspaces/MLB-Model/src/backtesting/simple_train_test.py:161: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df2[diff_name] = df2[fav] - df2[dog]
+/workspaces/MLB-Model/src/backtesting/simple_train_test.py:162: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df2[ratio_name] = (df2[fav].astype(float) + eps) / (df2[dog].astype(float) + eps)
+/workspaces/MLB-Model/src/backtesting/simple_train_test.py:161: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df2[diff_name] = df2[fav] - df2[dog]
+/workspaces/MLB-Model/src/backtesting/simple_train_test.py:162: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df2[ratio_name] = (df2[fav].astype(float) + eps) / (df2[dog].astype(float) + eps)
+/workspaces/MLB-Model/src/backtesting/simple_train_test.py:161: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df2[diff_name] = df2[fav] - df2[dog]
+/workspaces/MLB-Model/src/backtesting/simple_train_test.py:162: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df2[ratio_name] = (df2[fav].astype(float) + eps) / (df2[dog].astype(float) + eps)
+/workspaces/MLB-Model/src/backtesting/simple_train_test.py:161: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df2[diff_name] = df2[fav] - df2[dog]
+/workspaces/MLB-Model/src/backtesting/simple_train_test.py:162: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df2[ratio_name] = (df2[fav].astype(float) + eps) / (df2[dog].astype(float) + eps)
+/workspaces/MLB-Model/src/backtesting/simple_train_test.py:161: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df2[diff_name] = df2[fav] - df2[dog]
+/workspaces/MLB-Model/src/backtesting/simple_train_test.py:162: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df2[ratio_name] = (df2[fav].astype(float) + eps) / (df2[dog].astype(float) + eps)
+/workspaces/MLB-Model/src/backtesting/simple_train_test.py:161: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df2[diff_name] = df2[fav] - df2[dog]
+/workspaces/MLB-Model/src/backtesting/simple_train_test.py:162: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df2[ratio_name] = (df2[fav].astype(float) + eps) / (df2[dog].astype(float) + eps)
+/workspaces/MLB-Model/src/backtesting/simple_train_test.py:161: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df2[diff_name] = df2[fav] - df2[dog]
+/workspaces/MLB-Model/src/backtesting/simple_train_test.py:162: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df2[ratio_name] = (df2[fav].astype(float) + eps) / (df2[dog].astype(float) + eps)
+/workspaces/MLB-Model/src/backtesting/simple_train_test.py:161: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df2[diff_name] = df2[fav] - df2[dog]
+/workspaces/MLB-Model/src/backtesting/simple_train_test.py:162: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df2[ratio_name] = (df2[fav].astype(float) + eps) / (df2[dog].astype(float) + eps)
+/workspaces/MLB-Model/src/backtesting/simple_train_test.py:161: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df2[diff_name] = df2[fav] - df2[dog]
+/workspaces/MLB-Model/src/backtesting/simple_train_test.py:162: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df2[ratio_name] = (df2[fav].astype(float) + eps) / (df2[dog].astype(float) + eps)
+/workspaces/MLB-Model/src/backtesting/simple_train_test.py:161: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df2[diff_name] = df2[fav] - df2[dog]
+/workspaces/MLB-Model/src/backtesting/simple_train_test.py:162: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df2[ratio_name] = (df2[fav].astype(float) + eps) / (df2[dog].astype(float) + eps)
+/workspaces/MLB-Model/src/backtesting/simple_train_test.py:161: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df2[diff_name] = df2[fav] - df2[dog]
+/workspaces/MLB-Model/src/backtesting/simple_train_test.py:162: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df2[ratio_name] = (df2[fav].astype(float) + eps) / (df2[dog].astype(float) + eps)
+/workspaces/MLB-Model/src/backtesting/simple_train_test.py:161: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df2[diff_name] = df2[fav] - df2[dog]
+/workspaces/MLB-Model/src/backtesting/simple_train_test.py:162: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df2[ratio_name] = (df2[fav].astype(float) + eps) / (df2[dog].astype(float) + eps)
+/workspaces/MLB-Model/src/backtesting/simple_train_test.py:161: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df2[diff_name] = df2[fav] - df2[dog]
+/workspaces/MLB-Model/src/backtesting/simple_train_test.py:162: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df2[ratio_name] = (df2[fav].astype(float) + eps) / (df2[dog].astype(float) + eps)
+/workspaces/MLB-Model/src/backtesting/simple_train_test.py:161: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df2[diff_name] = df2[fav] - df2[dog]
+/workspaces/MLB-Model/src/backtesting/simple_train_test.py:162: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df2[ratio_name] = (df2[fav].astype(float) + eps) / (df2[dog].astype(float) + eps)
+/workspaces/MLB-Model/src/backtesting/simple_train_test.py:161: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df2[diff_name] = df2[fav] - df2[dog]
+/workspaces/MLB-Model/src/backtesting/simple_train_test.py:162: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df2[ratio_name] = (df2[fav].astype(float) + eps) / (df2[dog].astype(float) + eps)
+/workspaces/MLB-Model/src/backtesting/simple_train_test.py:161: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df2[diff_name] = df2[fav] - df2[dog]
+/workspaces/MLB-Model/src/backtesting/simple_train_test.py:162: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df2[ratio_name] = (df2[fav].astype(float) + eps) / (df2[dog].astype(float) + eps)
+/workspaces/MLB-Model/src/backtesting/simple_train_test.py:161: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df2[diff_name] = df2[fav] - df2[dog]
+/workspaces/MLB-Model/src/backtesting/simple_train_test.py:162: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df2[ratio_name] = (df2[fav].astype(float) + eps) / (df2[dog].astype(float) + eps)
+/workspaces/MLB-Model/src/backtesting/simple_train_test.py:161: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df2[diff_name] = df2[fav] - df2[dog]
+/workspaces/MLB-Model/src/backtesting/simple_train_test.py:162: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df2[ratio_name] = (df2[fav].astype(float) + eps) / (df2[dog].astype(float) + eps)
+/workspaces/MLB-Model/src/backtesting/simple_train_test.py:161: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df2[diff_name] = df2[fav] - df2[dog]
+/workspaces/MLB-Model/src/backtesting/simple_train_test.py:162: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df2[ratio_name] = (df2[fav].astype(float) + eps) / (df2[dog].astype(float) + eps)
+/workspaces/MLB-Model/src/backtesting/simple_train_test.py:161: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df2[diff_name] = df2[fav] - df2[dog]
+/workspaces/MLB-Model/src/backtesting/simple_train_test.py:162: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df2[ratio_name] = (df2[fav].astype(float) + eps) / (df2[dog].astype(float) + eps)
+/workspaces/MLB-Model/src/backtesting/simple_train_test.py:161: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df2[diff_name] = df2[fav] - df2[dog]
+/workspaces/MLB-Model/src/backtesting/simple_train_test.py:162: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df2[ratio_name] = (df2[fav].astype(float) + eps) / (df2[dog].astype(float) + eps)
+Loading data from: /workspaces/MLB-Model/training-data/training-set/training-set.csv
+Initial shape: (2246, 161)
+Initial columns: 161
+
+Data spans: 2025-03-18 to 2025-09-28
+Total games: 2244
+Target distribution: {1: 1205, 0: 1039}
+Favorite cover rate: 53.7% (baseline to beat)
+Dropping 11 leakage columns:
+  - Fav Score
+  - Dog Score
+  - Fav/Dog +/-
+  - Fav Win?
+  - Away Score
+  - Home Score
+  - Home/Away  +/-
+  - Away Spread Odds
+  - Home  Spread Odds
+  - Fav P runsScoredPer9
+  ... and 1 more
+Engineered 138 differential/ratio features
+Final feature count: 286 (excluding Date and Target)
+
+
+============================================================
+TRAIN SET: 1795 games (2025-03-18 to 2025-08-25)
+TEST SET:  449 games (2025-08-25 to 2025-09-28)
+============================================================
+
+Building and training model...
+Features: 280 numeric, 6 categorical
+Using calibrated classifier (Platt scaling)
+Binning 0.008 GB of training data: 0.190 s
+Fitting gradient boosted rounds:
+Fit 200 trees in 2.755 s, (2519 total leaves)
+Time spent computing histograms: 1.791s
+Time spent finding best splits:  0.586s
+Time spent applying splits:      0.039s
+Time spent predicting:           0.005s
+Binning 0.007 GB of training data: 0.126 s
+Fitting gradient boosted rounds:
+Fit 200 trees in 2.208 s, (2300 total leaves)
+Time spent computing histograms: 1.434s
+Time spent finding best splits:  0.504s
+Time spent applying splits:      0.033s
+Time spent predicting:           0.004s
+Binning 0.006 GB of training data: 0.108 s
+Fitting gradient boosted rounds:
+Fit 200 trees in 1.919 s, (2383 total leaves)
+Time spent computing histograms: 1.136s
+Time spent finding best splits:  0.547s
+Time spent applying splits:      0.036s
+Time spent predicting:           0.004s
+Training complete!
+
+Generating predictions on test set...
+
+============================================================
+MODEL PERFORMANCE ON TEST SET
+============================================================
+Accuracy:    0.3363
+ROC AUC:     0.4258
+Log Loss:    0.8569
+Brier Score: 0.3282
+
+Confusion Matrix:
+                Predicted
+                0      1
+Actual 0      150      0
+       1      298      1
+
+============================================================
+BETTING SIMULATION
+============================================================
+Edge threshold: 0.020
+Stake per bet:  1.0 units
+
+Bets placed:     30 / 449 games (6.7%)
+Wins:            15 / 30 (50.0%)
+Total P&L:       +12.07 units
+Total staked:    30.00 units
+ROI:             +40.23%
+Avg P&L/bet:     +0.402 units
+Avg edge on bets: 4.14%
+
+============================================================
+Results saved to: /workspaces/MLB-Model/src/backtesting/results/simple_backtest_predictions.csv
+============================================================
+
+============================================================
+SAMPLE PREDICTIONS (First 10 test games)
+============================================================
+      Date Fav Team Dog Team  Fav Cover?  model_prob  implied_prob      edge  bet_placed  pnl_units
+2025-08-25      KAN      CWS           0    0.323685      0.444444 -0.120760           0       0.00
+2025-08-26      CHC       SF           0    0.324576      0.438596 -0.114021           0       0.00
+2025-08-26      SEA       SD           1    0.330568      0.353357 -0.022789           0       0.00
+2025-08-26      STL      PIT           0    0.324960      0.363636 -0.038676           0       0.00
+2025-08-26      TEX      LAA           1    0.373120      0.334448  0.038672           1       1.99
+2025-08-26      BOS      BAL           1    0.307612      0.396825 -0.089213           0       0.00
+2025-08-26      HOU      COL           0    0.353246      0.616858 -0.263612           0       0.00
+2025-08-26      PHI      NYM           1    0.450608      0.392157  0.058451           1       1.55
+2025-08-26      TOR      MIN           0    0.318379      0.458716 -0.140336           0       0.00
+2025-08-26      CLE       TB           1    0.528533      0.354610  0.173923           1       1.82
+
+============================================================
+BETS PLACED (First 10 of 30)
+============================================================
+      Date Fav Team Dog Team  Fav Cover?  model_prob  implied_prob     edge  bet_placed  pnl_units
+2025-08-26      TEX      LAA           1    0.373120      0.334448 0.038672           1       1.99
+2025-08-26      PHI      NYM           1    0.450608      0.392157 0.058451           1       1.55
+2025-08-26      CLE       TB           1    0.528533      0.354610 0.173923           1       1.82
+2025-08-28       SF      CHC           1    0.397376      0.332226 0.065150           1       2.01
+2025-08-31      TOR      MIL           1    0.380477      0.334448 0.046029           1       1.99
+2025-08-31      MIN       SD           1    0.389094      0.364964 0.024130           1       1.74
+2025-09-02      MIA      WAS           0    0.410301      0.380228 0.030073           1      -1.00
+2025-09-03      MIL      PHI           1    0.384589      0.355872 0.028717           1       1.81
+2025-09-04      MIL      PHI           0    0.413210      0.373134 0.040076           1      -1.00
+2025-09-06      TEX      HOU           0    0.373005      0.341297 0.031708           1      -1.00

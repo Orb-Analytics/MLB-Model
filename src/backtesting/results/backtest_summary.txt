@@ -1,0 +1,21 @@
+============================================================
+MLB RUN LINE (-1.5) BACKTEST SUMMARY
+============================================================
+
+       days_tested: 160.0000
+        total_bets: 447.0000
+   total_pnl_units: 234.5342
+       roi_per_bet: 0.5247
+      bet_win_rate: 0.5817
+  avg_edge_on_bets: 0.0821
+      avg_log_loss: 0.7415
+         avg_brier: 0.2731
+           avg_auc: 0.4939
+
+============================================================
+CONFIGURATION
+============================================================
+Edge Threshold: 0.02
+Stake per Bet: 1.0 units
+Min Training Days: 20
+Calibration: True
