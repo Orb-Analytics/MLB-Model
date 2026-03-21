@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+32822,777142,2025-07-12,147,112,NYY,CHC,New York Yankees,Chicago Cubs,608331,Max Fried,,,54,571510,Matthew Boyd,,,16
+32825,777145,2025-07-12,116,136,DET,SEA,Detroit Tigers,Seattle Mariners,663554,Casey Mize,,,12,669923,George Kirby,,,68
+32830,777134,2025-07-12,142,134,MIN,PIT,Minnesota Twins,Pittsburgh Pirates,663485,Cole Sands,,,44,681347,Mike Burrows,,,53
+32827,777133,2025-07-12,138,144,STL,ATL,St. Louis Cardinals,Atlanta Braves,607200,Erick Fedde,,,12,607481,Aaron Bummer,,,49
+32834,777127,2025-07-12,137,119,SF,LAD,San Francisco Giants,Los Angeles Dodgers,694738,Landen Roupp,,,65,660271,Shohei Ohtani,,,17
+32824,777141,2025-07-12,110,146,BAL,MIA,Baltimore Orioles,Miami Marlins,669432,Trevor Rogers,,,28,676083,Janson Junk,,,26
+32823,777140,2025-07-12,113,115,CIN,COL,Cincinnati Reds,Colorado Rockies,663903,Brady Singer,,,51,687134,Bradley Blalock,,,64
+32829,777136,2025-07-12,118,121,KC,NYM,Kansas City Royals,New York Mets,672582,Angel Zerpa,,,61,593423,Frankie Montas,,,47
+32826,777144,2025-07-12,111,139,BOS,TB,Boston Red Sox,Tampa Bay Rays,676979,Garrett Crochet,,,35,669358,Shane Baz,,,11
+32828,777138,2025-07-12,145,114,CWS,CLE,Chicago White Sox,Cleveland Guardians,680732,Sean Burke,,,59,676440,Tanner Bibee,,,28
+32832,777135,2025-07-12,158,120,MIL,WSH,Milwaukee Brewers,Washington Nationals,605540,Brandon Woodruff,,,53,829272,Shinnosuke Ogasawara,,,16
+32831,777137,2025-07-12,117,140,HOU,TEX,Houston Astros,Texas Rangers,664285,Framber Valdez,,,59,594798,Jacob deGrom,,,48
+32835,777126,2025-07-12,135,143,SD,PHI,San Diego Padres,Philadelphia Phillies,506433,Yu Darvish,,,11,554430,Zack Wheeler,,,45
+32833,777131,2025-07-12,108,109,LAA,AZ,Los Angeles Angels,Arizona Diamondbacks,579328,Yusei Kikuchi,,,16,668678,Zac Gallen,,,23
+67906,777132,2025-07-12,133,141,ATH,TOR,Athletics,Toronto Blue Jays,682052,Jacob Lopez,,,57,592332,Kevin Gausman,,,34

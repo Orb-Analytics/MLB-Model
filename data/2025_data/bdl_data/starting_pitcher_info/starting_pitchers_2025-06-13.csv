@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+25350,777526,2025-06-13,112,134,CHC,PIT,Chicago Cubs,Pittsburgh Pirates,690990,Cade Horton,,,22,694973,Paul Skenes,,,30
+25346,777531,2025-06-13,143,141,PHI,TOR,Philadelphia Phillies,Toronto Blue Jays,624133,Ranger Suarez,,,55,592332,Kevin Gausman,,,34
+25343,777530,2025-06-13,120,146,WSH,MIA,Washington Nationals,Miami Marlins,680730,Mitchell Parker,,,70,665795,Edward Cabrera,,,27
+25340,777539,2025-06-13,110,108,BAL,LAA,Baltimore Orioles,Los Angeles Angels,450203,Charlie Morton,,,50,686799,Jack Kochanowicz,,,41
+25341,777538,2025-06-13,116,113,DET,CIN,Detroit Tigers,Cincinnati Reds,676428,Brant Hurter,,,48,607259,Nick Martinez,,,28
+25345,777528,2025-06-13,121,139,NYM,TB,New York Mets,Tampa Bay Rays,605280,Clay Holmes,,,35,671737,Taj Bradley,,,45
+25344,777537,2025-06-13,111,147,BOS,NYY,Boston Red Sox,New York Yankees,676979,Garrett Crochet,,,35,642232,Ryan Yarbrough,,,33
+25342,777535,2025-06-13,144,115,ATL,COL,Atlanta Braves,Colorado Rockies,693821,Bryce Elder,,,55,608566,Germán Márquez,,,48
+25347,777524,2025-06-13,140,145,TEX,CWS,Texas Rangers,Chicago White Sox,542888,Shawn Armstrong,,,43,605288,Adrian Houser,,,57
+25349,777529,2025-06-13,118,133,KC,ATH,Kansas City Royals,Athletics,608379,Michael Wacha,,,52,622663,Luis Severino,,,40
+25348,777527,2025-06-13,117,142,HOU,MIN,Houston Astros,Minnesota Twins,676467,Colton Gordon,,,61,663978,Chris Paddack,,,20
+25351,777525,2025-06-13,158,138,MIL,STL,Milwaukee Brewers,St. Louis Cardinals,642547,Freddy Peralta,,,51,607200,Erick Fedde,,,12
+25353,777521,2025-06-13,109,135,AZ,SD,Arizona Diamondbacks,San Diego Padres,669194,Ryne Nelson,,,19,663568,Stephen Kolek,,,32
+25352,777520,2025-06-13,136,114,SEA,CLE,Seattle Mariners,Cleveland Guardians,622491,Luis Castillo,,,58,668909,Gavin Williams,,,32
+25354,777522,2025-06-13,119,137,LAD,SF,Los Angeles Dodgers,San Francisco Giants,808967,Yoshinobu Yamamoto,,,18,657277,Logan Webb,,,62

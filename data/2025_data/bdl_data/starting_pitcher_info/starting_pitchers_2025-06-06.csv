@@ -1,0 +1,17 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+23516,777623,2025-06-06,113,109,CIN,AZ,Cincinnati Reds,Arizona Diamondbacks,666157,Nick Lodolo,,,40,593958,Eduardo Rodriguez,,,57
+23520,777625,2025-06-06,139,146,TB,MIA,Tampa Bay Rays,Miami Marlins,641793,Zack Littell,,,52,665795,Edward Cabrera,,,27
+23521,777621,2025-06-06,134,143,PIT,PHI,Pittsburgh Pirates,Philadelphia Phillies,663559,Bailey Falter,,,6,605452,Joe Ross,,,41
+23522,777624,2025-06-06,120,140,WSH,TEX,Washington Nationals,Texas Rangers,647336,Michael Soroka,,,34,571578,Patrick Corbin,,,46
+23517,777627,2025-06-06,147,111,NYY,BOS,New York Yankees,Boston Red Sox,701542,Will Warren,,,98,621111,Walker Buehler,,,0
+23516,777623,2025-06-06,113,109,CIN,AZ,Cincinnati Reds,Arizona Diamondbacks,666157,Nick Lodolo,,,40,593958,Eduardo Rodriguez,,,57
+23518,777626,2025-06-06,116,112,DET,CHC,Detroit Tigers,Chicago Cubs,669373,Tarik Skubal,,,29,676962,Ben Brown,,,32
+23519,777622,2025-06-06,114,117,CLE,HOU,Cleveland Guardians,Houston Astros,671106,Logan Allen,,,26,676467,Colton Gordon,,,61
+23523,777618,2025-06-06,145,118,CWS,KC,Chicago White Sox,Kansas City Royals,663436,Davis Martin,,,65,607625,Seth Lugo,,,67
+23526,777615,2025-06-06,142,141,MIN,TOR,Minnesota Twins,Toronto Blue Jays,641927,Bailey Ober,,,17,687606,Paxton Schultz,,,65
+23525,777617,2025-06-06,158,135,MIL,SD,Milwaukee Brewers,San Diego Padres,694477,Chad Patrick,,,39,681190,Randy Vásquez,,,98
+23524,777620,2025-06-06,138,119,STL,LAD,St. Louis Cardinals,Los Angeles Dodgers,543243,Sonny Gray,,,54,680736,Justin Wrobleski,,,70
+23527,777616,2025-06-06,115,121,COL,NYM,Colorado Rockies,New York Mets,669020,Ryan Rolison,,,50,673540,Kodai Senga,,,34
+23530,777614,2025-06-06,108,136,LAA,SEA,Los Angeles Angels,Seattle Mariners,543294,Kyle Hendricks,,,28,682243,Bryce Miller,,,50
+64751,777613,2025-06-06,133,110,ATH,BAL,Athletics,Baltimore Orioles,676664,JP Sears,,,38,665152,Dean Kremer,,,64
+23528,777619,2025-06-06,137,144,SF,ATL,San Francisco Giants,Atlanta Braves,806185,Hayden Birdsong,,,60,680885,Spencer Schwellenbach,,,56

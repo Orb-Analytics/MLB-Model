@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+36379,777056,2025-07-22,114,110,CLE,BAL,Cleveland Guardians,Baltimore Orioles,676282,Joey Cantillo,,,54,687064,Brandon Young,,,63
+36383,777044,2025-07-22,134,116,PIT,DET,Pittsburgh Pirates,Detroit Tigers,656605,Mitch Keller,,,23,663554,Casey Mize,,,12
+36385,777052,2025-07-22,146,135,MIA,SD,Miami Marlins,San Diego Padres,665795,Edward Cabrera,,,27,663568,Stephen Kolek,,,32
+36382,777042,2025-07-22,120,113,WSH,CIN,Washington Nationals,Cincinnati Reds,695418,Brad Lord,,,61,695505,Chase Burns,,,26
+36380,777045,2025-07-22,143,111,PHI,BOS,Philadelphia Phillies,Boston Red Sox,650911,Cristopher Sánchez,,,61,690916,Richard Fitts,,,80
+36381,777048,2025-07-22,139,145,TB,CWS,Tampa Bay Rays,Chicago White Sox,656876,Drew Rasmussen,,,57,663436,Davis Martin,,,65
+36384,777046,2025-07-22,141,147,TOR,NYY,Toronto Blue Jays,New York Yankees,453286,Max Scherzer,,,31,693645,Cam Schlittler,,,31
+36378,777054,2025-07-22,121,108,NYM,LAA,New York Mets,Los Angeles Angels,593423,Frankie Montas,,,47,543294,Kyle Hendricks,,,28
+36386,777058,2025-07-22,144,137,ATL,SF,Atlanta Braves,San Francisco Giants,669721,Davis Daniel,,,58,694738,Landen Roupp,,,65
+36387,777047,2025-07-22,112,118,CHC,KC,Chicago Cubs,Kansas City Royals,571510,Matthew Boyd,,,16,448179,Rich Hill,,,35
+36388,777043,2025-07-22,140,133,TEX,ATH,Texas Rangers,Athletics,594798,Jacob deGrom,,,48,669372,J.T. Ginn,,,70
+36389,777049,2025-07-22,115,138,COL,STL,Colorado Rockies,St. Louis Cardinals,687134,Bradley Blalock,,,64,607200,Erick Fedde,,,12
+36390,777040,2025-07-22,109,117,AZ,HOU,Arizona Diamondbacks,Houston Astros,593958,Eduardo Rodriguez,,,57,664285,Framber Valdez,,,59
+36391,777035,2025-07-22,136,158,SEA,MIL,Seattle Mariners,Milwaukee Brewers,669302,Logan Gilbert,,,36,694819,Jacob Misiorowski,,,32
+36392,777039,2025-07-22,119,142,LAD,MIN,Los Angeles Dodgers,Minnesota Twins,808967,Yoshinobu Yamamoto,,,18,680573,Simeon Woods Richardson,,,24

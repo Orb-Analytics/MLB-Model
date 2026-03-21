@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+6120,778389,2025-04-09,134,138,PIT,STL,Pittsburgh Pirates,St. Louis Cardinals,656605,Mitch Keller,,,23,607200,Erick Fedde,,,12
+6117,778390,2025-04-09,121,146,NYM,MIA,New York Mets,Miami Marlins,656731,Tylor Megill,,,38,676974,Max Meyer,,,23
+6118,778387,2025-04-09,116,147,DET,NYY,Detroit Tigers,New York Yankees,656427,Jack Flaherty,,,9,608331,Max Fried,,,54
+6123,778385,2025-04-09,112,140,CHC,TEX,Chicago Cubs,Texas Rangers,684007,Shota Imanaga,,,18,641816,Tyler Mahle,,,51
+63972,778381,2025-04-09,133,135,ATH,SD,Athletics,San Diego Padres,674370,Osvaldo Bido,,,45,681190,Randy Vásquez,,,98
+6125,778380,2025-04-09,109,110,AZ,BAL,Arizona Diamondbacks,Baltimore Orioles,694297,Brandon Pfaadt,,,32,665152,Dean Kremer,,,64
+6126,778376,2025-04-09,137,113,SF,CIN,San Francisco Giants,Cincinnati Reds,434378,Justin Verlander,,,35,607259,Nick Martinez,,,28
+6116,778392,2025-04-09,120,119,WSH,LAD,Washington Nationals,Los Angeles Dodgers,663623,Jake Irvin,,,27,689017,Landon Knack,,,96
+6127,778383,2025-04-09,136,117,SEA,HOU,Seattle Mariners,Houston Astros,622379,Luis F. Castillo,,,43,686613,Hunter Brown,,,58
+6115,778391,2025-04-09,114,145,CLE,CWS,Cleveland Guardians,Chicago White Sox,671106,Logan Allen,,,26,680732,Sean Burke,,,59
+6121,778386,2025-04-09,111,141,BOS,TOR,Boston Red Sox,Toronto Blue Jays,656557,Tanner Houck,,,89,592332,Kevin Gausman,,,34
+6129,778399,2025-04-09,139,108,TB,LAA,Tampa Bay Rays,Los Angeles Angels,686752,Ryan Pepiot,,,44,579328,Yusei Kikuchi,,,16
+6119,778393,2025-04-09,144,143,ATL,PHI,Atlanta Braves,Philadelphia Phillies,656550,Grant Holmes,,,66,592836,Taijuan Walker,,,99
+6122,778388,2025-04-09,118,142,KC,MIN,Kansas City Royals,Minnesota Twins,607625,Seth Lugo,,,67,657746,Joe Ryan,,,41
+6124,778379,2025-04-09,115,158,COL,MIL,Colorado Rockies,Milwaukee Brewers,622608,Antonio Senzatela,,,49,641302,Tyler Alexander,,,33

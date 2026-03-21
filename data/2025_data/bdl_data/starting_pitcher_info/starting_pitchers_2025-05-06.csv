@@ -1,0 +1,17 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+1265370,778026,2025-05-06,120,114,WSH,CLE,Washington Nationals,Cleveland Guardians,663623,Jake Irvin,,,27,682847,Luis Ortiz,,,45
+13973,778046,2025-05-06,120,114,WSH,CLE,Washington Nationals,Cleveland Guardians,695418,Brad Lord,,,61,594902,Ben Lively,,,39
+13974,778035,2025-05-06,146,119,MIA,LAD,Miami Marlins,Los Angeles Dodgers,615698,Cal Quantrill,,,47,664062,Tony Gonsolin,,,26
+13977,778037,2025-05-06,111,140,BOS,TEX,Boston Red Sox,Texas Rangers,608337,Lucas Giolito,,,54,543135,Nathan Eovaldi,,,17
+13975,778040,2025-05-06,139,143,TB,PHI,Tampa Bay Rays,Philadelphia Phillies,656876,Drew Rasmussen,,,57,554430,Zack Wheeler,,,45
+13976,778041,2025-05-06,147,135,NYY,SD,New York Yankees,San Diego Padres,657376,Clarke Schmidt,,,36,650633,Michael King,,,34
+13972,778034,2025-05-06,144,113,ATL,CIN,Atlanta Braves,Cincinnati Reds,519242,Chris Sale,,,51,671096,Andrew Abbott,,,41
+13982,778027,2025-05-06,112,137,CHC,SF,Chicago Cubs,San Francisco Giants,607067,Colin Rea,,,53,434378,Justin Verlander,,,35
+13978,778028,2025-05-06,142,110,MIN,BAL,Minnesota Twins,Baltimore Orioles,641154,Pablo López,,,49,700249,Cade Povich,,,37
+13979,778033,2025-05-06,118,145,KC,CWS,Kansas City Royals,Chicago White Sox,607625,Seth Lugo,,,67,680732,Sean Burke,,,59
+13980,778031,2025-05-06,158,117,MIL,HOU,Milwaukee Brewers,Houston Astros,694477,Chad Patrick,,,39,669713,Hayden Wesneski,,,39
+13981,778030,2025-05-06,138,134,STL,PIT,St. Louis Cardinals,Pittsburgh Pirates,669461,Matthew Liberatore,,,52,694973,Paul Skenes,,,30
+13986,778025,2025-05-06,108,141,LAA,TOR,Los Angeles Angels,Toronto Blue Jays,542881,Tyler Anderson,,,31,570632,José Ureña,,,48
+13984,778032,2025-05-06,109,121,AZ,NYM,Arizona Diamondbacks,New York Mets,668678,Zac Gallen,,,23,656849,David Peterson,,,23
+64339,778024,2025-05-06,133,136,ATH,SEA,Athletics,Seattle Mariners,605488,Jeffrey Springs,,,59,676106,Emerson Hancock,,,26
+13973,778046,2025-05-06,120,114,WSH,CLE,Washington Nationals,Cleveland Guardians,695418,Brad Lord,,,61,594902,Ben Lively,,,39

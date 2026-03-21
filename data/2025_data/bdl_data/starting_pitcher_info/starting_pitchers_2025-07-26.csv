@@ -1,0 +1,18 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+3061902,777010,2025-07-26,118,114,KC,CLE,Kansas City Royals,Cleveland Guardians,608379,Michael Wacha,,,52,668909,Gavin Williams,,,32
+37848,777001,2025-07-26,147,143,NYY,PHI,New York Yankees,Philadelphia Phillies,573186,Marcus Stroman,,,0,624133,Ranger Suarez,,,55
+3061902,777010,2025-07-26,118,114,KC,CLE,Kansas City Royals,Cleveland Guardians,608379,Michael Wacha,,,52,668909,Gavin Williams,,,32
+37853,776990,2025-07-26,118,114,KC,CLE,Kansas City Royals,Cleveland Guardians,663460,Kris Bubic,,,50,676440,Tanner Bibee,,,28
+37850,777003,2025-07-26,116,141,DET,TOR,Detroit Tigers,Toronto Blue Jays,669373,Tarik Skubal,,,29,592332,Kevin Gausman,,,34
+37845,777002,2025-07-26,134,109,PIT,AZ,Pittsburgh Pirates,Arizona Diamondbacks,571760,Andrew Heaney,,,45,518876,Merrill Kelly,,,29
+37849,777000,2025-07-26,113,139,CIN,TB,Cincinnati Reds,Tampa Bay Rays,671096,Andrew Abbott,,,41,686752,Ryan Pepiot,,,44
+37846,776999,2025-07-26,110,115,BAL,COL,Baltimore Orioles,Colorado Rockies,669432,Trevor Rogers,,,28,622608,Antonio Senzatela,,,49
+37851,776993,2025-07-26,140,144,TEX,ATL,Texas Rangers,Atlanta Braves,677958,Kumar Rocker,,,80,656550,Grant Holmes,,,66
+37855,776991,2025-07-26,117,133,HOU,ATH,Houston Astros,Athletics,686613,Hunter Brown,,,58,682052,Jacob Lopez,,,57
+37857,776997,2025-07-26,142,120,MIN,WSH,Minnesota Twins,Washington Nationals,657746,Joe Ryan,,,41,680730,Mitchell Parker,,,70
+37852,776994,2025-07-26,145,112,CWS,CHC,Chicago White Sox,Chicago Cubs,650644,Aaron Civale,,,43,690990,Cade Horton,,,22
+37854,776996,2025-07-26,158,146,MIL,MIA,Milwaukee Brewers,Miami Marlins,500779,Jose Quintana,,,62,676083,Janson Junk,,,26
+37847,776998,2025-07-26,111,119,BOS,LAD,Boston Red Sox,Los Angeles Dodgers,676979,Garrett Crochet,,,35,477132,Clayton Kershaw,,,22
+37856,776992,2025-07-26,138,135,STL,SD,St. Louis Cardinals,San Diego Padres,669461,Matthew Liberatore,,,52,681190,Randy Vásquez,,,98
+37858,776985,2025-07-26,137,121,SF,NYM,San Francisco Giants,New York Mets,592662,Robbie Ray,,,38,656849,David Peterson,,,23
+37859,776995,2025-07-26,108,136,LAA,SEA,Los Angeles Angels,Seattle Mariners,542881,Tyler Anderson,,,31,669923,George Kirby,,,68

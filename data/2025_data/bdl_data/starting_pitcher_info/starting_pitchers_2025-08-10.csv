@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+42124,776796,2025-08-10,142,118,MIN,KC,Minnesota Twins,Kansas City Royals,570632,José Ureña,,,54,686701,Ryan Bergert,,,38
+42121,776804,2025-08-10,110,133,BAL,ATH,Baltimore Orioles,Athletics,700249,Cade Povich,,,37,806960,Luis Morales,,,58
+42118,776801,2025-08-10,134,113,PIT,CIN,Pittsburgh Pirates,Cincinnati Reds,681347,Mike Burrows,,,53,641793,Zack Littell,,,52
+42120,776803,2025-08-10,144,146,ATL,MIA,Atlanta Braves,Miami Marlins,666214,Joey Wentz,,,33,615698,Cal Quantrill,,,47
+42119,776797,2025-08-10,147,117,NYY,HOU,New York Yankees,Houston Astros,608331,Max Fried,,,54,669920,Jason Alexander,,,54
+42117,776806,2025-08-10,116,108,DET,LAA,Detroit Tigers,Los Angeles Angels,663554,Casey Mize,,,12,686799,Jack Kochanowicz,,,41
+42123,776798,2025-08-10,145,114,CWS,CLE,Chicago White Sox,Cleveland Guardians,663436,Davis Martin,,,65,677944,Slade Cecconi,,,44
+42125,776799,2025-08-10,158,121,MIL,NYM,Milwaukee Brewers,New York Mets,682990,Quinn Priester,,,46,640455,Sean Manaea,,,59
+42126,776800,2025-08-10,140,143,TEX,PHI,Texas Rangers,Philadelphia Phillies,571578,Patrick Corbin,,,46,554430,Zack Wheeler,,,45
+42131,776793,2025-08-10,137,120,SF,WSH,San Francisco Giants,Washington Nationals,434378,Justin Verlander,,,35,669022,MacKenzie Gore,,,1
+42128,776794,2025-08-10,109,115,AZ,COL,Arizona Diamondbacks,Colorado Rockies,694297,Brandon Pfaadt,,,32,685299,Tanner Gordon,,,29
+42127,776789,2025-08-10,135,111,SD,BOS,San Diego Padres,Boston Red Sox,656302,Dylan Cease,,,84,678394,Brayan Bello,,,66
+42129,776791,2025-08-10,136,139,SEA,TB,Seattle Mariners,Tampa Bay Rays,693433,Bryan Woo,,,22,605288,Adrian Houser,,,37
+42130,776788,2025-08-10,119,141,LAD,TOR,Los Angeles Dodgers,Toronto Blue Jays,607192,Tyler Glasnow,,,31,641778,Eric Lauer,,,56
+42122,776795,2025-08-10,138,112,STL,CHC,St. Louis Cardinals,Chicago Cubs,543243,Sonny Gray,,,54,684007,Shota Imanaga,,,18

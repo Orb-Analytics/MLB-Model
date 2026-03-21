@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+24280,777573,2025-06-10,110,116,BAL,DET,Baltimore Orioles,Detroit Tigers,700249,Cade Povich,,,37,676428,Brant Hurter,,,48
+24279,777569,2025-06-10,114,113,CLE,CIN,Cleveland Guardians,Cincinnati Reds,677944,Slade Cecconi,,,44,671096,Andrew Abbott,,,41
+24281,777566,2025-06-10,134,146,PIT,MIA,Pittsburgh Pirates,Miami Marlins,656605,Mitch Keller,,,23,645261,Sandy Alcantara,,,22
+24278,777571,2025-06-10,143,112,PHI,CHC,Philadelphia Phillies,Chicago Cubs,690953,Mick Abel,,,40,607067,Colin Rea,,,53
+24283,777570,2025-06-10,121,120,NYM,WSH,New York Mets,Washington Nationals,656288,Griffin Canning,,,46,669022,MacKenzie Gore,,,1
+24282,777565,2025-06-10,111,139,BOS,TB,Boston Red Sox,Tampa Bay Rays,608337,Lucas Giolito,,,54,686752,Ryan Pepiot,,,44
+24287,777557,2025-06-10,142,140,MIN,TEX,Minnesota Twins,Texas Rangers,680573,Simeon Woods Richardson,,,24,641816,Tyler Mahle,,,51
+24286,777572,2025-06-10,118,147,KC,NYY,Kansas City Royals,New York Yankees,702070,Noah Cameron,,,65,608331,Max Fried,,,54
+24284,777568,2025-06-10,158,144,MIL,ATL,Milwaukee Brewers,Atlanta Braves,682990,Quinn Priester,,,46,656550,Grant Holmes,,,66
+24288,777558,2025-06-10,138,141,STL,TOR,St. Louis Cardinals,Toronto Blue Jays,571945,Miles Mikolas,,,39,605135,Chris Bassitt,,,40
+24285,777567,2025-06-10,117,145,HOU,CWS,Houston Astros,Chicago White Sox,621121,Lance McCullers Jr.,,,43,681343,Shane Smith,,,64
+24289,777563,2025-06-10,115,137,COL,SF,Colorado Rockies,San Francisco Giants,687223,Carson Palmquist,,,45,690986,Kyle Harrison,,,45
+24291,777564,2025-06-10,108,133,LAA,ATH,Los Angeles Angels,Athletics,667755,José Soriano,,,59,687765,Mitch Spence,,,28
+24290,777560,2025-06-10,135,119,SD,LAD,San Diego Padres,Los Angeles Dodgers,656302,Dylan Cease,,,84,642152,Lou Trivino,,,58
+24292,777559,2025-06-10,109,136,AZ,SEA,Arizona Diamondbacks,Seattle Mariners,694297,Brandon Pfaadt,,,32,688138,Logan Evans,,,73

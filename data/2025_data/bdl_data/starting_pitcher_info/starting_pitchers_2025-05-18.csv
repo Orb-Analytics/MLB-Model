@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+17086,777869,2025-05-18,140,117,TEX,HOU,Texas Rangers,Houston Astros,683004,Jack Leiter,,,35,664285,Framber Valdez,,,59
+17084,777873,2025-05-18,110,120,BAL,WSH,Baltimore Orioles,Washington Nationals,621107,Zach Eflin,,,24,647336,Michael Soroka,,,34
+17082,777880,2025-05-18,143,134,PHI,PIT,Philadelphia Phillies,Pittsburgh Pirates,690953,Mick Abel,,,,694973,Paul Skenes,,,30
+17078,777876,2025-05-18,111,144,BOS,ATL,Boston Red Sox,Atlanta Braves,678394,Brayan Bello,,,66,680885,Spencer Schwellenbach,,,56
+17080,777871,2025-05-18,141,116,TOR,DET,Toronto Blue Jays,Detroit Tigers,621244,José Berríos,,,17,695549,Jackson Jobe,,,21
+17079,777874,2025-05-18,113,114,CIN,CLE,Cincinnati Reds,Cleveland Guardians,671096,Andrew Abbott,,,41,682847,Luis Ortiz,,,45
+17083,777877,2025-05-18,146,139,MIA,TB,Miami Marlins,Tampa Bay Rays,615698,Cal Quantrill,,,47,669358,Shane Baz,,,11
+17088,777864,2025-05-18,118,138,KC,STL,Kansas City Royals,St. Louis Cardinals,608379,Michael Wacha,,,52,669461,Matthew Liberatore,,,52
+17087,777865,2025-05-18,158,142,MIL,MIN,Milwaukee Brewers,Minnesota Twins,642547,Freddy Peralta,,,51,805673,Zebby Matthews,,,52
+17085,777872,2025-05-18,112,145,CHC,CWS,Chicago Cubs,Chicago White Sox,607067,Colin Rea,,,53,686563,Jonathan Cannon,,,48
+17091,777867,2025-05-18,137,133,SF,ATH,San Francisco Giants,Athletics,434378,Justin Verlander,,,35,605488,Jeffrey Springs,,,59
+17090,777870,2025-05-18,109,115,AZ,COL,Arizona Diamondbacks,Colorado Rockies,518876,Merrill Kelly,,,29,801403,Chase Dollander,,,32
+17089,777866,2025-05-18,119,108,LAD,LAA,Los Angeles Dodgers,Los Angeles Angels,664062,Tony Gonsolin,,,26,579328,Yusei Kikuchi,,,16
+17092,777868,2025-05-18,135,136,SD,SEA,San Diego Padres,Seattle Mariners,650633,Michael King,,,34,693433,Bryan Woo,,,22
+17081,777878,2025-05-18,147,121,NYY,NYM,New York Yankees,New York Mets,608331,Max Fried,,,54,656849,David Peterson,,,23

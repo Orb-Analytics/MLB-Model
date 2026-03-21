@@ -1,0 +1,11 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+30491,777263,2025-07-03,146,142,MIA,MIN,Miami Marlins,Minnesota Twins,691587,Eury Pérez,,,39,701581,David Festa,,,58
+30494,777264,2025-07-03,115,117,COL,HOU,Colorado Rockies,Houston Astros,607536,Kyle Freeland,,,21,687888,Brandon Walter,,,60
+30489,777258,2025-07-03,120,116,WSH,DET,Washington Nationals,Detroit Tigers,663623,Jake Irvin,,,27,608650,Dietrich Enns,,,51
+30492,777260,2025-07-03,141,147,TOR,NYY,Toronto Blue Jays,New York Yankees,605135,Chris Bassitt,,,40,657376,Clarke Schmidt,,,36
+30490,777257,2025-07-03,121,158,NYM,MIL,New York Mets,Milwaukee Brewers,656849,David Peterson,,,23,500779,Jose Quintana,,,62
+30488,777261,2025-07-03,144,108,ATL,LAA,Atlanta Braves,Los Angeles Angels,693821,Bryce Elder,,,55,667755,José Soriano,,,59
+30493,777259,2025-07-03,112,114,CHC,CLE,Chicago Cubs,Cleveland Guardians,690990,Cade Horton,,,22,676282,Joey Cantillo,,,54
+30497,777256,2025-07-03,109,137,AZ,SF,Arizona Diamondbacks,San Francisco Giants,694297,Brandon Pfaadt,,,32,592662,Robbie Ray,,,38
+30496,777251,2025-07-03,136,118,SEA,KC,Seattle Mariners,Kansas City Royals,688138,Logan Evans,,,73,607625,Seth Lugo,,,67
+30495,777253,2025-07-03,119,145,LAD,CWS,Los Angeles Dodgers,Chicago White Sox,669160,Dustin May,,,85,650644,Aaron Civale,,,43

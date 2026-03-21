@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+9283,778252,2025-04-19,143,146,PHI,MIA,Philadelphia Phillies,Miami Marlins,592836,Taijuan Walker,,,99,615698,Cal Quantrill,,,47
+9282,778265,2025-04-19,116,118,DET,KC,Detroit Tigers,Kansas City Royals,663554,Casey Mize,,,12,607625,Seth Lugo,,,67
+9288,778257,2025-04-19,112,109,CHC,AZ,Chicago Cubs,Arizona Diamondbacks,676962,Ben Brown,,,32,668678,Zac Gallen,,,23
+9286,778258,2025-04-19,141,136,TOR,SEA,Toronto Blue Jays,Seattle Mariners,621244,José Berríos,,,17,669302,Logan Gilbert,,,36
+9280,778262,2025-04-19,110,113,BAL,CIN,Baltimore Orioles,Cincinnati Reds,687064,Brandon Young,,,,668881,Hunter Greene,,,21
+9281,778254,2025-04-19,134,114,PIT,CLE,Pittsburgh Pirates,Cleveland Guardians,694973,Paul Skenes,,,30,594902,Ben Lively,,,39
+9287,778256,2025-04-19,121,138,NYM,STL,New York Mets,St. Louis Cardinals,673540,Kodai Senga,,,34,669461,Matthew Liberatore,,,52
+9289,778251,2025-04-19,140,119,TEX,LAD,Texas Rangers,Los Angeles Dodgers,543135,Nathan Eovaldi,,,17,808963,Roki Sasaki,,,11
+9292,778247,2025-04-19,115,120,COL,WSH,Colorado Rockies,Washington Nationals,801403,Chase Dollander,,,32,669022,MacKenzie Gore,,,1
+9279,778264,2025-04-19,111,145,BOS,CWS,Boston Red Sox,Chicago White Sox,676979,Garrett Crochet,,,35,681343,Shane Smith,,,64
+9285,778255,2025-04-19,139,147,TB,NYY,Tampa Bay Rays,New York Yankees,669358,Shane Baz,,,11,471911,Carlos Carrasco,,,59
+9291,778259,2025-04-19,117,135,HOU,SD,Houston Astros,San Diego Padres,669713,Hayden Wesneski,,,39,650633,Michael King,,,34
+9290,778253,2025-04-19,158,133,MIL,ATH,Milwaukee Brewers,Athletics,694477,Chad Patrick,,,39,622663,Luis Severino,,,40
+9284,778267,2025-04-19,144,142,ATL,MIN,Atlanta Braves,Minnesota Twins,519242,Chris Sale,,,51,623437,Justin Topa,,,48
+9293,778243,2025-04-19,108,137,LAA,SF,Los Angeles Angels,San Francisco Giants,543294,Kyle Hendricks,,,28,694738,Landen Roupp,,,65

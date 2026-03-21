@@ -1,0 +1,12 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+42401,776792,2025-08-11,113,143,CIN,PHI,Cincinnati Reds,Philadelphia Phillies,671096,Andrew Abbott,,,41,592836,Taijuan Walker,,,99
+42400,776790,2025-08-11,147,142,NYY,MIN,New York Yankees,Minnesota Twins,701542,Will Warren,,,98,805673,Zebby Matthews,,,52
+42407,776784,2025-08-11,118,120,KC,WSH,Kansas City Royals,Washington Nationals,663559,Bailey Falter,,,36,676917,Cade Cavalli,,,24
+42405,776781,2025-08-11,145,116,CWS,DET,Chicago White Sox,Detroit Tigers,665625,Elvis Peguero,,,47,663978,Chris Paddack,,,40
+42406,776786,2025-08-11,158,134,MIL,PIT,Milwaukee Brewers,Pittsburgh Pirates,500779,Jose Quintana,,,62,571760,Andrew Heaney,,,45
+42404,776783,2025-08-11,138,115,STL,COL,St. Louis Cardinals,Colorado Rockies,571945,Miles Mikolas,,,39,801403,Chase Dollander,,,32
+42402,776785,2025-08-11,140,109,TEX,AZ,Texas Rangers,Arizona Diamondbacks,543135,Nathan Eovaldi,,,17,669194,Ryne Nelson,,,19
+42403,776782,2025-08-11,117,111,HOU,BOS,Houston Astros,Boston Red Sox,664299,Cristian Javier,,,53,676979,Garrett Crochet,,,35
+42408,776779,2025-08-11,108,119,LAA,LAD,Los Angeles Angels,Los Angeles Dodgers,667755,José Soriano,,,59,808967,Yoshinobu Yamamoto,,,18
+42409,776780,2025-08-11,137,135,SF,SD,San Francisco Giants,San Diego Padres,657277,Logan Webb,,,62,506433,Yu Darvish,,,11
+68259,776787,2025-08-11,133,139,ATH,TB,Athletics,Tampa Bay Rays,605488,Jeffrey Springs,,,59,686752,Ryan Pepiot,,,44

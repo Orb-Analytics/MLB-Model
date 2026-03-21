@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+47742,776527,2025-08-30,141,158,TOR,MIL,Toronto Blue Jays,Milwaukee Brewers,592332,Kevin Gausman,,,34,682990,Quinn Priester,,,46
+47746,776525,2025-08-30,120,139,WSH,TB,Washington Nationals,Tampa Bay Rays,663623,Jake Irvin,,,27,686752,Ryan Pepiot,,,44
+47743,776539,2025-08-30,111,134,BOS,PIT,Boston Red Sox,Pittsburgh Pirates,669160,Dustin May,,,85,670912,Johan Oviedo,,,24
+47741,776535,2025-08-30,121,146,NYM,MIA,New York Mets,Miami Marlins,656849,David Peterson,,,23,665795,Edward Cabrera,,,27
+47740,776532,2025-08-30,143,144,PHI,ATL,Philadelphia Phillies,Atlanta Braves,650911,Cristopher Sánchez,,,61,519242,Chris Sale,,,51
+47745,776536,2025-08-30,113,138,CIN,STL,Cincinnati Reds,St. Louis Cardinals,671096,Andrew Abbott,,,41,700241,Michael McGreevy,,,36
+47747,776531,2025-08-30,117,108,HOU,LAA,Houston Astros,Los Angeles Angels,681293,Spencer Arrighetti,,,41,543294,Kyle Hendricks,,,28
+47750,776530,2025-08-30,142,135,MIN,SD,Minnesota Twins,San Diego Padres,671737,Taj Bradley,,,26,601713,Nick Pivetta,,,27
+47749,776529,2025-08-30,145,147,CWS,NYY,Chicago White Sox,New York Yankees,681343,Shane Smith,,,64,693645,Cam Schlittler,,,31
+47748,776528,2025-08-30,118,116,KC,DET,Kansas City Royals,Detroit Tigers,663568,Stephen Kolek,,,32,656427,Jack Flaherty,,,9
+47744,776537,2025-08-30,114,136,CLE,SEA,Cleveland Guardians,Seattle Mariners,668909,Gavin Williams,,,32,669302,Logan Gilbert,,,36
+47753,776516,2025-08-30,137,110,SF,BAL,San Francisco Giants,Baltimore Orioles,693313,Carson Seymour,,,77,669432,Trevor Rogers,,,28
+47751,776526,2025-08-30,115,112,COL,CHC,Colorado Rockies,Chicago Cubs,685326,McCade Brown,,,51,665871,Javier Assad,,,72
+47752,776523,2025-08-30,119,109,LAD,AZ,Los Angeles Dodgers,Arizona Diamondbacks,607192,Tyler Glasnow,,,31,593958,Eduardo Rodriguez,,,57
+68517,776524,2025-08-30,133,140,ATH,TEX,Athletics,Texas Rangers,686930,Mason Barnett,,,63,518876,Merrill Kelly,,,23

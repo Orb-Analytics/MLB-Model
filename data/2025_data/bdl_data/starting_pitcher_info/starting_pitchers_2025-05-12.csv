@@ -1,0 +1,12 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+15005,777960,2025-05-12,114,158,CLE,MIL,Cleveland Guardians,Milwaukee Brewers,594902,Ben Lively,,,39,642547,Freddy Peralta,,,51
+15004,777951,2025-05-12,116,111,DET,BOS,Detroit Tigers,Boston Red Sox,695549,Jackson Jobe,,,21,656557,Tanner Houck,,,89
+15007,777953,2025-05-12,143,138,PHI,STL,Philadelphia Phillies,St. Louis Cardinals,650911,Cristopher Sánchez,,,61,669461,Matthew Liberatore,,,52
+15006,777950,2025-05-12,121,134,NYM,PIT,New York Mets,Pittsburgh Pirates,656849,David Peterson,,,23,694973,Paul Skenes,,,30
+15008,777959,2025-05-12,144,120,ATL,WSH,Atlanta Braves,Washington Nationals,656550,Grant Holmes,,,66,663623,Jake Irvin,,,27
+15011,777952,2025-05-12,112,146,CHC,MIA,Chicago Cubs,Miami Marlins,607067,Colin Rea,,,53,615698,Cal Quantrill,,,47
+15009,777949,2025-05-12,140,115,TEX,COL,Texas Rangers,Colorado Rockies,641816,Tyler Mahle,,,51,801403,Chase Dollander,,,32
+15010,777948,2025-05-12,117,118,HOU,KC,Houston Astros,Kansas City Royals,687473,Ryan Gusto,,,67,608379,Michael Wacha,,,52
+15012,777947,2025-05-12,135,108,SD,LAA,San Diego Padres,Los Angeles Angels,650633,Michael King,,,34,579328,Yusei Kikuchi,,,16
+15014,777941,2025-05-12,136,147,SEA,NYY,Seattle Mariners,New York Yankees,676106,Emerson Hancock,,,26,657376,Clarke Schmidt,,,36
+15013,777939,2025-05-12,137,109,SF,AZ,San Francisco Giants,Arizona Diamondbacks,434378,Justin Verlander,,,35,518876,Merrill Kelly,,,29

@@ -1,0 +1,12 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+12849,778100,2025-05-01,134,112,PIT,CHC,Pittsburgh Pirates,Chicago Cubs,694973,Paul Skenes,,,30,607067,Colin Rea,,,53
+12852,778107,2025-05-01,113,138,CIN,STL,Cincinnati Reds,St. Louis Cardinals,671096,Andrew Abbott,,,41,669461,Matthew Liberatore,,,52
+12847,778103,2025-05-01,121,109,NYM,AZ,New York Mets,Arizona Diamondbacks,673540,Kodai Senga,,,34,668678,Zac Gallen,,,23
+12850,778097,2025-05-01,139,118,TB,KC,Tampa Bay Rays,Kansas City Royals,669358,Shane Baz,,,11,607625,Seth Lugo,,,67
+12851,778108,2025-05-01,114,142,CLE,MIN,Cleveland Guardians,Minnesota Twins,594902,Ben Lively,,,39,680573,Simeon Woods Richardson,,,24
+12854,778094,2025-05-01,145,158,CWS,MIL,Chicago White Sox,Milwaukee Brewers,680732,Sean Burke,,,59,694477,Chad Patrick,,,39
+12855,778096,2025-05-01,140,133,TEX,ATH,Texas Rangers,Athletics,641816,Tyler Mahle,,,51,605488,Jeffrey Springs,,,59
+12853,778099,2025-05-01,143,120,PHI,WSH,Philadelphia Phillies,Washington Nationals,592836,Taijuan Walker,,,99,695418,Brad Lord,,,61
+12848,778095,2025-05-01,141,111,TOR,BOS,Toronto Blue Jays,Boston Red Sox,621244,José Berríos,,,17,656557,Tanner Houck,,,89
+12857,778101,2025-05-01,108,116,LAA,DET,Los Angeles Angels,Detroit Tigers,579328,Yusei Kikuchi,,,16,663554,Casey Mize,,,12
+12856,778098,2025-05-01,137,115,SF,COL,San Francisco Giants,Colorado Rockies,434378,Justin Verlander,,,35,607536,Kyle Freeland,,,21

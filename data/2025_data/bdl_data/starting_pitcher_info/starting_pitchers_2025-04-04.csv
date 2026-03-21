@@ -1,0 +1,15 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+4133,778458,2025-04-04,116,145,DET,CWS,Detroit Tigers,Chicago White Sox,656427,Jack Flaherty,,,9,686563,Jonathan Cannon,,,48
+4137,778463,2025-04-04,111,138,BOS,STL,Boston Red Sox,St. Louis Cardinals,621111,Walker Buehler,,,0,607200,Erick Fedde,,,12
+4140,778460,2025-04-04,112,135,CHC,SD,Chicago Cubs,San Diego Padres,684007,Shota Imanaga,,,18,681190,Randy Vásquez,,,98
+4131,778465,2025-04-04,121,141,NYM,TOR,New York Mets,Toronto Blue Jays,656731,Tylor Megill,,,38,592332,Kevin Gausman,,,34
+4142,778456,2025-04-04,115,133,COL,ATH,Colorado Rockies,Athletics,663372,Ryan Feltner,,,18,674370,Osvaldo Bido,,,45
+4136,778461,2025-04-04,134,147,PIT,NYY,Pittsburgh Pirates,New York Yankees,656605,Mitch Keller,,,23,608331,Max Fried,,,54
+4144,778444,2025-04-04,137,136,SF,SEA,San Francisco Giants,Seattle Mariners,434378,Justin Verlander,,,35,622379,Luis F. Castillo,,,43
+4132,778457,2025-04-04,120,109,WSH,AZ,Washington Nationals,Arizona Diamondbacks,663623,Jake Irvin,,,27,694297,Brandon Pfaadt,,,32
+4134,778459,2025-04-04,143,119,PHI,LAD,Philadelphia Phillies,Los Angeles Dodgers,666200,Jesús Luzardo,,,44,808967,Yoshinobu Yamamoto,,,18
+4135,778464,2025-04-04,144,146,ATL,MIA,Atlanta Braves,Miami Marlins,680885,Spencer Schwellenbach,,,56,676974,Max Meyer,,,23
+4138,778455,2025-04-04,118,110,KC,BAL,Kansas City Royals,Baltimore Orioles,607625,Seth Lugo,,,67,665152,Dean Kremer,,,64
+4141,778454,2025-04-04,140,139,TEX,TB,Texas Rangers,Tampa Bay Rays,641816,Tyler Mahle,,,51,641793,Zack Littell,,,52
+4139,778453,2025-04-04,158,113,MIL,CIN,Milwaukee Brewers,Cincinnati Reds,641302,Tyler Alexander,,,33,607259,Nick Martinez,,,28
+4143,778447,2025-04-04,108,114,LAA,CLE,Los Angeles Angels,Cleveland Guardians,667755,José Soriano,,,59,668909,Gavin Williams,,,32

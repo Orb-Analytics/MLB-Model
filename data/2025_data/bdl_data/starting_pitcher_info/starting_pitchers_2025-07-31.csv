@@ -1,0 +1,4 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+39497,776927,2025-07-31,147,139,NYY,TB,New York Yankees,Tampa Bay Rays,573186,Marcus Stroman,,,0,686752,Ryan Pepiot,,,44
+39499,776928,2025-07-31,113,144,CIN,ATL,Cincinnati Reds,Atlanta Braves,671096,Andrew Abbott,,,41,471911,Carlos Carrasco,,,59
+39498,776923,2025-07-31,136,140,SEA,TEX,Seattle Mariners,Texas Rangers,669923,George Kirby,,,68,677958,Kumar Rocker,,,80

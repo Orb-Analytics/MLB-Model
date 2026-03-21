@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+55038,776162,2025-09-27,147,110,NYY,BAL,New York Yankees,Baltimore Orioles,693645,Cam Schlittler,,,31,608372,Tomoyuki Sugano,,,19
+55047,776164,2025-09-27,112,138,CHC,STL,Chicago Cubs,St. Louis Cardinals,592791,Jameson Taillon,,,50,700241,Michael McGreevy,,,36
+55044,776159,2025-09-27,141,139,TOR,TB,Toronto Blue Jays,Tampa Bay Rays,702056,Trey Yesavage,,,39,671212,Joe Boyle,,,36
+55049,776146,2025-09-27,137,115,SF,COL,San Francisco Giants,Colorado Rockies,434378,Justin Verlander,,,35,607536,Kyle Freeland,,,21
+55039,776160,2025-09-27,120,145,WSH,CWS,Washington Nationals,Chicago White Sox,663623,Jake Irvin,,,27,656457,Tyler Gilbert,,,40
+55040,776157,2025-09-27,111,116,BOS,DET,Boston Red Sox,Detroit Tigers,813349,Connelly Early,,,71,672456,Keider Montero,,,54
+55042,776161,2025-09-27,146,121,MIA,NYM,Miami Marlins,New York Mets,691587,Eury Pérez,,,39,605280,Clay Holmes,,,35
+55041,776163,2025-09-27,143,142,PHI,MIN,Philadelphia Phillies,Minnesota Twins,624133,Ranger Suarez,,,55,690953,Mick Abel,,,20
+55045,776158,2025-09-27,114,140,CLE,TEX,Cleveland Guardians,Texas Rangers,676282,Joey Cantillo,,,54,656641,Jacob Latz,,,67
+55043,776156,2025-09-27,144,134,ATL,PIT,Atlanta Braves,Pittsburgh Pirates,675911,Spencer Strider,,,99,696149,Bubba Chandler,,,57
+55046,776153,2025-09-27,158,113,MIL,CIN,Milwaukee Brewers,Cincinnati Reds,688107,Robert Gasser,,,54,671096,Andrew Abbott,,,41
+55048,776152,2025-09-27,135,109,SD,AZ,San Diego Padres,Arizona Diamondbacks,650633,Michael King,,,34,593958,Eduardo Rodriguez,,,57
+55050,776155,2025-09-27,108,117,LAA,HOU,Los Angeles Angels,Houston Astros,702674,Caden Dana,,,36,805123,AJ Blubaugh,,,69
+55052,776150,2025-09-27,136,119,SEA,LAD,Seattle Mariners,Los Angeles Dodgers,669302,Logan Gilbert,,,36,607192,Tyler Glasnow,,,31
+68890,776154,2025-09-27,133,118,ATH,KC,Athletics,Kansas City Royals,806960,Luis Morales,,,58,608379,Michael Wacha,,,52

@@ -1,0 +1,22 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+30271,777271,2025-07-02,139,133,TB,ATH,Tampa Bay Rays,Athletics,686752,Ryan Pepiot,,,44,687765,Mitch Spence,,,28
+30273,777272,2025-07-02,134,138,PIT,STL,Pittsburgh Pirates,St. Louis Cardinals,656605,Mitch Keller,,,23,543243,Sonny Gray,,,54
+2545574,777284,2025-07-02,120,116,WSH,DET,Washington Nationals,Detroit Tigers,592866,Trevor Williams,,,32,663947,Tyler Holton,,,87
+30267,777265,2025-07-02,120,116,WSH,DET,Washington Nationals,Detroit Tigers,669022,MacKenzie Gore,,,1,656427,Jack Flaherty,,,9
+30272,777273,2025-07-02,143,135,PHI,SD,Philadelphia Phillies,San Diego Padres,690953,Mick Abel,,,40,601713,Nick Pivetta,,,27
+2545576,777290,2025-07-02,143,135,PHI,SD,Philadelphia Phillies,San Diego Padres,650911,Cristopher Sánchez,,,61,656302,Dylan Cease,,,84
+2545575,777289,2025-07-02,121,158,NYM,MIL,New York Mets,Milwaukee Brewers,605280,Clay Holmes,,,35,642547,Freddy Peralta,,,51
+30268,777276,2025-07-02,121,158,NYM,MIL,New York Mets,Milwaukee Brewers,623211,Huascar Brazobán,,,43,694819,Jacob Misiorowski,,,32
+30269,777275,2025-07-02,146,142,MIA,MIN,Miami Marlins,Minnesota Twins,676083,Janson Junk,,,26,680573,Simeon Woods Richardson,,,24
+30270,777274,2025-07-02,141,147,TOR,NYY,Toronto Blue Jays,New York Yankees,621244,José Berríos,,,17,701542,Will Warren,,,98
+30266,777277,2025-07-02,111,113,BOS,CIN,Boston Red Sox,Cincinnati Reds,657514,Brennan Bernardino,,,83,607259,Nick Martinez,,,28
+30265,777279,2025-07-02,144,108,ATL,LAA,Atlanta Braves,Los Angeles Angels,800311,Didier Fuentes,,,75,579328,Yusei Kikuchi,,,16
+30275,777266,2025-07-02,112,114,CHC,CLE,Chicago Cubs,Cleveland Guardians,684007,Shota Imanaga,,,18,676440,Tanner Bibee,,,28
+30274,777268,2025-07-02,140,110,TEX,BAL,Texas Rangers,Baltimore Orioles,543135,Nathan Eovaldi,,,17,608372,Tomoyuki Sugano,,,19
+30276,777269,2025-07-02,115,117,COL,HOU,Colorado Rockies,Houston Astros,596295,Austin Gomber,,,26,686613,Hunter Brown,,,58
+30278,777262,2025-07-02,136,118,SEA,KC,Seattle Mariners,Kansas City Royals,669302,Logan Gilbert,,,36,702070,Noah Cameron,,,65
+30279,777270,2025-07-02,109,137,AZ,SF,Arizona Diamondbacks,San Francisco Giants,518876,Merrill Kelly,,,29,694738,Landen Roupp,,,65
+30277,777267,2025-07-02,119,145,LAD,CWS,Los Angeles Dodgers,Chicago White Sox,477132,Clayton Kershaw,,,22,685126,Brandon Eisert,,,53
+2545576,777290,2025-07-02,143,135,PHI,SD,Philadelphia Phillies,San Diego Padres,650911,Cristopher Sánchez,,,61,656302,Dylan Cease,,,84
+2545574,777284,2025-07-02,120,116,WSH,DET,Washington Nationals,Detroit Tigers,592866,Trevor Williams,,,32,663947,Tyler Holton,,,87
+2545575,777289,2025-07-02,121,158,NYM,MIL,New York Mets,Milwaukee Brewers,605280,Clay Holmes,,,35,642547,Freddy Peralta,,,51

@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+43129,776759,2025-08-13,118,120,KC,WSH,Kansas City Royals,Washington Nationals,607625,Seth Lugo,,,67,663623,Jake Irvin,,,27
+43127,776754,2025-08-13,145,116,CWS,DET,Chicago White Sox,Detroit Tigers,681343,Shane Smith,,,64,675512,Troy Melton,,,52
+43128,776755,2025-08-13,158,134,MIL,PIT,Milwaukee Brewers,Pittsburgh Pirates,605540,Brandon Woodruff,,,53,656605,Mitch Keller,,,23
+43126,776758,2025-08-13,138,115,STL,COL,St. Louis Cardinals,Colorado Rockies,700241,Michael McGreevy,,,36,596295,Austin Gomber,,,26
+43124,776746,2025-08-13,140,109,TEX,AZ,Texas Rangers,Arizona Diamondbacks,518876,Merrill Kelly,,,23,668678,Zac Gallen,,,23
+43131,776749,2025-08-13,137,135,SF,SD,San Francisco Giants,San Diego Padres,678906,Kai-Wei Teng,,,66,601713,Nick Pivetta,,,27
+43122,776765,2025-08-13,113,143,CIN,PHI,Cincinnati Reds,Philadelphia Phillies,668881,Hunter Greene,,,21,650911,Cristopher Sánchez,,,61
+43123,776761,2025-08-13,110,136,BAL,SEA,Baltimore Orioles,Seattle Mariners,669432,Trevor Rogers,,,28,669302,Logan Gilbert,,,36
+43120,776766,2025-08-13,114,146,CLE,MIA,Cleveland Guardians,Miami Marlins,668909,Gavin Williams,,,32,691587,Eury Pérez,,,39
+43121,776760,2025-08-13,147,142,NYY,MIN,New York Yankees,Minnesota Twins,693645,Cam Schlittler,,,31,657746,Joe Ryan,,,41
+43119,776757,2025-08-13,141,112,TOR,CHC,Toronto Blue Jays,Chicago Cubs,592332,Kevin Gausman,,,34,690990,Cade Horton,,,22
+43125,776753,2025-08-13,117,111,HOU,BOS,Houston Astros,Boston Red Sox,686613,Hunter Brown,,,58,621111,Walker Buehler,,,0
+43118,776756,2025-08-13,121,144,NYM,ATL,New York Mets,Atlanta Braves,656849,David Peterson,,,23,471911,Carlos Carrasco,,,59
+43130,776752,2025-08-13,108,119,LAA,LAD,Los Angeles Angels,Los Angeles Dodgers,543294,Kyle Hendricks,,,28,660271,Shohei Ohtani,,,17
+68289,776751,2025-08-13,133,139,ATH,TB,Athletics,Tampa Bay Rays,669372,J.T. Ginn,,,70,656876,Drew Rasmussen,,,57

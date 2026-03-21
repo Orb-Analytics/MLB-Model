@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+33250,777130,2025-07-13,111,139,BOS,TB,Boston Red Sox,Tampa Bay Rays,678394,Brayan Bello,,,66,686752,Ryan Pepiot,,,44
+33248,777129,2025-07-13,110,146,BAL,MIA,Baltimore Orioles,Miami Marlins,687064,Brandon Young,,,63,691587,Eury Pérez,,,39
+33246,777122,2025-07-13,147,112,NYY,CHC,New York Yankees,Chicago Cubs,701542,Will Warren,,,98,684007,Shota Imanaga,,,18
+33247,777128,2025-07-13,113,115,CIN,COL,Cincinnati Reds,Colorado Rockies,607259,Nick Martinez,,,28,596295,Austin Gomber,,,26
+33249,777121,2025-07-13,116,136,DET,SEA,Detroit Tigers,Seattle Mariners,656427,Jack Flaherty,,,9,669302,Logan Gilbert,,,36
+33253,777124,2025-07-13,118,121,KC,NYM,Kansas City Royals,New York Mets,702070,Noah Cameron,,,65,605280,Clay Holmes,,,35
+33255,777125,2025-07-13,117,140,HOU,TEX,Houston Astros,Texas Rangers,686613,Hunter Brown,,,58,543135,Nathan Eovaldi,,,17
+33254,777113,2025-07-13,142,134,MIN,PIT,Minnesota Twins,Pittsburgh Pirates,680573,Simeon Woods Richardson,,,24,656605,Mitch Keller,,,23
+33252,777120,2025-07-13,145,114,CWS,CLE,Chicago White Sox,Cleveland Guardians,650644,Aaron Civale,,,43,676282,Joey Cantillo,,,54
+33256,777123,2025-07-13,158,120,MIL,WSH,Milwaukee Brewers,Washington Nationals,642547,Freddy Peralta,,,51,663623,Jake Irvin,,,27
+33251,777118,2025-07-13,138,144,STL,ATL,St. Louis Cardinals,Atlanta Braves,543243,Sonny Gray,,,54,669721,Davis Daniel,,,58
+33258,777119,2025-07-13,137,119,SF,LAD,San Francisco Giants,Los Angeles Dodgers,592662,Robbie Ray,,,38,808967,Yoshinobu Yamamoto,,,18
+67919,777116,2025-07-13,133,141,ATH,TOR,Athletics,Toronto Blue Jays,605488,Jeffrey Springs,,,59,621244,José Berríos,,,17
+33257,777115,2025-07-13,108,109,LAA,AZ,Los Angeles Angels,Arizona Diamondbacks,667755,José Soriano,,,59,518876,Merrill Kelly,,,29
+33259,777117,2025-07-13,135,143,SD,PHI,San Diego Padres,Philadelphia Phillies,601713,Nick Pivetta,,,27,650911,Cristopher Sánchez,,,61

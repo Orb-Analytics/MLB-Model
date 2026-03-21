@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+39602,776921,2025-08-01,113,144,CIN,ATL,Cincinnati Reds,Atlanta Braves,663903,Brady Singer,,,51,693821,Bryce Elder,,,55
+39611,776915,2025-08-01,112,110,CHC,BAL,Chicago Cubs,Baltimore Orioles,690990,Cade Horton,,,22,669432,Trevor Rogers,,,28
+39603,776913,2025-08-01,143,116,PHI,DET,Philadelphia Phillies,Detroit Tigers,624133,Ranger Suarez,,,55,656427,Jack Flaherty,,,9
+39607,776917,2025-08-01,120,158,WSH,MIL,Washington Nationals,Milwaukee Brewers,680730,Mitchell Parker,,,70,500779,Jose Quintana,,,62
+39605,776920,2025-08-01,141,118,TOR,KC,Toronto Blue Jays,Kansas City Royals,592332,Kevin Gausman,,,34,608379,Michael Wacha,,,52
+39604,776922,2025-08-01,111,117,BOS,HOU,Boston Red Sox,Houston Astros,681867,Cooper Criswell,,,64,686613,Hunter Brown,,,58
+39610,776926,2025-08-01,121,137,NYM,SF,New York Mets,San Francisco Giants,656849,David Peterson,,,23,592662,Robbie Ray,,,38
+39608,776924,2025-08-01,114,142,CLE,MIN,Cleveland Guardians,Minnesota Twins,668909,Gavin Williams,,,32,657746,Joe Ryan,,,41
+39609,776925,2025-08-01,146,147,MIA,NYY,Miami Marlins,New York Yankees,676083,Janson Junk,,,26,607074,Carlos Rodón,,,55
+39606,776918,2025-08-01,139,119,TB,LAD,Tampa Bay Rays,Los Angeles Dodgers,669358,Shane Baz,,,11,477132,Clayton Kershaw,,,22
+39612,776919,2025-08-01,115,134,COL,PIT,Colorado Rockies,Pittsburgh Pirates,622608,Antonio Senzatela,,,49,571760,Andrew Heaney,,,45
+39614,776916,2025-08-01,108,145,LAA,CWS,Los Angeles Angels,Chicago White Sox,542881,Tyler Anderson,,,31,681343,Shane Smith,,,64
+39615,776906,2025-08-01,135,138,SD,STL,San Diego Padres,St. Louis Cardinals,601713,Nick Pivetta,,,27,669461,Matthew Liberatore,,,52
+68125,776914,2025-08-01,133,109,ATH,AZ,Athletics,Arizona Diamondbacks,682052,Jacob Lopez,,,57,543101,Anthony DeSclafani,,,21
+39616,776908,2025-08-01,136,140,SEA,TEX,Seattle Mariners,Texas Rangers,669302,Logan Gilbert,,,36,683004,Jack Leiter,,,35

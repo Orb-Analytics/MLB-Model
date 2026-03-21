@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+27602,777420,2025-06-21,139,116,TB,DET,Tampa Bay Rays,Detroit Tigers,686752,Ryan Pepiot,,,44,676428,Brant Hurter,,,48
+27600,777422,2025-06-21,147,110,NYY,BAL,New York Yankees,Baltimore Orioles,657376,Clarke Schmidt,,,36,621107,Zach Eflin,,,24
+27606,777412,2025-06-21,142,158,MIN,MIL,Minnesota Twins,Milwaukee Brewers,680573,Simeon Woods Richardson,,,24,500779,Jose Quintana,,,62
+27605,777415,2025-06-21,138,113,STL,CIN,St. Louis Cardinals,Cincinnati Reds,543243,Sonny Gray,,,54,608718,Brent Suter,,,31
+27607,777419,2025-06-21,112,136,CHC,SEA,Chicago Cubs,Seattle Mariners,690990,Cade Horton,,,22,676106,Emerson Hancock,,,26
+27601,777418,2025-06-21,141,145,TOR,CWS,Toronto Blue Jays,Chicago White Sox,621244,José Berríos,,,17,650644,Aaron Civale,,,43
+27609,777417,2025-06-21,137,111,SF,BOS,San Francisco Giants,Boston Red Sox,694738,Landen Roupp,,,65,678394,Brayan Bello,,,66
+27604,777421,2025-06-21,134,140,PIT,TEX,Pittsburgh Pirates,Texas Rangers,656605,Mitch Keller,,,23,677958,Kumar Rocker,,,80
+27599,777424,2025-06-21,146,144,MIA,ATL,Miami Marlins,Atlanta Braves,691587,Eury Pérez,,,39,656550,Grant Holmes,,,66
+27612,777413,2025-06-21,135,118,SD,KC,San Diego Padres,Kansas City Royals,656302,Dylan Cease,,,84,702070,Noah Cameron,,,65
+27603,777423,2025-06-21,143,121,PHI,NYM,Philadelphia Phillies,New York Mets,690953,Mick Abel,,,40,656288,Griffin Canning,,,46
+27608,777410,2025-06-21,115,109,COL,AZ,Colorado Rockies,Arizona Diamondbacks,687223,Carson Palmquist,,,45,518876,Merrill Kelly,,,29
+27611,777414,2025-06-21,108,117,LAA,HOU,Los Angeles Angels,Houston Astros,667755,José Soriano,,,59,687888,Brandon Walter,,,60
+67623,777411,2025-06-21,133,114,ATH,CLE,Athletics,Cleveland Guardians,687765,Mitch Spence,,,28,682847,Luis Ortiz,,,45
+27613,777416,2025-06-21,119,120,LAD,WSH,Los Angeles Dodgers,Washington Nationals,669160,Dustin May,,,85,663623,Jake Irvin,,,27

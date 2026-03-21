@@ -1,0 +1,15 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+4511,778445,2025-04-05,116,145,DET,CWS,Detroit Tigers,Chicago White Sox,681857,Reese Olson,,,45,663436,Davis Martin,,,65
+4519,778440,2025-04-05,142,117,MIN,HOU,Minnesota Twins,Houston Astros,641927,Bailey Ober,,,17,681293,Spencer Arrighetti,,,41
+4520,778450,2025-04-05,112,135,CHC,SD,Chicago Cubs,San Diego Padres,571510,Matthew Boyd,,,16,601713,Nick Pivetta,,,27
+4510,778452,2025-04-05,120,109,WSH,AZ,Washington Nationals,Arizona Diamondbacks,680730,Mitchell Parker,,,70,593958,Eduardo Rodriguez,,,57
+4512,778448,2025-04-05,143,119,PHI,LAD,Philadelphia Phillies,Los Angeles Dodgers,605400,Aaron Nola,,,27,808963,Roki Sasaki,,,11
+4514,778449,2025-04-05,134,147,PIT,NYY,Pittsburgh Pirates,New York Yankees,663559,Bailey Falter,,,6,573186,Marcus Stroman,,,0
+4517,778441,2025-04-05,118,110,KC,BAL,Kansas City Royals,Baltimore Orioles,608379,Michael Wacha,,,52,608372,Tomoyuki Sugano,,,19
+4521,778438,2025-04-05,140,139,TEX,TB,Texas Rangers,Tampa Bay Rays,594798,Jacob deGrom,,,48,671737,Taj Bradley,,,45
+4516,778446,2025-04-05,121,141,NYM,TOR,New York Mets,Toronto Blue Jays,656288,Griffin Canning,,,46,605135,Chris Bassitt,,,40
+4518,778439,2025-04-05,158,113,MIL,CIN,Milwaukee Brewers,Cincinnati Reds,660730,Elvin Rodríguez,,,35,663903,Brady Singer,,,51
+4513,778451,2025-04-05,144,146,ATL,MIA,Atlanta Braves,Miami Marlins,700363,AJ Smith-Shawver,,,32,615698,Cal Quantrill,,,47
+4522,778442,2025-04-05,115,133,COL,ATH,Colorado Rockies,Athletics,608566,Germán Márquez,,,48,676664,JP Sears,,,38
+4524,778436,2025-04-05,137,136,SF,SEA,San Francisco Giants,Seattle Mariners,592662,Robbie Ray,,,38,682243,Bryce Miller,,,50
+4523,778437,2025-04-05,108,114,LAA,CLE,Los Angeles Angels,Cleveland Guardians,686799,Jack Kochanowicz,,,41,676440,Tanner Bibee,,,28

@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+41652,776829,2025-08-08,134,113,PIT,CIN,Pittsburgh Pirates,Cincinnati Reds,656605,Mitch Keller,,,23,695505,Chase Burns,,,26
+41655,776831,2025-08-08,110,133,BAL,ATH,Baltimore Orioles,Athletics,608372,Tomoyuki Sugano,,,19,669372,J.T. Ginn,,,70
+41653,776835,2025-08-08,147,117,NYY,HOU,New York Yankees,Houston Astros,693645,Cam Schlittler,,,31,686613,Hunter Brown,,,58
+41651,776832,2025-08-08,116,108,DET,LAA,Detroit Tigers,Los Angeles Angels,669373,Tarik Skubal,,,29,543294,Kyle Hendricks,,,28
+41654,776834,2025-08-08,144,146,ATL,MIA,Atlanta Braves,Miami Marlins,693821,Bryce Elder,,,55,665795,Edward Cabrera,,,27
+41657,776833,2025-08-08,145,114,CWS,CLE,Chicago White Sox,Cleveland Guardians,650644,Aaron Civale,,,43,676440,Tanner Bibee,,,28
+41660,776821,2025-08-08,140,143,TEX,PHI,Texas Rangers,Philadelphia Phillies,518876,Merrill Kelly,,,23,650911,Cristopher Sánchez,,,61
+41658,776827,2025-08-08,142,118,MIN,KC,Minnesota Twins,Kansas City Royals,657746,Joe Ryan,,,41,607625,Seth Lugo,,,67
+41659,776828,2025-08-08,158,121,MIL,NYM,Milwaukee Brewers,New York Mets,605540,Brandon Woodruff,,,53,673540,Kodai Senga,,,34
+41656,776826,2025-08-08,138,112,STL,CHC,St. Louis Cardinals,Chicago Cubs,700241,Michael McGreevy,,,36,571510,Matthew Boyd,,,16
+41662,776825,2025-08-08,109,115,AZ,COL,Arizona Diamondbacks,Colorado Rockies,668678,Zac Gallen,,,23,596295,Austin Gomber,,,26
+41661,776820,2025-08-08,135,111,SD,BOS,San Diego Padres,Boston Red Sox,601713,Nick Pivetta,,,27,621111,Walker Buehler,,,0
+41663,776824,2025-08-08,136,139,SEA,TB,Seattle Mariners,Tampa Bay Rays,622491,Luis Castillo,,,58,656876,Drew Rasmussen,,,57
+41664,776823,2025-08-08,119,141,LAD,TOR,Los Angeles Dodgers,Toronto Blue Jays,477132,Clayton Kershaw,,,22,453286,Max Scherzer,,,31
+41665,776822,2025-08-08,137,120,SF,WSH,San Francisco Giants,Washington Nationals,657424,Matt Gage,,,93,663623,Jake Irvin,,,27

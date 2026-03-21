@@ -1,0 +1,18 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+1665717,777809,2025-05-24,111,110,BOS,BAL,Boston Red Sox,Baltimore Orioles,690928,Hunter Dobbins,,,73,621107,Zach Eflin,,,24
+1665717,777809,2025-05-24,111,110,BOS,BAL,Boston Red Sox,Baltimore Orioles,690928,Hunter Dobbins,,,73,621107,Zach Eflin,,,24
+18927,777790,2025-05-24,111,110,BOS,BAL,Boston Red Sox,Baltimore Orioles,608337,Lucas Giolito,,,54,669432,Trevor Rogers,,,28
+18937,777788,2025-05-24,142,118,MIN,KC,Minnesota Twins,Kansas City Royals,805673,Zebby Matthews,,,52,608379,Michael Wacha,,,52
+18936,777786,2025-05-24,138,109,STL,AZ,St. Louis Cardinals,Arizona Diamondbacks,669461,Matthew Liberatore,,,52,518876,Merrill Kelly,,,29
+18934,777793,2025-05-24,120,137,WSH,SF,Washington Nationals,San Francisco Giants,663623,Jake Irvin,,,27,690986,Kyle Harrison,,,45
+18931,777794,2025-05-24,134,158,PIT,MIL,Pittsburgh Pirates,Milwaukee Brewers,656605,Mitch Keller,,,23,682990,Quinn Priester,,,46
+18928,777791,2025-05-24,113,112,CIN,CHC,Cincinnati Reds,Chicago Cubs,671096,Andrew Abbott,,,41,607067,Colin Rea,,,53
+18938,777787,2025-05-24,117,136,HOU,SEA,Houston Astros,Seattle Mariners,664285,Framber Valdez,,,59,693433,Bryan Woo,,,22
+18933,777803,2025-05-24,144,135,ATL,SD,Atlanta Braves,San Diego Padres,656550,Grant Holmes,,,66,669308,Sean Reynolds,,,25
+18939,777792,2025-05-24,145,140,CWS,TEX,Chicago White Sox,Texas Rangers,669060,Bryse Wilson,,,46,683004,Jack Leiter,,,35
+18940,777782,2025-05-24,115,147,COL,NYY,Colorado Rockies,New York Yankees,607536,Kyle Freeland,,,21,608331,Max Fried,,,54
+18935,777795,2025-05-24,139,141,TB,TOR,Tampa Bay Rays,Toronto Blue Jays,669358,Shane Baz,,,11,621244,José Berríos,,,17
+18929,777796,2025-05-24,116,114,DET,CLE,Detroit Tigers,Cleveland Guardians,663554,Casey Mize,,,12,682847,Luis Ortiz,,,45
+18930,777789,2025-05-24,121,119,NYM,LAD,New York Mets,Los Angeles Dodgers,656849,David Peterson,,,23,664062,Tony Gonsolin,,,26
+64580,777784,2025-05-24,133,143,ATH,PHI,Athletics,Philadelphia Phillies,605488,Jeffrey Springs,,,59,650911,Cristopher Sánchez,,,61
+18941,777781,2025-05-24,108,146,LAA,MIA,Los Angeles Angels,Miami Marlins,667755,José Soriano,,,59,615698,Cal Quantrill,,,47

@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+14173,778022,2025-05-07,120,114,WSH,CLE,Washington Nationals,Cleveland Guardians,647336,Michael Soroka,,,34,671106,Logan Allen,,,26
+14180,778015,2025-05-07,158,117,MIL,HOU,Milwaukee Brewers,Houston Astros,682990,Quinn Priester,,,46,664285,Framber Valdez,,,59
+14181,778016,2025-05-07,138,134,STL,PIT,St. Louis Cardinals,Pittsburgh Pirates,543243,Sonny Gray,,,54,656605,Mitch Keller,,,23
+14182,778020,2025-05-07,112,137,CHC,SF,Chicago Cubs,San Francisco Giants,676962,Ben Brown,,,32,592662,Robbie Ray,,,38
+64344,778010,2025-05-07,133,136,ATH,SEA,Athletics,Seattle Mariners,680684,Gunnar Hoglund,,,53,693433,Bryan Woo,,,22
+14184,778014,2025-05-07,109,121,AZ,NYM,Arizona Diamondbacks,New York Mets,518876,Merrill Kelly,,,29,673540,Kodai Senga,,,34
+14174,778017,2025-05-07,146,119,MIA,LAD,Miami Marlins,Los Angeles Dodgers,678368,Valente Bellozo,,,83,689017,Landon Knack,,,96
+14177,778018,2025-05-07,111,140,BOS,TEX,Boston Red Sox,Texas Rangers,656557,Tanner Houck,,,89,641816,Tyler Mahle,,,51
+14175,778021,2025-05-07,139,143,TB,PHI,Tampa Bay Rays,Philadelphia Phillies,669358,Shane Baz,,,11,650911,Cristopher Sánchez,,,61
+14176,778019,2025-05-07,147,135,NYY,SD,New York Yankees,San Diego Padres,608331,Max Fried,,,54,656302,Dylan Cease,,,84
+14172,778023,2025-05-07,144,113,ATL,CIN,Atlanta Braves,Cincinnati Reds,656550,Grant Holmes,,,66,668881,Hunter Greene,,,21
+14178,778011,2025-05-07,142,110,MIN,BAL,Minnesota Twins,Baltimore Orioles,680573,Simeon Woods Richardson,,,24,450203,Charlie Morton,,,50
+14179,778012,2025-05-07,118,145,KC,CWS,Kansas City Royals,Chicago White Sox,608379,Michael Wacha,,,52,686563,Jonathan Cannon,,,48
+14183,778013,2025-05-07,115,116,COL,DET,Colorado Rockies,Detroit Tigers,801403,Chase Dollander,,,32,695549,Jackson Jobe,,,21
+14186,778009,2025-05-07,108,141,LAA,TOR,Los Angeles Angels,Toronto Blue Jays,579328,Yusei Kikuchi,,,16,621244,José Berríos,,,17

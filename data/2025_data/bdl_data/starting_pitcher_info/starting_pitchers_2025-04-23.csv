@@ -1,0 +1,15 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+10393,778214,2025-04-23,144,138,ATL,STL,Atlanta Braves,St. Louis Cardinals,693821,Bryce Elder,,,55,571945,Miles Mikolas,,,39
+10391,778209,2025-04-23,116,135,DET,SD,Detroit Tigers,San Diego Padres,681857,Reese Olson,,,45,606996,Kyle Hart,,,68
+10390,778203,2025-04-23,121,143,NYM,PHI,New York Mets,Philadelphia Phillies,656849,David Peterson,,,23,554430,Zack Wheeler,,,45
+10388,778208,2025-04-23,146,113,MIA,CIN,Miami Marlins,Cincinnati Reds,645261,Sandy Alcantara,,,22,663903,Brady Singer,,,51
+10389,778206,2025-04-23,114,147,CLE,NYY,Cleveland Guardians,New York Yankees,682847,Luis Ortiz,,,45,607074,Carlos Rodón,,,55
+10387,778204,2025-04-23,120,110,WSH,BAL,Washington Nationals,Baltimore Orioles,592866,Trevor Williams,,,32,608372,Tomoyuki Sugano,,,19
+10392,778207,2025-04-23,111,136,BOS,SEA,Boston Red Sox,Seattle Mariners,656794,Sean Newcomb,,,19,676106,Emerson Hancock,,,26
+10396,778205,2025-04-23,112,119,CHC,LAD,Chicago Cubs,Los Angeles Dodgers,571510,Matthew Boyd,,,16,676508,Ben Casparius,,,78
+10397,778200,2025-04-23,117,141,HOU,TOR,Houston Astros,Toronto Blue Jays,687473,Ryan Gusto,,,67,670102,Bowden Francis,,,44
+10394,778201,2025-04-23,142,145,MIN,CWS,Minnesota Twins,Chicago White Sox,701581,David Festa,,,58,669060,Bryse Wilson,,,46
+10399,778202,2025-04-23,108,134,LAA,PIT,Los Angeles Angels,Pittsburgh Pirates,686799,Jack Kochanowicz,,,41,571760,Andrew Heaney,,,45
+10400,778199,2025-04-23,109,139,AZ,TB,Arizona Diamondbacks,Tampa Bay Rays,593958,Eduardo Rodriguez,,,57,671737,Taj Bradley,,,45
+10398,778198,2025-04-23,137,158,SF,MIL,San Francisco Giants,Milwaukee Brewers,657277,Logan Webb,,,62,642547,Freddy Peralta,,,51
+64166,778197,2025-04-23,133,140,ATH,TEX,Athletics,Texas Rangers,676664,JP Sears,,,38,677958,Kumar Rocker,,,80

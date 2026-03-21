@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+7585,778344,2025-04-13,110,141,BAL,TOR,Baltimore Orioles,Toronto Blue Jays,700249,Cade Povich,,,37,621244,José Berríos,,,17
+7584,778339,2025-04-13,147,137,NYY,SF,New York Yankees,San Francisco Giants,607074,Carlos Rodón,,,55,657277,Logan Webb,,,62
+7582,778342,2025-04-13,114,118,CLE,KC,Cleveland Guardians,Kansas City Royals,594902,Ben Lively,,,39,666142,Cole Ragans,,,55
+7583,778343,2025-04-13,113,134,CIN,PIT,Cincinnati Reds,Pittsburgh Pirates,668881,Hunter Greene,,,21,669387,Carmen Mlodzinski,,,50
+7581,778340,2025-04-13,139,144,TB,ATL,Tampa Bay Rays,Atlanta Braves,671212,Joe Boyle,,,,519242,Chris Sale,,,51
+7586,778337,2025-04-13,146,120,MIA,WSH,Miami Marlins,Washington Nationals,615698,Cal Quantrill,,,47,669022,MacKenzie Gore,,,1
+7587,778329,2025-04-13,117,108,HOU,LAA,Houston Astros,Los Angeles Angels,669713,Hayden Wesneski,,,39,543294,Kyle Hendricks,,,28
+7589,778335,2025-04-13,142,116,MIN,DET,Minnesota Twins,Detroit Tigers,680573,Simeon Woods Richardson,,,24,663554,Casey Mize,,,12
+7588,778338,2025-04-13,145,111,CWS,BOS,Chicago White Sox,Boston Red Sox,681343,Shane Smith,,,64,676979,Garrett Crochet,,,35
+7590,778336,2025-04-13,138,143,STL,PHI,St. Louis Cardinals,Philadelphia Phillies,669461,Matthew Liberatore,,,52,554430,Zack Wheeler,,,45
+64030,778333,2025-04-13,133,121,ATH,NYM,Athletics,New York Mets,622663,Luis Severino,,,40,673540,Kodai Senga,,,34
+7592,778330,2025-04-13,135,115,SD,COL,San Diego Padres,Colorado Rockies,650633,Michael King,,,34,607536,Kyle Freeland,,,21
+7595,778334,2025-04-13,136,140,SEA,TEX,Seattle Mariners,Texas Rangers,669302,Logan Gilbert,,,36,543135,Nathan Eovaldi,,,17
+7593,778332,2025-04-13,109,158,AZ,MIL,Arizona Diamondbacks,Milwaukee Brewers,668678,Zac Gallen,,,23,642547,Freddy Peralta,,,51
+7591,778331,2025-04-13,119,112,LAD,CHC,Los Angeles Dodgers,Chicago Cubs,607192,Tyler Glasnow,,,31,607067,Colin Rea,,,53

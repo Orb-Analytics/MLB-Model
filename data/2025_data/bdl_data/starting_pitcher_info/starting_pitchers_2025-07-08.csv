@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+31683,777198,2025-07-08,110,121,BAL,NYM,Baltimore Orioles,New York Mets,687064,Brandon Young,,,63,605280,Clay Holmes,,,35
+31685,777195,2025-07-08,116,139,DET,TB,Detroit Tigers,Tampa Bay Rays,656427,Jack Flaherty,,,9,686752,Ryan Pepiot,,,44
+31684,777187,2025-07-08,147,136,NYY,SEA,New York Yankees,Seattle Mariners,701542,Will Warren,,,98,669302,Logan Gilbert,,,36
+31681,777196,2025-07-08,111,115,BOS,COL,Boston Red Sox,Colorado Rockies,678394,Brayan Bello,,,66,607536,Kyle Freeland,,,21
+31682,777197,2025-07-08,113,146,CIN,MIA,Cincinnati Reds,Miami Marlins,607259,Nick Martinez,,,28,691587,Eury Pérez,,,39
+31689,777194,2025-07-08,118,134,KC,PIT,Kansas City Royals,Pittsburgh Pirates,607625,Seth Lugo,,,67,656605,Mitch Keller,,,23
+31686,777190,2025-07-08,142,112,MIN,CHC,Minnesota Twins,Chicago Cubs,680573,Simeon Woods Richardson,,,24,684007,Shota Imanaga,,,18
+31690,777188,2025-07-08,145,141,CWS,TOR,Chicago White Sox,Toronto Blue Jays,650644,Aaron Civale,,,43,605135,Chris Bassitt,,,40
+31688,777193,2025-07-08,158,119,MIL,LAD,Milwaukee Brewers,Los Angeles Dodgers,694819,Jacob Misiorowski,,,32,477132,Clayton Kershaw,,,22
+31691,777191,2025-07-08,138,120,STL,WSH,St. Louis Cardinals,Washington Nationals,543243,Sonny Gray,,,54,663623,Jake Irvin,,,27
+31687,777192,2025-07-08,117,114,HOU,CLE,Houston Astros,Cleveland Guardians,686613,Hunter Brown,,,58,676282,Joey Cantillo,,,54
+31695,777180,2025-07-08,108,140,LAA,TEX,Los Angeles Angels,Texas Rangers,667755,José Soriano,,,59,543135,Nathan Eovaldi,,,17
+31692,777185,2025-07-08,135,109,SD,AZ,San Diego Padres,Arizona Diamondbacks,601713,Nick Pivetta,,,27,518876,Merrill Kelly,,,29
+31694,777186,2025-07-08,137,143,SF,PHI,San Francisco Giants,Philadelphia Phillies,592662,Robbie Ray,,,38,592836,Taijuan Walker,,,99
+67851,777189,2025-07-08,133,144,ATH,ATL,Athletics,Atlanta Braves,605488,Jeffrey Springs,,,59,800311,Didier Fuentes,,,75

@@ -1,0 +1,18 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+3594720,776691,2025-08-19,112,158,CHC,MIL,Chicago Cubs,Milwaukee Brewers,571510,Matthew Boyd,,,16,694477,Chad Patrick,,,39
+3594720,776691,2025-08-19,112,158,CHC,MIL,Chicago Cubs,Milwaukee Brewers,571510,Matthew Boyd,,,16,694477,Chad Patrick,,,39
+44537,776676,2025-08-19,112,158,CHC,MIL,Chicago Cubs,Milwaukee Brewers,592791,Jameson Taillon,,,50,605540,Brandon Woodruff,,,53
+44531,776685,2025-08-19,116,117,DET,HOU,Detroit Tigers,Houston Astros,669373,Tarik Skubal,,,29,686613,Hunter Brown,,,58
+44536,776679,2025-08-19,134,141,PIT,TOR,Pittsburgh Pirates,Toronto Blue Jays,656605,Mitch Keller,,,23,453286,Max Scherzer,,,31
+44535,776686,2025-08-19,146,138,MIA,STL,Miami Marlins,St. Louis Cardinals,665795,Edward Cabrera,,,27,700241,Michael McGreevy,,,36
+44533,776678,2025-08-19,120,121,WSH,NYM,Washington Nationals,New York Mets,663623,Jake Irvin,,,27,656849,David Peterson,,,23
+44534,776680,2025-08-19,143,136,PHI,SEA,Philadelphia Phillies,Seattle Mariners,650911,Cristopher Sánchez,,,61,682243,Bryce Miller,,,50
+44529,776684,2025-08-19,111,110,BOS,BAL,Boston Red Sox,Baltimore Orioles,621111,Walker Buehler,,,0,608372,Tomoyuki Sugano,,,19
+44530,776687,2025-08-19,144,145,ATL,CWS,Atlanta Braves,Chicago White Sox,693821,Bryce Elder,,,55,681343,Shane Smith,,,64
+44532,776677,2025-08-19,139,147,TB,NYY,Tampa Bay Rays,New York Yankees,669358,Shane Baz,,,11,607074,Carlos Rodón,,,55
+44539,776675,2025-08-19,118,140,KC,TEX,Kansas City Royals,Texas Rangers,607625,Seth Lugo,,,67,518876,Merrill Kelly,,,23
+44538,776674,2025-08-19,142,133,MIN,ATH,Minnesota Twins,Athletics,657746,Joe Ryan,,,41,682052,Jacob Lopez,,,57
+44540,776671,2025-08-19,115,119,COL,LAD,Colorado Rockies,Los Angeles Dodgers,596295,Austin Gomber,,,26,686218,Emmet Sheehan,,,80
+44541,776668,2025-08-19,108,113,LAA,CIN,Los Angeles Angels,Cincinnati Reds,543294,Kyle Hendricks,,,28,668881,Hunter Greene,,,21
+44542,776672,2025-08-19,109,114,AZ,CLE,Arizona Diamondbacks,Cleveland Guardians,593958,Eduardo Rodriguez,,,57,676440,Tanner Bibee,,,28
+44543,776667,2025-08-19,135,137,SD,SF,San Diego Padres,San Francisco Giants,601713,Nick Pivetta,,,27,678906,Kai-Wei Teng,,,66

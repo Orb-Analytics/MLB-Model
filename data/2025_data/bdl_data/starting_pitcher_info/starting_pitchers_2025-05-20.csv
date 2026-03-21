@@ -1,0 +1,15 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+17408,777847,2025-05-20,134,113,PIT,CIN,Pittsburgh Pirates,Cincinnati Reds,663559,Bailey Falter,,,6,607259,Nick Martinez,,,28
+17407,777850,2025-05-20,146,112,MIA,CHC,Miami Marlins,Chicago Cubs,677960,Ryan Weathers,,,35,592791,Jameson Taillon,,,50
+17410,777851,2025-05-20,111,121,BOS,NYM,Boston Red Sox,New York Mets,621111,Walker Buehler,,,0,605280,Clay Holmes,,,35
+17406,777841,2025-05-20,120,144,WSH,ATL,Washington Nationals,Atlanta Braves,680730,Mitchell Parker,,,70,675911,Spencer Strider,,,99
+17409,777848,2025-05-20,139,117,TB,HOU,Tampa Bay Rays,Houston Astros,641793,Zack Littell,,,52,687888,Brandon Walter,,,
+17412,777849,2025-05-20,147,140,NYY,TEX,New York Yankees,Texas Rangers,701542,Will Warren,,,98,571578,Patrick Corbin,,,46
+17411,777845,2025-05-20,141,135,TOR,SD,Toronto Blue Jays,San Diego Padres,605135,Chris Bassitt,,,40,656302,Dylan Cease,,,84
+17416,777846,2025-05-20,145,136,CWS,SEA,Chicago White Sox,Seattle Mariners,605288,Adrian Houser,,,57,668984,Casey Legumina,,,64
+17413,777844,2025-05-20,158,110,MIL,BAL,Milwaukee Brewers,Baltimore Orioles,701656,Logan Henderson,,,43,669211,Keegan Akin,,,45
+17415,777840,2025-05-20,138,116,STL,DET,St. Louis Cardinals,Detroit Tigers,607200,Erick Fedde,,,12,669373,Tarik Skubal,,,29
+17417,777842,2025-05-20,115,143,COL,PHI,Colorado Rockies,Philadelphia Phillies,622608,Antonio Senzatela,,,49,666200,Jesús Luzardo,,,44
+17420,777836,2025-05-20,137,118,SF,KC,San Francisco Giants,Kansas City Royals,806185,Hayden Birdsong,,,60,547179,Michael Lorenzen,,,24
+64526,777843,2025-05-20,133,108,ATH,LAA,Athletics,Los Angeles Angels,680684,Gunnar Hoglund,,,53,543294,Kyle Hendricks,,,28
+17419,777838,2025-05-20,119,109,LAD,AZ,Los Angeles Dodgers,Arizona Diamondbacks,808967,Yoshinobu Yamamoto,,,18,669194,Ryne Nelson,,,19

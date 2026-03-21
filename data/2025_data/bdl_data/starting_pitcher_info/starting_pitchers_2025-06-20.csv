@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+26962,777436,2025-06-20,112,136,CHC,SEA,Chicago Cubs,Seattle Mariners,571510,Matthew Boyd,,,16,669923,George Kirby,,,68
+26959,777432,2025-06-20,134,140,PIT,TEX,Pittsburgh Pirates,Texas Rangers,681347,Mike Burrows,,,53,594798,Jacob deGrom,,,48
+26957,777431,2025-06-20,139,116,TB,DET,Tampa Bay Rays,Detroit Tigers,669358,Shane Baz,,,11,656427,Jack Flaherty,,,9
+26955,777438,2025-06-20,147,110,NYY,BAL,New York Yankees,Baltimore Orioles,608331,Max Fried,,,54,608372,Tomoyuki Sugano,,,19
+26956,777435,2025-06-20,141,145,TOR,CWS,Toronto Blue Jays,Chicago White Sox,605513,Spencer Turnbull,,,12,691799,Grant Taylor,,,31
+26954,777439,2025-06-20,146,144,MIA,ATL,Miami Marlins,Atlanta Braves,676083,Janson Junk,,,26,800311,Didier Fuentes,,,75
+26960,777433,2025-06-20,138,113,STL,CIN,St. Louis Cardinals,Cincinnati Reds,669467,Andre Pallante,,,53,663903,Brady Singer,,,51
+26958,777437,2025-06-20,143,121,PHI,NYM,Philadelphia Phillies,New York Mets,554430,Zack Wheeler,,,45,694918,Blade Tidwell,,,
+26961,777434,2025-06-20,142,158,MIN,MIL,Minnesota Twins,Milwaukee Brewers,657746,Joe Ryan,,,41,694819,Jacob Misiorowski,,,32
+26963,777430,2025-06-20,115,109,COL,AZ,Colorado Rockies,Arizona Diamondbacks,596295,Austin Gomber,,,26,668678,Zac Gallen,,,23
+26966,777428,2025-06-20,108,117,LAA,HOU,Los Angeles Angels,Houston Astros,579328,Yusei Kikuchi,,,16,686613,Hunter Brown,,,58
+26967,777426,2025-06-20,135,118,SD,KC,San Diego Padres,Kansas City Royals,601713,Nick Pivetta,,,27,547179,Michael Lorenzen,,,24
+67607,777429,2025-06-20,133,114,ATH,CLE,Athletics,Cleveland Guardians,605488,Jeffrey Springs,,,59,676440,Tanner Bibee,,,28
+26968,777427,2025-06-20,119,120,LAD,WSH,Los Angeles Dodgers,Washington Nationals,477132,Clayton Kershaw,,,22,669022,MacKenzie Gore,,,1
+26964,777425,2025-06-20,137,111,SF,BOS,San Francisco Giants,Boston Red Sox,806185,Hayden Birdsong,,,60,690928,Hunter Dobbins,,,73

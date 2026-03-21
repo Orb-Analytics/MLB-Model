@@ -1,0 +1,11 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+31392,777211,2025-07-07,116,139,DET,TB,Detroit Tigers,Tampa Bay Rays,672456,Keider Montero,,,54,669358,Shane Baz,,,11
+31390,777209,2025-07-07,111,115,BOS,COL,Boston Red Sox,Colorado Rockies,690916,Richard Fitts,,,80,596295,Austin Gomber,,,26
+31391,777208,2025-07-07,113,146,CIN,MIA,Cincinnati Reds,Miami Marlins,663903,Brady Singer,,,51,676083,Janson Junk,,,26
+31395,777204,2025-07-07,118,134,KC,PIT,Kansas City Royals,Pittsburgh Pirates,702070,Noah Cameron,,,65,571760,Andrew Heaney,,,45
+31396,777212,2025-07-07,145,141,CWS,TOR,Chicago White Sox,Toronto Blue Jays,680732,Sean Burke,,,59,621244,José Berríos,,,17
+31394,777201,2025-07-07,158,119,MIL,LAD,Milwaukee Brewers,Los Angeles Dodgers,642547,Freddy Peralta,,,51,808967,Yoshinobu Yamamoto,,,18
+31393,777202,2025-07-07,117,114,HOU,CLE,Houston Astros,Cleveland Guardians,676467,Colton Gordon,,,61,676440,Tanner Bibee,,,28
+31399,777200,2025-07-07,108,140,LAA,TEX,Los Angeles Angels,Texas Rangers,579328,Yusei Kikuchi,,,16,594798,Jacob deGrom,,,48
+31397,777203,2025-07-07,135,109,SD,AZ,San Diego Padres,Arizona Diamondbacks,506433,Yu Darvish,,,11,668678,Zac Gallen,,,23
+31398,777199,2025-07-07,137,143,SF,PHI,San Francisco Giants,Philadelphia Phillies,694738,Landen Roupp,,,65,650911,Cristopher Sánchez,,,61

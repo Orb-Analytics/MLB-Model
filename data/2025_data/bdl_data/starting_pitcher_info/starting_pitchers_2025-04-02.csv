@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+3340,778480,2025-04-02,113,140,CIN,TEX,Cincinnati Reds,Texas Rangers,668881,Hunter Greene,,,21,683004,Jack Leiter,,,35
+3339,778479,2025-04-02,139,134,TB,PIT,Tampa Bay Rays,Pittsburgh Pirates,686752,Ryan Pepiot,,,44,694973,Paul Skenes,,,30
+3343,778477,2025-04-02,158,118,MIL,KC,Milwaukee Brewers,Kansas City Royals,642547,Freddy Peralta,,,51,666142,Cole Ragans,,,55
+3342,778473,2025-04-02,138,108,STL,LAA,St. Louis Cardinals,Los Angeles Angels,543243,Sonny Gray,,,54,579328,Yusei Kikuchi,,,16
+3344,778474,2025-04-02,145,142,CWS,MIN,Chicago White Sox,Minnesota Twins,680732,Sean Burke,,,59,641154,Pablo López,,,49
+3341,778478,2025-04-02,141,120,TOR,WSH,Toronto Blue Jays,Washington Nationals,687922,Easton Lucas,,,62,669022,MacKenzie Gore,,,1
+63884,778471,2025-04-02,133,112,ATH,CHC,Athletics,Chicago Cubs,605488,Jeffrey Springs,,,59,592791,Jameson Taillon,,,50
+3348,778476,2025-04-02,135,114,SD,CLE,San Diego Padres,Cleveland Guardians,656302,Dylan Cease,,,84,594902,Ben Lively,,,39
+3349,778469,2025-04-02,136,116,SEA,DET,Seattle Mariners,Detroit Tigers,622491,Luis Castillo,,,58,669373,Tarik Skubal,,,29
+3345,778475,2025-04-02,117,137,HOU,SF,Houston Astros,San Francisco Giants,664285,Framber Valdez,,,59,694738,Landen Roupp,,,65
+3338,778481,2025-04-02,146,121,MIA,NYM,Miami Marlins,New York Mets,687362,Connor Gillispie,,,55,605280,Clay Holmes,,,35
+3336,778483,2025-04-02,110,111,BAL,BOS,Baltimore Orioles,Boston Red Sox,621107,Zach Eflin,,,24,676979,Garrett Crochet,,,35
+3337,778482,2025-04-02,143,115,PHI,COL,Philadelphia Phillies,Colorado Rockies,554430,Zack Wheeler,,,45,607536,Kyle Freeland,,,21
+3335,778484,2025-04-02,147,109,NYY,AZ,New York Yankees,Arizona Diamondbacks,607074,Carlos Rodón,,,55,668678,Zac Gallen,,,23
+3346,778472,2025-04-02,119,144,LAD,ATL,Los Angeles Dodgers,Atlanta Braves,605483,Blake Snell,,,7,693821,Bryce Elder,,,55

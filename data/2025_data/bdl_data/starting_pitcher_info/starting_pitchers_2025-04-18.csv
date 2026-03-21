@@ -1,0 +1,15 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+8909,778268,2025-04-18,112,109,CHC,AZ,Chicago Cubs,Arizona Diamondbacks,607067,Colin Rea,,,53,669203,Corbin Burnes,,,39
+8903,778277,2025-04-18,116,118,DET,KC,Detroit Tigers,Kansas City Royals,695549,Jackson Jobe,,,21,666142,Cole Ragans,,,55
+8902,778271,2025-04-18,134,114,PIT,CLE,Pittsburgh Pirates,Cleveland Guardians,669387,Carmen Mlodzinski,,,50,682847,Luis Ortiz,,,45
+8904,778274,2025-04-18,143,146,PHI,MIA,Philadelphia Phillies,Miami Marlins,554430,Zack Wheeler,,,45,645261,Sandy Alcantara,,,22
+8901,778276,2025-04-18,110,113,BAL,CIN,Baltimore Orioles,Cincinnati Reds,700249,Cade Povich,,,37,671096,Andrew Abbott,,,41
+8906,778272,2025-04-18,139,147,TB,NYY,Tampa Bay Rays,New York Yankees,656876,Drew Rasmussen,,,57,607074,Carlos Rodón,,,55
+8907,778273,2025-04-18,141,136,TOR,SEA,Toronto Blue Jays,Seattle Mariners,670102,Bowden Francis,,,44,693433,Bryan Woo,,,22
+8908,778270,2025-04-18,121,138,NYM,STL,New York Mets,St. Louis Cardinals,656849,David Peterson,,,23,571945,Miles Mikolas,,,39
+8900,778275,2025-04-18,111,145,BOS,CWS,Boston Red Sox,Chicago White Sox,690928,Hunter Dobbins,,,,527048,Martín Pérez,,,54
+8905,778284,2025-04-18,144,142,ATL,MIN,Atlanta Braves,Minnesota Twins,693821,Bryce Elder,,,55,663978,Chris Paddack,,,20
+8910,778263,2025-04-18,140,119,TEX,LAD,Texas Rangers,Los Angeles Dodgers,594798,Jacob deGrom,,,48,808967,Yoshinobu Yamamoto,,,18
+8912,778269,2025-04-18,117,135,HOU,SD,Houston Astros,San Diego Padres,687473,Ryan Gusto,,,67,606996,Kyle Hart,,,68
+8911,778261,2025-04-18,158,133,MIL,ATH,Milwaukee Brewers,Athletics,642547,Freddy Peralta,,,51,669372,J.T. Ginn,,,70
+8914,778260,2025-04-18,108,137,LAA,SF,Los Angeles Angels,San Francisco Giants,542881,Tyler Anderson,,,31,657277,Logan Webb,,,62

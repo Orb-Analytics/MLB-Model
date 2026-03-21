@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+44345,776708,2025-08-17,120,143,WSH,PHI,Washington Nationals,Philadelphia Phillies,680730,Mitchell Parker,,,70,605400,Aaron Nola,,,27
+44343,776714,2025-08-17,111,146,BOS,MIA,Boston Red Sox,Miami Marlins,676979,Garrett Crochet,,,35,676083,Janson Junk,,,26
+44346,776710,2025-08-17,141,140,TOR,TEX,Toronto Blue Jays,Texas Rangers,621244,José Berríos,,,17,543135,Nathan Eovaldi,,,17
+44342,776706,2025-08-17,114,144,CLE,ATL,Cleveland Guardians,Atlanta Braves,671106,Logan Allen,,,26,607200,Erick Fedde,,,22
+44344,776709,2025-08-17,113,158,CIN,MIL,Cincinnati Reds,Milwaukee Brewers,671096,Andrew Abbott,,,41,500779,Jose Quintana,,,62
+44347,776705,2025-08-17,117,110,HOU,BAL,Houston Astros,Baltimore Orioles,664299,Cristian Javier,,,53,665152,Dean Kremer,,,64
+44349,776700,2025-08-17,142,116,MIN,DET,Minnesota Twins,Detroit Tigers,641672,Thomas Hatch,,,56,663978,Chris Paddack,,,40
+44348,776702,2025-08-17,118,145,KC,CWS,Kansas City Royals,Chicago White Sox,686701,Ryan Bergert,,,38,663436,Davis Martin,,,65
+44350,776698,2025-08-17,138,147,STL,NYY,St. Louis Cardinals,New York Yankees,571945,Miles Mikolas,,,39,701542,Will Warren,,,98
+44351,776704,2025-08-17,112,134,CHC,PIT,Chicago Cubs,Pittsburgh Pirates,665871,Javier Assad,,,72,669387,Carmen Mlodzinski,,,50
+44352,776701,2025-08-17,115,109,COL,AZ,Colorado Rockies,Arizona Diamondbacks,622608,Antonio Senzatela,,,49,622503,Nabil Crismatt,,,61
+68339,776699,2025-08-17,133,108,ATH,LAA,Athletics,Los Angeles Angels,605488,Jeffrey Springs,,,59,667755,José Soriano,,,59
+44355,776703,2025-08-17,137,139,SF,TB,San Francisco Giants,Tampa Bay Rays,657277,Logan Webb,,,62,686752,Ryan Pepiot,,,44
+44354,776697,2025-08-17,119,135,LAD,SD,Los Angeles Dodgers,San Diego Padres,607192,Tyler Glasnow,,,31,506433,Yu Darvish,,,11
+44356,776707,2025-08-17,121,136,NYM,SEA,New York Mets,Seattle Mariners,605280,Clay Holmes,,,35,669923,George Kirby,,,68

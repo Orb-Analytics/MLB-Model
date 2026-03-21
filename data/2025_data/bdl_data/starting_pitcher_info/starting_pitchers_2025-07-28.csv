@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+38497,776966,2025-07-28,110,141,BAL,TOR,Baltimore Orioles,Toronto Blue Jays,621107,Zach Eflin,,,24,605135,Chris Bassitt,,,40
+38494,776968,2025-07-28,114,115,CLE,COL,Cleveland Guardians,Colorado Rockies,677944,Slade Cecconi,,,44,687134,Bradley Blalock,,,64
+38493,776973,2025-07-28,116,109,DET,AZ,Detroit Tigers,Arizona Diamondbacks,675512,Troy Melton,,,52,593958,Eduardo Rodriguez,,,57
+38496,776970,2025-07-28,147,139,NYY,TB,New York Yankees,Tampa Bay Rays,693645,Cam Schlittler,,,31,656876,Drew Rasmussen,,,57
+38495,776967,2025-07-28,113,119,CIN,LAD,Cincinnati Reds,Los Angeles Dodgers,695505,Chase Burns,,,26,808967,Yoshinobu Yamamoto,,,18
+38499,776961,2025-07-28,142,111,MIN,BOS,Minnesota Twins,Boston Red Sox,680573,Simeon Woods Richardson,,,24,690916,Richard Fitts,,,80
+38498,776971,2025-07-28,118,144,KC,ATL,Kansas City Royals,Atlanta Braves,448179,Rich Hill,,,35,675911,Spencer Strider,,,99
+38502,776972,2025-07-28,145,143,CWS,PHI,Chicago White Sox,Philadelphia Phillies,663436,Davis Martin,,,65,650911,Cristopher Sánchez,,,61
+38500,776965,2025-07-28,158,112,MIL,CHC,Milwaukee Brewers,Chicago Cubs,694819,Jacob Misiorowski,,,32,571510,Matthew Boyd,,,16
+38501,776960,2025-07-28,138,146,STL,MIA,St. Louis Cardinals,Miami Marlins,669467,Andre Pallante,,,53,665795,Edward Cabrera,,,27
+38503,776969,2025-07-28,117,120,HOU,WSH,Houston Astros,Washington Nationals,664285,Framber Valdez,,,59,695418,Brad Lord,,,61
+38507,776958,2025-07-28,108,140,LAA,TEX,Los Angeles Angels,Texas Rangers,686799,Jack Kochanowicz,,,41,594798,Jacob deGrom,,,48
+38504,776959,2025-07-28,135,121,SD,NYM,San Diego Padres,New York Mets,656302,Dylan Cease,,,84,593423,Frankie Montas,,,47
+38505,776964,2025-07-28,137,134,SF,PIT,San Francisco Giants,Pittsburgh Pirates,687931,Carson Whisenhunt,,,88,656605,Mitch Keller,,,23
+68078,776957,2025-07-28,133,136,ATH,SEA,Athletics,Seattle Mariners,676664,JP Sears,,,38,622491,Luis Castillo,,,58

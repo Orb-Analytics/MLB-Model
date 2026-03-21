@@ -1,0 +1,196 @@
+# Training Set Schema - Exact Column Reference
+# 162 Total Columns
+
+## SECTION 1: GAME/MATCHUP DATA (19 columns)
+1. Date
+2. Fav Team
+3. Dog Team
+4. Away
+5. Home
+6. Fav Home?
+7. Spread
+8. Fav Spread Odds
+9. Dog Spread Odds
+10. Fav Score
+11. Dog Score
+12. Fav/Dog +/-
+13. Fav Cover?
+14. Fav Win?
+15. Away Spread Odds
+16. Home  Spread Odds
+17. Away Score
+18. Home Score
+19. Home/Away  +/-
+
+## SECTION 2: STARTING PITCHER DATA (18 columns)
+20. Fav SP
+21. Dog SP
+22. Fav SP Era
+23. Dog SP ERA
+24. Fav SP WHIP
+25. Dog SP WHIP
+26. Fav SP IP
+27. Dog SP IP
+28. Fav SP AB/IP
+29. Dog SP AB/IP
+30. Fav SP SO
+31. Dog SP SO
+32. Fav SP SO/AB
+33. Dog SP SO/AB
+34. Fav SP AVG
+35. Dog SP AVG
+36. Fav SP AB
+37. Dog SP AB
+
+## SECTION 3: BULLPEN DATA (14 columns)
+38. Fav BP ERA
+39. Dog BP ERA
+40. Fav BP WHIP
+41. Dog BP WHIP
+42. Fav BP IP
+43. Dog BP IP
+44. Fav BP AB/IP
+45. Dog BP AB/IP
+46. Fav BP SO
+47. Dog BP SO
+48. Fav BP SO/AB
+49. Dog BP SO/AB
+50. Fav BP AB
+51. Dog BP AB
+
+## SECTION 4: TEAM PITCHING DATA (56 columns)
+52. Fav P runs
+53. Dog P runs
+54. Fav P runs/AB
+55. Dog P runs/AB
+56. Fav P doubles
+57. Dog P doubles
+58. Fav P doubles/AB
+59. Dog P doubles/AB
+60. Fav P triples
+61. Dog P triples
+62. Fav P triples/AB
+63. Dog P triples/AB
+64. Fav P homeRuns
+65. Dog P homeRuns
+66. Fav P homeruns/AB
+67. Dog P homeruns/AB
+68. Fav P strikeOuts
+69. Dog P strikeOuts
+70. Fav P Strikeouts/AB
+71. Dog P Strikeouts/AB
+72. Fav P baseOnBalls
+73. Dog P baseOnBalls
+74. Fav P baseonballs/AB
+75. Dog P baseonballs/AB
+76. Fav P hits
+77. Dog P hits
+78. Fav P avg
+79. Dog P avg
+80. Fav P atBats
+81. Dog P atBats
+82. Fav P obp
+83. Dog P obp
+84. Fav P slg
+85. Dog P slg
+86. Fav P ops
+87. Dog P ops
+88. Fav P era
+89. Dog P era
+90. Fav P inningsPitched
+91. Dog P inningsPitched
+92. Fav P earnedRuns
+93. Dog P earnedRuns
+94. Fav P earnedruns/AB
+95. Dog P earnedruns/AB
+96. Fav P whip
+97. Dog P whip
+98. Fav P battersFaced
+99. Dog P battersFaced
+100. Fav P totalBases
+101. Dog P totalBases
+102. Fav P pitchesPerInning
+103. Dog P pitchesPerInning
+104. Fav P gamesFinished
+105. Dog P gamesFinished
+106. Fav P strikeoutWalkRatio
+107. Dog P strikeoutWalkRatio
+108. Fav P strikeoutsPer9Inn
+109. Dog P strikeoutsPer9Inn
+110. Fav P walksPer9Inn
+111. Dog P walksPer9Inn
+112. Fav P hitsPer9Inn
+113. Dog P hitsPer9Inn
+114. Fav P runsScoredPer9
+115. Dog P runsScoredPer9
+116. Fav P homeRunsPer9
+117. Dog P homeRunsPer9
+
+## SECTION 5: TEAM BATTING DATA (46 columns)
+118. Fav B runs
+119. Dog B runs
+120. Fav B runs/AB
+121. Dog B runs/AB
+122. Fav B doubles
+123. Dog B doubles
+124. Fav B doubles/AB
+125. Dog B doubles/AB
+126. Fav B triples
+127. Dog B triples
+128. Fav B triples/AB
+129. Dog B triples/AB
+130. Fav B homeRuns
+131. Dog B homeRuns
+132. Fav B homeruns/AB
+133. Dog B homeruns/AB
+134. Fav B strikeOuts
+135. Dog B strikeOuts
+136. Fav B Strikeouts/AB
+137. Dog B Strikeouts/AB
+138. Fav B baseOnBalls
+139. Dog B baseOnBalls
+140. Fav B BB/AB
+141. Dog B BB/AB
+142. Fav B hits
+143. Dog B hits
+144. Fav B avg
+145. Dog B avg
+146. Fav B atBats
+147. Dog B atBats
+148. Fav B obp
+149. Dog B obp
+150. Fav B slg
+151. Dog B slg
+152. Fav B ops
+153. Dog B ops
+154. Fav B stolenBases
+155. Dog B stolenBases
+156. Fav B totalBases
+157. Dog B totalBases
+158. Fav B rbi
+159. Dog B rbi
+160. Fav B rbi/AB
+161. Dog B rbi/AB
+
+## IMPORTANT NOTES:
+
+1. **Favorite/Underdog Perspective**: All stats are organized by betting favorite vs underdog, NOT home/away
+   - Must determine favorite from betting odds
+   - Then map team stats to Fav/Dog columns
+
+2. **Calculated Fields**: Fields with "/" (e.g., "runs/AB") are ratios calculated from raw values
+
+3. **Bullpen Stats**: BP columns are team pitching stats MINUS starting pitcher contribution
+
+4. **Critical Gap**: Columns 20-21 (Fav SP/Dog SP) require starting pitcher names
+   - Balldontlie API doesn't have direct "probable pitchers" endpoint
+   - Need alternative solution
+
+5. **Missing from API**:
+   - Pitching doubles/triples (cols 56-63)
+   - Pitches per inning (cols 102-103)
+   - Games finished (cols 104-105)
+
+6. **Name Mapping**:
+   - CHW (API) → CWS (training set)
+   - KC (API) → KAN (training set)

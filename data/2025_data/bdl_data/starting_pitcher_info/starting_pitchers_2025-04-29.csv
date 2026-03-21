@@ -1,0 +1,15 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+12053,778129,2025-04-29,114,142,CLE,MIN,Cleveland Guardians,Minnesota Twins,676440,Tanner Bibee,,,28,663978,Chris Paddack,,,20
+12054,778133,2025-04-29,110,147,BAL,NYY,Baltimore Orioles,New York Yankees,502043,Kyle Gibson,,,48,607074,Carlos Rodón,,,55
+12051,778135,2025-04-29,134,112,PIT,CHC,Pittsburgh Pirates,Chicago Cubs,571760,Andrew Heaney,,,45,684007,Shota Imanaga,,,18
+12056,778131,2025-04-29,143,120,PHI,WSH,Philadelphia Phillies,Washington Nationals,554430,Zack Wheeler,,,45,669022,MacKenzie Gore,,,1
+12052,778128,2025-04-29,139,118,TB,KC,Tampa Bay Rays,Kansas City Royals,671737,Taj Bradley,,,45,547179,Michael Lorenzen,,,24
+12050,778127,2025-04-29,141,111,TOR,BOS,Toronto Blue Jays,Boston Red Sox,670102,Bowden Francis,,,44,676979,Garrett Crochet,,,35
+12049,778130,2025-04-29,121,109,NYM,AZ,New York Mets,Arizona Diamondbacks,656849,David Peterson,,,23,593958,Eduardo Rodriguez,,,57
+12058,778125,2025-04-29,145,158,CWS,MIL,Chicago White Sox,Milwaukee Brewers,656457,Tyler Gilbert,,,40,642547,Freddy Peralta,,,51
+12059,778122,2025-04-29,140,133,TEX,ATH,Texas Rangers,Athletics,594798,Jacob deGrom,,,48,682052,Jacob Lopez,,,57
+12057,778124,2025-04-29,117,116,HOU,DET,Houston Astros,Detroit Tigers,687473,Ryan Gusto,,,67,681857,Reese Olson,,,45
+12060,778120,2025-04-29,115,144,COL,ATL,Colorado Rockies,Atlanta Braves,608566,Germán Márquez,,,48,700363,AJ Smith-Shawver,,,32
+12061,778121,2025-04-29,136,108,SEA,LAA,Seattle Mariners,Los Angeles Angels,682243,Bryce Miller,,,50,686799,Jack Kochanowicz,,,41
+12063,778126,2025-04-29,135,137,SD,SF,San Diego Padres,San Francisco Giants,601713,Nick Pivetta,,,27,657277,Logan Webb,,,62
+12062,778123,2025-04-29,119,146,LAD,MIA,Los Angeles Dodgers,Miami Marlins,676263,Jack Dreyer,,,86,645261,Sandy Alcantara,,,22

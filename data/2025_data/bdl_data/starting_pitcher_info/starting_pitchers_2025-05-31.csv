@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+21377,777704,2025-05-31,112,113,CHC,CIN,Chicago Cubs,Cincinnati Reds,519141,Drew Pomeranz,,,45,666157,Nick Lodolo,,,40
+21375,777701,2025-05-31,141,133,TOR,ATH,Toronto Blue Jays,Athletics,680755,Braydon Fisher,,,63,680684,Gunnar Hoglund,,,53
+21379,777697,2025-05-31,140,138,TEX,STL,Texas Rangers,St. Louis Cardinals,571578,Patrick Corbin,,,46,543243,Sonny Gray,,,54
+21372,777699,2025-05-31,110,145,BAL,CWS,Baltimore Orioles,Chicago White Sox,665152,Dean Kremer,,,64,663436,Davis Martin,,,65
+21374,777702,2025-05-31,143,158,PHI,MIL,Philadelphia Phillies,Milwaukee Brewers,666200,Jesús Luzardo,,,44,694477,Chad Patrick,,,39
+21370,777703,2025-05-31,114,108,CLE,LAA,Cleveland Guardians,Los Angeles Angels,677944,Slade Cecconi,,,44,543294,Kyle Hendricks,,,28
+21378,777694,2025-05-31,118,116,KC,DET,Kansas City Royals,Detroit Tigers,608379,Michael Wacha,,,52,669373,Tarik Skubal,,,29
+21373,777700,2025-05-31,121,115,NYM,COL,New York Mets,Colorado Rockies,673540,Kodai Senga,,,34,622608,Antonio Senzatela,,,49
+21380,777693,2025-05-31,117,139,HOU,TB,Houston Astros,Tampa Bay Rays,676467,Colton Gordon,,,61,641793,Zack Littell,,,52
+21371,777706,2025-05-31,144,111,ATL,BOS,Atlanta Braves,Boston Red Sox,680885,Spencer Schwellenbach,,,56,621111,Walker Buehler,,,0
+21376,777705,2025-05-31,146,137,MIA,SF,Miami Marlins,San Francisco Giants,665795,Edward Cabrera,,,27,592662,Robbie Ray,,,38
+21381,777695,2025-05-31,136,142,SEA,MIN,Seattle Mariners,Minnesota Twins,682243,Bryce Miller,,,50,641927,Bailey Ober,,,17
+21382,777698,2025-05-31,119,147,LAD,NYY,Los Angeles Dodgers,New York Yankees,689017,Landon Knack,,,96,701542,Will Warren,,,98
+21383,777691,2025-05-31,135,134,SD,PIT,San Diego Padres,Pittsburgh Pirates,656302,Dylan Cease,,,84,663559,Bailey Falter,,,6
+21384,777696,2025-05-31,109,120,AZ,WSH,Arizona Diamondbacks,Washington Nationals,694297,Brandon Pfaadt,,,32,647336,Michael Soroka,,,34

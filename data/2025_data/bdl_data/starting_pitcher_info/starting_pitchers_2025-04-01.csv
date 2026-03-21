@@ -1,0 +1,14 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+3218,778498,2025-04-01,113,140,CIN,TEX,Cincinnati Reds,Texas Rangers,686730,Carson Spiers,,,68,543135,Nathan Eovaldi,,,17
+3216,778497,2025-04-01,146,121,MIA,NYM,Miami Marlins,New York Mets,645261,Sandy Alcantara,,,22,673540,Kodai Senga,,,34
+3217,778493,2025-04-01,139,134,TB,PIT,Tampa Bay Rays,Pittsburgh Pirates,669358,Shane Baz,,,11,802419,Thomas Harrington,,,78
+3215,778492,2025-04-01,147,109,NYY,AZ,New York Yankees,Arizona Diamondbacks,701542,Will Warren,,,98,669203,Corbin Burnes,,,39
+3219,778491,2025-04-01,141,120,TOR,WSH,Toronto Blue Jays,Washington Nationals,621244,José Berríos,,,17,592866,Trevor Williams,,,32
+3222,778490,2025-04-01,145,142,CWS,MIN,Chicago White Sox,Minnesota Twins,681343,Shane Smith,,,64,680573,Simeon Woods Richardson,,,24
+3221,778488,2025-04-01,158,118,MIL,KC,Milwaukee Brewers,Kansas City Royals,694477,Chad Patrick,,,39,547179,Michael Lorenzen,,,24
+3220,778495,2025-04-01,138,108,STL,LAA,St. Louis Cardinals,Los Angeles Angels,669461,Matthew Liberatore,,,52,543294,Kyle Hendricks,,,28
+3223,778489,2025-04-01,117,137,HOU,SF,Houston Astros,San Francisco Giants,669713,Hayden Wesneski,,,39,657277,Logan Webb,,,62
+3226,778485,2025-04-01,135,114,SD,CLE,San Diego Padres,Cleveland Guardians,650633,Michael King,,,34,671106,Logan Allen,,,26
+3227,778486,2025-04-01,136,116,SEA,DET,Seattle Mariners,Detroit Tigers,669302,Logan Gilbert,,,36,663554,Casey Mize,,,12
+63876,778494,2025-04-01,133,112,ATH,CHC,Athletics,Chicago Cubs,622663,Luis Severino,,,40,657006,Justin Steele,,,35
+3224,778487,2025-04-01,119,144,LAD,ATL,Los Angeles Dodgers,Atlanta Braves,669160,Dustin May,,,85,519242,Chris Sale,,,51

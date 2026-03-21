@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+10216,778218,2025-04-22,114,147,CLE,NYY,Cleveland Guardians,New York Yankees,676440,Tanner Bibee,,,28,701542,Will Warren,,,98
+10218,778221,2025-04-22,116,135,DET,SD,Detroit Tigers,San Diego Padres,656427,Jack Flaherty,,,9,601713,Nick Pivetta,,,27
+10215,778219,2025-04-22,146,113,MIA,CIN,Miami Marlins,Cincinnati Reds,665795,Edward Cabrera,,,27,607259,Nick Martinez,,,28
+10214,778222,2025-04-22,120,110,WSH,BAL,Washington Nationals,Baltimore Orioles,680730,Mitchell Parker,,,70,665152,Dean Kremer,,,64
+10219,778224,2025-04-22,111,136,BOS,SEA,Boston Red Sox,Seattle Mariners,678394,Brayan Bello,,,66,682243,Bryce Miller,,,50
+10217,778223,2025-04-22,121,143,NYM,PHI,New York Mets,Philadelphia Phillies,656288,Griffin Canning,,,46,650911,Cristopher Sánchez,,,61
+10220,778229,2025-04-22,144,138,ATL,STL,Atlanta Braves,St. Louis Cardinals,656240,Scott Blewett,,,63,669467,Andre Pallante,,,53
+10222,778215,2025-04-22,118,115,KC,COL,Kansas City Royals,Colorado Rockies,663460,Kris Bubic,,,50,663372,Ryan Feltner,,,18
+10223,778220,2025-04-22,112,119,CHC,LAD,Chicago Cubs,Los Angeles Dodgers,684007,Shota Imanaga,,,18,669160,Dustin May,,,85
+10221,778216,2025-04-22,142,145,MIN,CWS,Minnesota Twins,Chicago White Sox,641927,Bailey Ober,,,17,663436,Davis Martin,,,65
+10224,778217,2025-04-22,117,141,HOU,TOR,Houston Astros,Toronto Blue Jays,669854,Ronel Blanco,,,56,605135,Chris Bassitt,,,40
+10226,778211,2025-04-22,108,134,LAA,PIT,Los Angeles Angels,Pittsburgh Pirates,667755,José Soriano,,,59,663559,Bailey Falter,,,6
+10227,778212,2025-04-22,109,139,AZ,TB,Arizona Diamondbacks,Tampa Bay Rays,694297,Brandon Pfaadt,,,32,641793,Zack Littell,,,52
+10225,778210,2025-04-22,137,158,SF,MIL,San Francisco Giants,Milwaukee Brewers,663855,Jordan Hicks,,,12,500779,Jose Quintana,,,62
+66820,778213,2025-04-22,133,140,ATH,TEX,Athletics,Texas Rangers,674370,Osvaldo Bido,,,45,571578,Patrick Corbin,,,46

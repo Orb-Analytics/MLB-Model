@@ -1,0 +1,11 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+7693,778321,2025-04-14,134,120,PIT,WSH,Pittsburgh Pirates,Washington Nationals,694973,Paul Skenes,,,30,695418,Brad Lord,,,61
+7692,778320,2025-04-14,143,137,PHI,SF,Philadelphia Phillies,San Francisco Giants,592836,Taijuan Walker,,,99,694738,Landen Roupp,,,65
+7690,778328,2025-04-14,139,111,TB,BOS,Tampa Bay Rays,Boston Red Sox,669358,Shane Baz,,,11,656557,Tanner Houck,,,89
+7691,778327,2025-04-14,147,118,NYY,KC,New York Yankees,Kansas City Royals,471911,Carlos Carrasco,,,59,607625,Seth Lugo,,,67
+7689,778322,2025-04-14,141,144,TOR,ATL,Toronto Blue Jays,Atlanta Braves,687922,Easton Lucas,,,62,656550,Grant Holmes,,,66
+7696,778324,2025-04-14,142,121,MIN,NYM,Minnesota Twins,New York Mets,657746,Joe Ryan,,,41,605280,Clay Holmes,,,35
+7694,778323,2025-04-14,158,116,MIL,DET,Milwaukee Brewers,Detroit Tigers,641302,Tyler Alexander,,,33,669373,Tarik Skubal,,,29
+7695,778325,2025-04-14,138,117,STL,HOU,St. Louis Cardinals,Houston Astros,543243,Sonny Gray,,,54,664285,Framber Valdez,,,59
+7697,778315,2025-04-14,135,112,SD,CHC,San Diego Padres,Chicago Cubs,656302,Dylan Cease,,,84,592791,Jameson Taillon,,,50
+7698,778326,2025-04-14,119,115,LAD,COL,Los Angeles Dodgers,Colorado Rockies,669160,Dustin May,,,85,622608,Antonio Senzatela,,,49

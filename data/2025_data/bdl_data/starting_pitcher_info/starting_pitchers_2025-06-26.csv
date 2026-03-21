@@ -1,0 +1,10 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+28503,777351,2025-06-26,116,133,DET,ATH,Detroit Tigers,Athletics,608650,Dietrich Enns,,,51,605488,Jeffrey Springs,,,59
+28504,777354,2025-06-26,114,141,CLE,TOR,Cleveland Guardians,Toronto Blue Jays,676440,Tanner Bibee,,,28,592332,Kevin Gausman,,,34
+28507,777356,2025-06-26,142,136,MIN,SEA,Minnesota Twins,Seattle Mariners,680573,Simeon Woods Richardson,,,24,676106,Emerson Hancock,,,26
+28508,777353,2025-06-26,118,139,KC,TB,Kansas City Royals,Tampa Bay Rays,547179,Michael Lorenzen,,,24,669358,Shane Baz,,,11
+28506,777350,2025-06-26,117,143,HOU,PHI,Houston Astros,Philadelphia Phillies,686613,Hunter Brown,,,58,650911,Cristopher Sánchez,,,61
+28505,777348,2025-06-26,138,112,STL,CHC,St. Louis Cardinals,Chicago Cubs,669467,Andre Pallante,,,53,684007,Shota Imanaga,,,18
+28509,777344,2025-06-26,115,119,COL,LAD,Colorado Rockies,Los Angeles Dodgers,596295,Austin Gomber,,,26,477132,Clayton Kershaw,,,22
+28510,777347,2025-06-26,137,146,SF,MIA,San Francisco Giants,Miami Marlins,806185,Hayden Birdsong,,,60,676083,Janson Junk,,,26
+28502,777352,2025-06-26,121,144,NYM,ATL,New York Mets,Atlanta Braves,656288,Griffin Canning,,,46,656550,Grant Holmes,,,66

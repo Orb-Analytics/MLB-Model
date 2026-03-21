@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+29606,777309,2025-06-29,114,138,CLE,STL,Cleveland Guardians,St. Louis Cardinals,671106,Logan Allen,,,26,669461,Matthew Liberatore,,,52
+29602,777313,2025-06-29,134,121,PIT,NYM,Pittsburgh Pirates,New York Mets,681347,Mike Burrows,,,53,593423,Frankie Montas,,,47
+29607,777317,2025-06-29,110,139,BAL,TB,Baltimore Orioles,Tampa Bay Rays,665152,Dean Kremer,,,64,671737,Taj Bradley,,,45
+29608,777310,2025-06-29,111,141,BOS,TOR,Boston Red Sox,Toronto Blue Jays,621111,Walker Buehler,,,0,641778,Eric Lauer,,,56
+29604,777316,2025-06-29,144,143,ATL,PHI,Atlanta Braves,Philadelphia Phillies,675911,Spencer Strider,,,99,624133,Ranger Suarez,,,55
+29603,777307,2025-06-29,147,133,NYY,ATH,New York Yankees,Athletics,573186,Marcus Stroman,,,0,622663,Luis Severino,,,40
+29605,777312,2025-06-29,113,135,CIN,SD,Cincinnati Reds,San Diego Padres,666157,Nick Lodolo,,,40,663568,Stephen Kolek,,,32
+29609,777308,2025-06-29,117,112,HOU,CHC,Houston Astros,Chicago Cubs,664285,Framber Valdez,,,59,592791,Jameson Taillon,,,50
+29611,777304,2025-06-29,118,119,KC,LAD,Kansas City Royals,Los Angeles Dodgers,663460,Kris Bubic,,,50,642152,Lou Trivino,,,58
+29613,777311,2025-06-29,145,137,CWS,SF,Chicago White Sox,San Francisco Giants,686563,Jonathan Cannon,,,48,434378,Justin Verlander,,,35
+29610,777301,2025-06-29,158,115,MIL,COL,Milwaukee Brewers,Colorado Rockies,694477,Chad Patrick,,,39,608566,Germán Márquez,,,48
+29612,777302,2025-06-29,140,136,TEX,SEA,Texas Rangers,Seattle Mariners,683004,Jack Leiter,,,35,622491,Luis Castillo,,,58
+29615,777305,2025-06-29,108,120,LAA,WSH,Los Angeles Angels,Washington Nationals,686799,Jack Kochanowicz,,,41,680730,Mitchell Parker,,,70
+29614,777303,2025-06-29,109,146,AZ,MIA,Arizona Diamondbacks,Miami Marlins,593958,Eduardo Rodriguez,,,57,615698,Cal Quantrill,,,47
+29601,777314,2025-06-29,116,142,DET,MIN,Detroit Tigers,Minnesota Twins,669373,Tarik Skubal,,,29,663978,Chris Paddack,,,20

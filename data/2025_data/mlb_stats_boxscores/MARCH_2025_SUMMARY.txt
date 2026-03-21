@@ -1,0 +1,18 @@
+================================================================================
+MARCH 2025 MLB SEASON STATISTICS
+================================================================================
+
+📊 Overall Stats:
+   Games Played: 67
+   Total Runs: 594 (8.9 per game)
+   Total Hits: 1055 (15.7 per game)
+   Total Home Runs: 170 (2.5 per game)
+   Total Errors: 61 (0.9 per game)
+
+🏆 Top 5 Highest Scoring Games:
+   2025-03-29: Milwaukee Brewers 9 @ New York Yankees 20 (29 total runs)
+   2025-03-31: Chicago Cubs 18 @ Athletics 3 (21 total runs)
+   2025-03-29: Philadelphia Phillies 11 @ Washington Nationals 6 (17 total runs)
+   2025-03-31: Texas Rangers 3 @ Cincinnati Reds 14 (17 total runs)
+   2025-03-27: Chicago Cubs 10 @ Arizona Diamondbacks 6 (16 total runs)
+================================================================================

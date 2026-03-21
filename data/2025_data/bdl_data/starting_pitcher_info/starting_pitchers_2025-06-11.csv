@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+24700,777552,2025-06-11,134,146,PIT,MIA,Pittsburgh Pirates,Miami Marlins,663559,Bailey Falter,,,6,615698,Cal Quantrill,,,47
+24697,777553,2025-06-11,143,112,PHI,CHC,Philadelphia Phillies,Chicago Cubs,666200,Jesús Luzardo,,,44,676962,Ben Brown,,,32
+24698,777549,2025-06-11,114,113,CLE,CIN,Cleveland Guardians,Cincinnati Reds,671106,Logan Allen,,,26,666157,Nick Lodolo,,,40
+24703,777554,2025-06-11,158,144,MIL,ATL,Milwaukee Brewers,Atlanta Braves,694477,Chad Patrick,,,39,680885,Spencer Schwellenbach,,,56
+24707,777545,2025-06-11,138,141,STL,TOR,St. Louis Cardinals,Toronto Blue Jays,669461,Matthew Liberatore,,,52,641778,Eric Lauer,,,56
+24711,777548,2025-06-11,109,136,AZ,SEA,Arizona Diamondbacks,Seattle Mariners,593958,Eduardo Rodriguez,,,57,693433,Bryan Woo,,,22
+24710,777542,2025-06-11,108,133,LAA,ATH,Los Angeles Angels,Athletics,543294,Kyle Hendricks,,,28,676664,JP Sears,,,38
+24709,777543,2025-06-11,135,119,SD,LAD,San Diego Padres,Los Angeles Dodgers,681190,Randy Vásquez,,,98,676508,Ben Casparius,,,78
+24699,777562,2025-06-11,110,116,BAL,DET,Baltimore Orioles,Detroit Tigers,621107,Zach Eflin,,,24,663554,Casey Mize,,,12
+24702,777555,2025-06-11,121,120,NYM,WSH,New York Mets,Washington Nationals,656849,David Peterson,,,23,663623,Jake Irvin,,,27
+24701,777561,2025-06-11,111,139,BOS,TB,Boston Red Sox,Tampa Bay Rays,621111,Walker Buehler,,,0,641793,Zack Littell,,,52
+24706,777556,2025-06-11,142,140,MIN,TEX,Minnesota Twins,Texas Rangers,701581,David Festa,,,58,683004,Jack Leiter,,,35
+24705,777551,2025-06-11,118,147,KC,NYY,Kansas City Royals,New York Yankees,663460,Kris Bubic,,,50,657376,Clarke Schmidt,,,36
+24704,777550,2025-06-11,117,145,HOU,CWS,Houston Astros,Chicago White Sox,687473,Ryan Gusto,,,67,680732,Sean Burke,,,59
+24708,777547,2025-06-11,115,137,COL,SF,Colorado Rockies,San Francisco Giants,607536,Kyle Freeland,,,21,592662,Robbie Ray,,,38

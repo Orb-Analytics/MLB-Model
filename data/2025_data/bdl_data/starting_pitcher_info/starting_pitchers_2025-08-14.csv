@@ -1,0 +1,8 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+43297,776750,2025-08-14,110,136,BAL,SEA,Baltimore Orioles,Seattle Mariners,608372,Tomoyuki Sugano,,,19,688138,Logan Evans,,,73
+43294,776747,2025-08-14,141,112,TOR,CHC,Toronto Blue Jays,Chicago Cubs,453286,Max Scherzer,,,31,571510,Matthew Boyd,,,16
+43295,776745,2025-08-14,114,146,CLE,MIA,Cleveland Guardians,Miami Marlins,676440,Tanner Bibee,,,28,665795,Edward Cabrera,,,27
+43296,776743,2025-08-14,120,143,WSH,PHI,Washington Nationals,Philadelphia Phillies,695418,Brad Lord,,,61,666200,Jesús Luzardo,,,44
+43293,776748,2025-08-14,121,144,NYM,ATL,New York Mets,Atlanta Braves,673540,Kodai Senga,,,34,693821,Bryce Elder,,,55
+43298,776744,2025-08-14,142,116,MIN,DET,Minnesota Twins,Detroit Tigers,641927,Bailey Ober,,,17,669373,Tarik Skubal,,,29
+43299,776742,2025-08-14,115,109,COL,AZ,Colorado Rockies,Arizona Diamondbacks,687134,Bradley Blalock,,,64,593958,Eduardo Rodriguez,,,57

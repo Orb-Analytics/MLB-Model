@@ -1,0 +1,11 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+997869,778195,2025-04-24,118,115,KC,COL,Kansas City Royals,Colorado Rockies,547179,Michael Lorenzen,,,24,801403,Chase Dollander,,,32
+10782,778189,2025-04-24,142,145,MIN,CWS,Minnesota Twins,Chicago White Sox,663978,Chris Paddack,,,20,681343,Shane Smith,,,64
+10781,778196,2025-04-24,111,136,BOS,SEA,Boston Red Sox,Seattle Mariners,676979,Garrett Crochet,,,35,693433,Bryan Woo,,,22
+10783,778190,2025-04-24,118,115,KC,COL,Kansas City Royals,Colorado Rockies,666142,Cole Ragans,,,55,608566,Germán Márquez,,,48
+997869,778195,2025-04-24,118,115,KC,COL,Kansas City Royals,Colorado Rockies,547179,Michael Lorenzen,,,24,801403,Chase Dollander,,,32
+10784,778194,2025-04-24,137,158,SF,MIL,San Francisco Giants,Milwaukee Brewers,694738,Landen Roupp,,,65,668964,Tobias Myers,,,36
+10780,778193,2025-04-24,120,110,WSH,BAL,Washington Nationals,Baltimore Orioles,669022,MacKenzie Gore,,,1,700249,Cade Povich,,,37
+10785,778191,2025-04-24,108,134,LAA,PIT,Los Angeles Angels,Pittsburgh Pirates,542881,Tyler Anderson,,,31,669387,Carmen Mlodzinski,,,50
+10786,778188,2025-04-24,109,139,AZ,TB,Arizona Diamondbacks,Tampa Bay Rays,669203,Corbin Burnes,,,39,656876,Drew Rasmussen,,,57
+64174,778192,2025-04-24,133,140,ATH,TEX,Athletics,Texas Rangers,669372,J.T. Ginn,,,70,594798,Jacob deGrom,,,48

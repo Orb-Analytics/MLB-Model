@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+43664,776737,2025-08-15,112,134,CHC,PIT,Chicago Cubs,Pittsburgh Pirates,607067,Colin Rea,,,53,677952,Braxton Ashcraft,,,67
+43656,776740,2025-08-15,113,158,CIN,MIL,Cincinnati Reds,Milwaukee Brewers,607259,Nick Martinez,,,28,694819,Jacob Misiorowski,,,32
+43657,776739,2025-08-15,120,143,WSH,PHI,Washington Nationals,Philadelphia Phillies,669022,MacKenzie Gore,,,1,554430,Zack Wheeler,,,45
+43659,776735,2025-08-15,141,140,TOR,TEX,Toronto Blue Jays,Texas Rangers,605135,Chris Bassitt,,,40,594798,Jacob deGrom,,,48
+43658,776736,2025-08-15,121,136,NYM,SEA,New York Mets,Seattle Mariners,640455,Sean Manaea,,,59,622491,Luis Castillo,,,58
+43654,776738,2025-08-15,114,144,CLE,ATL,Cleveland Guardians,Atlanta Braves,676282,Joey Cantillo,,,54,694462,Hurston Waldrep,,,64
+43655,776741,2025-08-15,111,146,BOS,MIA,Boston Red Sox,Miami Marlins,608337,Lucas Giolito,,,54,645261,Sandy Alcantara,,,22
+43660,776733,2025-08-15,117,110,HOU,BAL,Houston Astros,Baltimore Orioles,664285,Framber Valdez,,,59,687064,Brandon Young,,,63
+43662,776732,2025-08-15,142,116,MIN,DET,Minnesota Twins,Detroit Tigers,701487,Pierson Ohl,,,62,450203,Charlie Morton,,,50
+43661,776728,2025-08-15,118,145,KC,CWS,Kansas City Royals,Chicago White Sox,702070,Noah Cameron,,,65,650644,Aaron Civale,,,43
+43663,776731,2025-08-15,138,147,STL,NYY,St. Louis Cardinals,New York Yankees,669467,Andre Pallante,,,53,661563,Luis Gil,,,81
+43665,776730,2025-08-15,115,109,COL,AZ,Colorado Rockies,Arizona Diamondbacks,685299,Tanner Gordon,,,29,694297,Brandon Pfaadt,,,32
+68309,776734,2025-08-15,133,108,ATH,LAA,Athletics,Los Angeles Angels,678022,Jack Perkins,,,50,579328,Yusei Kikuchi,,,16
+43667,776727,2025-08-15,119,135,LAD,SD,Los Angeles Dodgers,San Diego Padres,477132,Clayton Kershaw,,,22,593974,Wandy Peralta,,,58
+43668,776729,2025-08-15,137,139,SF,TB,San Francisco Giants,Tampa Bay Rays,694738,Landen Roupp,,,65,671212,Joe Boyle,,,36

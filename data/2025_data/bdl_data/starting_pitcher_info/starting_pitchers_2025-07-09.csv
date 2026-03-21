@@ -1,0 +1,15 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+32007,777172,2025-07-09,145,141,CWS,TOR,Chicago White Sox,Toronto Blue Jays,605288,Adrian Houser,,,57,641778,Eric Lauer,,,56
+32005,777175,2025-07-09,158,119,MIL,LAD,Milwaukee Brewers,Los Angeles Dodgers,500779,Jose Quintana,,,62,607192,Tyler Glasnow,,,31
+32011,777163,2025-07-09,137,143,SF,PHI,San Francisco Giants,Philadelphia Phillies,434378,Justin Verlander,,,35,666200,Jesús Luzardo,,,44
+32002,777182,2025-07-09,116,139,DET,TB,Detroit Tigers,Tampa Bay Rays,681857,Reese Olson,,,45,641793,Zack Littell,,,52
+32001,777184,2025-07-09,147,136,NYY,SEA,New York Yankees,Seattle Mariners,693645,Cam Schlittler,,,31,688138,Logan Evans,,,73
+31998,777179,2025-07-09,111,115,BOS,COL,Boston Red Sox,Colorado Rockies,608337,Lucas Giolito,,,54,622608,Antonio Senzatela,,,49
+31999,777183,2025-07-09,113,146,CIN,MIA,Cincinnati Reds,Miami Marlins,671096,Andrew Abbott,,,41,645261,Sandy Alcantara,,,22
+32006,777177,2025-07-09,118,134,KC,PIT,Kansas City Royals,Pittsburgh Pirates,663460,Kris Bubic,,,50,663559,Bailey Falter,,,6
+32003,777173,2025-07-09,142,112,MIN,CHC,Minnesota Twins,Chicago Cubs,701581,David Festa,,,58,690990,Cade Horton,,,22
+32008,777178,2025-07-09,138,120,STL,WSH,St. Louis Cardinals,Washington Nationals,669467,Andre Pallante,,,53,669022,MacKenzie Gore,,,1
+32004,777174,2025-07-09,117,114,HOU,CLE,Houston Astros,Cleveland Guardians,687888,Brandon Walter,,,60,677944,Slade Cecconi,,,44
+32012,777171,2025-07-09,108,140,LAA,TEX,Los Angeles Angels,Texas Rangers,543294,Kyle Hendricks,,,28,677958,Kumar Rocker,,,80
+32009,777162,2025-07-09,135,109,SD,AZ,San Diego Padres,Arizona Diamondbacks,656302,Dylan Cease,,,84,694297,Brandon Pfaadt,,,32
+65196,777176,2025-07-09,133,144,ATH,ATL,Athletics,Atlanta Braves,687765,Mitch Spence,,,28,693821,Bryce Elder,,,55

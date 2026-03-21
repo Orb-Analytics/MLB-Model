@@ -1,0 +1,19 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+26922,777452,2025-06-19,113,142,CIN,MIN,Cincinnati Reds,Minnesota Twins,607259,Nick Martinez,,,28,663978,Chris Paddack,,,20
+26921,777445,2025-06-19,120,115,WSH,COL,Washington Nationals,Colorado Rockies,592866,Trevor Williams,,,32,801403,Chase Dollander,,,32
+26918,777449,2025-06-19,147,108,NYY,LAA,New York Yankees,Los Angeles Angels,607074,Carlos Rodón,,,55,542881,Tyler Anderson,,,31
+26925,777451,2025-06-19,116,134,DET,PIT,Detroit Tigers,Pittsburgh Pirates,669373,Tarik Skubal,,,29,571760,Andrew Heaney,,,45
+2255363,777464,2025-06-19,116,134,DET,PIT,Detroit Tigers,Pittsburgh Pirates,663947,Tyler Holton,,,87,694973,Paul Skenes,,,30
+26928,777447,2025-06-19,145,138,CWS,STL,Chicago White Sox,St. Louis Cardinals,680732,Sean Burke,,,59,607200,Erick Fedde,,,12
+2255362,777458,2025-06-19,145,138,CWS,STL,Chicago White Sox,St. Louis Cardinals,678024,Mike Vasil,,,61,700241,Michael McGreevy,,,
+26927,777450,2025-06-19,112,158,CHC,MIL,Chicago Cubs,Milwaukee Brewers,592791,Jameson Taillon,,,50,642547,Freddy Peralta,,,51
+26926,777443,2025-06-19,140,118,TEX,KC,Texas Rangers,Kansas City Royals,542888,Shawn Armstrong,,,43,608379,Michael Wacha,,,52
+26919,777448,2025-06-19,141,109,TOR,AZ,Toronto Blue Jays,Arizona Diamondbacks,592332,Kevin Gausman,,,34,669194,Ryne Nelson,,,19
+26929,777440,2025-06-19,137,114,SF,CLE,San Francisco Giants,Cleveland Guardians,657277,Logan Webb,,,62,668909,Gavin Williams,,,32
+26924,777444,2025-06-19,146,143,MIA,PHI,Miami Marlins,Philadelphia Phillies,665795,Edward Cabrera,,,27,650911,Cristopher Sánchez,,,61
+26923,777455,2025-06-19,144,121,ATL,NYM,Atlanta Braves,New York Mets,675911,Spencer Strider,,,99,605280,Clay Holmes,,,35
+26920,777446,2025-06-19,139,110,TB,BAL,Tampa Bay Rays,Baltimore Orioles,656876,Drew Rasmussen,,,57,450203,Charlie Morton,,,50
+67593,777441,2025-06-19,133,117,ATH,HOU,Athletics,Houston Astros,682052,Jacob Lopez,,,57,676467,Colton Gordon,,,61
+26931,777442,2025-06-19,119,135,LAD,SD,Los Angeles Dodgers,San Diego Padres,808967,Yoshinobu Yamamoto,,,18,686701,Ryan Bergert,,,38
+2255363,777464,2025-06-19,116,134,DET,PIT,Detroit Tigers,Pittsburgh Pirates,663947,Tyler Holton,,,87,694973,Paul Skenes,,,30
+2255362,777458,2025-06-19,145,138,CWS,STL,Chicago White Sox,St. Louis Cardinals,678024,Mike Vasil,,,61,700241,Michael McGreevy,,,

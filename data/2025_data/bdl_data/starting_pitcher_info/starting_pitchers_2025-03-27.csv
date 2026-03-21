@@ -1,0 +1,15 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+1830,778557,2025-03-27,147,158,NYY,MIL,New York Yankees,Milwaukee Brewers,607074,Carlos Rodón,,,55,642547,Freddy Peralta,,,51
+1828,778556,2025-03-27,141,110,TOR,BAL,Toronto Blue Jays,Baltimore Orioles,621244,José Berríos,,,17,621107,Zach Eflin,,,24
+1835,778553,2025-03-27,140,111,TEX,BOS,Texas Rangers,Boston Red Sox,543135,Nathan Eovaldi,,,17,676979,Garrett Crochet,,,35
+1831,778555,2025-03-27,120,143,WSH,PHI,Washington Nationals,Philadelphia Phillies,669022,MacKenzie Gore,,,1,554430,Zack Wheeler,,,45
+1836,778558,2025-03-27,118,114,KC,CLE,Kansas City Royals,Cleveland Guardians,666142,Cole Ragans,,,55,594902,Ben Lively,,,39
+1838,778559,2025-03-27,117,121,HOU,NYM,Houston Astros,New York Mets,664285,Framber Valdez,,,59,605280,Clay Holmes,,,35
+1833,778561,2025-03-27,113,137,CIN,SF,Cincinnati Reds,San Francisco Giants,668881,Hunter Greene,,,21,657277,Logan Webb,,,62
+1839,778545,2025-03-27,135,144,SD,ATL,San Diego Padres,Atlanta Braves,650633,Michael King,,,34,519242,Chris Sale,,,51
+1834,778554,2025-03-27,145,108,CWS,LAA,Chicago White Sox,Los Angeles Angels,680732,Sean Burke,,,59,579328,Yusei Kikuchi,,,16
+1832,778562,2025-03-27,146,134,MIA,PIT,Miami Marlins,Pittsburgh Pirates,645261,Sandy Alcantara,,,22,694973,Paul Skenes,,,30
+1837,778551,2025-03-27,138,142,STL,MIN,St. Louis Cardinals,Minnesota Twins,543243,Sonny Gray,,,54,641154,Pablo López,,,49
+1841,778546,2025-03-27,119,116,LAD,DET,Los Angeles Dodgers,Detroit Tigers,605483,Blake Snell,,,7,669373,Tarik Skubal,,,29
+1840,778552,2025-03-27,109,112,AZ,CHC,Arizona Diamondbacks,Chicago Cubs,668678,Zac Gallen,,,23,657006,Justin Steele,,,35
+1842,778547,2025-03-27,136,133,SEA,ATH,Seattle Mariners,Athletics,669302,Logan Gilbert,,,36,622663,Luis Severino,,,40

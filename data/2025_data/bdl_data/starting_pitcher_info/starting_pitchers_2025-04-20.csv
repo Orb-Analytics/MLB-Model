@@ -1,0 +1,18 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+887714,778266,2025-04-20,115,120,COL,WSH,Colorado Rockies,Washington Nationals,622608,Antonio Senzatela,,,49,695418,Brad Lord,,,61
+9461,778250,2025-04-20,110,113,BAL,CIN,Baltimore Orioles,Cincinnati Reds,450203,Charlie Morton,,,50,608718,Brent Suter,,,31
+9462,778242,2025-04-20,134,114,PIT,CLE,Pittsburgh Pirates,Cleveland Guardians,656605,Mitch Keller,,,23,671106,Logan Allen,,,26
+9465,778249,2025-04-20,144,142,ATL,MIN,Atlanta Braves,Minnesota Twins,656550,Grant Holmes,,,66,657746,Joe Ryan,,,41
+9460,778245,2025-04-20,111,145,BOS,CWS,Boston Red Sox,Chicago White Sox,656557,Tanner Houck,,,89,680732,Sean Burke,,,59
+9464,778248,2025-04-20,143,146,PHI,MIA,Philadelphia Phillies,Miami Marlins,666200,Jesús Luzardo,,,44,687362,Connor Gillispie,,,55
+9467,778241,2025-04-20,141,136,TOR,SEA,Toronto Blue Jays,Seattle Mariners,687922,Easton Lucas,,,62,622491,Luis Castillo,,,58
+9463,778246,2025-04-20,116,118,DET,KC,Detroit Tigers,Kansas City Royals,669373,Tarik Skubal,,,29,608379,Michael Wacha,,,52
+9468,778244,2025-04-20,121,138,NYM,STL,New York Mets,St. Louis Cardinals,605280,Clay Holmes,,,35,543243,Sonny Gray,,,54
+9466,778240,2025-04-20,139,147,TB,NYY,Tampa Bay Rays,New York Yankees,686752,Ryan Pepiot,,,44,608331,Max Fried,,,54
+9471,778239,2025-04-20,158,133,MIL,ATH,Milwaukee Brewers,Athletics,701656,Logan Henderson,,,43,605488,Jeffrey Springs,,,59
+9469,778236,2025-04-20,112,109,CHC,AZ,Chicago Cubs,Arizona Diamondbacks,592791,Jameson Taillon,,,50,518876,Merrill Kelly,,,29
+9470,778234,2025-04-20,140,119,TEX,LAD,Texas Rangers,Los Angeles Dodgers,641816,Tyler Mahle,,,51,607192,Tyler Glasnow,,,31
+9473,778235,2025-04-20,115,120,COL,WSH,Colorado Rockies,Washington Nationals,607536,Kyle Freeland,,,21,663623,Jake Irvin,,,27
+887714,778266,2025-04-20,115,120,COL,WSH,Colorado Rockies,Washington Nationals,622608,Antonio Senzatela,,,49,695418,Brad Lord,,,61
+9474,778232,2025-04-20,108,137,LAA,SF,Los Angeles Angels,San Francisco Giants,579328,Yusei Kikuchi,,,16,434378,Justin Verlander,,,35
+9472,778237,2025-04-20,117,135,HOU,SD,Houston Astros,San Diego Padres,664285,Framber Valdez,,,59,656302,Dylan Cease,,,84

@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+26454,777481,2025-06-17,146,143,MIA,PHI,Miami Marlins,Philadelphia Phillies,615698,Cal Quantrill,,,47,666200,Jesús Luzardo,,,44
+26455,777475,2025-06-17,116,134,DET,PIT,Detroit Tigers,Pittsburgh Pirates,663554,Casey Mize,,,12,663559,Bailey Falter,,,6
+26451,777480,2025-06-17,120,115,WSH,COL,Washington Nationals,Colorado Rockies,647336,Michael Soroka,,,34,622608,Antonio Senzatela,,,49
+26448,777476,2025-06-17,147,108,NYY,LAA,New York Yankees,Los Angeles Angels,701542,Will Warren,,,98,543294,Kyle Hendricks,,,28
+26449,777479,2025-06-17,141,109,TOR,AZ,Toronto Blue Jays,Arizona Diamondbacks,605135,Chris Bassitt,,,40,694297,Brandon Pfaadt,,,32
+26452,777478,2025-06-17,113,142,CIN,MIN,Cincinnati Reds,Minnesota Twins,671096,Andrew Abbott,,,41,701581,David Festa,,,58
+26453,777489,2025-06-17,144,121,ATL,NYM,Atlanta Braves,New York Mets,680885,Spencer Schwellenbach,,,56,656849,David Peterson,,,23
+26450,777477,2025-06-17,139,110,TB,BAL,Tampa Bay Rays,Baltimore Orioles,641793,Zack Littell,,,52,665152,Dean Kremer,,,64
+26458,777467,2025-06-17,145,138,CWS,STL,Chicago White Sox,St. Louis Cardinals,681343,Shane Smith,,,64,669461,Matthew Liberatore,,,52
+26456,777468,2025-06-17,140,118,TEX,KC,Texas Rangers,Kansas City Royals,683004,Jack Leiter,,,35,607625,Seth Lugo,,,67
+26457,777482,2025-06-17,112,158,CHC,MIL,Chicago Cubs,Milwaukee Brewers,676962,Ben Brown,,,32,694477,Chad Patrick,,,39
+26459,777473,2025-06-17,136,111,SEA,BOS,Seattle Mariners,Boston Red Sox,693433,Bryan Woo,,,22,621111,Walker Buehler,,,0
+26460,777472,2025-06-17,137,114,SF,CLE,San Francisco Giants,Cleveland Guardians,592662,Robbie Ray,,,38,677944,Slade Cecconi,,,44
+64895,777469,2025-06-17,133,117,ATH,HOU,Athletics,Houston Astros,676664,JP Sears,,,38,669920,Jason Alexander,,,54
+26462,777471,2025-06-17,119,135,LAD,SD,Los Angeles Dodgers,San Diego Padres,676263,Jack Dreyer,,,86,681190,Randy Vásquez,,,98

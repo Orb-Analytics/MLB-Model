@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+16162,777900,2025-05-16,112,145,CHC,CWS,Chicago Cubs,Chicago White Sox,690990,Cade Horton,,,22,681343,Shane Smith,,,64
+16156,777902,2025-05-16,113,114,CIN,CLE,Cincinnati Reds,Cleveland Guardians,663903,Brady Singer,,,51,676440,Tanner Bibee,,,28
+16159,777905,2025-05-16,143,134,PHI,PIT,Philadelphia Phillies,Pittsburgh Pirates,624133,Ranger Suarez,,,55,571760,Andrew Heaney,,,45
+16161,777907,2025-05-16,110,120,BAL,WSH,Baltimore Orioles,Washington Nationals,700249,Cade Povich,,,37,669022,MacKenzie Gore,,,1
+16158,777904,2025-05-16,147,121,NYY,NYM,New York Yankees,New York Mets,607074,Carlos Rodón,,,55,656731,Tylor Megill,,,38
+16157,777906,2025-05-16,141,116,TOR,DET,Toronto Blue Jays,Detroit Tigers,670102,Bowden Francis,,,44,656427,Jack Flaherty,,,9
+16155,777908,2025-05-16,111,144,BOS,ATL,Boston Red Sox,Atlanta Braves,676979,Garrett Crochet,,,35,519242,Chris Sale,,,51
+16160,777903,2025-05-16,146,139,MIA,TB,Miami Marlins,Tampa Bay Rays,676974,Max Meyer,,,23,671737,Taj Bradley,,,45
+16165,777901,2025-05-16,118,138,KC,STL,Kansas City Royals,St. Louis Cardinals,666142,Cole Ragans,,,55,669467,Andre Pallante,,,53
+16163,777895,2025-05-16,140,117,TEX,HOU,Texas Rangers,Houston Astros,543135,Nathan Eovaldi,,,17,621121,Lance McCullers Jr.,,,43
+16164,777898,2025-05-16,158,142,MIL,MIN,Milwaukee Brewers,Minnesota Twins,694477,Chad Patrick,,,39,657746,Joe Ryan,,,41
+16167,777897,2025-05-16,109,115,AZ,COL,Arizona Diamondbacks,Colorado Rockies,669203,Corbin Burnes,,,39,687223,Carson Palmquist,,,45
+16169,777896,2025-05-16,135,136,SD,SEA,San Diego Padres,Seattle Mariners,663568,Stephen Kolek,,,32,688138,Logan Evans,,,73
+16166,777899,2025-05-16,119,108,LAD,LAA,Los Angeles Dodgers,Los Angeles Angels,669160,Dustin May,,,85,686799,Jack Kochanowicz,,,41
+16168,777891,2025-05-16,137,133,SF,ATH,San Francisco Giants,Athletics,657277,Logan Webb,,,62,676664,JP Sears,,,38

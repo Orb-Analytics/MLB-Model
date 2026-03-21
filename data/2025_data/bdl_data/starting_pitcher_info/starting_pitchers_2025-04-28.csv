@@ -1,0 +1,9 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+11813,778138,2025-04-28,120,121,WSH,NYM,Washington Nationals,New York Mets,592866,Trevor Williams,,,32,656288,Griffin Canning,,,46
+11811,778139,2025-04-28,114,142,CLE,MIN,Cleveland Guardians,Minnesota Twins,668909,Gavin Williams,,,32,641927,Bailey Ober,,,17
+11812,778140,2025-04-28,110,147,BAL,NYY,Baltimore Orioles,New York Yankees,608372,Tomoyuki Sugano,,,19,701542,Will Warren,,,98
+11814,778141,2025-04-28,113,138,CIN,STL,Cincinnati Reds,St. Louis Cardinals,607259,Nick Martinez,,,28,669467,Andre Pallante,,,53
+11816,778143,2025-04-28,140,133,TEX,ATH,Texas Rangers,Athletics,571578,Patrick Corbin,,,46,676664,JP Sears,,,38
+11815,778142,2025-04-28,117,116,HOU,DET,Houston Astros,Detroit Tigers,669854,Ronel Blanco,,,56,656427,Jack Flaherty,,,9
+11817,778137,2025-04-28,115,144,COL,ATL,Colorado Rockies,Atlanta Braves,663372,Ryan Feltner,,,18,693821,Bryce Elder,,,55
+11818,778132,2025-04-28,119,146,LAD,MIA,Los Angeles Dodgers,Miami Marlins,669160,Dustin May,,,85,665795,Edward Cabrera,,,27

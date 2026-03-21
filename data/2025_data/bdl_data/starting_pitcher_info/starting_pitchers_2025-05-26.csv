@@ -1,0 +1,13 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+19791,777770,2025-05-26,116,137,DET,SF,Detroit Tigers,San Francisco Giants,672456,Keider Montero,,,54,806185,Hayden Birdsong,,,60
+19793,777764,2025-05-26,158,111,MIL,BOS,Milwaukee Brewers,Boston Red Sox,694477,Chad Patrick,,,39,676979,Garrett Crochet,,,35
+19795,777757,2025-05-26,112,115,CHC,COL,Chicago Cubs,Colorado Rockies,592791,Jameson Taillon,,,50,687223,Carson Palmquist,,,45
+19792,777771,2025-05-26,110,138,BAL,STL,Baltimore Orioles,St. Louis Cardinals,450203,Charlie Morton,,,50,607200,Erick Fedde,,,12
+19797,777759,2025-05-26,140,141,TEX,TOR,Texas Rangers,Toronto Blue Jays,594798,Jacob deGrom,,,48,592332,Kevin Gausman,,,34
+19794,777760,2025-05-26,118,113,KC,CIN,Kansas City Royals,Cincinnati Reds,547179,Michael Lorenzen,,,24,607259,Nick Martinez,,,28
+19789,777758,2025-05-26,121,145,NYM,CWS,New York Mets,Chicago White Sox,605280,Clay Holmes,,,35,605288,Adrian Houser,,,57
+19790,777769,2025-05-26,114,119,CLE,LAD,Cleveland Guardians,Los Angeles Dodgers,668909,Gavin Williams,,,32,808967,Yoshinobu Yamamoto,,,18
+19796,777762,2025-05-26,139,142,TB,MIN,Tampa Bay Rays,Minnesota Twins,641793,Zack Littell,,,52,663978,Chris Paddack,,,20
+19800,777761,2025-05-26,109,134,AZ,PIT,Arizona Diamondbacks,Pittsburgh Pirates,669194,Ryne Nelson,,,19,571760,Andrew Heaney,,,45
+19798,777756,2025-05-26,135,146,SD,MIA,San Diego Padres,Miami Marlins,681190,Randy Vásquez,,,98,677960,Ryan Weathers,,,35
+19799,777763,2025-05-26,108,147,LAA,NYY,Los Angeles Angels,New York Yankees,686799,Jack Kochanowicz,,,41,642232,Ryan Yarbrough,,,33

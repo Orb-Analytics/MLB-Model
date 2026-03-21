@@ -1,0 +1,11 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+52637,776275,2025-09-18,116,114,DET,CLE,Detroit Tigers,Cleveland Guardians,669373,Tarik Skubal,,,29,676440,Tanner Bibee,,,28
+52640,776276,2025-09-18,121,135,NYM,SD,New York Mets,San Diego Padres,804636,Jonah Tong,,,21,681190,Randy Vásquez,,,98
+52641,776269,2025-09-18,139,141,TB,TOR,Tampa Bay Rays,Toronto Blue Jays,669358,Shane Baz,,,11,605135,Chris Bassitt,,,40
+52639,776281,2025-09-18,111,133,BOS,ATH,Boston Red Sox,Athletics,678394,Brayan Bello,,,66,669372,J.T. Ginn,,,70
+52643,776272,2025-09-18,118,136,KC,SEA,Kansas City Royals,Seattle Mariners,663568,Stephen Kolek,,,32,622491,Luis Castillo,,,58
+52644,776270,2025-09-18,115,146,COL,MIA,Colorado Rockies,Miami Marlins,685299,Tanner Gordon,,,29,645261,Sandy Alcantara,,,22
+52636,776282,2025-09-18,113,112,CIN,CHC,Cincinnati Reds,Chicago Cubs,668881,Hunter Greene,,,21,607067,Colin Rea,,,53
+52638,776278,2025-09-18,110,147,BAL,NYY,Baltimore Orioles,New York Yankees,700249,Cade Povich,,,37,608331,Max Fried,,,54
+52642,776274,2025-09-18,158,108,MIL,LAA,Milwaukee Brewers,Los Angeles Angels,682990,Quinn Priester,,,46,579328,Yusei Kikuchi,,,16
+52645,776271,2025-09-18,119,137,LAD,SF,Los Angeles Dodgers,San Francisco Giants,808967,Yoshinobu Yamamoto,,,18,657277,Logan Webb,,,62

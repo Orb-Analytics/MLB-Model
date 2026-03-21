@@ -1,0 +1,12 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+5420,778424,2025-04-07,116,147,DET,NYY,Detroit Tigers,New York Yankees,663554,Casey Mize,,,12,607074,Carlos Rodón,,,55
+5421,778415,2025-04-07,134,138,PIT,STL,Pittsburgh Pirates,St. Louis Cardinals,669387,Carmen Mlodzinski,,,50,669461,Matthew Liberatore,,,52
+5418,778418,2025-04-07,120,119,WSH,LAD,Washington Nationals,Los Angeles Dodgers,669022,MacKenzie Gore,,,1,669160,Dustin May,,,85
+5422,778426,2025-04-07,111,141,BOS,TOR,Boston Red Sox,Toronto Blue Jays,690916,Richard Fitts,,,80,621244,José Berríos,,,17
+5419,778416,2025-04-07,121,146,NYM,MIA,New York Mets,Miami Marlins,673540,Kodai Senga,,,34,678368,Valente Bellozo,,,83
+5424,778411,2025-04-07,112,140,CHC,TEX,Chicago Cubs,Texas Rangers,657006,Justin Steele,,,35,543135,Nathan Eovaldi,,,17
+5423,778412,2025-04-07,118,142,KC,MIN,Kansas City Royals,Minnesota Twins,547179,Michael Lorenzen,,,24,680573,Simeon Woods Richardson,,,24
+5425,778413,2025-04-07,109,110,AZ,BAL,Arizona Diamondbacks,Baltimore Orioles,668678,Zac Gallen,,,23,621107,Zach Eflin,,,24
+5427,778405,2025-04-07,136,117,SEA,HOU,Seattle Mariners,Houston Astros,669302,Logan Gilbert,,,36,669713,Hayden Wesneski,,,39
+5426,778410,2025-04-07,137,113,SF,CIN,San Francisco Giants,Cincinnati Reds,657277,Logan Webb,,,62,668881,Hunter Greene,,,21
+63953,778414,2025-04-07,133,135,ATH,SD,Athletics,San Diego Padres,622663,Luis Severino,,,40,650633,Michael King,,,34

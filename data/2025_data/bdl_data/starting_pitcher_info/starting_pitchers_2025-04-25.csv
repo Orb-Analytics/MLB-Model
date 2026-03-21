@@ -1,0 +1,14 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+11226,778182,2025-04-25,112,143,CHC,PHI,Chicago Cubs,Philadelphia Phillies,607067,Colin Rea,,,53,592836,Taijuan Walker,,,99
+11221,778183,2025-04-25,120,121,WSH,NYM,Washington Nationals,New York Mets,663623,Jake Irvin,,,27,673540,Kodai Senga,,,34
+11222,778185,2025-04-25,147,141,NYY,TOR,New York Yankees,Toronto Blue Jays,471911,Carlos Carrasco,,,59,621244,José Berríos,,,17
+11224,778187,2025-04-25,118,117,KC,HOU,Kansas City Royals,Houston Astros,607625,Seth Lugo,,,67,669713,Hayden Wesneski,,,39
+11223,778186,2025-04-25,142,108,MIN,LAA,Minnesota Twins,Los Angeles Angels,641154,Pablo López,,,49,543294,Kyle Hendricks,,,28
+11225,778184,2025-04-25,138,158,STL,MIL,St. Louis Cardinals,Milwaukee Brewers,669461,Matthew Liberatore,,,52,694477,Chad Patrick,,,39
+11227,778181,2025-04-25,115,113,COL,CIN,Colorado Rockies,Cincinnati Reds,607536,Kyle Freeland,,,21,671096,Andrew Abbott,,,41
+11232,778172,2025-04-25,135,139,SD,TB,San Diego Padres,Tampa Bay Rays,650633,Michael King,,,34,669358,Shane Baz,,,11
+11228,778177,2025-04-25,109,144,AZ,ATL,Arizona Diamondbacks,Atlanta Braves,668678,Zac Gallen,,,23,519242,Chris Sale,,,51
+11230,778175,2025-04-25,136,146,SEA,MIA,Seattle Mariners,Miami Marlins,669302,Logan Gilbert,,,36,615698,Cal Quantrill,,,47
+64188,778178,2025-04-25,133,145,ATH,CWS,Athletics,Chicago White Sox,622663,Luis Severino,,,40,656457,Tyler Gilbert,,,40
+11231,778176,2025-04-25,119,134,LAD,PIT,Los Angeles Dodgers,Pittsburgh Pirates,808967,Yoshinobu Yamamoto,,,18,694973,Paul Skenes,,,30
+11233,778171,2025-04-25,137,140,SF,TEX,San Francisco Giants,Texas Rangers,434378,Justin Verlander,,,35,543135,Nathan Eovaldi,,,17

@@ -1,0 +1,6 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+3840,778470,2025-04-03,110,111,BAL,BOS,Baltimore Orioles,Boston Red Sox,450203,Charlie Morton,,,50,656557,Tanner Houck,,,89
+3841,778467,2025-04-03,143,115,PHI,COL,Philadelphia Phillies,Colorado Rockies,592836,Taijuan Walker,,,99,622608,Antonio Senzatela,,,49
+3843,778462,2025-04-03,142,117,MIN,HOU,Minnesota Twins,Houston Astros,657746,Joe Ryan,,,41,686613,Hunter Brown,,,58
+3839,778466,2025-04-03,147,109,NYY,AZ,New York Yankees,Arizona Diamondbacks,471911,Carlos Carrasco,,,59,518876,Merrill Kelly,,,29
+3842,778468,2025-04-03,158,113,MIL,CIN,Milwaukee Brewers,Cincinnati Reds,641482,Nestor Cortes,,,65,666157,Nick Lodolo,,,40

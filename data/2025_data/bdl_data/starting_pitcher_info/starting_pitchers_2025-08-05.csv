@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+40872,776866,2025-08-05,134,137,PIT,SF,Pittsburgh Pirates,San Francisco Giants,681347,Mike Burrows,,,53,657277,Logan Webb,,,62
+40870,776861,2025-08-05,116,142,DET,MIN,Detroit Tigers,Minnesota Twins,663978,Chris Paddack,,,40,805673,Zebby Matthews,,,52
+40867,776862,2025-08-05,146,117,MIA,HOU,Miami Marlins,Houston Astros,615698,Cal Quantrill,,,47,595345,Steven Okert,,,48
+40871,776865,2025-08-05,120,133,WSH,ATH,Washington Nationals,Athletics,669022,MacKenzie Gore,,,1,622663,Luis Severino,,,40
+40865,776868,2025-08-05,143,110,PHI,BAL,Philadelphia Phillies,Baltimore Orioles,592836,Taijuan Walker,,,99,665152,Dean Kremer,,,64
+40868,776864,2025-08-05,111,118,BOS,KC,Boston Red Sox,Kansas City Royals,676979,Garrett Crochet,,,35,686701,Ryan Bergert,,,38
+40866,776863,2025-08-05,121,114,NYM,CLE,New York Mets,Cleveland Guardians,605280,Clay Holmes,,,35,671106,Logan Allen,,,26
+40869,776869,2025-08-05,144,158,ATL,MIL,Atlanta Braves,Milwaukee Brewers,666214,Joey Wentz,,,33,642547,Freddy Peralta,,,51
+40873,776860,2025-08-05,112,113,CHC,CIN,Chicago Cubs,Cincinnati Reds,684007,Shota Imanaga,,,18,641793,Zack Littell,,,52
+40874,776855,2025-08-05,140,147,TEX,NYY,Texas Rangers,New York Yankees,543135,Nathan Eovaldi,,,17,701542,Will Warren,,,98
+40875,776854,2025-08-05,115,141,COL,TOR,Colorado Rockies,Toronto Blue Jays,683627,Anthony Molina,,,43,621244,José Berríos,,,17
+40864,776848,2025-08-05,108,139,LAA,TB,Los Angeles Angels,Tampa Bay Rays,667755,José Soriano,,,59,686752,Ryan Pepiot,,,44
+40877,776852,2025-08-05,109,135,AZ,SD,Arizona Diamondbacks,San Diego Padres,669194,Ryne Nelson,,,19,506433,Yu Darvish,,,11
+40876,776857,2025-08-05,136,145,SEA,CWS,Seattle Mariners,Chicago White Sox,693433,Bryan Woo,,,22,663436,Davis Martin,,,65
+40878,776858,2025-08-05,119,138,LAD,STL,Los Angeles Dodgers,St. Louis Cardinals,686218,Emmet Sheehan,,,80,571945,Miles Mikolas,,,39

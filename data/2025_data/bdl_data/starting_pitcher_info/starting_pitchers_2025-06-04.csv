@@ -1,0 +1,15 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+22545,777652,2025-06-04,146,115,MIA,COL,Miami Marlins,Colorado Rockies,615698,Cal Quantrill,,,47,607536,Kyle Freeland,,,21
+22547,777647,2025-06-04,113,158,CIN,MIL,Cincinnati Reds,Milwaukee Brewers,671096,Andrew Abbott,,,41,669084,DL Hall,,,37
+22541,777649,2025-06-04,111,108,BOS,LAA,Boston Red Sox,Los Angeles Angels,608337,Lucas Giolito,,,54,667755,José Soriano,,,59
+22546,777648,2025-06-04,134,117,PIT,HOU,Pittsburgh Pirates,Houston Astros,681347,Mike Burrows,,,53,687473,Ryan Gusto,,,67
+22543,777650,2025-06-04,120,112,WSH,CHC,Washington Nationals,Chicago Cubs,669022,MacKenzie Gore,,,1,571510,Matthew Boyd,,,16
+22544,777653,2025-06-04,147,114,NYY,CLE,New York Yankees,Cleveland Guardians,657376,Clarke Schmidt,,,36,682847,Luis Ortiz,,,45
+22548,777651,2025-06-04,141,143,TOR,PHI,Toronto Blue Jays,Philadelphia Phillies,621244,José Berríos,,,17,690953,Mick Abel,,,40
+22542,777654,2025-06-04,144,109,ATL,AZ,Atlanta Braves,Arizona Diamondbacks,519242,Chris Sale,,,51,518876,Merrill Kelly,,,29
+22549,777646,2025-06-04,139,140,TB,TEX,Tampa Bay Rays,Texas Rangers,669358,Shane Baz,,,11,677958,Kumar Rocker,,,
+22550,777639,2025-06-04,145,116,CWS,DET,Chicago White Sox,Detroit Tigers,694363,Jared Shuster,,,,687830,Sawyer Gipson-Long,,,66
+22552,777645,2025-06-04,136,110,SEA,BAL,Seattle Mariners,Baltimore Orioles,676106,Emerson Hancock,,,26,700249,Cade Povich,,,37
+22555,777641,2025-06-04,137,135,SF,SD,San Francisco Giants,San Diego Padres,690986,Kyle Harrison,,,45,601713,Nick Pivetta,,,27
+64724,777643,2025-06-04,133,142,ATH,MIN,Athletics,Minnesota Twins,686993,Justin Sterner,,,60,805673,Zebby Matthews,,,52
+22554,777638,2025-06-04,119,121,LAD,NYM,Los Angeles Dodgers,New York Mets,664062,Tony Gonsolin,,,26,656288,Griffin Canning,,,46

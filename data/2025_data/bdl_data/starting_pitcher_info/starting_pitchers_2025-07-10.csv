@@ -1,0 +1,12 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+2733511,777181,2025-07-10,110,121,BAL,NYM,Baltimore Orioles,New York Mets,608372,Tomoyuki Sugano,,,19,663399,Brandon Waddell,,,82
+32272,777165,2025-07-10,110,121,BAL,NYM,Baltimore Orioles,New York Mets,450203,Charlie Morton,,,50,656849,David Peterson,,,23
+2733511,777181,2025-07-10,110,121,BAL,NYM,Baltimore Orioles,New York Mets,608372,Tomoyuki Sugano,,,19,663399,Brandon Waddell,,,82
+32275,777166,2025-07-10,142,112,MIN,CHC,Minnesota Twins,Chicago Cubs,663978,Chris Paddack,,,20,607067,Colin Rea,,,53
+32271,777168,2025-07-10,113,146,CIN,MIA,Cincinnati Reds,Miami Marlins,666157,Nick Lodolo,,,40,615698,Cal Quantrill,,,47
+32273,777169,2025-07-10,147,136,NYY,SEA,New York Yankees,Seattle Mariners,573186,Marcus Stroman,,,0,693433,Bryan Woo,,,22
+32274,777170,2025-07-10,111,139,BOS,TB,Boston Red Sox,Tampa Bay Rays,621111,Walker Buehler,,,0,671737,Taj Bradley,,,45
+32277,777167,2025-07-10,138,120,STL,WSH,St. Louis Cardinals,Washington Nationals,571945,Miles Mikolas,,,39,647336,Michael Soroka,,,34
+67874,777156,2025-07-10,133,144,ATH,ATL,Athletics,Atlanta Braves,676664,JP Sears,,,38,675911,Spencer Strider,,,99
+32280,777159,2025-07-10,108,140,LAA,TEX,Los Angeles Angels,Texas Rangers,686799,Jack Kochanowicz,,,41,571578,Patrick Corbin,,,46
+32278,777158,2025-07-10,135,109,SD,AZ,San Diego Padres,Arizona Diamondbacks,681190,Randy Vásquez,,,98,593958,Eduardo Rodriguez,,,57

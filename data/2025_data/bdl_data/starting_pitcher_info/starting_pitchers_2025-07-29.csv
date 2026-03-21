@@ -1,0 +1,18 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+740670,778372,2025-07-29,110,141,BAL,TOR,Baltimore Orioles,Toronto Blue Jays,450203,Charlie Morton,,,50,687922,Easton Lucas,,,62
+38581,776962,2025-07-29,110,141,BAL,TOR,Baltimore Orioles,Toronto Blue Jays,687064,Brandon Young,,,63,641778,Eric Lauer,,,56
+38578,776951,2025-07-29,114,115,CLE,COL,Cleveland Guardians,Colorado Rockies,671106,Logan Allen,,,26,685299,Tanner Gordon,,,29
+38577,776953,2025-07-29,116,109,DET,AZ,Detroit Tigers,Arizona Diamondbacks,663554,Casey Mize,,,12,694297,Brandon Pfaadt,,,32
+38580,776949,2025-07-29,147,139,NYY,TB,New York Yankees,Tampa Bay Rays,608331,Max Fried,,,54,671212,Joe Boyle,,,36
+38579,776963,2025-07-29,113,119,CIN,LAD,Cincinnati Reds,Los Angeles Dodgers,666157,Nick Lodolo,,,40,607192,Tyler Glasnow,,,31
+38583,776954,2025-07-29,142,111,MIN,BOS,Minnesota Twins,Boston Red Sox,701487,Pierson Ohl,,,,608337,Lucas Giolito,,,54
+38582,776955,2025-07-29,118,144,KC,ATL,Kansas City Royals,Atlanta Braves,607625,Seth Lugo,,,67,607200,Erick Fedde,,,22
+38586,776952,2025-07-29,145,143,CWS,PHI,Chicago White Sox,Philadelphia Phillies,686563,Jonathan Cannon,,,48,666200,Jesús Luzardo,,,44
+38584,776956,2025-07-29,158,112,MIL,CHC,Milwaukee Brewers,Chicago Cubs,682990,Quinn Priester,,,46,607067,Colin Rea,,,53
+38585,776946,2025-07-29,138,146,STL,MIA,St. Louis Cardinals,Miami Marlins,543243,Sonny Gray,,,54,645261,Sandy Alcantara,,,22
+38587,776950,2025-07-29,117,120,HOU,WSH,Houston Astros,Washington Nationals,669920,Jason Alexander,,,54,647336,Michael Soroka,,,34
+38591,776945,2025-07-29,108,140,LAA,TEX,Los Angeles Angels,Texas Rangers,579328,Yusei Kikuchi,,,16,571578,Patrick Corbin,,,46
+38588,776947,2025-07-29,135,121,SD,NYM,San Diego Padres,New York Mets,686701,Ryan Bergert,,,,640455,Sean Manaea,,,59
+38589,776943,2025-07-29,137,134,SF,PIT,San Francisco Giants,Pittsburgh Pirates,434378,Justin Verlander,,,35,663559,Bailey Falter,,,6
+68093,776944,2025-07-29,133,136,ATH,SEA,Athletics,Seattle Mariners,622663,Luis Severino,,,40,688138,Logan Evans,,,73
+740670,778372,2025-07-29,110,141,BAL,TOR,Baltimore Orioles,Toronto Blue Jays,450203,Charlie Morton,,,50,687922,Easton Lucas,,,62

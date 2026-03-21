@@ -1,0 +1,8 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+25862,777483,2025-06-16,146,143,MIA,PHI,Miami Marlins,Philadelphia Phillies,645261,Sandy Alcantara,,,22,690953,Mick Abel,,,40
+25861,777488,2025-06-16,120,115,WSH,COL,Washington Nationals,Colorado Rockies,663623,Jake Irvin,,,27,687223,Carson Palmquist,,,45
+25859,777487,2025-06-16,147,108,NYY,LAA,New York Yankees,Los Angeles Angels,657376,Clarke Schmidt,,,36,667755,José Soriano,,,59
+25860,777484,2025-06-16,139,110,TB,BAL,Tampa Bay Rays,Baltimore Orioles,686752,Ryan Pepiot,,,44,621107,Zach Eflin,,,24
+25863,777486,2025-06-16,136,111,SEA,BOS,Seattle Mariners,Boston Red Sox,669302,Logan Gilbert,,,36,608337,Lucas Giolito,,,54
+64880,777485,2025-06-16,133,117,ATH,HOU,Athletics,Houston Astros,687765,Mitch Spence,,,28,687473,Ryan Gusto,,,67
+25865,777490,2025-06-16,119,135,LAD,SD,Los Angeles Dodgers,San Diego Padres,660271,Shohei Ohtani,,,17,656302,Dylan Cease,,,84

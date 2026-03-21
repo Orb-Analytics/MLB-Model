@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+21884,777678,2025-06-01,140,138,TEX,STL,Texas Rangers,St. Louis Cardinals,594798,Jacob deGrom,,,48,607200,Erick Fedde,,,12
+21876,777692,2025-06-01,144,111,ATL,BOS,Atlanta Braves,Boston Red Sox,693821,Bryce Elder,,,55,676979,Garrett Crochet,,,35
+21877,777684,2025-06-01,110,145,BAL,CWS,Baltimore Orioles,Chicago White Sox,450203,Charlie Morton,,,50,605288,Adrian Houser,,,57
+21879,777688,2025-06-01,143,158,PHI,MIL,Philadelphia Phillies,Milwaukee Brewers,624133,Ranger Suarez,,,55,500779,Jose Quintana,,,62
+21880,777685,2025-06-01,141,133,TOR,ATH,Toronto Blue Jays,Athletics,592332,Kevin Gausman,,,34,676664,JP Sears,,,38
+21875,777683,2025-06-01,114,108,CLE,LAA,Cleveland Guardians,Los Angeles Angels,668909,Gavin Williams,,,32,686799,Jack Kochanowicz,,,41
+21878,777686,2025-06-01,121,115,NYM,COL,New York Mets,Colorado Rockies,605280,Clay Holmes,,,35,687223,Carson Palmquist,,,45
+21881,777689,2025-06-01,146,137,MIA,SF,Miami Marlins,San Francisco Giants,677960,Ryan Weathers,,,35,806185,Hayden Birdsong,,,60
+21883,777677,2025-06-01,118,116,KC,DET,Kansas City Royals,Detroit Tigers,663460,Kris Bubic,,,50,672456,Keider Montero,,,54
+21885,777690,2025-06-01,117,139,HOU,TB,Houston Astros,Tampa Bay Rays,686613,Hunter Brown,,,58,671737,Taj Bradley,,,45
+21882,777687,2025-06-01,112,113,CHC,CIN,Chicago Cubs,Cincinnati Reds,592791,Jameson Taillon,,,50,607259,Nick Martinez,,,28
+21889,777679,2025-06-01,109,120,AZ,WSH,Arizona Diamondbacks,Washington Nationals,669203,Corbin Burnes,,,39,680730,Mitchell Parker,,,70
+21886,777680,2025-06-01,136,142,SEA,MIN,Seattle Mariners,Minnesota Twins,622491,Luis Castillo,,,58,663978,Chris Paddack,,,20
+21888,777681,2025-06-01,135,134,SD,PIT,San Diego Padres,Pittsburgh Pirates,681190,Randy Vásquez,,,98,571760,Andrew Heaney,,,45
+21887,777682,2025-06-01,119,147,LAD,NYY,Los Angeles Dodgers,New York Yankees,808967,Yoshinobu Yamamoto,,,18,642232,Ryan Yarbrough,,,33

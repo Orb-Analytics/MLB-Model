@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+28733,777341,2025-06-27,134,121,PIT,NYM,Pittsburgh Pirates,New York Mets,656605,Mitch Keller,,,23,656849,David Peterson,,,23
+28738,777343,2025-06-27,110,139,BAL,TB,Baltimore Orioles,Tampa Bay Rays,608372,Tomoyuki Sugano,,,19,686752,Ryan Pepiot,,,44
+28734,777337,2025-06-27,147,133,NYY,ATH,New York Yankees,Athletics,701542,Will Warren,,,98,687765,Mitch Spence,,,28
+28736,777346,2025-06-27,113,135,CIN,SD,Cincinnati Reds,San Diego Padres,607259,Nick Martinez,,,28,656302,Dylan Cease,,,84
+28737,777349,2025-06-27,114,138,CLE,STL,Cleveland Guardians,St. Louis Cardinals,682847,Luis Ortiz,,,45,543243,Sonny Gray,,,54
+28739,777345,2025-06-27,111,141,BOS,TOR,Boston Red Sox,Toronto Blue Jays,678394,Brayan Bello,,,66,621244,José Berríos,,,17
+28732,777334,2025-06-27,116,142,DET,MIN,Detroit Tigers,Minnesota Twins,687830,Sawyer Gipson-Long,,,66,701581,David Festa,,,58
+28735,777342,2025-06-27,144,143,ATL,PHI,Atlanta Braves,Philadelphia Phillies,693821,Bryce Elder,,,55,690953,Mick Abel,,,40
+28744,777338,2025-06-27,145,137,CWS,SF,Chicago White Sox,San Francisco Giants,650644,Aaron Civale,,,43,694738,Landen Roupp,,,65
+28743,777340,2025-06-27,140,136,TEX,SEA,Texas Rangers,Seattle Mariners,543135,Nathan Eovaldi,,,17,669302,Logan Gilbert,,,36
+28740,777336,2025-06-27,117,112,HOU,CHC,Houston Astros,Chicago Cubs,687888,Brandon Walter,,,60,690990,Cade Horton,,,22
+28742,777335,2025-06-27,118,119,KC,LAD,Kansas City Royals,Los Angeles Dodgers,702070,Noah Cameron,,,65,669160,Dustin May,,,85
+28741,777339,2025-06-27,158,115,MIL,COL,Milwaukee Brewers,Colorado Rockies,500779,Jose Quintana,,,62,607536,Kyle Freeland,,,21
+28746,777331,2025-06-27,108,120,LAA,WSH,Los Angeles Angels,Washington Nationals,667755,José Soriano,,,59,663623,Jake Irvin,,,27
+28745,777332,2025-06-27,109,146,AZ,MIA,Arizona Diamondbacks,Miami Marlins,518876,Merrill Kelly,,,29,691587,Eury Pérez,,,39

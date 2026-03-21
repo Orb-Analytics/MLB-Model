@@ -1,0 +1,8 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+22016,777673,2025-06-02,146,115,MIA,COL,Miami Marlins,Colorado Rockies,676974,Max Meyer,,,23,608566,Germán Márquez,,,48
+22015,777670,2025-06-02,111,108,BOS,LAA,Boston Red Sox,Los Angeles Angels,690916,Richard Fitts,,,80,542881,Tyler Anderson,,,31
+22017,777671,2025-06-02,113,158,CIN,MIL,Cincinnati Reds,Milwaukee Brewers,663903,Brady Singer,,,51,650644,Aaron Civale,,,32
+22018,777674,2025-06-02,145,116,CWS,DET,Chicago White Sox,Detroit Tigers,686563,Jonathan Cannon,,,48,656427,Jack Flaherty,,,9
+22021,777676,2025-06-02,137,135,SF,SD,San Francisco Giants,San Diego Padres,657277,Logan Webb,,,62,663568,Stephen Kolek,,,32
+64694,777669,2025-06-02,133,142,ATH,MIN,Athletics,Minnesota Twins,622663,Luis Severino,,,40,657746,Joe Ryan,,,41
+22020,777675,2025-06-02,119,121,LAD,NYM,Los Angeles Dodgers,New York Mets,669160,Dustin May,,,85,621112,Paul Blackburn,,,58

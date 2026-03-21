@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+22158,777663,2025-06-03,134,117,PIT,HOU,Pittsburgh Pirates,Houston Astros,694973,Paul Skenes,,,30,621121,Lance McCullers Jr.,,,43
+22157,777666,2025-06-03,146,115,MIA,COL,Miami Marlins,Colorado Rockies,645261,Sandy Alcantara,,,22,801403,Chase Dollander,,,32
+22155,777659,2025-06-03,120,112,WSH,CHC,Washington Nationals,Chicago Cubs,592866,Trevor Williams,,,32,690990,Cade Horton,,,22
+22156,777664,2025-06-03,147,114,NYY,CLE,New York Yankees,Cleveland Guardians,607074,Carlos Rodón,,,55,676440,Tanner Bibee,,,28
+22160,777665,2025-06-03,141,143,TOR,PHI,Toronto Blue Jays,Philadelphia Phillies,670102,Bowden Francis,,,44,650911,Cristopher Sánchez,,,61
+22153,777667,2025-06-03,111,108,BOS,LAA,Boston Red Sox,Los Angeles Angels,678394,Brayan Bello,,,66,579328,Yusei Kikuchi,,,16
+22159,777668,2025-06-03,113,158,CIN,MIL,Cincinnati Reds,Milwaukee Brewers,668881,Hunter Greene,,,21,642547,Freddy Peralta,,,51
+22154,777672,2025-06-03,144,109,ATL,AZ,Atlanta Braves,Arizona Diamondbacks,675911,Spencer Strider,,,99,668678,Zac Gallen,,,23
+22161,777662,2025-06-03,139,140,TB,TEX,Tampa Bay Rays,Texas Rangers,656876,Drew Rasmussen,,,57,641816,Tyler Mahle,,,51
+22162,777661,2025-06-03,145,116,CWS,DET,Chicago White Sox,Detroit Tigers,681343,Shane Smith,,,64,689225,Beau Brieske,,,4
+22163,777660,2025-06-03,138,118,STL,KC,St. Louis Cardinals,Kansas City Royals,669467,Andre Pallante,,,53,547179,Michael Lorenzen,,,24
+22164,777655,2025-06-03,136,110,SEA,BAL,Seattle Mariners,Baltimore Orioles,669923,George Kirby,,,68,608372,Tomoyuki Sugano,,,19
+22167,777656,2025-06-03,137,135,SF,SD,San Francisco Giants,San Diego Padres,694738,Landen Roupp,,,65,686701,Ryan Bergert,,,38
+64709,777658,2025-06-03,133,142,ATH,MIN,Athletics,Minnesota Twins,680880,Grant Holman,,,67,641154,Pablo López,,,49
+22166,777657,2025-06-03,119,121,LAD,NYM,Los Angeles Dodgers,New York Mets,477132,Clayton Kershaw,,,22,656731,Tylor Megill,,,38

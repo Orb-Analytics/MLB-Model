@@ -1,0 +1,14 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+48326,776498,2025-09-01,120,146,WSH,MIA,Washington Nationals,Miami Marlins,674841,Andrew Alvarez,,,54,669199,Lake Bachar,,,84
+48327,776501,2025-09-01,116,121,DET,NYM,Detroit Tigers,New York Mets,450203,Charlie Morton,,,50,640455,Sean Manaea,,,59
+48329,776503,2025-09-01,113,141,CIN,TOR,Cincinnati Reds,Toronto Blue Jays,668881,Hunter Greene,,,21,605135,Chris Bassitt,,,40
+48325,776505,2025-09-01,111,114,BOS,CLE,Boston Red Sox,Cleveland Guardians,678394,Brayan Bello,,,66,800048,Parker Messick,,,77
+48330,776499,2025-09-01,117,108,HOU,LAA,Houston Astros,Los Angeles Angels,677651,Luis Garcia,,,77,579328,Yusei Kikuchi,,,16
+48332,776502,2025-09-01,142,145,MIN,CWS,Minnesota Twins,Chicago White Sox,641927,Bailey Ober,,,17,686642,Fraser Ellard,,,55
+48333,776497,2025-09-01,138,133,STL,ATH,St. Louis Cardinals,Athletics,543243,Sonny Gray,,,54,806960,Luis Morales,,,58
+48331,776506,2025-09-01,112,144,CHC,ATL,Chicago Cubs,Atlanta Braves,607067,Colin Rea,,,53,675911,Spencer Strider,,,99
+48335,776492,2025-09-01,115,137,COL,SF,Colorado Rockies,San Francisco Giants,801403,Chase Dollander,,,32,678906,Kai-Wei Teng,,,66
+48334,776500,2025-09-01,158,143,MIL,PHI,Milwaukee Brewers,Philadelphia Phillies,694819,Jacob Misiorowski,,,32,592836,Taijuan Walker,,,99
+48336,776494,2025-09-01,135,110,SD,BAL,San Diego Padres,Baltimore Orioles,656302,Dylan Cease,,,84,680694,Kyle Bradish,,,38
+48328,776504,2025-09-01,139,136,TB,SEA,Tampa Bay Rays,Seattle Mariners,669358,Shane Baz,,,11,622491,Luis Castillo,,,58
+48337,776495,2025-09-01,109,140,AZ,TEX,Arizona Diamondbacks,Texas Rangers,669194,Ryne Nelson,,,19,571578,Patrick Corbin,,,46

@@ -1,0 +1,18 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+1206080,778068,2025-05-04,138,121,STL,NYM,St. Louis Cardinals,New York Mets,669467,Andre Pallante,,,53,656731,Tylor Megill,,,38
+13448,778053,2025-05-04,138,121,STL,NYM,St. Louis Cardinals,New York Mets,607200,Erick Fedde,,,12,694918,Blade Tidwell,,,40
+1206080,778068,2025-05-04,138,121,STL,NYM,St. Louis Cardinals,New York Mets,669467,Andre Pallante,,,53,656731,Tylor Megill,,,38
+13439,778062,2025-05-04,110,118,BAL,KC,Baltimore Orioles,Kansas City Royals,502043,Kyle Gibson,,,48,547179,Michael Lorenzen,,,24
+13443,778051,2025-05-04,134,135,PIT,SD,Pittsburgh Pirates,San Diego Padres,571760,Andrew Heaney,,,45,663568,Stephen Kolek,,,32
+13441,778063,2025-05-04,111,142,BOS,MIN,Boston Red Sox,Minnesota Twins,676979,Garrett Crochet,,,35,663978,Chris Paddack,,,20
+13444,778057,2025-05-04,147,139,NYY,TB,New York Yankees,Tampa Bay Rays,701542,Will Warren,,,98,671737,Taj Bradley,,,45
+13438,778056,2025-05-04,141,114,TOR,CLE,Toronto Blue Jays,Cleveland Guardians,670102,Bowden Francis,,,44,676440,Tanner Bibee,,,28
+13442,778061,2025-05-04,146,133,MIA,ATH,Miami Marlins,Athletics,665795,Edward Cabrera,,,27,676664,JP Sears,,,38
+13437,778059,2025-05-04,143,109,PHI,AZ,Philadelphia Phillies,Arizona Diamondbacks,624133,Ranger Suarez,,,55,593958,Eduardo Rodriguez,,,57
+13447,778055,2025-05-04,145,117,CWS,HOU,Chicago White Sox,Houston Astros,669060,Bryse Wilson,,,46,621121,Lance McCullers Jr.,,,43
+13446,778054,2025-05-04,158,112,MIL,CHC,Milwaukee Brewers,Chicago Cubs,642547,Freddy Peralta,,,51,684007,Shota Imanaga,,,18
+13449,778052,2025-05-04,140,136,TEX,SEA,Texas Rangers,Seattle Mariners,594798,Jacob deGrom,,,48,688138,Logan Evans,,,73
+13450,778048,2025-05-04,137,115,SF,COL,San Francisco Giants,Colorado Rockies,657277,Logan Webb,,,62,608566,Germán Márquez,,,48
+13451,778050,2025-05-04,108,116,LAA,DET,Los Angeles Angels,Detroit Tigers,686799,Jack Kochanowicz,,,41,681857,Reese Olson,,,45
+13445,778058,2025-05-04,113,120,CIN,WSH,Cincinnati Reds,Washington Nationals,607259,Nick Martinez,,,28,669022,MacKenzie Gore,,,1
+13440,778060,2025-05-04,144,119,ATL,LAD,Atlanta Braves,Los Angeles Dodgers,693821,Bryce Elder,,,55,669160,Dustin May,,,85

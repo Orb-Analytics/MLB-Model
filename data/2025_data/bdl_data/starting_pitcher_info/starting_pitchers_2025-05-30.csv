@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+20867,777712,2025-05-30,112,113,CHC,CIN,Chicago Cubs,Cincinnati Reds,607067,Colin Rea,,,53,671096,Andrew Abbott,,,41
+20862,777720,2025-05-30,110,145,BAL,CWS,Baltimore Orioles,Chicago White Sox,621107,Zach Eflin,,,24,694363,Jared Shuster,,,
+20864,777715,2025-05-30,143,158,PHI,MIL,Philadelphia Phillies,Milwaukee Brewers,592836,Taijuan Walker,,,99,669084,DL Hall,,,37
+20865,777716,2025-05-30,141,133,TOR,ATH,Toronto Blue Jays,Athletics,605135,Chris Bassitt,,,40,605488,Jeffrey Springs,,,59
+20860,777721,2025-05-30,114,108,CLE,LAA,Cleveland Guardians,Los Angeles Angels,682847,Luis Ortiz,,,45,667755,José Soriano,,,59
+20863,777718,2025-05-30,121,115,NYM,COL,New York Mets,Colorado Rockies,656849,David Peterson,,,23,607536,Kyle Freeland,,,21
+20866,777717,2025-05-30,146,137,MIA,SF,Miami Marlins,San Francisco Giants,615698,Cal Quantrill,,,47,690986,Kyle Harrison,,,45
+20861,777719,2025-05-30,144,111,ATL,BOS,Atlanta Braves,Boston Red Sox,656550,Grant Holmes,,,66,608337,Lucas Giolito,,,54
+20869,777709,2025-05-30,140,138,TEX,STL,Texas Rangers,St. Louis Cardinals,683004,Jack Leiter,,,35,669461,Matthew Liberatore,,,52
+20868,777711,2025-05-30,118,116,KC,DET,Kansas City Royals,Detroit Tigers,607625,Seth Lugo,,,67,663554,Casey Mize,,,12
+20870,777714,2025-05-30,117,139,HOU,TB,Houston Astros,Tampa Bay Rays,664285,Framber Valdez,,,59,686752,Ryan Pepiot,,,44
+20874,777710,2025-05-30,109,120,AZ,WSH,Arizona Diamondbacks,Washington Nationals,518876,Merrill Kelly,,,29,663623,Jake Irvin,,,27
+20873,777707,2025-05-30,135,134,SD,PIT,San Diego Padres,Pittsburgh Pirates,601713,Nick Pivetta,,,27,656605,Mitch Keller,,,23
+20871,777713,2025-05-30,136,142,SEA,MIN,Seattle Mariners,Minnesota Twins,693433,Bryan Woo,,,22,805673,Zebby Matthews,,,52
+20872,777708,2025-05-30,119,147,LAD,NYY,Los Angeles Dodgers,New York Yankees,664062,Tony Gonsolin,,,26,608331,Max Fried,,,54

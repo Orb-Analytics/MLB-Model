@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+35899,777068,2025-07-21,114,110,CLE,BAL,Cleveland Guardians,Baltimore Orioles,676440,Tanner Bibee,,,28,608372,Tomoyuki Sugano,,,19
+35903,777060,2025-07-21,134,116,PIT,DET,Pittsburgh Pirates,Detroit Tigers,694973,Paul Skenes,,,30,656427,Jack Flaherty,,,9
+35905,777062,2025-07-21,146,135,MIA,SD,Miami Marlins,San Diego Padres,691587,Eury Pérez,,,39,681190,Randy Vásquez,,,98
+35902,777064,2025-07-21,120,113,WSH,CIN,Washington Nationals,Cincinnati Reds,663623,Jake Irvin,,,27,663903,Brady Singer,,,51
+35900,777063,2025-07-21,143,111,PHI,BOS,Philadelphia Phillies,Boston Red Sox,554430,Zack Wheeler,,,45,621111,Walker Buehler,,,0
+35904,777066,2025-07-21,141,147,TOR,NYY,Toronto Blue Jays,New York Yankees,592332,Kevin Gausman,,,34,607074,Carlos Rodón,,,55
+35898,777061,2025-07-21,121,108,NYM,LAA,New York Mets,Los Angeles Angels,673540,Kodai Senga,,,34,542881,Tyler Anderson,,,31
+35906,777069,2025-07-21,144,137,ATL,SF,Atlanta Braves,San Francisco Giants,693821,Bryce Elder,,,55,806185,Hayden Birdsong,,,60
+35901,777059,2025-07-21,139,145,TB,CWS,Tampa Bay Rays,Chicago White Sox,669358,Shane Baz,,,11,680732,Sean Burke,,,59
+35907,777065,2025-07-21,112,118,CHC,KC,Chicago Cubs,Kansas City Royals,518489,Ryan Brasier,,,54,702070,Noah Cameron,,,65
+35908,777057,2025-07-21,140,133,TEX,ATH,Texas Rangers,Athletics,683004,Jack Leiter,,,35,682052,Jacob Lopez,,,57
+35909,777053,2025-07-21,115,138,COL,STL,Colorado Rockies,St. Louis Cardinals,596295,Austin Gomber,,,26,700241,Michael McGreevy,,,36
+35910,777055,2025-07-21,109,117,AZ,HOU,Arizona Diamondbacks,Houston Astros,668678,Zac Gallen,,,23,676467,Colton Gordon,,,61
+35911,777050,2025-07-21,136,158,SEA,MIL,Seattle Mariners,Milwaukee Brewers,669923,George Kirby,,,68,605540,Brandon Woodruff,,,53
+35912,777051,2025-07-21,119,142,LAD,MIN,Los Angeles Dodgers,Minnesota Twins,660271,Shohei Ohtani,,,17,701581,David Festa,,,58

@@ -1,0 +1,15 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+48800,776490,2025-09-02,116,121,DET,NYM,Detroit Tigers,New York Mets,687830,Sawyer Gipson-Long,,,66,690997,Nolan McLean,,,26
+48798,776496,2025-09-02,134,119,PIT,LAD,Pittsburgh Pirates,Los Angeles Dodgers,669387,Carmen Mlodzinski,,,50,477132,Clayton Kershaw,,,22
+48802,776491,2025-09-02,113,141,CIN,TOR,Cincinnati Reds,Toronto Blue Jays,605130,Scott Barlow,,,58,621244,José Berríos,,,17
+48797,776493,2025-09-02,111,114,BOS,CLE,Boston Red Sox,Cleveland Guardians,676979,Garrett Crochet,,,35,677944,Slade Cecconi,,,44
+48799,776482,2025-09-02,120,146,WSH,MIA,Washington Nationals,Miami Marlins,676917,Cade Cavalli,,,24,800049,Adam Mazur,,,60
+48801,776485,2025-09-02,139,136,TB,SEA,Tampa Bay Rays,Seattle Mariners,656876,Drew Rasmussen,,,57,693433,Bryan Woo,,,22
+48803,776488,2025-09-02,118,108,KC,LAA,Kansas City Royals,Los Angeles Angels,547179,Michael Lorenzen,,,24,815083,Mitch Farris,,,70
+48804,776487,2025-09-02,112,144,CHC,ATL,Chicago Cubs,Atlanta Braves,684007,Shota Imanaga,,,18,666214,Joey Wentz,,,33
+48805,776484,2025-09-02,142,145,MIN,CWS,Minnesota Twins,Chicago White Sox,680573,Simeon Woods Richardson,,,24,663436,Davis Martin,,,65
+48807,776483,2025-09-02,138,133,STL,ATH,St. Louis Cardinals,Athletics,571945,Miles Mikolas,,,39,622663,Luis Severino,,,40
+48806,776489,2025-09-02,117,147,HOU,NYY,Houston Astros,New York Yankees,664285,Framber Valdez,,,59,608331,Max Fried,,,54
+48808,776486,2025-09-02,115,137,COL,SF,Colorado Rockies,San Francisco Giants,607536,Kyle Freeland,,,21,657277,Logan Webb,,,62
+48809,776480,2025-09-02,135,110,SD,BAL,San Diego Padres,Baltimore Orioles,506433,Yu Darvish,,,11,669330,Tyler Wells,,,68
+48810,776481,2025-09-02,109,140,AZ,TEX,Arizona Diamondbacks,Texas Rangers,622503,Nabil Crismatt,,,61,656641,Jacob Latz,,,67

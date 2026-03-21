@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+55348,776151,2025-09-28,111,116,BOS,DET,Boston Red Sox,Detroit Tigers,592254,José De León,,,78,663978,Chris Paddack,,,40
+68896,776138,2025-09-28,133,118,ATH,KC,Athletics,Kansas City Royals,669620,Brady Basso,,,66,666142,Cole Ragans,,,55
+55357,776137,2025-09-28,137,115,SF,COL,San Francisco Giants,Colorado Rockies,657277,Logan Webb,,,62,685326,McCade Brown,,,51
+55349,776141,2025-09-28,143,142,PHI,MIN,Philadelphia Phillies,Minnesota Twins,650911,Cristopher Sánchez,,,61,680573,Simeon Woods Richardson,,,24
+55347,776143,2025-09-28,120,145,WSH,CWS,Washington Nationals,Chicago White Sox,695418,Brad Lord,,,61,681343,Shane Smith,,,64
+55346,776140,2025-09-28,147,110,NYY,BAL,New York Yankees,Baltimore Orioles,661563,Luis Gil,,,81,680694,Kyle Bradish,,,38
+55358,776135,2025-09-28,108,117,LAA,HOU,Los Angeles Angels,Houston Astros,691951,Sam Aldegheri,,,61,621121,Lance McCullers Jr.,,,43
+55352,776145,2025-09-28,141,139,TOR,TB,Toronto Blue Jays,Tampa Bay Rays,592332,Kevin Gausman,,,34,693855,Ian Seymour,,,61
+55356,776136,2025-09-28,135,109,SD,AZ,San Diego Padres,Arizona Diamondbacks,676664,JP Sears,,,38,694297,Brandon Pfaadt,,,32
+55360,776139,2025-09-28,136,119,SEA,LAD,Seattle Mariners,Los Angeles Dodgers,682243,Bryce Miller,,,50,477132,Clayton Kershaw,,,22
+55353,776147,2025-09-28,114,140,CLE,TEX,Cleveland Guardians,Texas Rangers,671106,Logan Allen,,,26,571578,Patrick Corbin,,,46
+55350,776148,2025-09-28,146,121,MIA,NYM,Miami Marlins,New York Mets,665795,Edward Cabrera,,,27,640455,Sean Manaea,,,59
+55354,776144,2025-09-28,158,113,MIL,CIN,Milwaukee Brewers,Cincinnati Reds,642547,Freddy Peralta,,,51,663903,Brady Singer,,,51
+55351,776149,2025-09-28,144,134,ATL,PIT,Atlanta Braves,Pittsburgh Pirates,450203,Charlie Morton,,,50,670912,Johan Oviedo,,,24
+55355,776142,2025-09-28,112,138,CHC,STL,Chicago Cubs,St. Louis Cardinals,665871,Javier Assad,,,72,681517,Kyle Leahy,,,62

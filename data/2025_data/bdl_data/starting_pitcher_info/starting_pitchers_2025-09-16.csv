@@ -1,0 +1,18 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+1622503,777825,2025-09-16,120,144,WSH,ATL,Washington Nationals,Atlanta Braves,663623,Jake Irvin,,,27,660761,José Suarez,,,54
+52305,776307,2025-09-16,120,144,WSH,ATL,Washington Nationals,Atlanta Braves,669022,MacKenzie Gore,,,1,519242,Chris Sale,,,51
+52307,776303,2025-09-16,116,114,DET,CLE,Detroit Tigers,Cleveland Guardians,663554,Casey Mize,,,12,676282,Joey Cantillo,,,54
+52306,776308,2025-09-16,134,112,PIT,CHC,Pittsburgh Pirates,Chicago Cubs,694973,Paul Skenes,,,30,690990,Cade Horton,,,22
+52308,776310,2025-09-16,111,133,BOS,ATH,Boston Red Sox,Athletics,813349,Connelly Early,,,71,605488,Jeffrey Springs,,,59
+52309,776304,2025-09-16,121,135,NYM,SD,New York Mets,San Diego Padres,605280,Clay Holmes,,,35,650633,Michael King,,,34
+52310,776305,2025-09-16,139,141,TB,TOR,Tampa Bay Rays,Toronto Blue Jays,686752,Ryan Pepiot,,,44,621244,José Berríos,,,
+52315,776302,2025-09-16,118,136,KC,SEA,Kansas City Royals,Seattle Mariners,608379,Michael Wacha,,,52,669302,Logan Gilbert,,,36
+52312,776306,2025-09-16,145,110,CWS,BAL,Chicago White Sox,Baltimore Orioles,681343,Shane Smith,,,64,665152,Dean Kremer,,,64
+52314,776298,2025-09-16,142,147,MIN,NYY,Minnesota Twins,New York Yankees,805673,Zebby Matthews,,,52,693645,Cam Schlittler,,,31
+52311,776295,2025-09-16,158,108,MIL,LAA,Milwaukee Brewers,Los Angeles Angels,642547,Freddy Peralta,,,21,702674,Caden Dana,,,36
+52313,776300,2025-09-16,138,113,STL,CIN,St. Louis Cardinals,Cincinnati Reds,700241,Michael McGreevy,,,36,671096,Andrew Abbott,,,41
+52316,776301,2025-09-16,117,140,HOU,TEX,Houston Astros,Texas Rangers,805123,AJ Blubaugh,,,69,518876,Merrill Kelly,,,23
+52317,776293,2025-09-16,115,146,COL,MIA,Colorado Rockies,Miami Marlins,607536,Kyle Freeland,,,21,691587,Eury Pérez,,,39
+52319,776294,2025-09-16,109,137,AZ,SF,Arizona Diamondbacks,San Francisco Giants,593958,Eduardo Rodriguez,,,57,663941,Tristan Beck,,,43
+52318,776297,2025-09-16,119,143,LAD,PHI,Los Angeles Dodgers,Philadelphia Phillies,660271,Shohei Ohtani,,,17,650911,Cristopher Sánchez,,,61
+1622503,777825,2025-09-16,120,144,WSH,ATL,Washington Nationals,Atlanta Braves,663623,Jake Irvin,,,27,660761,José Suarez,,,54

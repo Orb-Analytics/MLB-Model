@@ -1,0 +1,12 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+50217,776413,2025-09-08,114,118,CLE,KC,Cleveland Guardians,Kansas City Royals,677944,Slade Cecconi,,,44,686701,Ryan Bergert,,,38
+50219,776409,2025-09-08,146,120,MIA,WSH,Miami Marlins,Washington Nationals,676083,Janson Junk,,,26,676917,Cade Cavalli,,,24
+50218,776405,2025-09-08,143,121,PHI,NYM,Philadelphia Phillies,New York Mets,605400,Aaron Nola,,,27,690997,Nolan McLean,,,26
+50216,776412,2025-09-08,144,112,ATL,CHC,Atlanta Braves,Chicago Cubs,693821,Bryce Elder,,,55,684007,Shota Imanaga,,,18
+50220,776406,2025-09-08,140,158,TEX,MIL,Texas Rangers,Milwaukee Brewers,656641,Jacob Latz,,,67,500779,Jose Quintana,,,62
+50225,776411,2025-09-08,108,142,LAA,MIN,Los Angeles Angels,Minnesota Twins,702674,Caden Dana,,,36,680573,Simeon Woods Richardson,,,24
+50223,776407,2025-09-08,135,113,SD,CIN,San Diego Padres,Cincinnati Reds,506433,Yu Darvish,,,11,666157,Nick Lodolo,,,40
+50226,776400,2025-09-08,136,138,SEA,STL,Seattle Mariners,St. Louis Cardinals,693433,Bryan Woo,,,22,571945,Miles Mikolas,,,39
+50221,776399,2025-09-08,137,109,SF,AZ,San Francisco Giants,Arizona Diamondbacks,657277,Logan Webb,,,62,622503,Nabil Crismatt,,,61
+68635,776410,2025-09-08,133,111,ATH,BOS,Athletics,Boston Red Sox,806960,Luis Morales,,,58,676979,Garrett Crochet,,,35
+50224,776408,2025-09-08,119,115,LAD,COL,Los Angeles Dodgers,Colorado Rockies,607192,Tyler Glasnow,,,31,801403,Chase Dollander,,,32

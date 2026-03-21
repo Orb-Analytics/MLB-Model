@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+14816,777968,2025-05-11,121,112,NYM,CHC,New York Mets,Chicago Cubs,656288,Griffin Canning,,,46,571510,Matthew Boyd,,,16
+14819,777962,2025-05-11,120,138,WSH,STL,Washington Nationals,St. Louis Cardinals,669022,MacKenzie Gore,,,1,571945,Miles Mikolas,,,39
+14815,777967,2025-05-11,134,144,PIT,ATL,Pittsburgh Pirates,Atlanta Braves,669387,Carmen Mlodzinski,,,50,519242,Chris Sale,,,51
+14820,777969,2025-05-11,116,140,DET,TEX,Detroit Tigers,Texas Rangers,681857,Reese Olson,,,45,543135,Nathan Eovaldi,,,17
+14817,777964,2025-05-11,139,158,TB,MIL,Tampa Bay Rays,Milwaukee Brewers,656876,Drew Rasmussen,,,57,694477,Chad Patrick,,,39
+14822,777963,2025-05-11,117,113,HOU,CIN,Houston Astros,Cincinnati Reds,669854,Ronel Blanco,,,56,695534,Chase Petty,,,61
+14821,777965,2025-05-11,118,111,KC,BOS,Kansas City Royals,Boston Red Sox,607625,Seth Lugo,,,67,608337,Lucas Giolito,,,54
+14824,777956,2025-05-11,142,137,MIN,SF,Minnesota Twins,San Francisco Giants,641154,Pablo López,,,49,694738,Landen Roupp,,,65
+14823,777966,2025-05-11,145,146,CWS,MIA,Chicago White Sox,Miami Marlins,680732,Sean Burke,,,59,645261,Sandy Alcantara,,,22
+14825,777955,2025-05-11,115,135,COL,SD,Colorado Rockies,San Diego Padres,608566,Germán Márquez,,,48,601713,Nick Pivetta,,,27
+64403,777957,2025-05-11,133,147,ATH,NYY,Athletics,New York Yankees,622663,Luis Severino,,,40,642232,Ryan Yarbrough,,,33
+14826,777961,2025-05-11,108,110,LAA,BAL,Los Angeles Angels,Baltimore Orioles,542881,Tyler Anderson,,,31,621107,Zach Eflin,,,24
+14827,777954,2025-05-11,109,119,AZ,LAD,Arizona Diamondbacks,Los Angeles Dodgers,668678,Zac Gallen,,,23,664062,Tony Gonsolin,,,26
+14829,777958,2025-05-11,136,141,SEA,TOR,Seattle Mariners,Toronto Blue Jays,682243,Bryce Miller,,,50,570632,José Ureña,,,48
+14818,777971,2025-05-11,114,143,CLE,PHI,Cleveland Guardians,Philadelphia Phillies,682847,Luis Ortiz,,,45,554430,Zack Wheeler,,,45

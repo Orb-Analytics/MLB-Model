@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+16535,777888,2025-05-17,147,121,NYY,NYM,New York Yankees,New York Mets,657376,Clarke Schmidt,,,36,656288,Griffin Canning,,,46
+16539,777881,2025-05-17,112,145,CHC,CWS,Chicago Cubs,Chicago White Sox,571510,Matthew Boyd,,,16,680732,Sean Burke,,,59
+16534,777886,2025-05-17,141,116,TOR,DET,Toronto Blue Jays,Detroit Tigers,641778,Eric Lauer,,,56,681857,Reese Olson,,,45
+16538,777890,2025-05-17,110,120,BAL,WSH,Baltimore Orioles,Washington Nationals,502043,Kyle Gibson,,,48,663623,Jake Irvin,,,27
+16537,777889,2025-05-17,146,139,MIA,TB,Miami Marlins,Tampa Bay Rays,645261,Sandy Alcantara,,,22,656876,Drew Rasmussen,,,57
+16536,777894,2025-05-17,143,134,PHI,PIT,Philadelphia Phillies,Pittsburgh Pirates,554430,Zack Wheeler,,,45,669387,Carmen Mlodzinski,,,50
+16533,777892,2025-05-17,113,114,CIN,CLE,Cincinnati Reds,Cleveland Guardians,608718,Brent Suter,,,31,677944,Slade Cecconi,,,44
+16540,777882,2025-05-17,140,117,TEX,HOU,Texas Rangers,Houston Astros,641816,Tyler Mahle,,,51,669854,Ronel Blanco,,,56
+16542,777885,2025-05-17,118,138,KC,STL,Kansas City Royals,St. Louis Cardinals,702070,Noah Cameron,,,65,571945,Miles Mikolas,,,39
+16532,777893,2025-05-17,111,144,BOS,ATL,Boston Red Sox,Atlanta Braves,608337,Lucas Giolito,,,54,656550,Grant Holmes,,,66
+16541,777883,2025-05-17,158,142,MIL,MIN,Milwaukee Brewers,Minnesota Twins,668964,Tobias Myers,,,36,641154,Pablo López,,,49
+16544,777887,2025-05-17,109,115,AZ,COL,Arizona Diamondbacks,Colorado Rockies,668678,Zac Gallen,,,23,608566,Germán Márquez,,,48
+16546,777875,2025-05-17,135,136,SD,SEA,San Diego Padres,Seattle Mariners,601713,Nick Pivetta,,,27,676106,Emerson Hancock,,,26
+16545,777879,2025-05-17,137,133,SF,ATH,San Francisco Giants,Athletics,694738,Landen Roupp,,,65,622663,Luis Severino,,,40
+16543,777884,2025-05-17,119,108,LAD,LAA,Los Angeles Dodgers,Los Angeles Angels,477132,Clayton Kershaw,,,22,542881,Tyler Anderson,,,31

@@ -1,0 +1,15 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+20509,777739,2025-05-28,114,119,CLE,LAD,Cleveland Guardians,Los Angeles Dodgers,663465,Kolby Allard,,,49,477132,Clayton Kershaw,,,22
+20510,777738,2025-05-28,116,137,DET,SF,Detroit Tigers,San Francisco Giants,695549,Jackson Jobe,,,21,694738,Landen Roupp,,,65
+20516,777732,2025-05-28,139,142,TB,MIN,Tampa Bay Rays,Minnesota Twins,656876,Drew Rasmussen,,,57,641154,Pablo López,,,49
+20508,777737,2025-05-28,121,145,NYM,CWS,New York Mets,Chicago White Sox,656288,Griffin Canning,,,46,681343,Shane Smith,,,64
+20512,777736,2025-05-28,158,111,MIL,BOS,Milwaukee Brewers,Boston Red Sox,642547,Freddy Peralta,,,51,678394,Brayan Bello,,,66
+20515,777734,2025-05-28,117,133,HOU,ATH,Houston Astros,Athletics,621121,Lance McCullers Jr.,,,43,622663,Luis Severino,,,40
+20520,777729,2025-05-28,109,134,AZ,PIT,Arizona Diamondbacks,Pittsburgh Pirates,668678,Zac Gallen,,,23,694973,Paul Skenes,,,30
+20518,777726,2025-05-28,135,146,SD,MIA,San Diego Padres,Miami Marlins,606996,Kyle Hart,,,68,645261,Sandy Alcantara,,,22
+20511,777740,2025-05-28,110,138,BAL,STL,Baltimore Orioles,St. Louis Cardinals,700249,Cade Povich,,,37,571945,Miles Mikolas,,,39
+20513,777733,2025-05-28,118,113,KC,CIN,Kansas City Royals,Cincinnati Reds,702070,Noah Cameron,,,65,668881,Hunter Greene,,,21
+20514,777731,2025-05-28,112,115,CHC,COL,Chicago Cubs,Colorado Rockies,571510,Matthew Boyd,,,16,685299,Tanner Gordon,,,29
+20517,777724,2025-05-28,140,141,TEX,TOR,Texas Rangers,Toronto Blue Jays,641816,Tyler Mahle,,,51,687606,Paxton Schultz,,,65
+20519,777728,2025-05-28,108,147,LAA,NYY,Los Angeles Angels,New York Yankees,579328,Yusei Kikuchi,,,16,657376,Clarke Schmidt,,,36
+20521,777730,2025-05-28,136,120,SEA,WSH,Seattle Mariners,Washington Nationals,669923,George Kirby,,,68,592866,Trevor Williams,,,32

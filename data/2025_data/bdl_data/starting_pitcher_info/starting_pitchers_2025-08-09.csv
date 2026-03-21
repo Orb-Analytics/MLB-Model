@@ -1,0 +1,18 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+632431,778431,2025-08-09,144,146,ATL,MIA,Atlanta Braves,Miami Marlins,694462,Hurston Waldrep,,,64,687473,Ryan Gusto,,,
+41805,776819,2025-08-09,144,146,ATL,MIA,Atlanta Braves,Miami Marlins,607200,Erick Fedde,,,22,645261,Sandy Alcantara,,,22
+41804,776815,2025-08-09,147,117,NYY,HOU,New York Yankees,Houston Astros,661563,Luis Gil,,,81,664285,Framber Valdez,,,59
+41816,776802,2025-08-09,137,120,SF,WSH,San Francisco Giants,Washington Nationals,687931,Carson Whisenhunt,,,88,695418,Brad Lord,,,61
+41802,776813,2025-08-09,116,108,DET,LAA,Detroit Tigers,Los Angeles Angels,450203,Charlie Morton,,,50,579328,Yusei Kikuchi,,,16
+41803,776812,2025-08-09,134,113,PIT,CIN,Pittsburgh Pirates,Cincinnati Reds,677952,Braxton Ashcraft,,,67,607259,Nick Martinez,,,28
+41806,776811,2025-08-09,110,133,BAL,ATH,Baltimore Orioles,Athletics,687064,Brandon Young,,,63,678022,Jack Perkins,,,50
+41809,776816,2025-08-09,142,118,MIN,KC,Minnesota Twins,Kansas City Royals,641927,Bailey Ober,,,17,702070,Noah Cameron,,,65
+41808,776814,2025-08-09,145,114,CWS,CLE,Chicago White Sox,Cleveland Guardians,680732,Sean Burke,,,59,676282,Joey Cantillo,,,54
+41810,776817,2025-08-09,158,121,MIL,NYM,Milwaukee Brewers,New York Mets,668964,Tobias Myers,,,36,657585,Reed Garrett,,,75
+41807,776818,2025-08-09,138,112,STL,CHC,St. Louis Cardinals,Chicago Cubs,669467,Andre Pallante,,,53,607067,Colin Rea,,,53
+41811,776810,2025-08-09,140,143,TEX,PHI,Texas Rangers,Philadelphia Phillies,594798,Jacob deGrom,,,48,666200,Jesús Luzardo,,,44
+41813,776809,2025-08-09,109,115,AZ,COL,Arizona Diamondbacks,Colorado Rockies,593958,Eduardo Rodriguez,,,57,687134,Bradley Blalock,,,64
+41812,776807,2025-08-09,135,111,SD,BOS,San Diego Padres,Boston Red Sox,650633,Michael King,,,34,608337,Lucas Giolito,,,54
+41815,776808,2025-08-09,119,141,LAD,TOR,Los Angeles Dodgers,Toronto Blue Jays,605483,Blake Snell,,,7,605135,Chris Bassitt,,,40
+41814,776805,2025-08-09,136,139,SEA,TB,Seattle Mariners,Tampa Bay Rays,688138,Logan Evans,,,73,671212,Joe Boyle,,,36
+632431,778431,2025-08-09,144,146,ATL,MIA,Atlanta Braves,Miami Marlins,694462,Hurston Waldrep,,,64,687473,Ryan Gusto,,,

@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+54800,776167,2025-09-26,112,138,CHC,STL,Chicago Cubs,St. Louis Cardinals,607067,Colin Rea,,,53,571945,Miles Mikolas,,,39
+54794,776176,2025-09-26,143,142,PHI,MIN,Philadelphia Phillies,Minnesota Twins,605400,Aaron Nola,,,27,657746,Joe Ryan,,,41
+54792,776165,2025-09-26,120,145,WSH,CWS,Washington Nationals,Chicago White Sox,676917,Cade Cavalli,,,24,672782,Yoendrys Gómez,,,94
+54791,776174,2025-09-26,147,110,NYY,BAL,New York Yankees,Baltimore Orioles,701542,Will Warren,,,98,669432,Trevor Rogers,,,28
+54797,776177,2025-09-26,141,139,TOR,TB,Toronto Blue Jays,Tampa Bay Rays,669456,Shane Bieber,,,57,605288,Adrian Houser,,,37
+54793,776181,2025-09-26,111,116,BOS,DET,Boston Red Sox,Detroit Tigers,690986,Kyle Harrison,,,38,663554,Casey Mize,,,12
+54798,776175,2025-09-26,114,140,CLE,TEX,Cleveland Guardians,Texas Rangers,677944,Slade Cecconi,,,44,683004,Jack Leiter,,,35
+54795,776173,2025-09-26,146,121,MIA,NYM,Miami Marlins,New York Mets,645261,Sandy Alcantara,,,22,687075,Brandon Sproat,,,40
+54796,776180,2025-09-26,144,134,ATL,PIT,Atlanta Braves,Pittsburgh Pirates,666214,Joey Wentz,,,33,656605,Mitch Keller,,,23
+54799,776171,2025-09-26,158,113,MIL,CIN,Milwaukee Brewers,Cincinnati Reds,682990,Quinn Priester,,,46,641793,Zack Littell,,,52
+54803,776169,2025-09-26,108,117,LAA,HOU,Los Angeles Angels,Houston Astros,543294,Kyle Hendricks,,,28,669920,Jason Alexander,,,54
+54801,776170,2025-09-26,135,109,SD,AZ,San Diego Padres,Arizona Diamondbacks,506433,Yu Darvish,,,11,668678,Zac Gallen,,,23
+54805,776168,2025-09-26,136,119,SEA,LAD,Seattle Mariners,Los Angeles Dodgers,669923,George Kirby,,,68,686218,Emmet Sheehan,,,80
+68874,776172,2025-09-26,133,118,ATH,KC,Athletics,Kansas City Royals,686930,Mason Barnett,,,63,702070,Noah Cameron,,,65
+54802,776166,2025-09-26,137,115,SF,COL,San Francisco Giants,Colorado Rockies,686790,Trevor McDonald,,,72,608566,Germán Márquez,,,48

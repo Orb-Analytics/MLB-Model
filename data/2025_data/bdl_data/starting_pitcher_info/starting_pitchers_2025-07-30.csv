@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+39056,776948,2025-07-30,110,141,BAL,TOR,Baltimore Orioles,Toronto Blue Jays,665152,Dean Kremer,,,64,621244,José Berríos,,,17
+39052,776940,2025-07-30,116,109,DET,AZ,Detroit Tigers,Arizona Diamondbacks,663978,Chris Paddack,,,40,669194,Ryne Nelson,,,19
+39058,776935,2025-07-30,142,111,MIN,BOS,Minnesota Twins,Boston Red Sox,805673,Zebby Matthews,,,52,678394,Brayan Bello,,,66
+39062,776937,2025-07-30,117,120,HOU,WSH,Houston Astros,Washington Nationals,687473,Ryan Gusto,,,,669022,MacKenzie Gore,,,1
+39057,776936,2025-07-30,118,144,KC,ATL,Kansas City Royals,Atlanta Braves,672582,Angel Zerpa,,,61,666214,Joey Wentz,,,33
+39061,776939,2025-07-30,145,143,CWS,PHI,Chicago White Sox,Philadelphia Phillies,641302,Tyler Alexander,,,70,592836,Taijuan Walker,,,99
+39059,776929,2025-07-30,158,112,MIL,CHC,Milwaukee Brewers,Chicago Cubs,642547,Freddy Peralta,,,51,684007,Shota Imanaga,,,18
+39064,776933,2025-07-30,137,134,SF,PIT,San Francisco Giants,Pittsburgh Pirates,657277,Logan Webb,,,62,681347,Mike Burrows,,,53
+39063,776931,2025-07-30,135,121,SD,NYM,San Diego Padres,New York Mets,506433,Yu Darvish,,,11,605280,Clay Holmes,,,35
+39053,776942,2025-07-30,114,115,CLE,COL,Cleveland Guardians,Colorado Rockies,663465,Kolby Allard,,,49,607536,Kyle Freeland,,,21
+39055,776938,2025-07-30,147,139,NYY,TB,New York Yankees,Tampa Bay Rays,701542,Will Warren,,,98,641793,Zack Littell,,,
+39054,776941,2025-07-30,113,119,CIN,LAD,Cincinnati Reds,Los Angeles Dodgers,607259,Nick Martinez,,,28,660271,Shohei Ohtani,,,17
+39060,776934,2025-07-30,138,146,STL,MIA,St. Louis Cardinals,Miami Marlins,571945,Miles Mikolas,,,39,615698,Cal Quantrill,,,47
+39066,776932,2025-07-30,108,140,LAA,TEX,Los Angeles Angels,Texas Rangers,667755,José Soriano,,,59,543135,Nathan Eovaldi,,,17
+68108,776930,2025-07-30,133,136,ATH,SEA,Athletics,Seattle Mariners,605488,Jeffrey Springs,,,59,693433,Bryan Woo,,,22

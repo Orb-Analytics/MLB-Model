@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+42675,776776,2025-08-12,110,136,BAL,SEA,Baltimore Orioles,Seattle Mariners,665152,Dean Kremer,,,64,669923,George Kirby,,,68
+42674,776777,2025-08-12,113,143,CIN,PHI,Cincinnati Reds,Philadelphia Phillies,663903,Brady Singer,,,51,624133,Ranger Suarez,,,55
+42672,776778,2025-08-12,114,146,CLE,MIA,Cleveland Guardians,Miami Marlins,671106,Logan Allen,,,26,676083,Janson Junk,,,26
+42673,776774,2025-08-12,147,142,NYY,MIN,New York Yankees,Minnesota Twins,607074,Carlos Rodón,,,55,701519,Travis Adams,,,45
+42671,776768,2025-08-12,141,112,TOR,CHC,Toronto Blue Jays,Chicago Cubs,621244,José Berríos,,,17,665871,Javier Assad,,,72
+42670,776772,2025-08-12,121,144,NYM,ATL,New York Mets,Atlanta Braves,605280,Clay Holmes,,,35,675911,Spencer Strider,,,99
+42681,776770,2025-08-12,118,120,KC,WSH,Kansas City Royals,Washington Nationals,608379,Michael Wacha,,,52,680730,Mitchell Parker,,,70
+42679,776773,2025-08-12,145,116,CWS,DET,Chicago White Sox,Detroit Tigers,672782,Yoendrys Gómez,,,94,656427,Jack Flaherty,,,9
+42680,776771,2025-08-12,158,134,MIL,PIT,Milwaukee Brewers,Pittsburgh Pirates,642547,Freddy Peralta,,,51,694973,Paul Skenes,,,30
+42678,776775,2025-08-12,138,115,STL,COL,St. Louis Cardinals,Colorado Rockies,669461,Matthew Liberatore,,,52,607536,Kyle Freeland,,,21
+42676,776764,2025-08-12,140,109,TEX,AZ,Texas Rangers,Arizona Diamondbacks,683004,Jack Leiter,,,35,543101,Anthony DeSclafani,,,21
+42677,776769,2025-08-12,117,111,HOU,BOS,Houston Astros,Boston Red Sox,681293,Spencer Arrighetti,,,41,669160,Dustin May,,,85
+42682,776763,2025-08-12,108,119,LAA,LAD,Los Angeles Angels,Los Angeles Dodgers,682989,Victor Mederos,,,58,686218,Emmet Sheehan,,,80
+42683,776767,2025-08-12,137,135,SF,SD,San Francisco Giants,San Diego Padres,592662,Robbie Ray,,,38,641482,Nestor Cortes,,,65
+68274,776762,2025-08-12,133,139,ATH,TB,Athletics,Tampa Bay Rays,682052,Jacob Lopez,,,57,669358,Shane Baz,,,11

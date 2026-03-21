@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+47367,776551,2025-08-29,113,138,CIN,STL,Cincinnati Reds,St. Louis Cardinals,641793,Zack Littell,,,52,669461,Matthew Liberatore,,,52
+47368,776545,2025-08-29,120,139,WSH,TB,Washington Nationals,Tampa Bay Rays,680730,Mitchell Parker,,,70,605288,Adrian Houser,,,37
+47362,776552,2025-08-29,143,144,PHI,ATL,Philadelphia Phillies,Atlanta Braves,624133,Ranger Suarez,,,55,693821,Bryce Elder,,,55
+47364,776546,2025-08-29,141,158,TOR,MIL,Toronto Blue Jays,Milwaukee Brewers,669456,Shane Bieber,,,57,642547,Freddy Peralta,,,51
+47365,776549,2025-08-29,111,134,BOS,PIT,Boston Red Sox,Pittsburgh Pirates,801139,Payton Tolle,,,70,694973,Paul Skenes,,,30
+47366,776547,2025-08-29,114,136,CLE,SEA,Cleveland Guardians,Seattle Mariners,671106,Logan Allen,,,26,669923,George Kirby,,,68
+47363,776548,2025-08-29,121,146,NYM,MIA,New York Mets,Miami Marlins,804636,Jonah Tong,,,21,691587,Eury Pérez,,,39
+47371,776544,2025-08-29,145,147,CWS,NYY,Chicago White Sox,New York Yankees,672782,Yoendrys Gómez,,,94,607074,Carlos Rodón,,,55
+47369,776543,2025-08-29,117,108,HOU,LAA,Houston Astros,Los Angeles Angels,664299,Cristian Javier,,,53,542881,Tyler Anderson,,,31
+47370,776540,2025-08-29,118,116,KC,DET,Kansas City Royals,Detroit Tigers,607625,Seth Lugo,,,67,663978,Chris Paddack,,,40
+47372,776541,2025-08-29,142,135,MIN,SD,Minnesota Twins,San Diego Padres,805673,Zebby Matthews,,,52,641482,Nestor Cortes,,,65
+47373,776542,2025-08-29,115,112,COL,CHC,Colorado Rockies,Chicago Cubs,608566,Germán Márquez,,,48,690990,Cade Horton,,,22
+68500,776538,2025-08-29,133,140,ATH,TEX,Athletics,Texas Rangers,605488,Jeffrey Springs,,,59,683004,Jack Leiter,,,35
+47374,776534,2025-08-29,119,109,LAD,AZ,Los Angeles Dodgers,Arizona Diamondbacks,605483,Blake Snell,,,7,668678,Zac Gallen,,,23
+47375,776533,2025-08-29,137,110,SF,BAL,San Francisco Giants,Baltimore Orioles,592662,Robbie Ray,,,38,665152,Dean Kremer,,,64

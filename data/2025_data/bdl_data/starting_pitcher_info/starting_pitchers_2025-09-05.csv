@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+49469,776455,2025-09-05,112,120,CHC,WSH,Chicago Cubs,Washington Nationals,665871,Javier Assad,,,72,663623,Jake Irvin,,,27
+49462,776450,2025-09-05,113,121,CIN,NYM,Cincinnati Reds,New York Mets,671096,Andrew Abbott,,,41,656849,David Peterson,,,23
+49458,776452,2025-09-05,116,145,DET,CWS,Detroit Tigers,Chicago White Sox,656427,Jack Flaherty,,,9,681343,Shane Smith,,,64
+49461,776453,2025-09-05,134,158,PIT,MIL,Pittsburgh Pirates,Milwaukee Brewers,670912,Johan Oviedo,,,24,682990,Quinn Priester,,,46
+49460,776454,2025-09-05,110,119,BAL,LAD,Baltimore Orioles,Los Angeles Dodgers,665152,Dean Kremer,,,64,660271,Shohei Ohtani,,,17
+49465,776457,2025-09-05,147,141,NYY,TOR,New York Yankees,Toronto Blue Jays,693645,Cam Schlittler,,,31,592332,Kevin Gausman,,,34
+49463,776456,2025-09-05,146,143,MIA,PHI,Miami Marlins,Philadelphia Phillies,678368,Valente Bellozo,,,83,650911,Cristopher Sánchez,,,61
+49464,776460,2025-09-05,144,136,ATL,SEA,Atlanta Braves,Seattle Mariners,519242,Chris Sale,,,51,669302,Logan Gilbert,,,36
+49459,776451,2025-09-05,139,114,TB,CLE,Tampa Bay Rays,Cleveland Guardians,643377,Griffin Jax,,,22,668909,Gavin Williams,,,32
+49467,776446,2025-09-05,118,142,KC,MIN,Kansas City Royals,Minnesota Twins,608379,Michael Wacha,,,52,641154,Pablo López,,,49
+49466,776449,2025-09-05,140,117,TEX,HOU,Texas Rangers,Houston Astros,518876,Merrill Kelly,,,23,676467,Colton Gordon,,,61
+49468,776445,2025-09-05,138,137,STL,SF,St. Louis Cardinals,San Francisco Giants,700241,Michael McGreevy,,,36,693313,Carson Seymour,,,77
+49470,776442,2025-09-05,115,135,COL,SD,Colorado Rockies,San Diego Padres,607536,Kyle Freeland,,,21,601713,Nick Pivetta,,,27
+49472,776444,2025-09-05,108,133,LAA,ATH,Los Angeles Angels,Athletics,667755,José Soriano,,,59,686930,Mason Barnett,,,63
+49471,776448,2025-09-05,109,111,AZ,BOS,Arizona Diamondbacks,Boston Red Sox,593958,Eduardo Rodriguez,,,57,801139,Payton Tolle,,,70

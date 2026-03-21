@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+50183,776428,2025-09-07,144,136,ATL,SEA,Atlanta Braves,Seattle Mariners,666214,Joey Wentz,,,33,622491,Luis Castillo,,,58
+50178,776421,2025-09-07,139,114,TB,CLE,Tampa Bay Rays,Cleveland Guardians,656876,Drew Rasmussen,,,57,800048,Parker Messick,,,77
+50179,776427,2025-09-07,110,119,BAL,LAD,Baltimore Orioles,Los Angeles Dodgers,608372,Tomoyuki Sugano,,,19,477132,Clayton Kershaw,,,22
+50184,776423,2025-09-07,147,141,NYY,TOR,New York Yankees,Toronto Blue Jays,608331,Max Fried,,,54,453286,Max Scherzer,,,31
+50180,776419,2025-09-07,134,158,PIT,MIL,Pittsburgh Pirates,Milwaukee Brewers,696149,Bubba Chandler,,,57,694819,Jacob Misiorowski,,,32
+50181,776429,2025-09-07,113,121,CIN,NYM,Cincinnati Reds,New York Mets,668881,Hunter Greene,,,21,687075,Brandon Sproat,,,40
+50177,776425,2025-09-07,116,145,DET,CWS,Detroit Tigers,Chicago White Sox,450203,Charlie Morton,,,50,663436,Davis Martin,,,65
+50182,776426,2025-09-07,146,143,MIA,PHI,Miami Marlins,Philadelphia Phillies,663969,Tyler Phillips,,,30,592836,Taijuan Walker,,,99
+50186,776422,2025-09-07,118,142,KC,MIN,Kansas City Royals,Minnesota Twins,547179,Michael Lorenzen,,,24,641927,Bailey Ober,,,17
+50187,776416,2025-09-07,138,137,STL,SF,St. Louis Cardinals,San Francisco Giants,543243,Sonny Gray,,,54,678906,Kai-Wei Teng,,,66
+50188,776420,2025-09-07,112,120,CHC,WSH,Chicago Cubs,Washington Nationals,519141,Drew Pomeranz,,,45,674841,Andrew Alvarez,,,54
+50185,776418,2025-09-07,140,117,TEX,HOU,Texas Rangers,Houston Astros,571578,Patrick Corbin,,,46,664285,Framber Valdez,,,59
+50189,776417,2025-09-07,115,135,COL,SD,Colorado Rockies,San Diego Padres,685299,Tanner Gordon,,,29,656302,Dylan Cease,,,84
+50191,776414,2025-09-07,108,133,LAA,ATH,Los Angeles Angels,Athletics,815083,Mitch Farris,,,70,622663,Luis Severino,,,40
+50190,776415,2025-09-07,109,111,AZ,BOS,Arizona Diamondbacks,Boston Red Sox,669194,Ryne Nelson,,,19,678394,Brayan Bello,,,66

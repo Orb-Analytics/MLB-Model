@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+29094,777326,2025-06-28,147,133,NYY,ATH,New York Yankees,Athletics,657376,Clarke Schmidt,,,36,676664,JP Sears,,,38
+29092,777324,2025-06-28,116,142,DET,MIN,Detroit Tigers,Minnesota Twins,663554,Casey Mize,,,12,641927,Bailey Ober,,,17
+29093,777325,2025-06-28,134,121,PIT,NYM,Pittsburgh Pirates,New York Mets,663559,Bailey Falter,,,6,621112,Paul Blackburn,,,58
+29098,777330,2025-06-28,110,139,BAL,TB,Baltimore Orioles,Tampa Bay Rays,621107,Zach Eflin,,,24,641793,Zack Littell,,,52
+29103,777322,2025-06-28,140,136,TEX,SEA,Texas Rangers,Seattle Mariners,677958,Kumar Rocker,,,80,693433,Bryan Woo,,,22
+29102,777319,2025-06-28,118,119,KC,LAD,Kansas City Royals,Los Angeles Dodgers,607625,Seth Lugo,,,67,660271,Shohei Ohtani,,,17
+29096,777328,2025-06-28,113,135,CIN,SD,Cincinnati Reds,San Diego Padres,671096,Andrew Abbott,,,41,681190,Randy Vásquez,,,98
+29097,777329,2025-06-28,114,138,CLE,STL,Cleveland Guardians,St. Louis Cardinals,677944,Slade Cecconi,,,44,571945,Miles Mikolas,,,39
+29099,777323,2025-06-28,111,141,BOS,TOR,Boston Red Sox,Toronto Blue Jays,608337,Lucas Giolito,,,54,605135,Chris Bassitt,,,40
+29104,777327,2025-06-28,145,137,CWS,SF,Chicago White Sox,San Francisco Giants,605288,Adrian Houser,,,57,592662,Robbie Ray,,,38
+29105,777318,2025-06-28,109,146,AZ,MIA,Arizona Diamondbacks,Miami Marlins,694297,Brandon Pfaadt,,,32,645261,Sandy Alcantara,,,22
+29101,777321,2025-06-28,158,115,MIL,COL,Milwaukee Brewers,Colorado Rockies,682990,Quinn Priester,,,46,622608,Antonio Senzatela,,,49
+29100,777320,2025-06-28,117,112,HOU,CHC,Houston Astros,Chicago Cubs,621121,Lance McCullers Jr.,,,43,607067,Colin Rea,,,53
+29095,777333,2025-06-28,144,143,ATL,PHI,Atlanta Braves,Philadelphia Phillies,680885,Spencer Schwellenbach,,,56,666200,Jesús Luzardo,,,44
+29106,777315,2025-06-28,108,120,LAA,WSH,Los Angeles Angels,Washington Nationals,543294,Kyle Hendricks,,,28,647336,Michael Soroka,,,34

@@ -1,0 +1,18 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+1119446,778134,2025-04-30,113,138,CIN,STL,Cincinnati Reds,St. Louis Cardinals,663903,Brady Singer,,,51,571945,Miles Mikolas,,,39
+12313,778119,2025-04-30,113,138,CIN,STL,Cincinnati Reds,St. Louis Cardinals,695534,Chase Petty,,,,571927,Steven Matz,,,32
+12315,778110,2025-04-30,117,116,HOU,DET,Houston Astros,Detroit Tigers,805123,AJ Blubaugh,,,,695549,Jackson Jobe,,,21
+12318,778102,2025-04-30,115,144,COL,ATL,Colorado Rockies,Atlanta Braves,801403,Chase Dollander,,,32,519242,Chris Sale,,,51
+12320,778109,2025-04-30,119,146,LAD,MIA,Los Angeles Dodgers,Miami Marlins,664062,Tony Gonsolin,,,26,615698,Cal Quantrill,,,47
+12319,778104,2025-04-30,136,108,SEA,LAA,Seattle Mariners,Los Angeles Angels,676106,Emerson Hancock,,,26,542881,Tyler Anderson,,,31
+12321,778105,2025-04-30,135,137,SD,SF,San Diego Padres,San Francisco Giants,650633,Michael King,,,34,694738,Landen Roupp,,,65
+12311,778116,2025-04-30,114,142,CLE,MIN,Cleveland Guardians,Minnesota Twins,682847,Luis Ortiz,,,45,641154,Pablo López,,,49
+12312,778115,2025-04-30,110,147,BAL,NYY,Baltimore Orioles,New York Yankees,700249,Cade Povich,,,37,471911,Carlos Carrasco,,,59
+12309,778112,2025-04-30,134,112,PIT,CHC,Pittsburgh Pirates,Chicago Cubs,669387,Carmen Mlodzinski,,,50,571510,Matthew Boyd,,,16
+12314,778118,2025-04-30,143,120,PHI,WSH,Philadelphia Phillies,Washington Nationals,650911,Cristopher Sánchez,,,61,663623,Jake Irvin,,,27
+12310,778113,2025-04-30,139,118,TB,KC,Tampa Bay Rays,Kansas City Royals,656876,Drew Rasmussen,,,57,702070,Noah Cameron,,,
+12308,778114,2025-04-30,141,111,TOR,BOS,Toronto Blue Jays,Boston Red Sox,684320,Yariel Rodríguez,,,29,608337,Lucas Giolito,,,54
+12307,778117,2025-04-30,121,109,NYM,AZ,New York Mets,Arizona Diamondbacks,623211,Huascar Brazobán,,,43,669203,Corbin Burnes,,,39
+12316,778111,2025-04-30,145,158,CWS,MIL,Chicago White Sox,Milwaukee Brewers,681343,Shane Smith,,,64,668964,Tobias Myers,,,36
+12317,778106,2025-04-30,140,133,TEX,ATH,Texas Rangers,Athletics,543135,Nathan Eovaldi,,,17,622663,Luis Severino,,,40
+1119446,778134,2025-04-30,113,138,CIN,STL,Cincinnati Reds,St. Louis Cardinals,663903,Brady Singer,,,51,571945,Miles Mikolas,,,39

@@ -1,0 +1,15 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+1940662,777642,2025-06-05,138,118,STL,KC,St. Louis Cardinals,Kansas City Royals,571945,Miles Mikolas,,,39,702070,Noah Cameron,,,65
+23082,777640,2025-06-05,144,109,ATL,AZ,Atlanta Braves,Arizona Diamondbacks,656550,Grant Holmes,,,66,694297,Brandon Pfaadt,,,32
+1940662,777642,2025-06-05,138,118,STL,KC,St. Louis Cardinals,Kansas City Royals,571945,Miles Mikolas,,,39,702070,Noah Cameron,,,65
+23089,777635,2025-06-05,138,118,STL,KC,St. Louis Cardinals,Kansas City Royals,669461,Matthew Liberatore,,,52,666142,Cole Ragans,,,55
+23088,777634,2025-06-05,145,116,CWS,DET,Chicago White Sox,Detroit Tigers,680732,Sean Burke,,,59,663554,Casey Mize,,,12
+23086,777637,2025-06-05,141,143,TOR,PHI,Toronto Blue Jays,Philadelphia Phillies,605135,Chris Bassitt,,,40,666200,Jesús Luzardo,,,44
+64729,777636,2025-06-05,133,142,ATH,MIN,Athletics,Minnesota Twins,687765,Mitch Spence,,,28,701581,David Festa,,,58
+23090,777628,2025-06-05,136,110,SEA,BAL,Seattle Mariners,Baltimore Orioles,693433,Bryan Woo,,,22,621107,Zach Eflin,,,24
+23093,777633,2025-06-05,137,135,SF,SD,San Francisco Giants,San Diego Padres,592662,Robbie Ray,,,38,656302,Dylan Cease,,,84
+23092,777631,2025-06-05,119,121,LAD,NYM,Los Angeles Dodgers,New York Mets,689017,Landon Knack,,,96,656849,David Peterson,,,23
+23085,777630,2025-06-05,134,117,PIT,HOU,Pittsburgh Pirates,Houston Astros,656605,Mitch Keller,,,23,664285,Framber Valdez,,,59
+23083,777632,2025-06-05,120,112,WSH,CHC,Washington Nationals,Chicago Cubs,663623,Jake Irvin,,,27,519141,Drew Pomeranz,,,45
+23084,777644,2025-06-05,147,114,NYY,CLE,New York Yankees,Cleveland Guardians,608331,Max Fried,,,54,677944,Slade Cecconi,,,44
+23087,777629,2025-06-05,139,140,TB,TEX,Tampa Bay Rays,Texas Rangers,686752,Ryan Pepiot,,,44,683004,Jack Leiter,,,35

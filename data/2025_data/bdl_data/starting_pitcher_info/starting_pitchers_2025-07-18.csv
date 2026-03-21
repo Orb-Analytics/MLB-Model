@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+35144,777101,2025-07-18,112,111,CHC,BOS,Chicago Cubs,Boston Red Sox,607067,Colin Rea,,,53,608337,Lucas Giolito,,,54
+35137,777107,2025-07-18,134,145,PIT,CWS,Pittsburgh Pirates,Chicago White Sox,663559,Bailey Falter,,,6,686563,Jonathan Cannon,,,48
+35142,777112,2025-07-18,120,135,WSH,SD,Washington Nationals,San Diego Padres,647336,Michael Soroka,,,34,656302,Dylan Cease,,,84
+35135,777106,2025-07-18,143,108,PHI,LAA,Philadelphia Phillies,Los Angeles Angels,666200,Jesús Luzardo,,,44,666171,Ryan Zeferjahn,,,56
+35143,777108,2025-07-18,141,137,TOR,SF,Toronto Blue Jays,San Francisco Giants,605135,Chris Bassitt,,,40,434378,Justin Verlander,,,35
+35138,777111,2025-07-18,121,113,NYM,CIN,New York Mets,Cincinnati Reds,640455,Sean Manaea,,,59,666157,Nick Lodolo,,,40
+35141,777105,2025-07-18,114,133,CLE,ATH,Cleveland Guardians,Athletics,677944,Slade Cecconi,,,44,676664,JP Sears,,,38
+35139,777109,2025-07-18,146,118,MIA,KC,Miami Marlins,Kansas City Royals,645261,Sandy Alcantara,,,22,607625,Seth Lugo,,,67
+35140,777114,2025-07-18,144,147,ATL,NYY,Atlanta Braves,New York Yankees,675911,Spencer Strider,,,99,641656,Ian Hamilton,,,71
+35136,777110,2025-07-18,139,110,TB,BAL,Tampa Bay Rays,Baltimore Orioles,671737,Taj Bradley,,,45,450203,Charlie Morton,,,50
+35145,777098,2025-07-18,140,116,TEX,DET,Texas Rangers,Detroit Tigers,571578,Patrick Corbin,,,46,681857,Reese Olson,,,45
+35146,777102,2025-07-18,115,142,COL,MIN,Colorado Rockies,Minnesota Twins,607536,Kyle Freeland,,,21,663978,Chris Paddack,,,20
+35149,777100,2025-07-18,109,138,AZ,STL,Arizona Diamondbacks,St. Louis Cardinals,694297,Brandon Pfaadt,,,32,669467,Andre Pallante,,,53
+35147,777099,2025-07-18,136,117,SEA,HOU,Seattle Mariners,Houston Astros,622491,Luis Castillo,,,58,687888,Brandon Walter,,,60
+35148,777103,2025-07-18,119,158,LAD,MIL,Los Angeles Dodgers,Milwaukee Brewers,607192,Tyler Glasnow,,,31,682990,Quinn Priester,,,46

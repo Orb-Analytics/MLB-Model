@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+38227,776986,2025-07-27,110,115,BAL,COL,Baltimore Orioles,Colorado Rockies,608372,Tomoyuki Sugano,,,19,596295,Austin Gomber,,,26
+38228,776983,2025-07-27,111,119,BOS,LAD,Boston Red Sox,Los Angeles Dodgers,621111,Walker Buehler,,,0,669160,Dustin May,,,85
+38226,776984,2025-07-27,134,109,PIT,AZ,Pittsburgh Pirates,Arizona Diamondbacks,694973,Paul Skenes,,,30,668678,Zac Gallen,,,23
+38229,776988,2025-07-27,147,143,NYY,PHI,New York Yankees,Philadelphia Phillies,607074,Carlos Rodón,,,55,554430,Zack Wheeler,,,45
+38230,776982,2025-07-27,113,139,CIN,TB,Cincinnati Reds,Tampa Bay Rays,663903,Brady Singer,,,51,669358,Shane Baz,,,11
+38231,776987,2025-07-27,116,141,DET,TOR,Detroit Tigers,Toronto Blue Jays,656427,Jack Flaherty,,,9,453286,Max Scherzer,,,31
+38234,776975,2025-07-27,118,114,KC,CLE,Kansas City Royals,Cleveland Guardians,702070,Noah Cameron,,,65,676282,Joey Cantillo,,,54
+38236,776976,2025-07-27,117,133,HOU,ATH,Houston Astros,Athletics,676467,Colton Gordon,,,61,669372,J.T. Ginn,,,70
+38238,776979,2025-07-27,142,120,MIN,WSH,Minnesota Twins,Washington Nationals,663485,Cole Sands,,,44,663623,Jake Irvin,,,27
+38233,776989,2025-07-27,145,112,CWS,CHC,Chicago White Sox,Chicago Cubs,691799,Grant Taylor,,,31,676962,Ben Brown,,,32
+38235,776978,2025-07-27,158,146,MIL,MIA,Milwaukee Brewers,Miami Marlins,605540,Brandon Woodruff,,,53,691587,Eury Pérez,,,39
+38237,776980,2025-07-27,138,135,STL,SD,St. Louis Cardinals,San Diego Padres,700241,Michael McGreevy,,,36,663568,Stephen Kolek,,,32
+38232,776981,2025-07-27,140,144,TEX,ATL,Texas Rangers,Atlanta Braves,683004,Jack Leiter,,,35,693821,Bryce Elder,,,55
+38240,776977,2025-07-27,108,136,LAA,SEA,Los Angeles Angels,Seattle Mariners,543294,Kyle Hendricks,,,28,669302,Logan Gilbert,,,36
+38239,776974,2025-07-27,137,121,SF,NYM,San Francisco Giants,New York Mets,657424,Matt Gage,,,93,673540,Kodai Senga,,,34

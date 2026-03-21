@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+31096,777230,2025-07-05,142,139,MIN,TB,Minnesota Twins,Tampa Bay Rays,663485,Cole Sands,,,44,671737,Taj Bradley,,,45
+31098,777229,2025-07-05,112,138,CHC,STL,Chicago Cubs,St. Louis Cardinals,519141,Drew Pomeranz,,,45,669461,Matthew Liberatore,,,52
+31090,777231,2025-07-05,141,108,TOR,LAA,Toronto Blue Jays,Los Angeles Angels,453286,Max Scherzer,,,31,686799,Jack Kochanowicz,,,41
+31092,777228,2025-07-05,120,111,WSH,BOS,Washington Nationals,Boston Red Sox,680730,Mitchell Parker,,,70,621111,Walker Buehler,,,0
+31093,777233,2025-07-05,143,113,PHI,CIN,Philadelphia Phillies,Cincinnati Reds,624133,Ranger Suarez,,,55,666157,Nick Lodolo,,,40
+31101,777234,2025-07-05,109,118,AZ,KC,Arizona Diamondbacks,Kansas City Royals,669194,Ryne Nelson,,,19,608379,Michael Wacha,,,52
+31091,777237,2025-07-05,144,110,ATL,BAL,Atlanta Braves,Baltimore Orioles,607481,Aaron Bummer,,,49,665152,Dean Kremer,,,64
+31097,777241,2025-07-05,121,147,NYM,NYY,New York Mets,New York Yankees,593423,Frankie Montas,,,47,607074,Carlos Rodón,,,55
+31095,777238,2025-07-05,146,158,MIA,MIL,Miami Marlins,Milwaukee Brewers,615698,Cal Quantrill,,,47,694477,Chad Patrick,,,39
+31094,777240,2025-07-05,114,116,CLE,DET,Cleveland Guardians,Detroit Tigers,671106,Logan Allen,,,26,663554,Casey Mize,,,12
+31100,777221,2025-07-05,119,117,LAD,HOU,Los Angeles Dodgers,Houston Astros,660271,Shohei Ohtani,,,17,664285,Framber Valdez,,,59
+31099,777232,2025-07-05,115,145,COL,CWS,Colorado Rockies,Chicago White Sox,608566,Germán Márquez,,,48,686563,Jonathan Cannon,,,48
+31104,777223,2025-07-05,135,140,SD,TEX,San Diego Padres,Texas Rangers,663568,Stephen Kolek,,,32,571578,Patrick Corbin,,,46
+67810,777227,2025-07-05,133,137,ATH,SF,Athletics,San Francisco Giants,622663,Luis Severino,,,40,657277,Logan Webb,,,62
+31235,777225,2025-07-05,136,134,SEA,PIT,Seattle Mariners,Pittsburgh Pirates,622491,Luis Castillo,,,58,681347,Mike Burrows,,,53

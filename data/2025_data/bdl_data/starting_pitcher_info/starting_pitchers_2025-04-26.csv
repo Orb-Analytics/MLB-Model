@@ -1,0 +1,19 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+1033000,778179,2025-04-26,114,111,CLE,BOS,Cleveland Guardians,Boston Red Sox,594902,Ben Lively,,,39,656557,Tanner Houck,,,89
+11360,778169,2025-04-26,114,111,CLE,BOS,Cleveland Guardians,Boston Red Sox,680951,Doug Nikhazy,,,65,621111,Walker Buehler,,,0
+11359,778168,2025-04-26,116,110,DET,BAL,Detroit Tigers,Baltimore Orioles,663554,Casey Mize,,,12,687064,Brandon Young,,,
+1033009,778180,2025-04-26,116,110,DET,BAL,Detroit Tigers,Baltimore Orioles,672456,Keider Montero,,,54,669211,Keegan Akin,,,45
+11363,778166,2025-04-26,142,108,MIN,LAA,Minnesota Twins,Los Angeles Angels,680573,Simeon Woods Richardson,,,24,579328,Yusei Kikuchi,,,16
+11365,778164,2025-04-26,138,158,STL,MIL,St. Louis Cardinals,Milwaukee Brewers,543243,Sonny Gray,,,54,682990,Quinn Priester,,,46
+11367,778161,2025-04-26,115,113,COL,CIN,Colorado Rockies,Cincinnati Reds,622608,Antonio Senzatela,,,49,668881,Hunter Greene,,,21
+11361,778173,2025-04-26,120,121,WSH,NYM,Washington Nationals,New York Mets,695418,Brad Lord,,,61,605280,Clay Holmes,,,35
+11373,778159,2025-04-26,137,140,SF,TEX,San Francisco Giants,Texas Rangers,592662,Robbie Ray,,,38,641816,Tyler Mahle,,,51
+11366,778174,2025-04-26,112,143,CHC,PHI,Chicago Cubs,Philadelphia Phillies,676962,Ben Brown,,,32,666200,Jesús Luzardo,,,44
+64199,778165,2025-04-26,133,145,ATH,CWS,Athletics,Chicago White Sox,605488,Jeffrey Springs,,,59,656457,Tyler Gilbert,,,40
+11364,778167,2025-04-26,118,117,KC,HOU,Kansas City Royals,Houston Astros,608379,Michael Wacha,,,52,664285,Framber Valdez,,,59
+11368,778162,2025-04-26,109,144,AZ,ATL,Arizona Diamondbacks,Atlanta Braves,518876,Merrill Kelly,,,29,656550,Grant Holmes,,,66
+11372,778160,2025-04-26,135,139,SD,TB,San Diego Padres,Tampa Bay Rays,656302,Dylan Cease,,,84,686752,Ryan Pepiot,,,44
+11371,778163,2025-04-26,119,134,LAD,PIT,Los Angeles Dodgers,Pittsburgh Pirates,808963,Roki Sasaki,,,11,656605,Mitch Keller,,,23
+11370,778154,2025-04-26,136,146,SEA,MIA,Seattle Mariners,Miami Marlins,622491,Luis Castillo,,,58,687362,Connor Gillispie,,,55
+1033009,778180,2025-04-26,116,110,DET,BAL,Detroit Tigers,Baltimore Orioles,672456,Keider Montero,,,54,669211,Keegan Akin,,,45
+1033000,778179,2025-04-26,114,111,CLE,BOS,Cleveland Guardians,Boston Red Sox,594902,Ben Lively,,,39,656557,Tanner Houck,,,89

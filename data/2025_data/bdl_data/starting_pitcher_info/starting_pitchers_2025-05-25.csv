@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+19408,777780,2025-05-25,116,114,DET,CLE,Detroit Tigers,Cleveland Guardians,669373,Tarik Skubal,,,29,671106,Logan Allen,,,26
+19406,777785,2025-05-25,111,110,BOS,BAL,Boston Red Sox,Baltimore Orioles,621111,Walker Buehler,,,0,665152,Dean Kremer,,,64
+19412,777778,2025-05-25,120,137,WSH,SF,Washington Nationals,San Francisco Giants,647336,Michael Soroka,,,34,592662,Robbie Ray,,,38
+19410,777776,2025-05-25,134,158,PIT,MIL,Pittsburgh Pirates,Milwaukee Brewers,663559,Bailey Falter,,,6,701656,Logan Henderson,,,43
+19407,777779,2025-05-25,113,112,CIN,CHC,Cincinnati Reds,Chicago Cubs,666157,Nick Lodolo,,,40,676962,Ben Brown,,,32
+19413,777775,2025-05-25,139,141,TB,TOR,Tampa Bay Rays,Toronto Blue Jays,686752,Ryan Pepiot,,,44,605135,Chris Bassitt,,,40
+19417,777774,2025-05-25,117,136,HOU,SEA,Houston Astros,Seattle Mariners,676467,Colton Gordon,,,61,622491,Luis Castillo,,,58
+19416,777772,2025-05-25,142,118,MIN,KC,Minnesota Twins,Kansas City Royals,641927,Bailey Ober,,,17,663460,Kris Bubic,,,50
+19418,777777,2025-05-25,145,140,CWS,TEX,Chicago White Sox,Texas Rangers,663436,Davis Martin,,,65,571578,Patrick Corbin,,,46
+19414,777766,2025-05-25,138,109,STL,AZ,St. Louis Cardinals,Arizona Diamondbacks,543243,Sonny Gray,,,54,694297,Brandon Pfaadt,,,32
+19419,777768,2025-05-25,115,147,COL,NYY,Colorado Rockies,New York Yankees,622608,Antonio Senzatela,,,49,701542,Will Warren,,,98
+64593,777765,2025-05-25,133,143,ATH,PHI,Athletics,Philadelphia Phillies,680684,Gunnar Hoglund,,,53,666200,Jesús Luzardo,,,44
+19420,777767,2025-05-25,108,146,LAA,MIA,Los Angeles Angels,Miami Marlins,543294,Kyle Hendricks,,,28,665795,Edward Cabrera,,,27
+19411,777783,2025-05-25,144,135,ATL,SD,Atlanta Braves,San Diego Padres,680885,Spencer Schwellenbach,,,56,656302,Dylan Cease,,,84
+19409,777773,2025-05-25,121,119,NYM,LAD,New York Mets,Los Angeles Dodgers,673540,Kodai Senga,,,34,689017,Landon Knack,,,96

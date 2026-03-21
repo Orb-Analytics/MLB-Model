@@ -1,0 +1,18 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+1047221,778170,2025-04-27,147,141,NYY,TOR,New York Yankees,Toronto Blue Jays,657376,Clarke Schmidt,,,36,605135,Chris Bassitt,,,40
+11476,778153,2025-04-27,120,121,WSH,NYM,Washington Nationals,New York Mets,680730,Mitchell Parker,,,70,656731,Tylor Megill,,,38
+11477,778156,2025-04-27,147,141,NYY,TOR,New York Yankees,Toronto Blue Jays,608331,Max Fried,,,54,592332,Kevin Gausman,,,34
+1047221,778170,2025-04-27,147,141,NYY,TOR,New York Yankees,Toronto Blue Jays,657376,Clarke Schmidt,,,36,605135,Chris Bassitt,,,40
+59105,778157,2025-04-27,114,111,CLE,BOS,Cleveland Guardians,Boston Red Sox,671106,Logan Allen,,,26,678394,Brayan Bello,,,66
+11474,778155,2025-04-27,116,110,DET,BAL,Detroit Tigers,Baltimore Orioles,669373,Tarik Skubal,,,29,665152,Dean Kremer,,,64
+11478,778144,2025-04-27,142,108,MIN,LAA,Minnesota Twins,Los Angeles Angels,657746,Joe Ryan,,,41,667755,José Soriano,,,59
+11479,778152,2025-04-27,118,117,KC,HOU,Kansas City Royals,Houston Astros,663460,Kris Bubic,,,50,686613,Hunter Brown,,,58
+11480,778150,2025-04-27,138,158,STL,MIL,St. Louis Cardinals,Milwaukee Brewers,607200,Erick Fedde,,,12,500779,Jose Quintana,,,62
+11482,778148,2025-04-27,115,113,COL,CIN,Colorado Rockies,Cincinnati Reds,687134,Bradley Blalock,,,,666157,Nick Lodolo,,,40
+11488,778151,2025-04-27,137,140,SF,TEX,San Francisco Giants,Texas Rangers,663855,Jordan Hicks,,,12,683004,Jack Leiter,,,35
+64215,778149,2025-04-27,133,145,ATH,CWS,Athletics,Chicago White Sox,674370,Osvaldo Bido,,,45,685126,Brandon Eisert,,,53
+11486,778145,2025-04-27,119,134,LAD,PIT,Los Angeles Dodgers,Pittsburgh Pirates,607192,Tyler Glasnow,,,31,663559,Bailey Falter,,,6
+11487,778146,2025-04-27,135,139,SD,TB,San Diego Padres,Tampa Bay Rays,681190,Randy Vásquez,,,98,641793,Zack Littell,,,52
+11483,778147,2025-04-27,109,144,AZ,ATL,Arizona Diamondbacks,Atlanta Braves,694297,Brandon Pfaadt,,,32,680885,Spencer Schwellenbach,,,56
+11485,778136,2025-04-27,136,146,SEA,MIA,Seattle Mariners,Miami Marlins,688138,Logan Evans,,,73,676974,Max Meyer,,,23
+11481,778158,2025-04-27,112,143,CHC,PHI,Chicago Cubs,Philadelphia Phillies,592791,Jameson Taillon,,,50,605400,Aaron Nola,,,27

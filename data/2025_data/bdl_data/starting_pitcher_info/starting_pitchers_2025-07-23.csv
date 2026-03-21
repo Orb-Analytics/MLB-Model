@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+36683,777026,2025-07-23,120,113,WSH,CIN,Washington Nationals,Cincinnati Reds,647336,Michael Soroka,,,34,666157,Nick Lodolo,,,40
+36686,777037,2025-07-23,146,135,MIA,SD,Miami Marlins,San Diego Padres,645261,Sandy Alcantara,,,22,656302,Dylan Cease,,,84
+36687,777041,2025-07-23,144,137,ATL,SF,Atlanta Braves,San Francisco Giants,675911,Spencer Strider,,,99,434378,Justin Verlander,,,35
+36684,777029,2025-07-23,134,116,PIT,DET,Pittsburgh Pirates,Detroit Tigers,663559,Bailey Falter,,,6,675512,Troy Melton,,,52
+36679,777034,2025-07-23,121,108,NYM,LAA,New York Mets,Los Angeles Angels,640455,Sean Manaea,,,59,656271,Brock Burke,,,46
+36688,777031,2025-07-23,112,118,CHC,KC,Chicago Cubs,Kansas City Royals,607067,Colin Rea,,,53,607625,Seth Lugo,,,67
+36690,777028,2025-07-23,115,138,COL,STL,Colorado Rockies,St. Louis Cardinals,685299,Tanner Gordon,,,29,669467,Andre Pallante,,,53
+36691,777032,2025-07-23,109,117,AZ,HOU,Arizona Diamondbacks,Houston Astros,694297,Brandon Pfaadt,,,32,687888,Brandon Walter,,,60
+36692,777024,2025-07-23,136,158,SEA,MIL,Seattle Mariners,Milwaukee Brewers,622491,Luis Castillo,,,58,682990,Quinn Priester,,,46
+36693,777022,2025-07-23,119,142,LAD,MIN,Los Angeles Dodgers,Minnesota Twins,607192,Tyler Glasnow,,,31,663978,Chris Paddack,,,20
+36680,777036,2025-07-23,114,110,CLE,BAL,Cleveland Guardians,Baltimore Orioles,677944,Slade Cecconi,,,44,621107,Zach Eflin,,,24
+36685,777027,2025-07-23,141,147,TOR,NYY,Toronto Blue Jays,New York Yankees,605135,Chris Bassitt,,,40,608331,Max Fried,,,54
+36681,777038,2025-07-23,143,111,PHI,BOS,Philadelphia Phillies,Boston Red Sox,666200,Jesús Luzardo,,,44,608337,Lucas Giolito,,,54
+36682,777030,2025-07-23,139,145,TB,CWS,Tampa Bay Rays,Chicago White Sox,671737,Taj Bradley,,,45,686563,Jonathan Cannon,,,48
+36689,777033,2025-07-23,140,133,TEX,ATH,Texas Rangers,Athletics,571578,Patrick Corbin,,,46,676664,JP Sears,,,38

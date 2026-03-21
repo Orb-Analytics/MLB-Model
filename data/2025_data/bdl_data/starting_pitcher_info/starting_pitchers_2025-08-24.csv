@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+45673,776610,2025-08-24,134,115,PIT,COL,Pittsburgh Pirates,Colorado Rockies,694973,Paul Skenes,,,30,685326,McCade Brown,,,51
+45677,776606,2025-08-24,139,138,TB,STL,Tampa Bay Rays,St. Louis Cardinals,686752,Ryan Pepiot,,,44,669461,Matthew Liberatore,,,52
+45674,776612,2025-08-24,110,117,BAL,HOU,Baltimore Orioles,Houston Astros,669432,Trevor Rogers,,,28,681293,Spencer Arrighetti,,,41
+45679,776613,2025-08-24,143,120,PHI,WSH,Philadelphia Phillies,Washington Nationals,624133,Ranger Suarez,,,55,663623,Jake Irvin,,,27
+45676,776624,2025-08-24,144,121,ATL,NYM,Atlanta Braves,New York Mets,693821,Bryce Elder,,,55,656849,David Peterson,,,23
+45675,776615,2025-08-24,116,118,DET,KC,Detroit Tigers,Kansas City Royals,656427,Jack Flaherty,,,9,607625,Seth Lugo,,,67
+45678,776614,2025-08-24,146,141,MIA,TOR,Miami Marlins,Toronto Blue Jays,691587,Eury Pérez,,,39,592332,Kevin Gausman,,,34
+45681,776607,2025-08-24,145,142,CWS,MIN,Chicago White Sox,Minnesota Twins,672782,Yoendrys Gómez,,,94,671737,Taj Bradley,,,26
+45682,776608,2025-08-24,158,137,MIL,SF,Milwaukee Brewers,San Francisco Giants,694477,Chad Patrick,,,39,592662,Robbie Ray,,,38
+45680,776611,2025-08-24,140,114,TEX,CLE,Texas Rangers,Cleveland Guardians,518876,Merrill Kelly,,,23,668909,Gavin Williams,,,32
+45683,776605,2025-08-24,108,112,LAA,CHC,Los Angeles Angels,Chicago Cubs,543294,Kyle Hendricks,,,28,592791,Jameson Taillon,,,50
+45684,776609,2025-08-24,109,113,AZ,CIN,Arizona Diamondbacks,Cincinnati Reds,668678,Zac Gallen,,,23,663903,Brady Singer,,,51
+45685,776603,2025-08-24,135,119,SD,LAD,San Diego Padres,Los Angeles Dodgers,601713,Nick Pivetta,,,27,808967,Yoshinobu Yamamoto,,,18
+45686,776602,2025-08-24,136,133,SEA,ATH,Seattle Mariners,Athletics,669302,Logan Gilbert,,,36,682052,Jacob Lopez,,,57
+45672,776616,2025-08-24,147,111,NYY,BOS,New York Yankees,Boston Red Sox,607074,Carlos Rodón,,,55,669160,Dustin May,,,85

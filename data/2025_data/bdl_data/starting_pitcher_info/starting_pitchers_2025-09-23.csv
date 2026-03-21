@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+54205,776223,2025-09-23,110,139,BAL,TB,Baltimore Orioles,Tampa Bay Rays,665152,Dean Kremer,,,64,686752,Ryan Pepiot,,,44
+54202,776218,2025-09-23,114,116,CLE,DET,Cleveland Guardians,Detroit Tigers,668909,Gavin Williams,,,32,669373,Tarik Skubal,,,29
+54204,776224,2025-09-23,113,134,CIN,PIT,Cincinnati Reds,Pittsburgh Pirates,663903,Brady Singer,,,51,670912,Johan Oviedo,,,24
+54203,776215,2025-09-23,143,146,PHI,MIA,Philadelphia Phillies,Miami Marlins,650911,Cristopher Sánchez,,,61,665795,Edward Cabrera,,,27
+54201,776216,2025-09-23,147,145,NYY,CWS,New York Yankees,Chicago White Sox,661563,Luis Gil,,,81,681343,Shane Smith,,,64
+54200,776217,2025-09-23,141,111,TOR,BOS,Toronto Blue Jays,Boston Red Sox,592332,Kevin Gausman,,,34,608337,Lucas Giolito,,,54
+54206,776219,2025-09-23,144,120,ATL,WSH,Atlanta Braves,Washington Nationals,694462,Hurston Waldrep,,,64,695418,Brad Lord,,,61
+54208,776209,2025-09-23,112,121,CHC,NYM,Chicago Cubs,New York Mets,690990,Cade Horton,,,22,656849,David Peterson,,,23
+54207,776210,2025-09-23,140,142,TEX,MIN,Texas Rangers,Minnesota Twins,571578,Patrick Corbin,,,46,805673,Zebby Matthews,,,52
+54211,776207,2025-09-23,108,118,LAA,KC,Los Angeles Angels,Kansas City Royals,691951,Sam Aldegheri,,,61,666142,Cole Ragans,,,55
+54212,776213,2025-09-23,109,119,AZ,LAD,Arizona Diamondbacks,Los Angeles Dodgers,694297,Brandon Pfaadt,,,32,660271,Shohei Ohtani,,,17
+54209,776212,2025-09-23,136,115,SEA,COL,Seattle Mariners,Colorado Rockies,682243,Bryce Miller,,,50,685326,McCade Brown,,,51
+54213,776214,2025-09-23,135,158,SD,MIL,San Diego Padres,Milwaukee Brewers,681190,Randy Vásquez,,,98,669145,Bruce Zimmermann,,,55
+54214,776211,2025-09-23,137,138,SF,STL,San Francisco Giants,St. Louis Cardinals,657277,Logan Webb,,,62,669467,Andre Pallante,,,53
+68833,776208,2025-09-23,133,117,ATH,HOU,Athletics,Houston Astros,605488,Jeffrey Springs,,,59,664299,Cristian Javier,,,53

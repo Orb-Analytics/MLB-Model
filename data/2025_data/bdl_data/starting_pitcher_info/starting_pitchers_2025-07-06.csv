@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+31224,777222,2025-07-06,144,110,ATL,BAL,Atlanta Braves,Baltimore Orioles,656550,Grant Holmes,,,66,669432,Trevor Rogers,,,28
+31225,777213,2025-07-06,120,111,WSH,BOS,Washington Nationals,Boston Red Sox,829272,Shinnosuke Ogasawara,,,16,676979,Garrett Crochet,,,35
+31226,777217,2025-07-06,143,113,PHI,CIN,Philadelphia Phillies,Cincinnati Reds,554430,Zack Wheeler,,,45,695505,Chase Burns,,,26
+31223,777214,2025-07-06,141,108,TOR,LAA,Toronto Blue Jays,Los Angeles Angels,592332,Kevin Gausman,,,34,542881,Tyler Anderson,,,31
+31227,777226,2025-07-06,114,116,CLE,DET,Cleveland Guardians,Detroit Tigers,668909,Gavin Williams,,,32,669373,Tarik Skubal,,,29
+31230,777216,2025-07-06,121,147,NYM,NYY,New York Mets,New York Yankees,606965,Chris Devenski,,,49,608331,Max Fried,,,54
+31228,777224,2025-07-06,146,158,MIA,MIL,Miami Marlins,Milwaukee Brewers,665795,Edward Cabrera,,,27,605540,Brandon Woodruff,,,53
+31229,777220,2025-07-06,142,139,MIN,TB,Minnesota Twins,Tampa Bay Rays,657746,Joe Ryan,,,41,656876,Drew Rasmussen,,,57
+31232,777215,2025-07-06,115,145,COL,CWS,Colorado Rockies,Chicago White Sox,801403,Chase Dollander,,,32,681343,Shane Smith,,,64
+31234,777218,2025-07-06,109,118,AZ,KC,Arizona Diamondbacks,Kansas City Royals,543101,Anthony DeSclafani,,,21,547179,Michael Lorenzen,,,24
+31233,777206,2025-07-06,119,117,LAD,HOU,Los Angeles Dodgers,Houston Astros,686218,Emmet Sheehan,,,80,687473,Ryan Gusto,,,67
+31235,777205,2025-07-06,136,134,SEA,PIT,Seattle Mariners,Pittsburgh Pirates,669923,George Kirby,,,68,694973,Paul Skenes,,,30
+31231,777219,2025-07-06,112,138,CHC,STL,Chicago Cubs,St. Louis Cardinals,571510,Matthew Boyd,,,16,607200,Erick Fedde,,,12
+31237,777207,2025-07-06,135,140,SD,TEX,San Diego Padres,Texas Rangers,688158,David Morgan,,,66,683004,Jack Leiter,,,35
+67826,777210,2025-07-06,133,137,ATH,SF,Athletics,San Francisco Giants,682052,Jacob Lopez,,,57,806185,Hayden Birdsong,,,60

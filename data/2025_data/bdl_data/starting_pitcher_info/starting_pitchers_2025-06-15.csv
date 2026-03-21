@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+25757,777505,2025-06-15,116,113,DET,CIN,Detroit Tigers,Cincinnati Reds,663947,Tyler Holton,,,87,489119,Wade Miley,,,22
+25756,777501,2025-06-15,110,108,BAL,LAA,Baltimore Orioles,Los Angeles Angels,656240,Scott Blewett,,,67,579328,Yusei Kikuchi,,,16
+25762,777499,2025-06-15,143,141,PHI,TOR,Philadelphia Phillies,Toronto Blue Jays,554430,Zack Wheeler,,,45,621244,José Berríos,,,17
+25758,777504,2025-06-15,144,115,ATL,COL,Atlanta Braves,Colorado Rockies,656550,Grant Holmes,,,66,596295,Austin Gomber,,,26
+25759,777503,2025-06-15,120,146,WSH,MIA,Washington Nationals,Miami Marlins,669022,MacKenzie Gore,,,1,691587,Eury Pérez,,,39
+25760,777500,2025-06-15,111,147,BOS,NYY,Boston Red Sox,New York Yankees,678394,Brayan Bello,,,66,608331,Max Fried,,,54
+25761,777502,2025-06-15,121,139,NYM,TB,New York Mets,Tampa Bay Rays,656288,Griffin Canning,,,46,669358,Shane Baz,,,11
+25765,777496,2025-06-15,118,133,KC,ATH,Kansas City Royals,Athletics,702070,Noah Cameron,,,65,605488,Jeffrey Springs,,,59
+25764,777494,2025-06-15,117,142,HOU,MIN,Houston Astros,Minnesota Twins,687888,Brandon Walter,,,60,680573,Simeon Woods Richardson,,,24
+25767,777492,2025-06-15,158,138,MIL,STL,Milwaukee Brewers,St. Louis Cardinals,682990,Quinn Priester,,,46,571945,Miles Mikolas,,,39
+25766,777497,2025-06-15,112,134,CHC,PIT,Chicago Cubs,Pittsburgh Pirates,607067,Colin Rea,,,53,656605,Mitch Keller,,,23
+25763,777493,2025-06-15,140,145,TEX,CWS,Texas Rangers,Chicago White Sox,677958,Kumar Rocker,,,80,650644,Aaron Civale,,,43
+25769,777491,2025-06-15,109,135,AZ,SD,Arizona Diamondbacks,San Diego Padres,518876,Merrill Kelly,,,29,601713,Nick Pivetta,,,27
+25768,777495,2025-06-15,136,114,SEA,CLE,Seattle Mariners,Cleveland Guardians,676106,Emerson Hancock,,,26,682847,Luis Ortiz,,,45
+25770,777498,2025-06-15,119,137,LAD,SF,Los Angeles Dodgers,San Francisco Giants,669160,Dustin May,,,85,663546,Sean Hjelle,,,64

@@ -1,0 +1,7 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+5429,778382,2025-04-10,139,108,TB,LAA,Tampa Bay Rays,Los Angeles Angels,641793,Zack Littell,,,52,667755,José Soriano,,,59
+6686,778378,2025-04-10,114,145,CLE,CWS,Cleveland Guardians,Chicago White Sox,668909,Gavin Williams,,,32,686563,Jonathan Cannon,,,48
+6689,778373,2025-04-10,118,142,KC,MIN,Kansas City Royals,Minnesota Twins,608379,Michael Wacha,,,52,641927,Bailey Ober,,,17
+6690,778371,2025-04-10,115,158,COL,MIL,Colorado Rockies,Milwaukee Brewers,663372,Ryan Feltner,,,18,682990,Quinn Priester,,,46
+6688,778377,2025-04-10,111,141,BOS,TOR,Boston Red Sox,Toronto Blue Jays,621111,Walker Buehler,,,0,605135,Chris Bassitt,,,40
+6687,778384,2025-04-10,144,143,ATL,PHI,Atlanta Braves,Philadelphia Phillies,680885,Spencer Schwellenbach,,,56,666200,Jesús Luzardo,,,44

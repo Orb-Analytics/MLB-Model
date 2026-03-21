@@ -1,0 +1,10 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+24200,777580,2025-06-09,114,113,CLE,CIN,Cleveland Guardians,Cincinnati Reds,682847,Luis Ortiz,,,45,489119,Wade Miley,,,22
+24201,777574,2025-06-09,134,146,PIT,MIA,Pittsburgh Pirates,Miami Marlins,681347,Mike Burrows,,,53,691587,Eury Pérez,,,39
+24199,777578,2025-06-09,143,112,PHI,CHC,Philadelphia Phillies,Chicago Cubs,554430,Zack Wheeler,,,45,571510,Matthew Boyd,,,16
+24202,777584,2025-06-09,111,139,BOS,TB,Boston Red Sox,Tampa Bay Rays,678394,Brayan Bello,,,66,669358,Shane Baz,,,11
+24203,777575,2025-06-09,158,144,MIL,ATL,Milwaukee Brewers,Atlanta Braves,650644,Aaron Civale,,,32,519242,Chris Sale,,,51
+24204,777581,2025-06-09,138,141,STL,TOR,St. Louis Cardinals,Toronto Blue Jays,669467,Andre Pallante,,,53,621244,José Berríos,,,17
+24206,777576,2025-06-09,108,133,LAA,ATH,Los Angeles Angels,Athletics,579328,Yusei Kikuchi,,,16,680880,Grant Holman,,,67
+24205,777579,2025-06-09,135,119,SD,LAD,San Diego Padres,Los Angeles Dodgers,601713,Nick Pivetta,,,27,669160,Dustin May,,,85
+24207,777577,2025-06-09,109,136,AZ,SEA,Arizona Diamondbacks,Seattle Mariners,518876,Merrill Kelly,,,29,676106,Emerson Hancock,,,26

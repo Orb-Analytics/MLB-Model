@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+8115,778314,2025-04-15,134,120,PIT,WSH,Pittsburgh Pirates,Washington Nationals,656605,Mitch Keller,,,42,663623,Jake Irvin,,,42
+8113,778316,2025-04-15,113,136,CIN,SEA,Cincinnati Reds,Seattle Mariners,666157,Nick Lodolo,,,42,622491,Luis Castillo,,,42
+8108,778318,2025-04-15,146,109,MIA,AZ,Miami Marlins,Arizona Diamondbacks,687362,Connor Gillispie,,,42,518876,Merrill Kelly,,,42
+8114,778313,2025-04-15,143,137,PHI,SF,Philadelphia Phillies,San Francisco Giants,666200,Jesús Luzardo,,,42,434378,Justin Verlander,,,42
+8111,778317,2025-04-15,110,114,BAL,CLE,Baltimore Orioles,Cleveland Guardians,450203,Charlie Morton,,,42,671106,Logan Allen,,,42
+8110,778319,2025-04-15,139,111,TB,BOS,Tampa Bay Rays,Boston Red Sox,686752,Ryan Pepiot,,,42,621111,Walker Buehler,,,42
+8112,778312,2025-04-15,147,118,NYY,KC,New York Yankees,Kansas City Royals,608331,Max Fried,,,42,608379,Michael Wacha,,,42
+8109,778311,2025-04-15,141,144,TOR,ATL,Toronto Blue Jays,Atlanta Braves,592332,Kevin Gausman,,,42,680885,Spencer Schwellenbach,,,42
+8119,778307,2025-04-15,142,121,MIN,NYM,Minnesota Twins,New York Mets,641927,Bailey Ober,,,42,656731,Tylor Megill,,,42
+8120,778309,2025-04-15,145,133,CWS,ATH,Chicago White Sox,Athletics,680732,Sean Burke,,,42,605488,Jeffrey Springs,,,42
+8117,778310,2025-04-15,158,116,MIL,DET,Milwaukee Brewers,Detroit Tigers,682990,Quinn Priester,,,42,656427,Jack Flaherty,,,42
+8118,778308,2025-04-15,138,117,STL,HOU,St. Louis Cardinals,Houston Astros,607200,Erick Fedde,,,42,686613,Hunter Brown,,,42
+8116,778306,2025-04-15,140,108,TEX,LAA,Texas Rangers,Los Angeles Angels,641816,Tyler Mahle,,,42,579328,Yusei Kikuchi,,,42
+8121,778305,2025-04-15,135,112,SD,CHC,San Diego Padres,Chicago Cubs,681190,Randy Vásquez,,,42,684007,Shota Imanaga,,,42
+8122,778302,2025-04-15,119,115,LAD,COL,Los Angeles Dodgers,Colorado Rockies,689017,Landon Knack,,,,663372,Ryan Feltner,,,42

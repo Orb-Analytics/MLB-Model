@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+27735,777406,2025-06-22,147,110,NYY,BAL,New York Yankees,Baltimore Orioles,701542,Will Warren,,,98,665152,Dean Kremer,,,64
+27737,777409,2025-06-22,139,116,TB,DET,Tampa Bay Rays,Detroit Tigers,641793,Zack Littell,,,52,663554,Casey Mize,,,12
+27739,777404,2025-06-22,134,140,PIT,TEX,Pittsburgh Pirates,Texas Rangers,663559,Bailey Falter,,,6,683004,Jack Leiter,,,35
+27736,777408,2025-06-22,141,145,TOR,CWS,Toronto Blue Jays,Chicago White Sox,605135,Chris Bassitt,,,40,605288,Adrian Houser,,,57
+27734,777402,2025-06-22,146,144,MIA,ATL,Miami Marlins,Atlanta Braves,645261,Sandy Alcantara,,,22,693821,Bryce Elder,,,55
+27741,777401,2025-06-22,142,158,MIN,MIL,Minnesota Twins,Milwaukee Brewers,543056,Danny Coulombe,,,54,682990,Quinn Priester,,,46
+27740,777407,2025-06-22,138,113,STL,CIN,St. Louis Cardinals,Cincinnati Reds,571945,Miles Mikolas,,,39,671096,Andrew Abbott,,,41
+27742,777403,2025-06-22,112,136,CHC,SEA,Chicago Cubs,Seattle Mariners,607067,Colin Rea,,,53,669302,Logan Gilbert,,,36
+27743,777399,2025-06-22,115,109,COL,AZ,Colorado Rockies,Arizona Diamondbacks,622608,Antonio Senzatela,,,49,694297,Brandon Pfaadt,,,32
+67635,777400,2025-06-22,133,114,ATH,CLE,Athletics,Cleveland Guardians,676664,JP Sears,,,38,677944,Slade Cecconi,,,44
+27744,777395,2025-06-22,137,111,SF,BOS,San Francisco Giants,Boston Red Sox,592662,Robbie Ray,,,38,608337,Lucas Giolito,,,54
+27746,777397,2025-06-22,108,117,LAA,HOU,Los Angeles Angels,Houston Astros,543294,Kyle Hendricks,,,28,687473,Ryan Gusto,,,67
+27748,777398,2025-06-22,119,120,LAD,WSH,Los Angeles Dodgers,Washington Nationals,660271,Shohei Ohtani,,,17,647336,Michael Soroka,,,34
+27747,777396,2025-06-22,135,118,SD,KC,San Diego Padres,Kansas City Royals,681190,Randy Vásquez,,,98,607625,Seth Lugo,,,67
+27738,777405,2025-06-22,143,121,PHI,NYM,Philadelphia Phillies,New York Mets,666200,Jesús Luzardo,,,44,656849,David Peterson,,,23

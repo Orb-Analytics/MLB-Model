@@ -1,0 +1,4 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+54082,776221,2025-09-22,144,120,ATL,WSH,Atlanta Braves,Washington Nationals,519242,Chris Sale,,,51,669022,MacKenzie Gore,,,1
+54083,776222,2025-09-22,135,158,SD,MIL,San Diego Padres,Milwaukee Brewers,601713,Nick Pivetta,,,27,642547,Freddy Peralta,,,51
+54084,776220,2025-09-22,137,138,SF,STL,San Francisco Giants,St. Louis Cardinals,434378,Justin Verlander,,,35,700241,Michael McGreevy,,,36

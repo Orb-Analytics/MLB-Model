@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+46452,776591,2025-08-26,110,111,BAL,BOS,Baltimore Orioles,Boston Red Sox,680694,Kyle Bradish,,,38,608337,Lucas Giolito,,,54
+46455,776584,2025-08-26,114,139,CLE,TB,Cleveland Guardians,Tampa Bay Rays,800048,Parker Messick,,,77,669358,Shane Baz,,,11
+46451,776581,2025-08-26,146,144,MIA,ATL,Miami Marlins,Atlanta Braves,645261,Sandy Alcantara,,,22,694462,Hurston Waldrep,,,64
+46456,776588,2025-08-26,147,120,NYY,WSH,New York Yankees,Washington Nationals,661563,Luis Gil,,,81,669022,MacKenzie Gore,,,1
+46453,776582,2025-08-26,141,142,TOR,MIN,Toronto Blue Jays,Minnesota Twins,605135,Chris Bassitt,,,40,641927,Bailey Ober,,,17
+46454,776585,2025-08-26,121,143,NYM,PHI,New York Mets,Philadelphia Phillies,640455,Sean Manaea,,,59,666200,Jesús Luzardo,,,44
+46460,776583,2025-08-26,145,118,CWS,KC,Chicago White Sox,Kansas City Royals,527048,Martín Pérez,,,54,547179,Michael Lorenzen,,,24
+46458,776586,2025-08-26,158,109,MIL,AZ,Milwaukee Brewers,Arizona Diamondbacks,694819,Jacob Misiorowski,,,32,694297,Brandon Pfaadt,,,32
+46461,776578,2025-08-26,138,134,STL,PIT,St. Louis Cardinals,Pittsburgh Pirates,669467,Andre Pallante,,,53,656605,Mitch Keller,,,23
+46457,776575,2025-08-26,140,108,TEX,LAA,Texas Rangers,Los Angeles Angels,571578,Patrick Corbin,,,46,579328,Yusei Kikuchi,,,16
+46459,776587,2025-08-26,117,115,HOU,COL,Houston Astros,Colorado Rockies,686613,Hunter Brown,,,58,685299,Tanner Gordon,,,29
+46465,776577,2025-08-26,136,135,SEA,SD,Seattle Mariners,San Diego Padres,622491,Luis Castillo,,,58,656302,Dylan Cease,,,84
+46462,776576,2025-08-26,137,112,SF,CHC,San Francisco Giants,Chicago Cubs,434378,Justin Verlander,,,35,571510,Matthew Boyd,,,16
+68463,776573,2025-08-26,133,116,ATH,DET,Athletics,Detroit Tigers,674370,Osvaldo Bido,,,45,450203,Charlie Morton,,,50
+46463,776574,2025-08-26,119,113,LAD,CIN,Los Angeles Dodgers,Cincinnati Reds,477132,Clayton Kershaw,,,22,607259,Nick Martinez,,,28

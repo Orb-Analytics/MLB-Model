@@ -1,0 +1,14 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+46206,776604,2025-08-25,110,111,BAL,BOS,Baltimore Orioles,Boston Red Sox,608372,Tomoyuki Sugano,,,19,657514,Brennan Bernardino,,,83
+46209,776601,2025-08-25,114,139,CLE,TB,Cleveland Guardians,Tampa Bay Rays,676440,Tanner Bibee,,,28,693855,Ian Seymour,,,61
+46205,776600,2025-08-25,146,144,MIA,ATL,Miami Marlins,Atlanta Braves,665795,Edward Cabrera,,,27,675911,Spencer Strider,,,99
+46210,776597,2025-08-25,147,120,NYY,WSH,New York Yankees,Washington Nationals,693645,Cam Schlittler,,,31,695418,Brad Lord,,,61
+46207,776596,2025-08-25,141,142,TOR,MIN,Toronto Blue Jays,Minnesota Twins,453286,Max Scherzer,,,31,657746,Joe Ryan,,,41
+46208,776598,2025-08-25,121,143,NYM,PHI,New York Mets,Philadelphia Phillies,673540,Kodai Senga,,,34,650911,Cristopher Sánchez,,,61
+46213,776599,2025-08-25,145,118,CWS,KC,Chicago White Sox,Kansas City Royals,681343,Shane Smith,,,64,702070,Noah Cameron,,,65
+46212,776593,2025-08-25,158,109,MIL,AZ,Milwaukee Brewers,Arizona Diamondbacks,605540,Brandon Woodruff,,,53,593958,Eduardo Rodriguez,,,57
+46214,776589,2025-08-25,138,134,STL,PIT,St. Louis Cardinals,Pittsburgh Pirates,700241,Michael McGreevy,,,36,670912,Johan Oviedo,,,24
+46211,776592,2025-08-25,140,108,TEX,LAA,Texas Rangers,Los Angeles Angels,594798,Jacob deGrom,,,48,667755,José Soriano,,,59
+46217,776595,2025-08-25,136,135,SEA,SD,Seattle Mariners,San Diego Padres,682243,Bryce Miller,,,50,676664,JP Sears,,,38
+68447,776590,2025-08-25,133,116,ATH,DET,Athletics,Detroit Tigers,669372,J.T. Ginn,,,70,669373,Tarik Skubal,,,29
+46215,776594,2025-08-25,119,113,LAD,CIN,Los Angeles Dodgers,Cincinnati Reds,686218,Emmet Sheehan,,,80,668881,Hunter Greene,,,21

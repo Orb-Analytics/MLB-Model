@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+49093,776477,2025-09-03,120,146,WSH,MIA,Washington Nationals,Miami Marlins,680730,Mitchell Parker,,,70,691587,Eury Pérez,,,39
+49094,776478,2025-09-03,116,121,DET,NYM,Detroit Tigers,New York Mets,663554,Casey Mize,,,12,605280,Clay Holmes,,,35
+49105,776468,2025-09-03,109,140,AZ,TEX,Arizona Diamondbacks,Texas Rangers,668678,Zac Gallen,,,23,683004,Jack Leiter,,,35
+49104,776465,2025-09-03,135,110,SD,BAL,San Diego Padres,Baltimore Orioles,641482,Nestor Cortes,,,65,700249,Cade Povich,,,37
+49092,776479,2025-09-03,134,119,PIT,LAD,Pittsburgh Pirates,Los Angeles Dodgers,677952,Braxton Ashcraft,,,67,686218,Emmet Sheehan,,,80
+49096,776475,2025-09-03,113,141,CIN,TOR,Cincinnati Reds,Toronto Blue Jays,641793,Zack Littell,,,52,669456,Shane Bieber,,,57
+49091,776474,2025-09-03,111,114,BOS,CLE,Boston Red Sox,Cleveland Guardians,657514,Brennan Bernardino,,,83,676282,Joey Cantillo,,,54
+49095,776476,2025-09-03,139,136,TB,SEA,Tampa Bay Rays,Seattle Mariners,605288,Adrian Houser,,,37,669923,George Kirby,,,68
+49097,776466,2025-09-03,118,108,KC,LAA,Kansas City Royals,Los Angeles Angels,686701,Ryan Bergert,,,38,702674,Caden Dana,,,36
+49098,776473,2025-09-03,112,144,CHC,ATL,Chicago Cubs,Atlanta Braves,690990,Cade Horton,,,22,693821,Bryce Elder,,,55
+49099,776469,2025-09-03,142,145,MIN,CWS,Minnesota Twins,Chicago White Sox,805673,Zebby Matthews,,,52,672782,Yoendrys Gómez,,,94
+49102,776471,2025-09-03,158,143,MIL,PHI,Milwaukee Brewers,Philadelphia Phillies,500779,Jose Quintana,,,62,605400,Aaron Nola,,,27
+49101,776470,2025-09-03,138,133,STL,ATH,St. Louis Cardinals,Athletics,669461,Matthew Liberatore,,,52,605488,Jeffrey Springs,,,59
+49100,776472,2025-09-03,117,147,HOU,NYY,Houston Astros,New York Yankees,669920,Jason Alexander,,,54,701542,Will Warren,,,98
+49103,776467,2025-09-03,115,137,COL,SF,Colorado Rockies,San Francisco Giants,608566,Germán Márquez,,,48,592662,Robbie Ray,,,38

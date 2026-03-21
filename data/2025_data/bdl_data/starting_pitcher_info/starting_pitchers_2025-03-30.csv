@@ -1,0 +1,14 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+2526,778526,2025-03-30,120,143,WSH,PHI,Washington Nationals,Philadelphia Phillies,680730,Mitchell Parker,,,70,605400,Aaron Nola,,,27
+2525,778523,2025-03-30,147,158,NYY,MIL,New York Yankees,Milwaukee Brewers,573186,Marcus Stroman,,,0,650644,Aaron Civale,,,32
+2523,778525,2025-03-30,141,110,TOR,BAL,Toronto Blue Jays,Baltimore Orioles,605135,Chris Bassitt,,,40,608372,Tomoyuki Sugano,,,19
+2528,778522,2025-03-30,113,137,CIN,SF,Cincinnati Reds,San Francisco Giants,607259,Nick Martinez,,,28,592662,Robbie Ray,,,38
+2524,778524,2025-03-30,139,115,TB,COL,Tampa Bay Rays,Colorado Rockies,671737,Taj Bradley,,,45,663372,Ryan Feltner,,,18
+2527,778519,2025-03-30,146,134,MIA,PIT,Miami Marlins,Pittsburgh Pirates,676974,Max Meyer,,,23,571760,Andrew Heaney,,,45
+2531,778510,2025-03-30,118,114,KC,CLE,Kansas City Royals,Cleveland Guardians,608379,Michael Wacha,,,52,676440,Tanner Bibee,,,28
+2529,778527,2025-03-30,145,108,CWS,LAA,Chicago White Sox,Los Angeles Angels,663436,Davis Martin,,,65,686799,Jack Kochanowicz,,,41
+2532,778517,2025-03-30,138,142,STL,MIN,St. Louis Cardinals,Minnesota Twins,669467,Andre Pallante,,,53,641927,Bailey Ober,,,17
+2530,778516,2025-03-30,140,111,TEX,BOS,Texas Rangers,Boston Red Sox,594798,Jacob deGrom,,,48,690916,Richard Fitts,,,80
+2535,778515,2025-03-30,109,112,AZ,CHC,Arizona Diamondbacks,Chicago Cubs,593958,Eduardo Rodriguez,,,57,571510,Matthew Boyd,,,16
+2536,778513,2025-03-30,136,133,SEA,ATH,Seattle Mariners,Athletics,693433,Bryan Woo,,,22,676664,JP Sears,,,38
+2534,778514,2025-03-30,135,144,SD,ATL,San Diego Padres,Atlanta Braves,601713,Nick Pivetta,,,27,700363,AJ Smith-Shawver,,,32

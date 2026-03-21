@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+43972,776719,2025-08-16,112,134,CHC,PIT,Chicago Cubs,Pittsburgh Pirates,684007,Shota Imanaga,,,18,681347,Mike Burrows,,,53
+43967,776723,2025-08-16,141,140,TOR,TEX,Toronto Blue Jays,Texas Rangers,641778,Eric Lauer,,,56,571578,Patrick Corbin,,,46
+43965,776725,2025-08-16,120,143,WSH,PHI,Washington Nationals,Philadelphia Phillies,676917,Cade Cavalli,,,24,592836,Taijuan Walker,,,99
+43966,776726,2025-08-16,121,136,NYM,SEA,New York Mets,Seattle Mariners,690997,Nolan McLean,,,26,693433,Bryan Woo,,,22
+43963,776724,2025-08-16,111,146,BOS,MIA,Boston Red Sox,Miami Marlins,678394,Brayan Bello,,,66,615698,Cal Quantrill,,,47
+43964,776721,2025-08-16,113,158,CIN,MIL,Cincinnati Reds,Milwaukee Brewers,641793,Zack Littell,,,52,682990,Quinn Priester,,,46
+43968,776722,2025-08-16,117,110,HOU,BAL,Houston Astros,Baltimore Orioles,669920,Jason Alexander,,,54,670329,Rico Garcia,,,50
+43962,776720,2025-08-16,114,144,CLE,ATL,Cleveland Guardians,Atlanta Braves,677944,Slade Cecconi,,,44,666214,Joey Wentz,,,33
+43969,776712,2025-08-16,118,145,KC,CWS,Kansas City Royals,Chicago White Sox,547179,Michael Lorenzen,,,24,680732,Sean Burke,,,59
+43970,776716,2025-08-16,142,116,MIN,DET,Minnesota Twins,Detroit Tigers,805673,Zebby Matthews,,,52,663554,Casey Mize,,,12
+43971,776713,2025-08-16,138,147,STL,NYY,St. Louis Cardinals,New York Yankees,543243,Sonny Gray,,,54,608331,Max Fried,,,54
+43973,776715,2025-08-16,115,109,COL,AZ,Colorado Rockies,Arizona Diamondbacks,801403,Chase Dollander,,,32,669194,Ryne Nelson,,,19
+43976,776711,2025-08-16,137,139,SF,TB,San Francisco Giants,Tampa Bay Rays,434378,Justin Verlander,,,35,605288,Adrian Houser,,,37
+43975,776717,2025-08-16,119,135,LAD,SD,Los Angeles Dodgers,San Diego Padres,605483,Blake Snell,,,7,656302,Dylan Cease,,,84
+68326,776718,2025-08-16,133,108,ATH,LAA,Athletics,Los Angeles Angels,806960,Luis Morales,,,58,542881,Tyler Anderson,,,31

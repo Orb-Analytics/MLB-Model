@@ -1,0 +1,14 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+15535,777944,2025-05-13,114,158,CLE,MIL,Cleveland Guardians,Milwaukee Brewers,671106,Logan Allen,,,26,682990,Quinn Priester,,,46
+15533,777940,2025-05-13,116,111,DET,BOS,Detroit Tigers,Boston Red Sox,663947,Tyler Holton,,,87,678394,Brayan Bello,,,66
+15534,777945,2025-05-13,113,145,CIN,CWS,Cincinnati Reds,Chicago White Sox,671096,Andrew Abbott,,,41,685126,Brandon Eisert,,,53
+15539,777935,2025-05-13,141,139,TOR,TB,Toronto Blue Jays,Tampa Bay Rays,621244,José Berríos,,,17,669358,Shane Baz,,,11
+15537,777943,2025-05-13,121,134,NYM,PIT,New York Mets,Pittsburgh Pirates,673540,Kodai Senga,,,34,656605,Mitch Keller,,,23
+15540,777942,2025-05-13,144,120,ATL,WSH,Atlanta Braves,Washington Nationals,680885,Spencer Schwellenbach,,,56,647336,Michael Soroka,,,34
+15543,777936,2025-05-13,112,146,CHC,MIA,Chicago Cubs,Miami Marlins,676962,Ben Brown,,,32,678368,Valente Bellozo,,,83
+15541,777934,2025-05-13,140,115,TEX,COL,Texas Rangers,Colorado Rockies,683004,Jack Leiter,,,35,607536,Kyle Freeland,,,21
+15542,777931,2025-05-13,117,118,HOU,KC,Houston Astros,Kansas City Royals,664285,Framber Valdez,,,59,663460,Kris Bubic,,,50
+15544,777932,2025-05-13,135,108,SD,LAA,San Diego Padres,Los Angeles Angels,656302,Dylan Cease,,,84,667755,José Soriano,,,59
+15546,777926,2025-05-13,136,147,SEA,NYY,Seattle Mariners,New York Yankees,693433,Bryan Woo,,,22,608331,Max Fried,,,54
+15545,777930,2025-05-13,137,109,SF,AZ,San Francisco Giants,Arizona Diamondbacks,592662,Robbie Ray,,,38,694297,Brandon Pfaadt,,,32
+15547,777937,2025-05-13,119,133,LAD,ATH,Los Angeles Dodgers,Athletics,689017,Landon Knack,,,96,605488,Jeffrey Springs,,,59

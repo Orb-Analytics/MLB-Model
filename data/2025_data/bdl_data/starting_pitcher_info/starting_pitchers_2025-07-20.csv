@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+35839,777079,2025-07-20,141,137,TOR,SF,Toronto Blue Jays,San Francisco Giants,621244,José Berríos,,,17,592662,Robbie Ray,,,38
+35832,777076,2025-07-20,139,110,TB,BAL,Tampa Bay Rays,Baltimore Orioles,686752,Ryan Pepiot,,,44,669432,Trevor Rogers,,,28
+35838,777077,2025-07-20,120,135,WSH,SD,Washington Nationals,San Diego Padres,669022,MacKenzie Gore,,,1,601713,Nick Pivetta,,,27
+35831,777078,2025-07-20,143,108,PHI,LAA,Philadelphia Phillies,Los Angeles Angels,624133,Ranger Suarez,,,55,667755,José Soriano,,,59
+35833,777074,2025-07-20,134,145,PIT,CWS,Pittsburgh Pirates,Chicago White Sox,571760,Andrew Heaney,,,45,650644,Aaron Civale,,,43
+35836,777083,2025-07-20,144,147,ATL,NYY,Atlanta Braves,New York Yankees,656550,Grant Holmes,,,66,573186,Marcus Stroman,,,0
+35834,777087,2025-07-20,121,113,NYM,CIN,New York Mets,Cincinnati Reds,656849,David Peterson,,,23,671096,Andrew Abbott,,,41
+35837,777084,2025-07-20,114,133,CLE,ATH,Cleveland Guardians,Athletics,668909,Gavin Williams,,,32,605488,Jeffrey Springs,,,59
+35835,777082,2025-07-20,146,118,MIA,KC,Miami Marlins,Kansas City Royals,676083,Janson Junk,,,26,663460,Kris Bubic,,,50
+35840,777075,2025-07-20,112,111,CHC,BOS,Chicago Cubs,Boston Red Sox,690990,Cade Horton,,,22,676979,Garrett Crochet,,,35
+35842,777072,2025-07-20,115,142,COL,MIN,Colorado Rockies,Minnesota Twins,608566,Germán Márquez,,,48,657746,Joe Ryan,,,41
+35843,777067,2025-07-20,136,117,SEA,HOU,Seattle Mariners,Houston Astros,693433,Bryan Woo,,,22,686613,Hunter Brown,,,58
+35845,777071,2025-07-20,109,138,AZ,STL,Arizona Diamondbacks,St. Louis Cardinals,518876,Merrill Kelly,,,29,571945,Miles Mikolas,,,39
+35844,777070,2025-07-20,119,158,LAD,MIL,Los Angeles Dodgers,Milwaukee Brewers,477132,Clayton Kershaw,,,22,500779,Jose Quintana,,,62
+35841,777073,2025-07-20,140,116,TEX,DET,Texas Rangers,Detroit Tigers,656641,Jacob Latz,,,67,669373,Tarik Skubal,,,29

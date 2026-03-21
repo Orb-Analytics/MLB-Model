@@ -1,0 +1,15 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+7072,778375,2025-04-11,114,118,CLE,KC,Cleveland Guardians,Kansas City Royals,676440,Tanner Bibee,,,28,663460,Kris Bubic,,,50
+7073,778374,2025-04-11,113,134,CIN,PIT,Cincinnati Reds,Pittsburgh Pirates,663903,Brady Singer,,,51,663559,Bailey Falter,,,6
+7071,778367,2025-04-11,139,144,TB,ATL,Tampa Bay Rays,Atlanta Braves,671737,Taj Bradley,,,45,693821,Bryce Elder,,,55
+7074,778370,2025-04-11,147,137,NYY,SF,New York Yankees,San Francisco Giants,573186,Marcus Stroman,,,0,592662,Robbie Ray,,,38
+7076,778369,2025-04-11,146,120,MIA,WSH,Miami Marlins,Washington Nationals,665795,Edward Cabrera,,,27,680730,Mitchell Parker,,,70
+7078,778366,2025-04-11,145,111,CWS,BOS,Chicago White Sox,Boston Red Sox,663436,Davis Martin,,,65,656794,Sean Newcomb,,,19
+7077,778368,2025-04-11,117,108,HOU,LAA,Houston Astros,Los Angeles Angels,669854,Ronel Blanco,,,56,686799,Jack Kochanowicz,,,41
+7079,778363,2025-04-11,142,116,MIN,DET,Minnesota Twins,Detroit Tigers,701581,David Festa,,,58,681857,Reese Olson,,,45
+7080,778365,2025-04-11,138,143,STL,PHI,St. Louis Cardinals,Philadelphia Phillies,669467,Andre Pallante,,,53,605400,Aaron Nola,,,27
+7082,778361,2025-04-11,135,115,SD,COL,San Diego Padres,Colorado Rockies,601713,Nick Pivetta,,,27,608566,Germán Márquez,,,48
+7085,778360,2025-04-11,136,140,SEA,TEX,Seattle Mariners,Texas Rangers,682243,Bryce Miller,,,50,594798,Jacob deGrom,,,48
+7083,778364,2025-04-11,109,158,AZ,MIL,Arizona Diamondbacks,Milwaukee Brewers,593958,Eduardo Rodriguez,,,57,500779,Jose Quintana,,,62
+64003,778358,2025-04-11,133,121,ATH,NYM,Athletics,New York Mets,676664,JP Sears,,,38,656288,Griffin Canning,,,46
+7081,778356,2025-04-11,119,112,LAD,CHC,Los Angeles Dodgers,Chicago Cubs,808967,Yoshinobu Yamamoto,,,18,571510,Matthew Boyd,,,16

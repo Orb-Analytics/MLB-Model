@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+23533,777609,2025-06-07,116,112,DET,CHC,Detroit Tigers,Chicago Cubs,663947,Tyler Holton,,,87,592791,Jameson Taillon,,,50
+23541,777600,2025-06-07,142,141,MIN,TOR,Minnesota Twins,Toronto Blue Jays,663978,Chris Paddack,,,20,592332,Kevin Gausman,,,34
+23539,777601,2025-06-07,138,119,STL,LAD,St. Louis Cardinals,Los Angeles Dodgers,607200,Erick Fedde,,,12,808967,Yoshinobu Yamamoto,,,18
+23537,777610,2025-06-07,120,140,WSH,TEX,Washington Nationals,Texas Rangers,680730,Mitchell Parker,,,70,594798,Jacob deGrom,,,48
+23536,777607,2025-06-07,134,143,PIT,PHI,Pittsburgh Pirates,Philadelphia Phillies,571760,Andrew Heaney,,,45,624133,Ranger Suarez,,,55
+23543,777598,2025-06-07,137,144,SF,ATL,San Francisco Giants,Atlanta Braves,657277,Logan Webb,,,62,693821,Bryce Elder,,,55
+23531,777612,2025-06-07,113,109,CIN,AZ,Cincinnati Reds,Arizona Diamondbacks,607259,Nick Martinez,,,28,669194,Ryne Nelson,,,19
+23534,777608,2025-06-07,114,117,CLE,HOU,Cleveland Guardians,Houston Astros,668909,Gavin Williams,,,32,686613,Hunter Brown,,,58
+23538,777606,2025-06-07,145,118,CWS,KC,Chicago White Sox,Kansas City Royals,605288,Adrian Houser,,,57,608379,Michael Wacha,,,52
+23535,777611,2025-06-07,139,146,TB,MIA,Tampa Bay Rays,Miami Marlins,671737,Taj Bradley,,,45,677960,Ryan Weathers,,,35
+23532,777605,2025-06-07,147,111,NYY,BOS,New York Yankees,Boston Red Sox,642232,Ryan Yarbrough,,,33,676979,Garrett Crochet,,,35
+23540,777597,2025-06-07,158,135,MIL,SD,Milwaukee Brewers,San Diego Padres,500779,Jose Quintana,,,62,663568,Stephen Kolek,,,32
+23545,777603,2025-06-07,108,136,LAA,SEA,Los Angeles Angels,Seattle Mariners,686799,Jack Kochanowicz,,,41,622491,Luis Castillo,,,58
+23542,777604,2025-06-07,115,121,COL,NYM,Colorado Rockies,New York Mets,608566,Germán Márquez,,,48,605280,Clay Holmes,,,35
+64767,777599,2025-06-07,133,110,ATH,BAL,Athletics,Baltimore Orioles,622663,Luis Severino,,,40,450203,Charlie Morton,,,50

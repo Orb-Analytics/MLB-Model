@@ -1,0 +1,11 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+1282811,778029,2025-05-08,115,116,COL,DET,Colorado Rockies,Detroit Tigers,685299,Tanner Gordon,,,,672456,Keider Montero,,,
+14303,778007,2025-05-08,142,110,MIN,BAL,Minnesota Twins,Baltimore Orioles,641927,Bailey Ober,,,17,665152,Dean Kremer,,,64
+14302,778006,2025-05-08,111,140,BOS,TEX,Boston Red Sox,Texas Rangers,678394,Brayan Bello,,,66,683004,Jack Leiter,,,35
+14304,778008,2025-05-08,118,145,KC,CWS,Kansas City Royals,Chicago White Sox,663460,Kris Bubic,,,50,663436,Davis Martin,,,65
+14305,778004,2025-05-08,115,116,COL,DET,Colorado Rockies,Detroit Tigers,607536,Kyle Freeland,,,21,663554,Casey Mize,,,12
+1282811,778029,2025-05-08,115,116,COL,DET,Colorado Rockies,Detroit Tigers,685299,Tanner Gordon,,,,672456,Keider Montero,,,
+14301,778005,2025-05-08,139,143,TB,PHI,Tampa Bay Rays,Philadelphia Phillies,686752,Ryan Pepiot,,,44,666200,Jesús Luzardo,,,44
+14300,778003,2025-05-08,144,113,ATL,CIN,Atlanta Braves,Cincinnati Reds,680885,Spencer Schwellenbach,,,56,666157,Nick Lodolo,,,40
+14307,778000,2025-05-08,108,141,LAA,TOR,Los Angeles Angels,Toronto Blue Jays,667755,José Soriano,,,59,605135,Chris Bassitt,,,40
+14306,777999,2025-05-08,109,119,AZ,LAD,Arizona Diamondbacks,Los Angeles Dodgers,694297,Brandon Pfaadt,,,32,808967,Yoshinobu Yamamoto,,,18

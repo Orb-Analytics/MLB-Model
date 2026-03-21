@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+28446,777370,2025-06-25,145,109,CWS,AZ,Chicago White Sox,Arizona Diamondbacks,680732,Sean Burke,,,59,668678,Zac Gallen,,,23
+28449,777361,2025-06-25,158,134,MIL,PIT,Milwaukee Brewers,Pittsburgh Pirates,694819,Jacob Misiorowski,,,32,694973,Paul Skenes,,,30
+28453,777362,2025-06-25,108,111,LAA,BOS,Los Angeles Angels,Boston Red Sox,579328,Yusei Kikuchi,,,16,690916,Richard Fitts,,,80
+28455,777360,2025-06-25,135,120,SD,WSH,San Diego Padres,Washington Nationals,601713,Nick Pivetta,,,27,669022,MacKenzie Gore,,,1
+28444,777365,2025-06-25,110,140,BAL,TEX,Baltimore Orioles,Texas Rangers,687064,Brandon Young,,,63,594798,Jacob deGrom,,,48
+28443,777371,2025-06-25,116,133,DET,ATH,Detroit Tigers,Athletics,656427,Jack Flaherty,,,9,682052,Jacob Lopez,,,57
+28445,777368,2025-06-25,114,141,CLE,TOR,Cleveland Guardians,Toronto Blue Jays,668909,Gavin Williams,,,32,453286,Max Scherzer,,,31
+28441,777369,2025-06-25,121,144,NYM,ATL,New York Mets,Atlanta Braves,605280,Clay Holmes,,,35,800311,Didier Fuentes,,,75
+28442,777367,2025-06-25,113,147,CIN,NYY,Cincinnati Reds,New York Yankees,663903,Brady Singer,,,51,608331,Max Fried,,,54
+28451,777359,2025-06-25,118,139,KC,TB,Kansas City Royals,Tampa Bay Rays,608379,Michael Wacha,,,52,656876,Drew Rasmussen,,,57
+28450,777363,2025-06-25,142,136,MIN,SEA,Minnesota Twins,Seattle Mariners,657746,Joe Ryan,,,41,669923,George Kirby,,,68
+28447,777357,2025-06-25,138,112,STL,CHC,St. Louis Cardinals,Chicago Cubs,607200,Erick Fedde,,,12,571510,Matthew Boyd,,,16
+28448,777366,2025-06-25,117,143,HOU,PHI,Houston Astros,Philadelphia Phillies,676467,Colton Gordon,,,61,554430,Zack Wheeler,,,45
+28452,777358,2025-06-25,115,119,COL,LAD,Colorado Rockies,Los Angeles Dodgers,801403,Chase Dollander,,,32,808967,Yoshinobu Yamamoto,,,18
+28454,777355,2025-06-25,137,146,SF,MIA,San Francisco Giants,Miami Marlins,657277,Logan Webb,,,62,665795,Edward Cabrera,,,27

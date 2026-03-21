@@ -1,0 +1,15 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+17873,777834,2025-05-21,134,113,PIT,CIN,Pittsburgh Pirates,Cincinnati Reds,571760,Andrew Heaney,,,45,663903,Brady Singer,,,51
+17874,777832,2025-05-21,139,117,TB,HOU,Tampa Bay Rays,Houston Astros,671737,Taj Bradley,,,45,686613,Hunter Brown,,,58
+17872,777833,2025-05-21,146,112,MIA,CHC,Miami Marlins,Chicago Cubs,676974,Max Meyer,,,23,690990,Cade Horton,,,22
+17878,777826,2025-05-21,158,110,MIL,BAL,Milwaukee Brewers,Baltimore Orioles,694477,Chad Patrick,,,39,608372,Tomoyuki Sugano,,,19
+17880,777827,2025-05-21,138,116,STL,DET,St. Louis Cardinals,Detroit Tigers,669467,Andre Pallante,,,53,676428,Brant Hurter,,,48
+17881,777830,2025-05-21,145,136,CWS,SEA,Chicago White Sox,Seattle Mariners,681343,Shane Smith,,,64,688138,Logan Evans,,,73
+17885,777819,2025-05-21,137,118,SF,KC,San Francisco Giants,Kansas City Royals,657277,Logan Webb,,,62,663738,Daniel Lynch IV,,,41
+17879,777829,2025-05-21,142,114,MIN,CLE,Minnesota Twins,Cleveland Guardians,663978,Chris Paddack,,,20,668909,Gavin Williams,,,32
+17875,777831,2025-05-21,111,121,BOS,NYM,Boston Red Sox,New York Mets,676979,Garrett Crochet,,,35,656731,Tylor Megill,,,38
+17877,777835,2025-05-21,147,140,NYY,TEX,New York Yankees,Texas Rangers,642232,Ryan Yarbrough,,,33,594798,Jacob deGrom,,,48
+17876,777837,2025-05-21,141,135,TOR,SD,Toronto Blue Jays,San Diego Padres,592332,Kevin Gausman,,,34,681190,Randy Vásquez,,,98
+17882,777823,2025-05-21,115,143,COL,PHI,Colorado Rockies,Philadelphia Phillies,687223,Carson Palmquist,,,45,592836,Taijuan Walker,,,99
+64541,777828,2025-05-21,133,108,ATH,LAA,Athletics,Los Angeles Angels,676664,JP Sears,,,38,686799,Jack Kochanowicz,,,41
+17884,777824,2025-05-21,119,109,LAD,AZ,Los Angeles Dodgers,Arizona Diamondbacks,669160,Dustin May,,,85,669203,Corbin Burnes,,,39

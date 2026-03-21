@@ -1,0 +1,10 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+13769,778047,2025-05-05,146,119,MIA,LAD,Miami Marlins,Los Angeles Dodgers,645261,Sandy Alcantara,,,22,676263,Jack Dreyer,,,86
+13770,778045,2025-05-05,147,135,NYY,SD,New York Yankees,San Diego Padres,607074,Carlos Rodón,,,55,601713,Nick Pivetta,,,27
+13767,778049,2025-05-05,144,113,ATL,CIN,Atlanta Braves,Cincinnati Reds,700363,AJ Smith-Shawver,,,32,663903,Brady Singer,,,51
+13774,778044,2025-05-05,112,137,CHC,SF,Chicago Cubs,San Francisco Giants,571510,Matthew Boyd,,,16,694738,Landen Roupp,,,65
+13771,778043,2025-05-05,118,145,KC,CWS,Kansas City Royals,Chicago White Sox,666142,Cole Ragans,,,55,681343,Shane Smith,,,64
+13772,778042,2025-05-05,158,117,MIL,HOU,Milwaukee Brewers,Houston Astros,668964,Tobias Myers,,,36,669854,Ronel Blanco,,,56
+13773,778036,2025-05-05,138,134,STL,PIT,St. Louis Cardinals,Pittsburgh Pirates,571945,Miles Mikolas,,,39,669387,Carmen Mlodzinski,,,50
+13775,778039,2025-05-05,109,121,AZ,NYM,Arizona Diamondbacks,New York Mets,669194,Ryne Nelson,,,19,656288,Griffin Canning,,,46
+64324,778038,2025-05-05,133,136,ATH,SEA,Athletics,Seattle Mariners,622663,Luis Severino,,,40,682243,Bryce Miller,,,50

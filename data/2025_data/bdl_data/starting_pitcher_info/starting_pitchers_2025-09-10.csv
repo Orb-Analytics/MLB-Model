@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+50862,776375,2025-09-10,140,158,TEX,MIL,Texas Rangers,Milwaukee Brewers,518876,Merrill Kelly,,,23,642547,Freddy Peralta,,,51
+68653,776379,2025-09-10,133,111,ATH,BOS,Athletics,Boston Red Sox,686930,Mason Barnett,,,63,801139,Payton Tolle,,,70
+50864,776374,2025-09-10,137,109,SF,AZ,San Francisco Giants,Arizona Diamondbacks,693313,Carson Seymour,,,77,593958,Eduardo Rodriguez,,,57
+50868,776376,2025-09-10,108,142,LAA,MIN,Los Angeles Angels,Minnesota Twins,570632,José Ureña,,,54,671737,Taj Bradley,,,26
+50860,776387,2025-09-10,110,134,BAL,PIT,Baltimore Orioles,Pittsburgh Pirates,669330,Tyler Wells,,,68,694973,Paul Skenes,,,30
+50858,776382,2025-09-10,114,118,CLE,KC,Cleveland Guardians,Kansas City Royals,671106,Logan Allen,,,26,680742,Jonathan Bowlan,,,62
+50861,776386,2025-09-10,146,120,MIA,WSH,Miami Marlins,Washington Nationals,691587,Eury Pérez,,,39,663623,Jake Irvin,,,27
+50859,776384,2025-09-10,143,121,PHI,NYM,Philadelphia Phillies,New York Mets,650911,Cristopher Sánchez,,,61,605280,Clay Holmes,,,35
+50856,776383,2025-09-10,147,116,NYY,DET,New York Yankees,Detroit Tigers,607074,Carlos Rodón,,,55,656427,Jack Flaherty,,,9
+50857,776385,2025-09-10,141,117,TOR,HOU,Toronto Blue Jays,Houston Astros,621244,José Berríos,,,17,669920,Jason Alexander,,,54
+50855,776381,2025-09-10,144,112,ATL,CHC,Atlanta Braves,Chicago Cubs,519242,Chris Sale,,,51,592791,Jameson Taillon,,,50
+50863,776378,2025-09-10,145,139,CWS,TB,Chicago White Sox,Tampa Bay Rays,680732,Sean Burke,,,59,643377,Griffin Jax,,,22
+50866,776377,2025-09-10,135,113,SD,CIN,San Diego Padres,Cincinnati Reds,601713,Nick Pivetta,,,27,671096,Andrew Abbott,,,41
+50226,776373,2025-09-10,136,138,SEA,STL,Seattle Mariners,St. Louis Cardinals,669302,Logan Gilbert,,,36,700241,Michael McGreevy,,,36
+50867,776380,2025-09-10,119,115,LAD,COL,Los Angeles Dodgers,Colorado Rockies,605483,Blake Snell,,,7,607536,Kyle Freeland,,,21

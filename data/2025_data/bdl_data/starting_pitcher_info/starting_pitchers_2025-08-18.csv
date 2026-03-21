@@ -1,0 +1,14 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+2256175,777459,2025-08-18,112,158,CHC,MIL,Chicago Cubs,Milwaukee Brewers,690990,Cade Horton,,,22,642547,Freddy Peralta,,,51
+44463,776692,2025-08-18,116,117,DET,HOU,Detroit Tigers,Houston Astros,656427,Jack Flaherty,,,9,681293,Spencer Arrighetti,,,41
+44466,776694,2025-08-18,134,141,PIT,TOR,Pittsburgh Pirates,Toronto Blue Jays,694973,Paul Skenes,,,30,592332,Kevin Gausman,,,34
+44465,776688,2025-08-18,146,138,MIA,STL,Miami Marlins,St. Louis Cardinals,691587,Eury Pérez,,,39,669461,Matthew Liberatore,,,52
+44464,776689,2025-08-18,143,136,PHI,SEA,Philadelphia Phillies,Seattle Mariners,624133,Ranger Suarez,,,55,669302,Logan Gilbert,,,36
+44461,776695,2025-08-18,111,110,BOS,BAL,Boston Red Sox,Baltimore Orioles,669160,Dustin May,,,85,669432,Trevor Rogers,,,28
+44462,776696,2025-08-18,144,145,ATL,CWS,Atlanta Braves,Chicago White Sox,675911,Spencer Strider,,,99,672782,Yoendrys Gómez,,,94
+44468,776690,2025-08-18,118,140,KC,TEX,Kansas City Royals,Texas Rangers,608379,Michael Wacha,,,52,683004,Jack Leiter,,,35
+44469,776693,2025-08-18,115,119,COL,LAD,Colorado Rockies,Los Angeles Dodgers,607536,Kyle Freeland,,,21,808967,Yoshinobu Yamamoto,,,18
+44470,776681,2025-08-18,108,113,LAA,CIN,Los Angeles Angels,Cincinnati Reds,682989,Victor Mederos,,,58,663903,Brady Singer,,,51
+44471,776682,2025-08-18,109,114,AZ,CLE,Arizona Diamondbacks,Cleveland Guardians,668678,Zac Gallen,,,23,668909,Gavin Williams,,,32
+44472,776683,2025-08-18,135,137,SD,SF,San Diego Padres,San Francisco Giants,641482,Nestor Cortes,,,65,592662,Robbie Ray,,,38
+2256175,777459,2025-08-18,112,158,CHC,MIL,Chicago Cubs,Milwaukee Brewers,690990,Cade Horton,,,22,642547,Freddy Peralta,,,51

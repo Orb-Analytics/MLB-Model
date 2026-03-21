@@ -1,0 +1,10 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+52233,776318,2025-09-15,134,112,PIT,CHC,Pittsburgh Pirates,Chicago Cubs,677952,Braxton Ashcraft,,,67,592791,Jameson Taillon,,,50
+52232,776315,2025-09-15,120,144,WSH,ATL,Washington Nationals,Atlanta Braves,680730,Mitchell Parker,,,70,675911,Spencer Strider,,,99
+52234,776316,2025-09-15,139,141,TB,TOR,Tampa Bay Rays,Toronto Blue Jays,671212,Joe Boyle,,,36,702056,Trey Yesavage,,,39
+52235,776314,2025-09-15,145,110,CWS,BAL,Chicago White Sox,Baltimore Orioles,656457,Tyler Gilbert,,,40,680694,Kyle Bradish,,,38
+52237,776313,2025-09-15,142,147,MIN,NYY,Minnesota Twins,New York Yankees,680573,Simeon Woods Richardson,,,24,607074,Carlos Rodón,,,21
+52236,776312,2025-09-15,138,113,STL,CIN,St. Louis Cardinals,Cincinnati Reds,669461,Matthew Liberatore,,,52,641793,Zack Littell,,,52
+52238,776319,2025-09-15,117,140,HOU,TEX,Houston Astros,Texas Rangers,669920,Jason Alexander,,,54,683004,Jack Leiter,,,35
+52240,776309,2025-09-15,109,137,AZ,SF,Arizona Diamondbacks,San Francisco Giants,668678,Zac Gallen,,,23,678906,Kai-Wei Teng,,,66
+52239,776311,2025-09-15,119,143,LAD,PHI,Los Angeles Dodgers,Philadelphia Phillies,607455,Anthony Banda,,,43,624133,Ranger Suarez,,,55

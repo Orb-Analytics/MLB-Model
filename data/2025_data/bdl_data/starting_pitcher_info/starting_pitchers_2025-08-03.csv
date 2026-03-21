@@ -1,0 +1,15 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+40462,776895,2025-08-03,111,117,BOS,HOU,Boston Red Sox,Houston Astros,608337,Lucas Giolito,,,54,664285,Framber Valdez,,,59
+40464,776889,2025-08-03,139,119,TB,LAD,Tampa Bay Rays,Los Angeles Dodgers,671212,Joe Boyle,,,36,808967,Yoshinobu Yamamoto,,,18
+40465,776894,2025-08-03,120,158,WSH,MIL,Washington Nationals,Milwaukee Brewers,695418,Brad Lord,,,61,701656,Logan Henderson,,,43
+40463,776893,2025-08-03,141,118,TOR,KC,Toronto Blue Jays,Kansas City Royals,605135,Chris Bassitt,,,40,607625,Seth Lugo,,,67
+40468,776887,2025-08-03,121,137,NYM,SF,New York Mets,San Francisco Giants,593423,Frankie Montas,,,47,687931,Carson Whisenhunt,,,88
+40466,776892,2025-08-03,114,142,CLE,MIN,Cleveland Guardians,Minnesota Twins,676282,Joey Cantillo,,,54,570632,José Ureña,,,54
+40467,776891,2025-08-03,146,147,MIA,NYY,Miami Marlins,New York Yankees,665795,Edward Cabrera,,,27,661563,Luis Gil,,,81
+40469,776888,2025-08-03,112,110,CHC,BAL,Chicago Cubs,Baltimore Orioles,607067,Colin Rea,,,53,687064,Brandon Young,,,63
+40470,776886,2025-08-03,115,134,COL,PIT,Colorado Rockies,Pittsburgh Pirates,687134,Bradley Blalock,,,64,656605,Mitch Keller,,,23
+68152,776881,2025-08-03,133,109,ATH,AZ,Athletics,Arizona Diamondbacks,678022,Jack Perkins,,,50,593958,Eduardo Rodriguez,,,57
+40472,776885,2025-08-03,108,145,LAA,CWS,Los Angeles Angels,Chicago White Sox,686799,Jack Kochanowicz,,,41,680732,Sean Burke,,,59
+40473,776884,2025-08-03,135,138,SD,STL,San Diego Padres,St. Louis Cardinals,656302,Dylan Cease,,,84,669467,Andre Pallante,,,53
+40474,776883,2025-08-03,136,140,SEA,TEX,Seattle Mariners,Texas Rangers,688138,Logan Evans,,,73,594798,Jacob deGrom,,,48
+40461,776890,2025-08-03,143,116,PHI,DET,Philadelphia Phillies,Detroit Tigers,650911,Cristopher Sánchez,,,61,450203,Charlie Morton,,,50

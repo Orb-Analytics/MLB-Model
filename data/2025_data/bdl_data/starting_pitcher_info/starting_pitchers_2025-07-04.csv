@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+30584,777245,2025-07-04,120,111,WSH,BOS,Washington Nationals,Boston Red Sox,647336,Michael Soroka,,,34,608337,Lucas Giolito,,,54
+30585,777255,2025-07-04,143,113,PHI,CIN,Philadelphia Phillies,Cincinnati Reds,666200,Jesús Luzardo,,,44,671096,Andrew Abbott,,,41
+30590,777246,2025-07-04,112,138,CHC,STL,Chicago Cubs,St. Louis Cardinals,607067,Colin Rea,,,53,571945,Miles Mikolas,,,39
+30589,777250,2025-07-04,121,147,NYM,NYY,New York Mets,New York Yankees,663795,Justin Hagenman,,,51,573186,Marcus Stroman,,,0
+30594,777236,2025-07-04,136,134,SEA,PIT,Seattle Mariners,Pittsburgh Pirates,693433,Bryan Woo,,,22,663559,Bailey Falter,,,6
+30588,777247,2025-07-04,142,139,MIN,TB,Minnesota Twins,Tampa Bay Rays,663978,Chris Paddack,,,20,641793,Zack Littell,,,52
+30596,777239,2025-07-04,135,140,SD,TEX,San Diego Padres,Texas Rangers,681190,Randy Vásquez,,,98,677958,Kumar Rocker,,,80
+30582,777242,2025-07-04,141,108,TOR,LAA,Toronto Blue Jays,Los Angeles Angels,641778,Eric Lauer,,,56,543294,Kyle Hendricks,,,28
+30586,777249,2025-07-04,114,116,CLE,DET,Cleveland Guardians,Detroit Tigers,677944,Slade Cecconi,,,44,681857,Reese Olson,,,45
+30587,777254,2025-07-04,146,158,MIA,MIL,Miami Marlins,Milwaukee Brewers,645261,Sandy Alcantara,,,22,682990,Quinn Priester,,,46
+30583,777252,2025-07-04,144,110,ATL,BAL,Atlanta Braves,Baltimore Orioles,675911,Spencer Strider,,,99,450203,Charlie Morton,,,50
+30591,777243,2025-07-04,115,145,COL,CWS,Colorado Rockies,Chicago White Sox,622608,Antonio Senzatela,,,49,605288,Adrian Houser,,,57
+30592,777235,2025-07-04,119,117,LAD,HOU,Los Angeles Dodgers,Houston Astros,676508,Ben Casparius,,,78,621121,Lance McCullers Jr.,,,43
+30593,777248,2025-07-04,109,118,AZ,KC,Arizona Diamondbacks,Kansas City Royals,593958,Eduardo Rodriguez,,,57,663460,Kris Bubic,,,50
+67796,777244,2025-07-04,133,137,ATH,SF,Athletics,San Francisco Giants,676664,JP Sears,,,38,434378,Justin Verlander,,,35

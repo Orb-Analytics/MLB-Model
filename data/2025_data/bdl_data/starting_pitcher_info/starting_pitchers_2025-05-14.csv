@@ -1,0 +1,20 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+15606,777924,2025-05-14,110,142,BAL,MIN,Baltimore Orioles,Minnesota Twins,665152,Dean Kremer,,,64,641927,Bailey Ober,,,17
+1430758,777938,2025-05-14,110,142,BAL,MIN,Baltimore Orioles,Minnesota Twins,694646,Chayce McDermott,,,59,680573,Simeon Woods Richardson,,,24
+15608,777922,2025-05-14,143,138,PHI,STL,Philadelphia Phillies,St. Louis Cardinals,666200,Jesús Luzardo,,,44,607200,Erick Fedde,,,12
+1430761,777933,2025-05-14,143,138,PHI,STL,Philadelphia Phillies,St. Louis Cardinals,605400,Aaron Nola,,,27,543243,Sonny Gray,,,54
+15605,777925,2025-05-14,114,158,CLE,MIL,Cleveland Guardians,Milwaukee Brewers,668909,Gavin Williams,,,32,701656,Logan Henderson,,,43
+15615,777916,2025-05-14,137,109,SF,AZ,San Francisco Giants,Arizona Diamondbacks,663855,Jordan Hicks,,,12,593958,Eduardo Rodriguez,,,57
+15616,777915,2025-05-14,136,147,SEA,NYY,Seattle Mariners,New York Yankees,622491,Luis Castillo,,,58,701542,Will Warren,,,98
+15603,777927,2025-05-14,116,111,DET,BOS,Detroit Tigers,Boston Red Sox,669373,Tarik Skubal,,,29,690928,Hunter Dobbins,,,73
+15609,777923,2025-05-14,141,139,TOR,TB,Toronto Blue Jays,Tampa Bay Rays,605135,Chris Bassitt,,,40,686752,Ryan Pepiot,,,44
+15607,777919,2025-05-14,121,134,NYM,PIT,New York Mets,Pittsburgh Pirates,605280,Clay Holmes,,,35,663559,Bailey Falter,,,6
+15604,777928,2025-05-14,113,145,CIN,CWS,Cincinnati Reds,Chicago White Sox,666157,Nick Lodolo,,,40,663436,Davis Martin,,,65
+15610,777929,2025-05-14,144,120,ATL,WSH,Atlanta Braves,Washington Nationals,693821,Bryce Elder,,,55,680730,Mitchell Parker,,,70
+15613,777921,2025-05-14,112,146,CHC,MIA,Chicago Cubs,Miami Marlins,592791,Jameson Taillon,,,50,677960,Ryan Weathers,,,35
+15611,777918,2025-05-14,140,115,TEX,COL,Texas Rangers,Colorado Rockies,571578,Patrick Corbin,,,46,622608,Antonio Senzatela,,,49
+15612,777920,2025-05-14,117,118,HOU,KC,Houston Astros,Kansas City Royals,676467,Colton Gordon,,,61,547179,Michael Lorenzen,,,24
+15614,777914,2025-05-14,135,108,SD,LAA,San Diego Padres,Los Angeles Angels,681190,Randy Vásquez,,,98,543294,Kyle Hendricks,,,28
+15617,777917,2025-05-14,119,133,LAD,ATH,Los Angeles Dodgers,Athletics,808967,Yoshinobu Yamamoto,,,18,680684,Gunnar Hoglund,,,53
+1430758,777938,2025-05-14,110,142,BAL,MIN,Baltimore Orioles,Minnesota Twins,694646,Chayce McDermott,,,59,680573,Simeon Woods Richardson,,,24
+1430761,777933,2025-05-14,143,138,PHI,STL,Philadelphia Phillies,St. Louis Cardinals,605400,Aaron Nola,,,27,543243,Sonny Gray,,,54

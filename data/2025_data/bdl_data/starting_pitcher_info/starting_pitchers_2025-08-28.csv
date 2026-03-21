@@ -1,0 +1,9 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+47241,776564,2025-08-28,110,111,BAL,BOS,Baltimore Orioles,Boston Red Sox,700249,Cade Povich,,,37,676979,Garrett Crochet,,,35
+47244,776555,2025-08-28,117,115,HOU,COL,Houston Astros,Colorado Rockies,669920,Jason Alexander,,,54,607536,Kyle Freeland,,,21
+47243,776553,2025-08-28,158,109,MIL,AZ,Milwaukee Brewers,Arizona Diamondbacks,500779,Jose Quintana,,,62,622503,Nabil Crismatt,,,61
+47246,776554,2025-08-28,138,134,STL,PIT,St. Louis Cardinals,Pittsburgh Pirates,571945,Miles Mikolas,,,39,677952,Braxton Ashcraft,,,67
+47247,776550,2025-08-28,137,112,SF,CHC,San Francisco Giants,Chicago Cubs,657277,Logan Webb,,,62,684007,Shota Imanaga,,,18
+47240,776560,2025-08-28,143,144,PHI,ATL,Philadelphia Phillies,Atlanta Braves,605400,Aaron Nola,,,27,615698,Cal Quantrill,,,48
+47242,776558,2025-08-28,121,146,NYM,MIA,New York Mets,Miami Marlins,605280,Clay Holmes,,,35,800049,Adam Mazur,,,60
+47245,776556,2025-08-28,145,147,CWS,NYY,Chicago White Sox,New York Yankees,663436,Davis Martin,,,65,701542,Will Warren,,,98

@@ -1,0 +1,10 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+51118,776372,2025-09-11,110,134,BAL,PIT,Baltimore Orioles,Pittsburgh Pirates,700249,Cade Povich,,,37,670912,Johan Oviedo,,,24
+51120,776364,2025-09-11,145,139,CWS,TB,Chicago White Sox,Tampa Bay Rays,681343,Shane Smith,,,64,693855,Ian Seymour,,,61
+51115,776369,2025-09-11,141,117,TOR,HOU,Toronto Blue Jays,Houston Astros,592332,Kevin Gausman,,,34,664299,Cristian Javier,,,53
+51119,776367,2025-09-11,146,120,MIA,WSH,Miami Marlins,Washington Nationals,677960,Ryan Weathers,,,35,669022,MacKenzie Gore,,,1
+51114,776368,2025-09-11,147,116,NYY,DET,New York Yankees,Detroit Tigers,693645,Cam Schlittler,,,31,663947,Tyler Holton,,,87
+51116,776370,2025-09-11,114,118,CLE,KC,Cleveland Guardians,Kansas City Royals,668909,Gavin Williams,,,32,663568,Stephen Kolek,,,32
+51117,776371,2025-09-11,143,121,PHI,NYM,Philadelphia Phillies,New York Mets,666200,Jesús Luzardo,,,44,656849,David Peterson,,,23
+51122,776365,2025-09-11,135,115,SD,COL,San Diego Padres,Colorado Rockies,681190,Randy Vásquez,,,98,685326,McCade Brown,,,51
+51121,776362,2025-09-11,136,108,SEA,LAA,Seattle Mariners,Los Angeles Angels,682243,Bryce Miller,,,50,667755,José Soriano,,,59

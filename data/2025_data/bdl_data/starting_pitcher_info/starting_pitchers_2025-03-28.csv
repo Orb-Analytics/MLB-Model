@@ -1,0 +1,10 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+1829,778560,2025-03-28,139,115,TB,COL,Tampa Bay Rays,Colorado Rockies,686752,Ryan Pepiot,,,44,607536,Kyle Freeland,,,21
+1991,778549,2025-03-28,141,110,TOR,BAL,Toronto Blue Jays,Baltimore Orioles,592332,Kevin Gausman,,,34,450203,Charlie Morton,,,50
+1992,778548,2025-03-28,146,134,MIA,PIT,Miami Marlins,Pittsburgh Pirates,687362,Connor Gillispie,,,55,656605,Mitch Keller,,,23
+1993,778550,2025-03-28,140,111,TEX,BOS,Texas Rangers,Boston Red Sox,683004,Jack Leiter,,,35,656557,Tanner Houck,,,89
+58715,778518,2025-03-28,117,121,HOU,NYM,Houston Astros,New York Mets,686613,Hunter Brown,,,58,656731,Tylor Megill,,,38
+1995,778543,2025-03-28,109,112,AZ,CHC,Arizona Diamondbacks,Chicago Cubs,518876,Merrill Kelly,,,29,592791,Jameson Taillon,,,50
+1997,778541,2025-03-28,136,133,SEA,ATH,Seattle Mariners,Athletics,622491,Luis Castillo,,,58,605488,Jeffrey Springs,,,59
+1994,778542,2025-03-28,135,144,SD,ATL,San Diego Padres,Atlanta Braves,656302,Dylan Cease,,,84,625643,Reynaldo López,,,40
+1996,778544,2025-03-28,119,116,LAD,DET,Los Angeles Dodgers,Detroit Tigers,808967,Yoshinobu Yamamoto,,,18,656427,Jack Flaherty,,,9

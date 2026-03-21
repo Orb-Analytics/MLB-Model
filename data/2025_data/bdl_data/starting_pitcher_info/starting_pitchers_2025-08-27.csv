@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+47047,776570,2025-08-27,147,120,NYY,WSH,New York Yankees,Washington Nationals,608331,Max Fried,,,54,676917,Cade Cavalli,,,24
+47046,776580,2025-08-27,114,139,CLE,TB,Cleveland Guardians,Tampa Bay Rays,677944,Slade Cecconi,,,44,656876,Drew Rasmussen,,,57
+47042,776565,2025-08-27,146,144,MIA,ATL,Miami Marlins,Atlanta Braves,687473,Ryan Gusto,,,65,666214,Joey Wentz,,,33
+47056,776561,2025-08-27,136,135,SEA,SD,Seattle Mariners,San Diego Padres,693433,Bryan Woo,,,22,506433,Yu Darvish,,,11
+47043,776579,2025-08-27,110,111,BAL,BOS,Baltimore Orioles,Boston Red Sox,608650,Dietrich Enns,,,71,678394,Brayan Bello,,,66
+47044,776567,2025-08-27,141,142,TOR,MIN,Toronto Blue Jays,Minnesota Twins,641778,Eric Lauer,,,56,680573,Simeon Woods Richardson,,,24
+47045,776566,2025-08-27,121,143,NYM,PHI,New York Mets,Philadelphia Phillies,690997,Nolan McLean,,,26,592836,Taijuan Walker,,,99
+47051,776569,2025-08-27,145,118,CWS,KC,Chicago White Sox,Kansas City Royals,650644,Aaron Civale,,,43,686701,Ryan Bergert,,,38
+47049,776572,2025-08-27,158,109,MIL,AZ,Milwaukee Brewers,Arizona Diamondbacks,676879,Aaron Ashby,,,26,669194,Ryne Nelson,,,19
+47052,776568,2025-08-27,138,134,STL,PIT,St. Louis Cardinals,Pittsburgh Pirates,543243,Sonny Gray,,,54,669387,Carmen Mlodzinski,,,50
+47048,776563,2025-08-27,140,108,TEX,LAA,Texas Rangers,Los Angeles Angels,656641,Jacob Latz,,,67,686799,Jack Kochanowicz,,,
+47050,776571,2025-08-27,117,115,HOU,COL,Houston Astros,Colorado Rockies,664285,Framber Valdez,,,59,801403,Chase Dollander,,,32
+47054,776562,2025-08-27,119,113,LAD,CIN,Los Angeles Dodgers,Cincinnati Reds,660271,Shohei Ohtani,,,17,666157,Nick Lodolo,,,40
+47053,776557,2025-08-27,137,112,SF,CHC,San Francisco Giants,Chicago Cubs,687931,Carson Whisenhunt,,,88,607067,Colin Rea,,,53
+68479,776559,2025-08-27,133,116,ATH,DET,Athletics,Detroit Tigers,806960,Luis Morales,,,58,663554,Casey Mize,,,12

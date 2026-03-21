@@ -1,0 +1,9 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+18172,777818,2025-05-22,147,140,NYY,TEX,New York Yankees,Texas Rangers,607074,Carlos Rodón,,,55,543135,Nathan Eovaldi,,,17
+18171,777816,2025-05-22,141,135,TOR,SD,Toronto Blue Jays,San Diego Padres,670102,Bowden Francis,,,44,663568,Stephen Kolek,,,32
+18174,777817,2025-05-22,115,143,COL,PHI,Colorado Rockies,Philadelphia Phillies,608566,Germán Márquez,,,48,624133,Ranger Suarez,,,55
+64541,777812,2025-05-22,133,108,ATH,LAA,Athletics,Los Angeles Angels,622663,Luis Severino,,,40,542881,Tyler Anderson,,,31
+18169,777821,2025-05-22,116,114,DET,CLE,Detroit Tigers,Cleveland Guardians,656427,Jack Flaherty,,,9,676440,Tanner Bibee,,,28
+18170,777814,2025-05-22,134,158,PIT,MIL,Pittsburgh Pirates,Milwaukee Brewers,681347,Mike Burrows,,,53,650644,Aaron Civale,,,32
+18167,777820,2025-05-22,120,144,WSH,ATL,Washington Nationals,Atlanta Braves,592866,Trevor Williams,,,32,700363,AJ Smith-Shawver,,,32
+18173,777822,2025-05-22,117,136,HOU,SEA,Houston Astros,Seattle Mariners,621121,Lance McCullers Jr.,,,43,669923,George Kirby,,,68

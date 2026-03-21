@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+25404,777514,2025-06-14,120,146,WSH,MIA,Washington Nationals,Miami Marlins,592866,Trevor Williams,,,32,806188,Cade Gibson,,,58
+25402,777517,2025-06-14,116,113,DET,CIN,Detroit Tigers,Cincinnati Reds,656427,Jack Flaherty,,,9,663903,Brady Singer,,,51
+25411,777513,2025-06-14,112,134,CHC,PIT,Chicago Cubs,Pittsburgh Pirates,571510,Matthew Boyd,,,16,681347,Mike Burrows,,,53
+25401,777519,2025-06-14,110,108,BAL,LAA,Baltimore Orioles,Los Angeles Angels,608372,Tomoyuki Sugano,,,19,542881,Tyler Anderson,,,31
+25407,777509,2025-06-14,143,141,PHI,TOR,Philadelphia Phillies,Toronto Blue Jays,650911,Cristopher Sánchez,,,61,670102,Bowden Francis,,,44
+25408,777508,2025-06-14,140,145,TEX,CWS,Texas Rangers,Chicago White Sox,594798,Jacob deGrom,,,48,678024,Mike Vasil,,,61
+25410,777511,2025-06-14,118,133,KC,ATH,Kansas City Royals,Athletics,547179,Michael Lorenzen,,,24,682052,Jacob Lopez,,,57
+25406,777518,2025-06-14,121,139,NYM,TB,New York Mets,Tampa Bay Rays,656731,Tylor Megill,,,38,656876,Drew Rasmussen,,,57
+25409,777510,2025-06-14,117,142,HOU,MIN,Houston Astros,Minnesota Twins,686613,Hunter Brown,,,58,657746,Joe Ryan,,,41
+25403,777523,2025-06-14,144,115,ATL,COL,Atlanta Braves,Colorado Rockies,675911,Spencer Strider,,,99,801403,Chase Dollander,,,32
+25412,777512,2025-06-14,158,138,MIL,STL,Milwaukee Brewers,St. Louis Cardinals,500779,Jose Quintana,,,62,669467,Andre Pallante,,,53
+25414,777515,2025-06-14,109,135,AZ,SD,Arizona Diamondbacks,San Diego Padres,668678,Zac Gallen,,,23,686701,Ryan Bergert,,,38
+25405,777516,2025-06-14,111,147,BOS,NYY,Boston Red Sox,New York Yankees,690928,Hunter Dobbins,,,73,607074,Carlos Rodón,,,55
+25413,777507,2025-06-14,136,114,SEA,CLE,Seattle Mariners,Cleveland Guardians,669923,George Kirby,,,68,676440,Tanner Bibee,,,28
+25415,777506,2025-06-14,119,137,LAD,SF,Los Angeles Dodgers,San Francisco Giants,477132,Clayton Kershaw,,,22,694738,Landen Roupp,,,65

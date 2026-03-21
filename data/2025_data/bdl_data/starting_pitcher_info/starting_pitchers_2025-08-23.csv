@@ -1,0 +1,15 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+45378,776627,2025-08-23,147,111,NYY,BOS,New York Yankees,Boston Red Sox,701542,Will Warren,,,98,676979,Garrett Crochet,,,35
+45384,776630,2025-08-23,146,141,MIA,TOR,Miami Marlins,Toronto Blue Jays,676083,Janson Junk,,,26,621244,José Berríos,,,17
+45385,776628,2025-08-23,143,120,PHI,WSH,Philadelphia Phillies,Washington Nationals,605400,Aaron Nola,,,27,680730,Mitchell Parker,,,70
+45381,776625,2025-08-23,116,118,DET,KC,Detroit Tigers,Kansas City Royals,663978,Chris Paddack,,,40,608379,Michael Wacha,,,52
+45379,776632,2025-08-23,134,115,PIT,COL,Pittsburgh Pirates,Colorado Rockies,681347,Mike Burrows,,,53,607536,Kyle Freeland,,,21
+45380,776629,2025-08-23,110,117,BAL,HOU,Baltimore Orioles,Houston Astros,665152,Dean Kremer,,,64,664299,Cristian Javier,,,53
+45386,776623,2025-08-23,140,114,TEX,CLE,Texas Rangers,Cleveland Guardians,683004,Jack Leiter,,,35,671106,Logan Allen,,,26
+45387,776619,2025-08-23,145,142,CWS,MIN,Chicago White Sox,Minnesota Twins,663436,Davis Martin,,,65,690953,Mick Abel,,,20
+45388,776621,2025-08-23,158,137,MIL,SF,Milwaukee Brewers,San Francisco Giants,642547,Freddy Peralta,,,51,657277,Logan Webb,,,62
+45382,776626,2025-08-23,144,121,ATL,NYM,Atlanta Braves,New York Mets,615698,Cal Quantrill,,,48,605280,Clay Holmes,,,35
+45390,776622,2025-08-23,109,113,AZ,CIN,Arizona Diamondbacks,Cincinnati Reds,656222,Jalen Beeks,,,68,671096,Andrew Abbott,,,41
+45391,776617,2025-08-23,135,119,SD,LAD,San Diego Padres,Los Angeles Dodgers,641482,Nestor Cortes,,,65,607192,Tyler Glasnow,,,31
+45389,776618,2025-08-23,108,112,LAA,CHC,Los Angeles Angels,Chicago Cubs,682989,Victor Mederos,,,58,690990,Cade Horton,,,22
+45392,776620,2025-08-23,136,133,SEA,ATH,Seattle Mariners,Athletics,669923,George Kirby,,,68,605488,Jeffrey Springs,,,59

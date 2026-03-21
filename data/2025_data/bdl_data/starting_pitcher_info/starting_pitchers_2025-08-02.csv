@@ -1,0 +1,17 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+40015,776907,2025-08-02,113,144,CIN,ATL,Cincinnati Reds,Atlanta Braves,695505,Chase Burns,,,26,680735,Austin Cox,,,68
+40019,776901,2025-08-02,139,119,TB,LAD,Tampa Bay Rays,Los Angeles Dodgers,656876,Drew Rasmussen,,,57,605483,Blake Snell,,,7
+40024,776902,2025-08-02,112,110,CHC,BAL,Chicago Cubs,Baltimore Orioles,571510,Matthew Boyd,,,23,608372,Tomoyuki Sugano,,,19
+40018,776900,2025-08-02,141,118,TOR,KC,Toronto Blue Jays,Kansas City Royals,453286,Max Scherzer,,,31,702070,Noah Cameron,,,65
+40025,776904,2025-08-02,115,134,COL,PIT,Colorado Rockies,Pittsburgh Pirates,596295,Austin Gomber,,,26,694973,Paul Skenes,,,30
+40016,776912,2025-08-02,143,116,PHI,DET,Philadelphia Phillies,Detroit Tigers,554430,Zack Wheeler,,,45,669373,Tarik Skubal,,,29
+40020,776903,2025-08-02,120,158,WSH,MIL,Washington Nationals,Milwaukee Brewers,663623,Jake Irvin,,,27,605540,Brandon Woodruff,,,53
+40017,776909,2025-08-02,111,117,BOS,HOU,Boston Red Sox,Houston Astros,621111,Walker Buehler,,,0,676467,Colton Gordon,,,61
+40023,776911,2025-08-02,121,137,NYM,SF,New York Mets,San Francisco Giants,673540,Kodai Senga,,,34,678906,Kai-Wei Teng,,,66
+40029,776897,2025-08-02,136,140,SEA,TEX,Seattle Mariners,Texas Rangers,622491,Luis Castillo,,,58,518876,Merrill Kelly,,,23
+40021,776905,2025-08-02,114,142,CLE,MIN,Cleveland Guardians,Minnesota Twins,676440,Tanner Bibee,,,28,641927,Bailey Ober,,,17
+40022,776910,2025-08-02,146,147,MIA,NYY,Miami Marlins,New York Yankees,691587,Eury Pérez,,,39,693645,Cam Schlittler,,,31
+40015,776907,2025-08-02,113,144,CIN,ATL,Cincinnati Reds,Atlanta Braves,695505,Chase Burns,,,26,680735,Austin Cox,,,68
+68139,776899,2025-08-02,133,109,ATH,AZ,Athletics,Arizona Diamondbacks,669372,J.T. Ginn,,,70,668678,Zac Gallen,,,23
+40027,776898,2025-08-02,108,145,LAA,CWS,Los Angeles Angels,Chicago White Sox,543294,Kyle Hendricks,,,28,650644,Aaron Civale,,,43
+40028,776896,2025-08-02,135,138,SD,STL,San Diego Padres,St. Louis Cardinals,681190,Randy Vásquez,,,98,700241,Michael McGreevy,,,36

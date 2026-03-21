@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+28121,777380,2025-06-24,110,140,BAL,TEX,Baltimore Orioles,Texas Rangers,450203,Charlie Morton,,,50,656641,Jacob Latz,,,67
+28120,777386,2025-06-24,116,133,DET,ATH,Detroit Tigers,Athletics,669373,Tarik Skubal,,,29,622663,Luis Severino,,,40
+28122,777384,2025-06-24,114,141,CLE,TOR,Cleveland Guardians,Toronto Blue Jays,671106,Logan Allen,,,26,641778,Eric Lauer,,,56
+28118,777387,2025-06-24,121,144,NYM,ATL,New York Mets,Atlanta Braves,593423,Frankie Montas,,,47,675911,Spencer Strider,,,99
+28119,777385,2025-06-24,113,147,CIN,NYY,Cincinnati Reds,New York Yankees,695505,Chase Burns,,,26,607074,Carlos Rodón,,,55
+28128,777378,2025-06-24,118,139,KC,TB,Kansas City Royals,Tampa Bay Rays,663460,Kris Bubic,,,50,671737,Taj Bradley,,,45
+28127,777375,2025-06-24,142,136,MIN,SEA,Minnesota Twins,Seattle Mariners,663978,Chris Paddack,,,20,622491,Luis Castillo,,,58
+28123,777383,2025-06-24,145,109,CWS,AZ,Chicago White Sox,Arizona Diamondbacks,673929,Jordan Leasure,,,49,669194,Ryne Nelson,,,19
+28126,777374,2025-06-24,158,134,MIL,PIT,Milwaukee Brewers,Pittsburgh Pirates,642547,Freddy Peralta,,,51,571760,Andrew Heaney,,,45
+28124,777373,2025-06-24,138,112,STL,CHC,St. Louis Cardinals,Chicago Cubs,700241,Michael McGreevy,,,,592791,Jameson Taillon,,,50
+28125,777377,2025-06-24,117,143,HOU,PHI,Houston Astros,Philadelphia Phillies,664285,Framber Valdez,,,59,624133,Ranger Suarez,,,55
+28129,777379,2025-06-24,115,119,COL,LAD,Colorado Rockies,Los Angeles Dodgers,608566,Germán Márquez,,,48,676263,Jack Dreyer,,,86
+28130,777376,2025-06-24,108,111,LAA,BOS,Los Angeles Angels,Boston Red Sox,542881,Tyler Anderson,,,31,676979,Garrett Crochet,,,35
+28132,777372,2025-06-24,135,120,SD,WSH,San Diego Padres,Washington Nationals,686701,Ryan Bergert,,,38,592866,Trevor Williams,,,32
+28131,777364,2025-06-24,137,146,SF,MIA,San Francisco Giants,Miami Marlins,434378,Justin Verlander,,,35,615698,Cal Quantrill,,,47

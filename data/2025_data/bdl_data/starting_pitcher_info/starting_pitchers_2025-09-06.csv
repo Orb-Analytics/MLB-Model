@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+49646,776436,2025-09-06,147,141,NYY,TOR,New York Yankees,Toronto Blue Jays,661563,Luis Gil,,,81,605135,Chris Bassitt,,,40
+49650,776440,2025-09-06,112,120,CHC,WSH,Chicago Cubs,Washington Nationals,571510,Matthew Boyd,,,16,695418,Brad Lord,,,61
+49644,776433,2025-09-06,146,143,MIA,PHI,Miami Marlins,Philadelphia Phillies,645261,Sandy Alcantara,,,22,666200,Jesús Luzardo,,,44
+49639,776435,2025-09-06,116,145,DET,CWS,Detroit Tigers,Chicago White Sox,669373,Tarik Skubal,,,29,527048,Martín Pérez,,,54
+49643,776439,2025-09-06,113,121,CIN,NYM,Cincinnati Reds,New York Mets,663903,Brady Singer,,,51,804636,Jonah Tong,,,21
+49642,776441,2025-09-06,134,158,PIT,MIL,Pittsburgh Pirates,Milwaukee Brewers,656605,Mitch Keller,,,23,605540,Brandon Woodruff,,,53
+49641,776443,2025-09-06,110,119,BAL,LAD,Baltimore Orioles,Los Angeles Dodgers,669432,Trevor Rogers,,,28,808967,Yoshinobu Yamamoto,,,18
+49640,776438,2025-09-06,139,114,TB,CLE,Tampa Bay Rays,Cleveland Guardians,669358,Shane Baz,,,11,676440,Tanner Bibee,,,28
+49649,776437,2025-09-06,138,137,STL,SF,St. Louis Cardinals,San Francisco Giants,669467,Andre Pallante,,,53,434378,Justin Verlander,,,35
+49647,776432,2025-09-06,140,117,TEX,HOU,Texas Rangers,Houston Astros,594798,Jacob deGrom,,,48,686613,Hunter Brown,,,58
+49648,776434,2025-09-06,118,142,KC,MIN,Kansas City Royals,Minnesota Twins,663568,Stephen Kolek,,,32,657746,Joe Ryan,,,41
+49645,776447,2025-09-06,144,136,ATL,SEA,Atlanta Braves,Seattle Mariners,694462,Hurston Waldrep,,,64,682243,Bryce Miller,,,50
+49652,776424,2025-09-06,109,111,AZ,BOS,Arizona Diamondbacks,Boston Red Sox,694297,Brandon Pfaadt,,,32,608337,Lucas Giolito,,,54
+49651,776431,2025-09-06,115,135,COL,SD,Colorado Rockies,San Diego Padres,685326,McCade Brown,,,51,681190,Randy Vásquez,,,98
+49653,776430,2025-09-06,108,133,LAA,ATH,Los Angeles Angels,Athletics,579328,Yusei Kikuchi,,,16,669372,J.T. Ginn,,,70

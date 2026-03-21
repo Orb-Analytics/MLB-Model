@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+50701,776401,2025-09-09,110,134,BAL,PIT,Baltimore Orioles,Pittsburgh Pirates,680694,Kyle Bradish,,,38,681347,Mike Burrows,,,53
+50699,776403,2025-09-09,114,118,CLE,KC,Cleveland Guardians,Kansas City Royals,676282,Joey Cantillo,,,54,702070,Noah Cameron,,,65
+50702,776397,2025-09-09,146,120,MIA,WSH,Miami Marlins,Washington Nationals,800049,Adam Mazur,,,60,680730,Mitchell Parker,,,70
+50700,776404,2025-09-09,143,121,PHI,NYM,Philadelphia Phillies,New York Mets,624133,Ranger Suarez,,,55,640455,Sean Manaea,,,59
+50697,776398,2025-09-09,147,116,NYY,DET,New York Yankees,Detroit Tigers,701542,Will Warren,,,98,663554,Casey Mize,,,12
+50698,776393,2025-09-09,141,117,TOR,HOU,Toronto Blue Jays,Houston Astros,669456,Shane Bieber,,,57,677651,Luis Garcia,,,77
+50696,776402,2025-09-09,144,112,ATL,CHC,Atlanta Braves,Chicago Cubs,675911,Spencer Strider,,,99,690990,Cade Horton,,,22
+50704,776388,2025-09-09,145,139,CWS,TB,Chicago White Sox,Tampa Bay Rays,672782,Yoendrys Gómez,,,94,605288,Adrian Houser,,,37
+50703,776395,2025-09-09,140,158,TEX,MIL,Texas Rangers,Milwaukee Brewers,683004,Jack Leiter,,,35,694477,Chad Patrick,,,39
+50709,776390,2025-09-09,108,142,LAA,MIN,Los Angeles Angels,Minnesota Twins,543294,Kyle Hendricks,,,28,805673,Zebby Matthews,,,52
+50707,776392,2025-09-09,135,113,SD,CIN,San Diego Padres,Cincinnati Reds,650633,Michael King,,,34,641793,Zack Littell,,,52
+50710,776391,2025-09-09,136,138,SEA,STL,Seattle Mariners,St. Louis Cardinals,669923,George Kirby,,,68,669461,Matthew Liberatore,,,52
+50705,776394,2025-09-09,137,109,SF,AZ,San Francisco Giants,Arizona Diamondbacks,592662,Robbie Ray,,,38,668678,Zac Gallen,,,23
+68650,776396,2025-09-09,133,111,ATH,BOS,Athletics,Boston Red Sox,605488,Jeffrey Springs,,,59,813349,Connelly Early,,,71
+50708,776389,2025-09-09,119,115,LAD,COL,Los Angeles Dodgers,Colorado Rockies,686218,Emmet Sheehan,,,80,608566,Germán Márquez,,,48

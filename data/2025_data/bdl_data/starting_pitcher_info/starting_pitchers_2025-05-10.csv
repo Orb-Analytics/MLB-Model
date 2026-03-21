@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+14683,777980,2025-05-10,120,138,WSH,STL,Washington Nationals,St. Louis Cardinals,592866,Trevor Williams,,,32,669467,Andre Pallante,,,53
+14679,777985,2025-05-10,134,144,PIT,ATL,Pittsburgh Pirates,Atlanta Braves,571760,Andrew Heaney,,,45,700363,AJ Smith-Shawver,,,32
+64380,777972,2025-05-10,133,147,ATH,NYY,Athletics,New York Yankees,676664,JP Sears,,,38,607074,Carlos Rodón,,,55
+14681,777981,2025-05-10,139,158,TB,MIL,Tampa Bay Rays,Milwaukee Brewers,671737,Taj Bradley,,,45,668964,Tobias Myers,,,36
+14684,777987,2025-05-10,116,140,DET,TEX,Detroit Tigers,Texas Rangers,656427,Jack Flaherty,,,9,594798,Jacob deGrom,,,48
+14682,777983,2025-05-10,114,143,CLE,PHI,Cleveland Guardians,Philadelphia Phillies,676440,Tanner Bibee,,,28,624133,Ranger Suarez,,,55
+14686,777979,2025-05-10,117,113,HOU,CIN,Houston Astros,Cincinnati Reds,621121,Lance McCullers Jr.,,,43,663903,Brady Singer,,,51
+14685,777977,2025-05-10,118,111,KC,BOS,Kansas City Royals,Boston Red Sox,666142,Cole Ragans,,,55,676979,Garrett Crochet,,,35
+14687,777978,2025-05-10,145,146,CWS,MIA,Chicago White Sox,Miami Marlins,681343,Shane Smith,,,64,665795,Edward Cabrera,,,27
+14680,777982,2025-05-10,121,112,NYM,CHC,New York Mets,Chicago Cubs,656731,Tylor Megill,,,38,641745,Brad Keller,,,40
+14688,777974,2025-05-10,142,137,MIN,SF,Minnesota Twins,San Francisco Giants,657746,Joe Ryan,,,41,657277,Logan Webb,,,62
+14691,777975,2025-05-10,109,119,AZ,LAD,Arizona Diamondbacks,Los Angeles Dodgers,669203,Corbin Burnes,,,39,669160,Dustin May,,,85
+14689,777976,2025-05-10,115,135,COL,SD,Colorado Rockies,San Diego Padres,687134,Bradley Blalock,,,64,663568,Stephen Kolek,,,32
+14690,777973,2025-05-10,108,110,LAA,BAL,Los Angeles Angels,Baltimore Orioles,686799,Jack Kochanowicz,,,41,502043,Kyle Gibson,,,48
+14532,777970,2025-05-10,136,141,SEA,TOR,Seattle Mariners,Toronto Blue Jays,688138,Logan Evans,,,73,670102,Bowden Francis,,,44

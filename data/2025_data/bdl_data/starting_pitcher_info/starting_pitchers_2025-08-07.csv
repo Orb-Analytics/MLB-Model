@@ -1,0 +1,5 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+41513,776837,2025-08-07,120,133,WSH,ATH,Washington Nationals,Athletics,680730,Mitchell Parker,,,70,682052,Jacob Lopez,,,57
+41514,776830,2025-08-07,136,145,SEA,CWS,Seattle Mariners,Chicago White Sox,669302,Logan Gilbert,,,36,681343,Shane Smith,,,64
+41511,776840,2025-08-07,134,113,PIT,CIN,Pittsburgh Pirates,Cincinnati Reds,694973,Paul Skenes,,,30,663903,Brady Singer,,,51
+41512,776842,2025-08-07,144,146,ATL,MIA,Atlanta Braves,Miami Marlins,471911,Carlos Carrasco,,,59,691587,Eury Pérez,,,39

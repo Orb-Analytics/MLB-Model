@@ -1,0 +1,9 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+24956,777544,2025-06-12,121,120,NYM,WSH,New York Mets,Washington Nationals,673540,Kodai Senga,,,34,647336,Michael Soroka,,,34
+24961,777533,2025-06-12,142,140,MIN,TEX,Minnesota Twins,Texas Rangers,641927,Bailey Ober,,,17,571578,Patrick Corbin,,,46
+24962,777534,2025-06-12,115,137,COL,SF,Colorado Rockies,San Francisco Giants,622608,Antonio Senzatela,,,49,806185,Hayden Birdsong,,,60
+24955,777540,2025-06-12,110,116,BAL,DET,Baltimore Orioles,Detroit Tigers,669211,Keegan Akin,,,45,669373,Tarik Skubal,,,29
+24958,777536,2025-06-12,118,147,KC,NYY,Kansas City Royals,New York Yankees,607625,Seth Lugo,,,67,701542,Will Warren,,,98
+24960,777532,2025-06-12,158,138,MIL,STL,Milwaukee Brewers,St. Louis Cardinals,694819,Jacob Misiorowski,,,33,543243,Sonny Gray,,,54
+24959,777541,2025-06-12,112,134,CHC,PIT,Chicago Cubs,Pittsburgh Pirates,592791,Jameson Taillon,,,50,571760,Andrew Heaney,,,45
+24957,777546,2025-06-12,117,145,HOU,CWS,Houston Astros,Chicago White Sox,664285,Framber Valdez,,,59,663436,Davis Martin,,,65

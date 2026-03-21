@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+23886,777592,2025-06-08,139,146,TB,MIA,Tampa Bay Rays,Miami Marlins,656876,Drew Rasmussen,,,57,685107,Anthony Veneziano,,,59
+23891,777586,2025-06-08,158,135,MIL,SD,Milwaukee Brewers,San Diego Padres,642547,Freddy Peralta,,,51,686701,Ryan Bergert,,,38
+23888,777596,2025-06-08,120,140,WSH,TEX,Washington Nationals,Texas Rangers,592866,Trevor Williams,,,32,656641,Jacob Latz,,,67
+23887,777595,2025-06-08,134,143,PIT,PHI,Pittsburgh Pirates,Philadelphia Phillies,694973,Paul Skenes,,,30,650911,Cristopher Sánchez,,,61
+23882,777602,2025-06-08,113,109,CIN,AZ,Cincinnati Reds,Arizona Diamondbacks,663903,Brady Singer,,,51,668678,Zac Gallen,,,23
+23884,777594,2025-06-08,116,112,DET,CHC,Detroit Tigers,Chicago Cubs,656427,Jack Flaherty,,,9,690990,Cade Horton,,,22
+23885,777591,2025-06-08,114,117,CLE,HOU,Cleveland Guardians,Houston Astros,676440,Tanner Bibee,,,28,687888,Brandon Walter,,,60
+23892,777585,2025-06-08,142,141,MIN,TOR,Minnesota Twins,Toronto Blue Jays,657746,Joe Ryan,,,41,670102,Bowden Francis,,,44
+23889,777590,2025-06-08,145,118,CWS,KC,Chicago White Sox,Kansas City Royals,678024,Mike Vasil,,,61,547179,Michael Lorenzen,,,24
+23890,777582,2025-06-08,138,119,STL,LAD,St. Louis Cardinals,Los Angeles Dodgers,700241,Michael McGreevy,,,,477132,Clayton Kershaw,,,22
+23893,777583,2025-06-08,115,121,COL,NYM,Colorado Rockies,New York Mets,801403,Chase Dollander,,,32,656731,Tylor Megill,,,38
+64781,777588,2025-06-08,133,110,ATH,BAL,Athletics,Baltimore Orioles,682052,Jacob Lopez,,,57,608372,Tomoyuki Sugano,,,19
+23894,777587,2025-06-08,137,144,SF,ATL,San Francisco Giants,Atlanta Braves,694738,Landen Roupp,,,65,675911,Spencer Strider,,,99
+23896,777589,2025-06-08,108,136,LAA,SEA,Los Angeles Angels,Seattle Mariners,542881,Tyler Anderson,,,31,669923,George Kirby,,,68
+23883,777593,2025-06-08,147,111,NYY,BOS,New York Yankees,Boston Red Sox,607074,Carlos Rodón,,,55,690928,Hunter Dobbins,,,73

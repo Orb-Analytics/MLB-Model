@@ -1,0 +1,7 @@
+game_pk,date,home_bullpen_ip,away_bullpen_ip,home_bullpen_hits,away_bullpen_hits,home_bullpen_earned_runs,away_bullpen_earned_runs,home_bullpen_walks,away_bullpen_walks,home_bullpen_strikeouts,away_bullpen_strikeouts,home_bullpen_homeruns,away_bullpen_homeruns,home_bullpen_era,away_bullpen_era,home_bullpen_whip,away_bullpen_whip,home_bullpen_k_per_9,away_bullpen_k_per_9,home_bullpen_k_bb_ratio,away_bullpen_k_bb_ratio,home_bullpen_hr_per_9,away_bullpen_hr_per_9,home_bullpen_bb_per_9,away_bullpen_bb_per_9
+778382,2025-04-10,5.0,1.8,6,1,3,0,0,0,1,1,2,0,5.4,0.0,1.2,0.56,1.8,5.0,0.0,0.0,3.6,0.0,0.0,0.0
+778378,2025-04-10,4.0,2.9,2,3,0,0,1,0,5,0,0,0,0.0,0.0,0.75,1.03,11.25,0.0,5.0,0.0,0.0,0.0,2.25,0.0
+778373,2025-04-10,3.9,2.0,2,2,0,2,2,1,4,2,0,0,0.0,9.0,1.03,1.5,9.23,9.0,2.0,2.0,0.0,0.0,4.62,4.5
+778371,2025-04-10,3.0,3.0,1,6,1,6,4,3,3,3,0,0,3.0,18.0,1.67,3.0,9.0,9.0,0.75,1.0,0.0,0.0,12.0,9.0
+778377,2025-04-10,3.9,4.0,4,3,1,1,2,3,4,5,0,0,2.31,2.25,1.54,1.5,9.23,11.25,2.0,1.67,0.0,0.0,4.62,6.75
+778384,2025-04-10,5.0,4.0,0,3,0,2,6,1,5,4,0,1,0.0,4.5,1.2,1.0,9.0,9.0,0.83,4.0,0.0,2.25,10.8,2.25

@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+13004,778087,2025-05-02,113,120,CIN,WSH,Cincinnati Reds,Washington Nationals,668881,Hunter Greene,,,21,680730,Mitchell Parker,,,70
+13002,778090,2025-05-02,134,135,PIT,SD,Pittsburgh Pirates,San Diego Padres,656605,Mitch Keller,,,23,656302,Dylan Cease,,,84
+12996,778086,2025-05-02,143,109,PHI,AZ,Philadelphia Phillies,Arizona Diamondbacks,666200,Jesús Luzardo,,,44,518876,Merrill Kelly,,,29
+12998,778093,2025-05-02,110,118,BAL,KC,Baltimore Orioles,Kansas City Royals,665152,Dean Kremer,,,64,608379,Michael Wacha,,,52
+13003,778088,2025-05-02,147,139,NYY,TB,New York Yankees,Tampa Bay Rays,608331,Max Fried,,,54,686752,Ryan Pepiot,,,44
+12997,778081,2025-05-02,141,114,TOR,CLE,Toronto Blue Jays,Cleveland Guardians,605135,Chris Bassitt,,,40,671106,Logan Allen,,,26
+13000,778089,2025-05-02,111,142,BOS,MIN,Boston Red Sox,Minnesota Twins,678394,Brayan Bello,,,66,657746,Joe Ryan,,,41
+13001,778091,2025-05-02,146,133,MIA,ATH,Miami Marlins,Athletics,678368,Valente Bellozo,,,83,680684,Gunnar Hoglund,,,53
+12999,778092,2025-05-02,144,119,ATL,LAD,Atlanta Braves,Los Angeles Dodgers,656550,Grant Holmes,,,66,808967,Yoshinobu Yamamoto,,,18
+13006,778079,2025-05-02,145,117,CWS,HOU,Chicago White Sox,Houston Astros,686563,Jonathan Cannon,,,48,664285,Framber Valdez,,,59
+13008,778083,2025-05-02,140,136,TEX,SEA,Texas Rangers,Seattle Mariners,683004,Jack Leiter,,,35,693433,Bryan Woo,,,22
+13005,778080,2025-05-02,158,112,MIL,CHC,Milwaukee Brewers,Chicago Cubs,641302,Tyler Alexander,,,33,676962,Ben Brown,,,32
+13007,778084,2025-05-02,138,121,STL,NYM,St. Louis Cardinals,New York Mets,543243,Sonny Gray,,,54,605280,Clay Holmes,,,35
+13010,778085,2025-05-02,108,116,LAA,DET,Los Angeles Angels,Detroit Tigers,667755,José Soriano,,,59,669373,Tarik Skubal,,,29
+13009,778082,2025-05-02,137,115,SF,COL,San Francisco Giants,Colorado Rockies,592662,Robbie Ray,,,38,622608,Antonio Senzatela,,,49

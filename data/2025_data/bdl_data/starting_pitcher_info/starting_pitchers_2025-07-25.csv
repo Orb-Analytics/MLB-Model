@@ -1,0 +1,15 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+37369,777008,2025-07-25,158,146,MIL,MIA,Milwaukee Brewers,Miami Marlins,642547,Freddy Peralta,,,51,615698,Cal Quantrill,,,47
+37360,777014,2025-07-25,134,109,PIT,AZ,Pittsburgh Pirates,Arizona Diamondbacks,681347,Mike Burrows,,,53,669194,Ryne Nelson,,,19
+37361,777020,2025-07-25,110,115,BAL,COL,Baltimore Orioles,Colorado Rockies,665152,Dean Kremer,,,64,607536,Kyle Freeland,,,21
+37363,777015,2025-07-25,147,143,NYY,PHI,New York Yankees,Philadelphia Phillies,701542,Will Warren,,,98,592836,Taijuan Walker,,,99
+37362,777012,2025-07-25,111,119,BOS,LAD,Boston Red Sox,Los Angeles Dodgers,678394,Brayan Bello,,,66,686218,Emmet Sheehan,,,80
+37364,777013,2025-07-25,113,139,CIN,TB,Cincinnati Reds,Tampa Bay Rays,607259,Nick Martinez,,,28,641793,Zack Littell,,,52
+37365,777016,2025-07-25,116,141,DET,TOR,Detroit Tigers,Toronto Blue Jays,672456,Keider Montero,,,54,621244,José Berríos,,,17
+37371,777005,2025-07-25,138,135,STL,SD,St. Louis Cardinals,San Diego Padres,571945,Miles Mikolas,,,39,601713,Nick Pivetta,,,27
+37367,777017,2025-07-25,145,112,CWS,CHC,Chicago White Sox,Chicago Cubs,605288,Adrian Houser,,,57,684007,Shota Imanaga,,,18
+37366,777009,2025-07-25,140,144,TEX,ATL,Texas Rangers,Atlanta Braves,543135,Nathan Eovaldi,,,17,666214,Joey Wentz,,,33
+37370,777007,2025-07-25,117,133,HOU,ATH,Houston Astros,Athletics,687473,Ryan Gusto,,,67,605488,Jeffrey Springs,,,59
+37372,777011,2025-07-25,142,120,MIN,WSH,Minnesota Twins,Washington Nationals,805673,Zebby Matthews,,,52,669022,MacKenzie Gore,,,1
+37374,777006,2025-07-25,108,136,LAA,SEA,Los Angeles Angels,Seattle Mariners,667755,José Soriano,,,59,693433,Bryan Woo,,,22
+37373,777004,2025-07-25,137,121,SF,NYM,San Francisco Giants,New York Mets,657277,Logan Webb,,,62,605280,Clay Holmes,,,35

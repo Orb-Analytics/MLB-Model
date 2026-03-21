@@ -1,0 +1,75 @@
+batter_id,pitcher_id,inning,half_inning,pa_number,outs,batter_side,pitcher_hand,result,is_ball_in_play_out,runner_on_first,runner_on_second,runner_on_third
+208,713,1,top,1,1,L,L,Groundout,True,False,False,False
+160,713,1,top,2,2,R,L,Pop Out,True,False,False,False
+1098,713,1,top,3,3,R,L,Strikeout,False,False,False,False
+956,79,1,bottom,4,0,L,R,Walk,False,False,False,False
+966,79,1,bottom,5,1,R,R,Lineout,True,False,False,False
+678,79,1,bottom,6,2,L,R,Groundout,True,True,False,False
+847,79,1,bottom,7,3,L,R,Lineout,True,False,False,False
+103,713,2,top,8,0,R,L,Walk,False,False,False,False
+142,713,2,top,9,0,L,L,Walk,False,True,False,False
+1101,713,2,top,10,1,R,L,Pop Out,True,False,False,False
+2716,713,2,top,11,2,L,L,Pop Out,True,False,False,False
+156,713,2,top,12,3,R,L,Flyout,True,False,False,False
+17211,79,2,bottom,13,1,R,R,Groundout,True,False,False,False
+890,79,2,bottom,14,1,R,R,Single,False,False,False,False
+935,79,2,bottom,15,2,L,R,Groundout,True,True,False,False
+815,79,2,bottom,16,2,R,R,Double,False,False,True,True
+1275,79,2,bottom,17,3,R,R,Strikeout,False,False,False,False
+176,713,3,top,18,1,R,L,Strikeout,False,False,False,False
+208,713,3,top,19,2,L,L,Lineout,True,False,False,False
+160,713,3,top,20,3,R,L,Groundout,True,False,False,False
+956,79,3,bottom,21,0,L,R,Single,False,False,False,False
+966,79,3,bottom,22,1,R,R,Groundout,True,True,False,False
+678,79,3,bottom,23,2,L,R,Groundout,True,False,True,False
+847,79,3,bottom,24,3,L,R,Groundout,True,False,False,False
+1098,713,4,top,25,0,R,L,Walk,False,False,False,False
+103,713,4,top,26,1,R,L,Pop Out,True,False,False,False
+142,713,4,top,27,1,L,L,Walk,False,True,False,False
+1101,713,4,top,28,2,R,L,Flyout,True,False,True,False
+2716,713,4,top,29,3,L,L,Flyout,True,False,False,False
+17211,79,4,bottom,30,1,R,R,Strikeout,False,False,False,False
+890,79,4,bottom,31,2,R,R,Strikeout,False,False,False,False
+935,79,4,bottom,32,3,L,R,Groundout,True,False,False,False
+156,6360,5,top,33,1,R,R,Strikeout,False,False,False,False
+176,6360,5,top,34,1,R,R,Walk,False,False,False,False
+208,6360,5,top,35,1,L,R,Single,False,True,True,False
+160,6360,5,top,36,1,L,R,Single,False,True,False,True
+1098,6360,5,top,37,2,R,R,Forceout,True,True,True,False
+103,6360,5,top,38,2,R,R,Single,False,False,True,False
+142,6360,5,top,39,3,L,R,Strikeout,False,False,False,False
+815,79,5,bottom,40,1,R,R,Groundout,True,False,False,False
+1275,79,5,bottom,41,2,R,R,Groundout,True,False,False,False
+956,79,5,bottom,42,3,L,R,Strikeout,False,False,False,False
+1101,6360,6,top,43,1,R,R,Strikeout,False,False,False,False
+2716,6360,6,top,44,2,L,R,Strikeout,False,False,False,False
+156,6360,6,top,45,2,R,R,Single,False,True,False,False
+176,6360,6,top,46,2,R,R,Walk,False,False,False,False
+208,6360,6,top,47,3,L,R,Strikeout,False,False,False,False
+966,1075,6,bottom,48,1,R,L,Strikeout,False,False,False,False
+678,1075,6,bottom,49,2,L,L,Flyout,True,False,False,False
+847,1075,6,bottom,50,3,L,L,Flyout,True,False,False,False
+160,6360,7,top,51,1,L,R,Groundout,True,False,False,False
+1098,6360,7,top,52,2,R,R,Flyout,True,False,False,False
+103,6360,7,top,53,2,R,R,Walk,False,False,False,False
+142,824,7,top,54,3,L,R,Groundout,True,False,False,False
+17211,1078,7,bottom,55,1,R,R,Pop Out,True,False,False,False
+890,1078,7,bottom,56,2,R,R,Flyout,True,False,False,False
+935,1078,7,bottom,57,3,L,R,Strikeout,False,False,False,False
+1101,824,8,top,58,1,R,R,Groundout,True,False,False,False
+2716,824,8,top,59,1,L,R,Double,False,False,False,False
+156,824,8,top,60,2,R,R,Groundout,True,False,True,False
+176,824,8,top,61,3,R,R,Strikeout,False,False,False,False
+815,1120,8,bottom,62,1,R,R,Strikeout,False,False,False,False
+1275,1120,8,bottom,63,1,R,R,Hit By Pitch,False,False,False,False
+956,1120,8,bottom,64,2,L,R,Strikeout,False,True,False,False
+966,1120,8,bottom,65,3,R,R,Lineout,True,False,False,False
+208,1076,9,top,66,0,L,R,Double,False,False,False,False
+160,1076,9,top,67,1,L,R,Groundout,True,False,True,False
+1098,1076,9,top,68,1,R,R,Single,False,False,False,True
+103,1076,9,top,69,1,R,R,Walk,False,True,False,False
+142,1076,9,top,70,2,L,R,Strikeout,False,False,False,False
+1101,1076,9,top,71,3,R,R,Pop Out,True,False,False,False
+678,2898,9,bottom,72,1,L,L,Lineout,True,False,False,False
+2306,2898,9,bottom,73,2,R,L,Flyout,True,False,False,False
+17211,2898,9,bottom,74,3,R,L,Strikeout,False,False,False,False

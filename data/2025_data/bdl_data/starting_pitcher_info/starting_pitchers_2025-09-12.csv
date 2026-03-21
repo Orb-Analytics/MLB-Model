@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+51209,776352,2025-09-12,112,139,CHC,TB,Chicago Cubs,Tampa Bay Rays,571510,Matthew Boyd,,,16,669358,Shane Baz,,,11
+51205,776351,2025-09-12,120,134,WSH,PIT,Washington Nationals,Pittsburgh Pirates,695418,Brad Lord,,,61,656605,Mitch Keller,,,23
+51203,776354,2025-09-12,143,118,PHI,KC,Philadelphia Phillies,Kansas City Royals,621111,Walker Buehler,,,31,547179,Michael Lorenzen,,,24
+51199,776353,2025-09-12,141,110,TOR,BAL,Toronto Blue Jays,Baltimore Orioles,605135,Chris Bassitt,,,40,669432,Trevor Rogers,,,28
+51206,776359,2025-09-12,121,140,NYM,TEX,New York Mets,Texas Rangers,804636,Jonah Tong,,,21,594798,Jacob deGrom,,,48
+51200,776361,2025-09-12,114,145,CLE,CWS,Cleveland Guardians,Chicago White Sox,676440,Tanner Bibee,,,28,527048,Martín Pérez,,,54
+51201,776366,2025-09-12,146,116,MIA,DET,Miami Marlins,Detroit Tigers,645261,Sandy Alcantara,,,22,669373,Tarik Skubal,,,29
+51204,776363,2025-09-12,111,147,BOS,NYY,Boston Red Sox,New York Yankees,608337,Lucas Giolito,,,54,661563,Luis Gil,,,81
+51202,776360,2025-09-12,144,117,ATL,HOU,Atlanta Braves,Houston Astros,694462,Hurston Waldrep,,,64,681151,Jayden Murray,,,70
+51207,776355,2025-09-12,142,109,MIN,AZ,Minnesota Twins,Arizona Diamondbacks,641154,Pablo López,,,49,694297,Brandon Pfaadt,,,32
+51208,776356,2025-09-12,158,138,MIL,STL,Milwaukee Brewers,St. Louis Cardinals,682990,Quinn Priester,,,46,669467,Andre Pallante,,,53
+51212,776357,2025-09-12,135,115,SD,COL,San Diego Padres,Colorado Rockies,676664,JP Sears,,,,685299,Tanner Gordon,,,29
+68688,776358,2025-09-12,133,113,ATH,CIN,Athletics,Cincinnati Reds,669372,J.T. Ginn,,,70,663903,Brady Singer,,,51
+51210,776345,2025-09-12,136,108,SEA,LAA,Seattle Mariners,Los Angeles Angels,622491,Luis Castillo,,,58,579328,Yusei Kikuchi,,,16
+51213,776350,2025-09-12,137,119,SF,LAD,San Francisco Giants,Los Angeles Dodgers,434378,Justin Verlander,,,35,808967,Yoshinobu Yamamoto,,,18

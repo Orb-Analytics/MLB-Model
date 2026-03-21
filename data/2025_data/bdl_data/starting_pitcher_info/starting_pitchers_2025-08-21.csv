@@ -1,0 +1,10 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+45113,776653,2025-08-21,142,133,MIN,ATH,Minnesota Twins,Athletics,570632,José Ureña,,,54,678022,Jack Perkins,,,50
+45114,776657,2025-08-21,118,140,KC,TEX,Kansas City Royals,Texas Rangers,547179,Michael Lorenzen,,,24,571578,Patrick Corbin,,,46
+45112,776651,2025-08-21,112,158,CHC,MIL,Chicago Cubs,Milwaukee Brewers,684007,Shota Imanaga,,,18,682990,Quinn Priester,,,46
+45115,776644,2025-08-21,115,119,COL,LAD,Colorado Rockies,Los Angeles Dodgers,801403,Chase Dollander,,,32,477132,Clayton Kershaw,,,22
+45111,776650,2025-08-21,120,121,WSH,NYM,Washington Nationals,New York Mets,669022,MacKenzie Gore,,,1,640455,Sean Manaea,,,59
+45116,776642,2025-08-21,135,137,SD,SF,San Diego Padres,San Francisco Giants,656302,Dylan Cease,,,84,434378,Justin Verlander,,,35
+45110,776655,2025-08-21,110,117,BAL,HOU,Baltimore Orioles,Houston Astros,687064,Brandon Young,,,63,669920,Jason Alexander,,,54
+45109,776654,2025-08-21,147,111,NYY,BOS,New York Yankees,Boston Red Sox,661563,Luis Gil,,,81,608337,Lucas Giolito,,,54
+45383,776631,2025-08-21,139,138,TB,STL,Tampa Bay Rays,St. Louis Cardinals,671212,Joe Boyle,,,36,543243,Sonny Gray,,,54

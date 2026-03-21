@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+52538,776287,2025-09-17,134,112,PIT,CHC,Pittsburgh Pirates,Chicago Cubs,670912,Johan Oviedo,,,24,571510,Matthew Boyd,,,16
+52545,776283,2025-09-17,138,113,STL,CIN,St. Louis Cardinals,Cincinnati Reds,669467,Andre Pallante,,,53,663903,Brady Singer,,,51
+52544,776285,2025-09-17,145,110,CWS,BAL,Chicago White Sox,Baltimore Orioles,527048,Martín Pérez,,,54,669330,Tyler Wells,,,68
+52551,776279,2025-09-17,109,137,AZ,SF,Arizona Diamondbacks,San Francisco Giants,694297,Brandon Pfaadt,,,32,434378,Justin Verlander,,,35
+52537,776286,2025-09-17,120,144,WSH,ATL,Washington Nationals,Atlanta Braves,695418,Brad Lord,,,61,694462,Hurston Waldrep,,,64
+52539,776296,2025-09-17,116,114,DET,CLE,Detroit Tigers,Cleveland Guardians,656427,Jack Flaherty,,,9,668909,Gavin Williams,,,32
+52540,776299,2025-09-17,111,133,BOS,ATH,Boston Red Sox,Athletics,608337,Lucas Giolito,,,54,686930,Mason Barnett,,,63
+52542,776290,2025-09-17,139,141,TB,TOR,Tampa Bay Rays,Toronto Blue Jays,693855,Ian Seymour,,,61,592332,Kevin Gausman,,,34
+52541,776288,2025-09-17,121,135,NYM,SD,New York Mets,San Diego Padres,656849,David Peterson,,,23,601713,Nick Pivetta,,,27
+52547,776289,2025-09-17,118,136,KC,SEA,Kansas City Royals,Seattle Mariners,666142,Cole Ragans,,,55,682243,Bryce Miller,,,50
+52546,776284,2025-09-17,142,147,MIN,NYY,Minnesota Twins,New York Yankees,671737,Taj Bradley,,,26,661563,Luis Gil,,,81
+52543,776291,2025-09-17,158,108,MIL,LAA,Milwaukee Brewers,Los Angeles Angels,605540,Brandon Woodruff,,,53,667755,José Soriano,,,59
+52548,776292,2025-09-17,117,140,HOU,TEX,Houston Astros,Texas Rangers,664299,Cristian Javier,,,53,594798,Jacob deGrom,,,48
+52549,776277,2025-09-17,115,146,COL,MIA,Colorado Rockies,Miami Marlins,685326,McCade Brown,,,51,677960,Ryan Weathers,,,35
+52550,776280,2025-09-17,119,143,LAD,PHI,Los Angeles Dodgers,Philadelphia Phillies,605483,Blake Snell,,,7,666200,Jesús Luzardo,,,44

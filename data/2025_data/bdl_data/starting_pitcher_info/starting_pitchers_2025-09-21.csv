@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+53591,776238,2025-09-21,116,144,DET,ATL,Detroit Tigers,Atlanta Braves,663554,Casey Mize,,,12,675911,Spencer Strider,,,99
+53595,776234,2025-09-21,134,133,PIT,ATH,Pittsburgh Pirates,Athletics,681347,Mike Burrows,,,53,687765,Mitch Spence,,,28
+53594,776240,2025-09-21,110,147,BAL,NYY,Baltimore Orioles,New York Yankees,680694,Kyle Bradish,,,38,693645,Cam Schlittler,,,31
+53593,776239,2025-09-21,113,112,CIN,CHC,Cincinnati Reds,Chicago Cubs,671096,Andrew Abbott,,,41,592791,Jameson Taillon,,,50
+53596,776237,2025-09-21,121,120,NYM,WSH,New York Mets,Washington Nationals,640455,Sean Manaea,,,59,663623,Jake Irvin,,,27
+53602,776229,2025-09-21,118,141,KC,TOR,Kansas City Royals,Toronto Blue Jays,608379,Michael Wacha,,,52,702056,Trey Yesavage,,,39
+53597,776225,2025-09-21,142,114,MIN,CLE,Minnesota Twins,Cleveland Guardians,680573,Simeon Woods Richardson,,,24,676282,Joey Cantillo,,,54
+53600,776235,2025-09-21,145,135,CWS,SD,Chicago White Sox,San Diego Padres,680732,Sean Burke,,,59,650633,Michael King,,,34
+53599,776231,2025-09-21,138,158,STL,MIL,St. Louis Cardinals,Milwaukee Brewers,669461,Matthew Liberatore,,,52,688107,Robert Gasser,,,54
+53598,776226,2025-09-21,140,146,TEX,MIA,Texas Rangers,Miami Marlins,518876,Merrill Kelly,,,23,691587,Eury Pérez,,,39
+53603,776232,2025-09-21,115,108,COL,LAA,Colorado Rockies,Los Angeles Angels,607536,Kyle Freeland,,,21,702674,Caden Dana,,,36
+53605,776227,2025-09-21,119,137,LAD,SF,Los Angeles Dodgers,San Francisco Giants,686218,Emmet Sheehan,,,80,686790,Trevor McDonald,,,72
+53604,776230,2025-09-21,109,143,AZ,PHI,Arizona Diamondbacks,Philadelphia Phillies,593958,Eduardo Rodriguez,,,57,624133,Ranger Suarez,,,55
+53601,776228,2025-09-21,117,136,HOU,SEA,Houston Astros,Seattle Mariners,669920,Jason Alexander,,,54,669302,Logan Gilbert,,,36
+53592,776236,2025-09-21,139,111,TB,BOS,Tampa Bay Rays,Boston Red Sox,671212,Joe Boyle,,,36,813349,Connelly Early,,,71

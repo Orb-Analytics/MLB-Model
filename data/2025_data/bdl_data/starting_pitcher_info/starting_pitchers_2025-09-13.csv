@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+51535,776338,2025-09-13,112,139,CHC,TB,Chicago Cubs,Tampa Bay Rays,607067,Colin Rea,,,53,656876,Drew Rasmussen,,,57
+51525,776343,2025-09-13,141,110,TOR,BAL,Toronto Blue Jays,Baltimore Orioles,453286,Max Scherzer,,,31,608372,Tomoyuki Sugano,,,19
+51531,776336,2025-09-13,120,134,WSH,PIT,Washington Nationals,Pittsburgh Pirates,674841,Andrew Alvarez,,,54,696149,Bubba Chandler,,,57
+51532,776349,2025-09-13,121,140,NYM,TEX,New York Mets,Texas Rangers,687075,Brandon Sproat,,,40,571578,Patrick Corbin,,,46
+51527,776347,2025-09-13,146,116,MIA,DET,Miami Marlins,Detroit Tigers,676083,Janson Junk,,,26,450203,Charlie Morton,,,50
+51530,776344,2025-09-13,111,147,BOS,NYY,Boston Red Sox,New York Yankees,678394,Brayan Bello,,,66,608331,Max Fried,,,54
+51529,776342,2025-09-13,143,118,PHI,KC,Philadelphia Phillies,Kansas City Royals,592836,Taijuan Walker,,,99,686701,Ryan Bergert,,,38
+51526,776348,2025-09-13,114,145,CLE,CWS,Cleveland Guardians,Chicago White Sox,800048,Parker Messick,,,77,663436,Davis Martin,,,65
+51533,776337,2025-09-13,142,109,MIN,AZ,Minnesota Twins,Arizona Diamondbacks,657746,Joe Ryan,,,41,669194,Ryne Nelson,,,19
+51528,776346,2025-09-13,144,117,ATL,HOU,Atlanta Braves,Houston Astros,693821,Bryce Elder,,,55,686613,Hunter Brown,,,58
+51534,776339,2025-09-13,158,138,MIL,STL,Milwaukee Brewers,St. Louis Cardinals,694819,Jacob Misiorowski,,,32,543243,Sonny Gray,,,54
+51538,776341,2025-09-13,135,115,SD,COL,San Diego Padres,Colorado Rockies,656302,Dylan Cease,,,84,687134,Bradley Blalock,,,64
+51539,776328,2025-09-13,137,119,SF,LAD,San Francisco Giants,Los Angeles Dodgers,657277,Logan Webb,,,62,477132,Clayton Kershaw,,,22
+51536,776333,2025-09-13,136,108,SEA,LAA,Seattle Mariners,Los Angeles Angels,693433,Bryan Woo,,,22,815083,Mitch Farris,,,70
+68705,776340,2025-09-13,133,113,ATH,CIN,Athletics,Cincinnati Reds,622663,Luis Severino,,,40,668881,Hunter Greene,,,21

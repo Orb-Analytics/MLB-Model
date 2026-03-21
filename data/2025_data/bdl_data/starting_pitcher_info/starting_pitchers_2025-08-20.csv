@@ -1,0 +1,15 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+44717,776661,2025-08-20,134,141,PIT,TOR,Pittsburgh Pirates,Toronto Blue Jays,670912,Johan Oviedo,,,24,605135,Chris Bassitt,,,40
+44715,776662,2025-08-20,143,136,PHI,SEA,Philadelphia Phillies,Seattle Mariners,666200,Jesús Luzardo,,,44,622491,Luis Castillo,,,58
+44712,776673,2025-08-20,116,117,DET,HOU,Detroit Tigers,Houston Astros,450203,Charlie Morton,,,50,664285,Framber Valdez,,,59
+44723,776658,2025-08-20,109,114,AZ,CLE,Arizona Diamondbacks,Cleveland Guardians,694297,Brandon Pfaadt,,,32,800048,Parker Messick,,,77
+44716,776670,2025-08-20,146,138,MIA,STL,Miami Marlins,St. Louis Cardinals,645261,Sandy Alcantara,,,22,669467,Andre Pallante,,,53
+44714,776659,2025-08-20,120,121,WSH,NYM,Washington Nationals,New York Mets,695418,Brad Lord,,,61,673540,Kodai Senga,,,34
+44711,776669,2025-08-20,144,145,ATL,CWS,Atlanta Braves,Chicago White Sox,694462,Hurston Waldrep,,,64,527048,Martín Pérez,,,54
+44713,776664,2025-08-20,139,147,TB,NYY,Tampa Bay Rays,New York Yankees,656876,Drew Rasmussen,,,57,693645,Cam Schlittler,,,31
+44720,776666,2025-08-20,118,140,KC,TEX,Kansas City Royals,Texas Rangers,702070,Noah Cameron,,,65,676961,Caleb Boushley,,,70
+44719,776665,2025-08-20,142,133,MIN,ATH,Minnesota Twins,Athletics,641927,Bailey Ober,,,17,669372,J.T. Ginn,,,70
+44718,776663,2025-08-20,112,158,CHC,MIL,Chicago Cubs,Milwaukee Brewers,607067,Colin Rea,,,53,694819,Jacob Misiorowski,,,32
+44721,776660,2025-08-20,115,119,COL,LAD,Colorado Rockies,Los Angeles Dodgers,685299,Tanner Gordon,,,29,660271,Shohei Ohtani,,,17
+44722,776652,2025-08-20,108,113,LAA,CIN,Los Angeles Angels,Cincinnati Reds,579328,Yusei Kikuchi,,,16,607259,Nick Martinez,,,28
+44724,776656,2025-08-20,135,137,SD,SF,San Diego Padres,San Francisco Giants,676664,JP Sears,,,38,694738,Landen Roupp,,,65

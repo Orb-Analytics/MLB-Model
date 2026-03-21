@@ -1,0 +1,13 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+54663,776190,2025-09-25,113,134,CIN,PIT,Cincinnati Reds,Pittsburgh Pirates,666157,Nick Lodolo,,,40,677952,Braxton Ashcraft,,,67
+54664,776191,2025-09-25,110,139,BAL,TB,Baltimore Orioles,Tampa Bay Rays,700249,Cade Povich,,,37,656876,Drew Rasmussen,,,57
+54665,776183,2025-09-25,140,142,TEX,MIN,Texas Rangers,Minnesota Twins,641816,Tyler Mahle,,,51,641927,Bailey Ober,,,17
+68852,776182,2025-09-25,133,117,ATH,HOU,Athletics,Houston Astros,669372,J.T. Ginn,,,70,664285,Framber Valdez,,,59
+54670,776185,2025-09-25,109,119,AZ,LAD,Arizona Diamondbacks,Los Angeles Dodgers,656222,Jalen Beeks,,,68,808967,Yoshinobu Yamamoto,,,18
+54662,776188,2025-09-25,143,146,PHI,MIA,Philadelphia Phillies,Miami Marlins,621111,Walker Buehler,,,31,676083,Janson Junk,,,26
+54661,776189,2025-09-25,114,116,CLE,DET,Cleveland Guardians,Detroit Tigers,800048,Parker Messick,,,77,675512,Troy Melton,,,52
+54660,776184,2025-09-25,147,145,NYY,CWS,New York Yankees,Chicago White Sox,607074,Carlos Rodón,,,55,663436,Davis Martin,,,65
+54659,776186,2025-09-25,141,111,TOR,BOS,Toronto Blue Jays,Boston Red Sox,686973,Louis Varland,,,77,678394,Brayan Bello,,,66
+54666,776187,2025-09-25,112,121,CHC,NYM,Chicago Cubs,New York Mets,684007,Shota Imanaga,,,18,690997,Nolan McLean,,,26
+54669,776178,2025-09-25,108,118,LAA,KC,Los Angeles Angels,Kansas City Royals,815083,Mitch Farris,,,70,547179,Michael Lorenzen,,,24
+54667,776179,2025-09-25,136,115,SEA,COL,Seattle Mariners,Colorado Rockies,676106,Emerson Hancock,,,26,687134,Bradley Blalock,,,64

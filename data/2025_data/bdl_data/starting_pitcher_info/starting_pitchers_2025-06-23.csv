@@ -1,0 +1,10 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+27789,777394,2025-06-23,110,140,BAL,TEX,Baltimore Orioles,Texas Rangers,669432,Trevor Rogers,,,28,571578,Patrick Corbin,,,46
+27787,777389,2025-06-23,121,144,NYM,ATL,New York Mets,Atlanta Braves,621112,Paul Blackburn,,,58,680885,Spencer Schwellenbach,,,56
+27788,777390,2025-06-23,113,147,CIN,NYY,Cincinnati Reds,New York Yankees,666157,Nick Lodolo,,,40,642216,Allan Winans,,,62
+27793,777388,2025-06-23,142,136,MIN,SEA,Minnesota Twins,Seattle Mariners,641927,Bailey Ober,,,17,693433,Bryan Woo,,,22
+27790,777393,2025-06-23,145,109,CWS,AZ,Chicago White Sox,Arizona Diamondbacks,681343,Shane Smith,,,64,593958,Eduardo Rodriguez,,,57
+27792,777391,2025-06-23,158,134,MIL,PIT,Milwaukee Brewers,Pittsburgh Pirates,694477,Chad Patrick,,,39,677952,Braxton Ashcraft,,,67
+27791,777392,2025-06-23,138,112,STL,CHC,St. Louis Cardinals,Chicago Cubs,669461,Matthew Liberatore,,,52,676962,Ben Brown,,,32
+27794,777381,2025-06-23,108,111,LAA,BOS,Los Angeles Angels,Boston Red Sox,686799,Jack Kochanowicz,,,41,621111,Walker Buehler,,,0
+27795,777382,2025-06-23,135,120,SD,WSH,San Diego Padres,Washington Nationals,663568,Stephen Kolek,,,32,680730,Mitchell Parker,,,70

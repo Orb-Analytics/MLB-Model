@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+45186,776637,2025-08-22,134,115,PIT,COL,Pittsburgh Pirates,Colorado Rockies,677952,Braxton Ashcraft,,,67,622608,Antonio Senzatela,,,49
+45192,776648,2025-08-22,143,120,PHI,WSH,Philadelphia Phillies,Washington Nationals,592836,Taijuan Walker,,,99,676917,Cade Cavalli,,,24
+45187,776643,2025-08-22,110,117,BAL,HOU,Baltimore Orioles,Houston Astros,700249,Cade Povich,,,37,621121,Lance McCullers Jr.,,,43
+45185,776647,2025-08-22,147,111,NYY,BOS,New York Yankees,Boston Red Sox,608331,Max Fried,,,54,678394,Brayan Bello,,,66
+45188,776649,2025-08-22,116,118,DET,KC,Detroit Tigers,Kansas City Royals,663554,Casey Mize,,,12,686701,Ryan Bergert,,,38
+45191,776646,2025-08-22,146,141,MIA,TOR,Miami Marlins,Toronto Blue Jays,687473,Ryan Gusto,,,65,669456,Shane Bieber,,,57
+45189,776645,2025-08-22,144,121,ATL,NYM,Atlanta Braves,New York Mets,666214,Joey Wentz,,,33,690997,Nolan McLean,,,26
+45190,776633,2025-08-22,139,138,TB,STL,Tampa Bay Rays,St. Louis Cardinals,605288,Adrian Houser,,,37,571945,Miles Mikolas,,,39
+45194,776639,2025-08-22,145,142,CWS,MIN,Chicago White Sox,Minnesota Twins,650644,Aaron Civale,,,43,805673,Zebby Matthews,,,52
+45193,776641,2025-08-22,140,114,TEX,CLE,Texas Rangers,Cleveland Guardians,543135,Nathan Eovaldi,,,17,677944,Slade Cecconi,,,44
+45195,776634,2025-08-22,158,137,MIL,SF,Milwaukee Brewers,San Francisco Giants,500779,Jose Quintana,,,62,687931,Carson Whisenhunt,,,88
+45196,776640,2025-08-22,108,112,LAA,CHC,Los Angeles Angels,Chicago Cubs,542881,Tyler Anderson,,,31,665871,Javier Assad,,,
+45197,776635,2025-08-22,109,113,AZ,CIN,Arizona Diamondbacks,Cincinnati Reds,669194,Ryne Nelson,,,19,641793,Zack Littell,,,52
+45198,776636,2025-08-22,135,119,SD,LAD,San Diego Padres,Los Angeles Dodgers,506433,Yu Darvish,,,11,605483,Blake Snell,,,7
+45199,776638,2025-08-22,136,133,SEA,ATH,Seattle Mariners,Athletics,693433,Bryan Woo,,,22,806960,Luis Morales,,,58

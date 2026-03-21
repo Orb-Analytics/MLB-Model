@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+52781,776267,2025-09-19,113,112,CIN,CHC,Cincinnati Reds,Chicago Cubs,666157,Nick Lodolo,,,40,684007,Shota Imanaga,,,18
+52783,776266,2025-09-19,134,133,PIT,ATH,Pittsburgh Pirates,Athletics,656605,Mitch Keller,,,23,622663,Luis Severino,,,40
+52779,776268,2025-09-19,116,144,DET,ATL,Detroit Tigers,Atlanta Braves,450203,Charlie Morton,,,50,693821,Bryce Elder,,,55
+52782,776273,2025-09-19,110,147,BAL,NYY,Baltimore Orioles,New York Yankees,669432,Trevor Rogers,,,28,701542,Will Warren,,,98
+52784,776259,2025-09-19,121,120,NYM,WSH,New York Mets,Washington Nationals,687075,Brandon Sproat,,,40,674841,Andrew Alvarez,,,54
+52780,776261,2025-09-19,139,111,TB,BOS,Tampa Bay Rays,Boston Red Sox,656876,Drew Rasmussen,,,57,676979,Garrett Crochet,,,35
+52790,776260,2025-09-19,118,141,KC,TOR,Kansas City Royals,Toronto Blue Jays,547179,Michael Lorenzen,,,24,453286,Max Scherzer,,,31
+52788,776264,2025-09-19,145,135,CWS,SD,Chicago White Sox,San Diego Padres,663436,Davis Martin,,,65,656302,Dylan Cease,,,84
+52786,776251,2025-09-19,140,146,TEX,MIA,Texas Rangers,Miami Marlins,641816,Tyler Mahle,,,51,676083,Janson Junk,,,26
+52791,776253,2025-09-19,115,108,COL,LAA,Colorado Rockies,Los Angeles Angels,687134,Bradley Blalock,,,64,815083,Mitch Farris,,,70
+52789,776262,2025-09-19,117,136,HOU,SEA,Houston Astros,Seattle Mariners,686613,Hunter Brown,,,58,693433,Bryan Woo,,,22
+52785,776263,2025-09-19,142,114,MIN,CLE,Minnesota Twins,Cleveland Guardians,641154,Pablo López,,,49,800048,Parker Messick,,,77
+52787,776265,2025-09-19,138,158,STL,MIL,St. Louis Cardinals,Milwaukee Brewers,543243,Sonny Gray,,,54,694819,Jacob Misiorowski,,,32
+52792,776255,2025-09-19,109,143,AZ,PHI,Arizona Diamondbacks,Philadelphia Phillies,669194,Ryne Nelson,,,19,592836,Taijuan Walker,,,99
+52793,776256,2025-09-19,119,137,LAD,SF,Los Angeles Dodgers,San Francisco Giants,477132,Clayton Kershaw,,,22,592662,Robbie Ray,,,38

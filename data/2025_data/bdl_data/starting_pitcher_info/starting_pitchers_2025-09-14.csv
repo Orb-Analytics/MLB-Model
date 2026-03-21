@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+51913,776320,2025-09-14,120,134,WSH,PIT,Washington Nationals,Pittsburgh Pirates,676917,Cade Cavalli,,,24,681347,Mike Burrows,,,53
+51911,776334,2025-09-14,143,118,PHI,KC,Philadelphia Phillies,Kansas City Royals,605400,Aaron Nola,,,27,702070,Noah Cameron,,,65
+51910,776329,2025-09-14,144,117,ATL,HOU,Atlanta Braves,Houston Astros,666214,Joey Wentz,,,33,664285,Framber Valdez,,,59
+51907,776322,2025-09-14,141,110,TOR,BAL,Toronto Blue Jays,Baltimore Orioles,669456,Shane Bieber,,,57,544150,Albert Suárez,,,49
+51914,776335,2025-09-14,121,140,NYM,TEX,New York Mets,Texas Rangers,690997,Nolan McLean,,,26,656641,Jacob Latz,,,67
+51908,776331,2025-09-14,114,145,CLE,CWS,Cleveland Guardians,Chicago White Sox,677944,Slade Cecconi,,,44,672782,Yoendrys Gómez,,,94
+51909,776332,2025-09-14,146,116,MIA,DET,Miami Marlins,Detroit Tigers,800049,Adam Mazur,,,60,672456,Keider Montero,,,54
+51915,776324,2025-09-14,142,109,MIN,AZ,Minnesota Twins,Arizona Diamondbacks,641927,Bailey Ober,,,17,622503,Nabil Crismatt,,,61
+51916,776326,2025-09-14,158,138,MIL,STL,Milwaukee Brewers,St. Louis Cardinals,500779,Jose Quintana,,,62,571945,Miles Mikolas,,,39
+51917,776321,2025-09-14,112,139,CHC,TB,Chicago Cubs,Tampa Bay Rays,684007,Shota Imanaga,,,18,605288,Adrian Houser,,,37
+68718,776327,2025-09-14,133,113,ATH,CIN,Athletics,Cincinnati Reds,806960,Luis Morales,,,58,666157,Nick Lodolo,,,40
+51921,776325,2025-09-14,137,119,SF,LAD,San Francisco Giants,Los Angeles Dodgers,592662,Robbie Ray,,,38,607192,Tyler Glasnow,,,31
+51920,776323,2025-09-14,135,115,SD,COL,San Diego Padres,Colorado Rockies,506433,Yu Darvish,,,11,608566,Germán Márquez,,,48
+51918,776317,2025-09-14,136,108,SEA,LAA,Seattle Mariners,Los Angeles Angels,669923,George Kirby,,,68,543294,Kyle Hendricks,,,28
+51912,776330,2025-09-14,111,147,BOS,NYY,Boston Red Sox,New York Yankees,676979,Garrett Crochet,,,35,701542,Will Warren,,,98

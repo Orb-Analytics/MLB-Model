@@ -1,0 +1,11 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+8648,778291,2025-04-17,146,109,MIA,AZ,Miami Marlins,Arizona Diamondbacks,665795,Edward Cabrera,,,27,593958,Eduardo Rodriguez,,,57
+8655,778280,2025-04-17,134,120,PIT,WSH,Pittsburgh Pirates,Washington Nationals,571760,Andrew Heaney,,,45,592866,Trevor Williams,,,32
+8652,778285,2025-04-17,113,136,CIN,SEA,Cincinnati Reds,Seattle Mariners,663903,Brady Singer,,,51,676106,Emerson Hancock,,,26
+8657,778283,2025-04-17,145,133,CWS,ATH,Chicago White Sox,Athletics,663436,Davis Martin,,,65,676664,JP Sears,,,38
+8653,778279,2025-04-17,143,137,PHI,SF,Philadelphia Phillies,San Francisco Giants,650911,Cristopher Sánchez,,,61,663855,Jordan Hicks,,,12
+8649,778292,2025-04-17,110,114,BAL,CLE,Baltimore Orioles,Cleveland Guardians,608372,Tomoyuki Sugano,,,19,676440,Tanner Bibee,,,28
+8650,778286,2025-04-17,116,118,DET,KC,Detroit Tigers,Kansas City Royals,681857,Reese Olson,,,45,547179,Michael Lorenzen,,,24
+8651,778282,2025-04-17,139,147,TB,NYY,Tampa Bay Rays,New York Yankees,671737,Taj Bradley,,,45,701542,Will Warren,,,98
+8654,778278,2025-04-17,121,138,NYM,STL,New York Mets,St. Louis Cardinals,656288,Griffin Canning,,,46,669467,Andre Pallante,,,53
+8656,778281,2025-04-17,140,108,TEX,LAA,Texas Rangers,Los Angeles Angels,677958,Kumar Rocker,,,80,686799,Jack Kochanowicz,,,41

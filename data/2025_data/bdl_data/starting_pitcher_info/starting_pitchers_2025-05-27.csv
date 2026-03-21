@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+20076,777753,2025-05-27,114,119,CLE,LAD,Cleveland Guardians,Los Angeles Dodgers,676440,Tanner Bibee,,,28,669160,Dustin May,,,85
+20078,777754,2025-05-27,110,138,BAL,STL,Baltimore Orioles,St. Louis Cardinals,608372,Tomoyuki Sugano,,,19,669467,Andre Pallante,,,53
+20077,777755,2025-05-27,116,137,DET,SF,Detroit Tigers,San Francisco Giants,656427,Jack Flaherty,,,9,657277,Logan Webb,,,62
+20074,777748,2025-05-27,143,144,PHI,ATL,Philadelphia Phillies,Atlanta Braves,624133,Ranger Suarez,,,55,675911,Spencer Strider,,,99
+20083,777746,2025-05-27,139,142,TB,MIN,Tampa Bay Rays,Minnesota Twins,671737,Taj Bradley,,,45,657746,Joe Ryan,,,41
+20075,777749,2025-05-27,121,145,NYM,CWS,New York Mets,Chicago White Sox,656731,Tylor Megill,,,38,686563,Jonathan Cannon,,,48
+20080,777750,2025-05-27,118,113,KC,CIN,Kansas City Royals,Cincinnati Reds,663738,Daniel Lynch IV,,,41,663903,Brady Singer,,,51
+20079,777747,2025-05-27,158,111,MIL,BOS,Milwaukee Brewers,Boston Red Sox,650644,Aaron Civale,,,32,690916,Richard Fitts,,,80
+20081,777751,2025-05-27,112,115,CHC,COL,Chicago Cubs,Colorado Rockies,690990,Cade Horton,,,22,608566,Germán Márquez,,,48
+20084,777741,2025-05-27,140,141,TEX,TOR,Texas Rangers,Toronto Blue Jays,543135,Nathan Eovaldi,,,17,670102,Bowden Francis,,,44
+20082,777752,2025-05-27,117,133,HOU,ATH,Houston Astros,Athletics,686613,Hunter Brown,,,58,676664,JP Sears,,,38
+20086,777745,2025-05-27,108,147,LAA,NYY,Los Angeles Angels,New York Yankees,542881,Tyler Anderson,,,31,607074,Carlos Rodón,,,55
+20087,777744,2025-05-27,109,134,AZ,PIT,Arizona Diamondbacks,Pittsburgh Pirates,669203,Corbin Burnes,,,39,681347,Mike Burrows,,,53
+20088,777743,2025-05-27,136,120,SEA,WSH,Seattle Mariners,Washington Nationals,688138,Logan Evans,,,73,680730,Mitchell Parker,,,70
+20085,777742,2025-05-27,135,146,SD,MIA,San Diego Padres,Miami Marlins,663568,Stephen Kolek,,,32,676974,Max Meyer,,,23

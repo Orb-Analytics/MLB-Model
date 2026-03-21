@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+8469,778297,2025-04-16,141,144,TOR,ATL,Toronto Blue Jays,Atlanta Braves,605135,Chris Bassitt,,,40,675911,Spencer Strider,,,99
+8479,778299,2025-04-16,142,121,MIN,NYM,Minnesota Twins,New York Mets,701581,David Festa,,,58,623211,Huascar Brazobán,,,43
+8477,778295,2025-04-16,158,116,MIL,DET,Milwaukee Brewers,Detroit Tigers,500779,Jose Quintana,,,62,672456,Keider Montero,,,54
+8478,778290,2025-04-16,138,117,STL,HOU,St. Louis Cardinals,Houston Astros,571927,Steven Matz,,,32,669854,Ronel Blanco,,,56
+8481,778288,2025-04-16,135,112,SD,CHC,San Diego Padres,Chicago Cubs,601713,Nick Pivetta,,,27,571510,Matthew Boyd,,,16
+8471,778301,2025-04-16,110,114,BAL,CLE,Baltimore Orioles,Cleveland Guardians,665152,Dean Kremer,,,64,668909,Gavin Williams,,,32
+8475,778293,2025-04-16,134,120,PIT,WSH,Pittsburgh Pirates,Washington Nationals,663559,Bailey Falter,,,6,680730,Mitchell Parker,,,70
+8473,778304,2025-04-16,113,136,CIN,SEA,Cincinnati Reds,Seattle Mariners,607259,Nick Martinez,,,28,682243,Bryce Miller,,,50
+8468,778303,2025-04-16,146,109,MIA,AZ,Miami Marlins,Arizona Diamondbacks,676974,Max Meyer,,,23,694297,Brandon Pfaadt,,,32
+8474,778296,2025-04-16,143,137,PHI,SF,Philadelphia Phillies,San Francisco Giants,605400,Aaron Nola,,,27,592662,Robbie Ray,,,38
+8470,778298,2025-04-16,139,111,TB,BOS,Tampa Bay Rays,Boston Red Sox,641793,Zack Littell,,,52,656794,Sean Newcomb,,,19
+8472,778300,2025-04-16,147,118,NYY,KC,New York Yankees,Kansas City Royals,657376,Clarke Schmidt,,,36,663460,Kris Bubic,,,50
+8480,778294,2025-04-16,145,133,CWS,ATH,Chicago White Sox,Athletics,686563,Jonathan Cannon,,,48,674370,Osvaldo Bido,,,45
+8476,778289,2025-04-16,140,108,TEX,LAA,Texas Rangers,Los Angeles Angels,571578,Patrick Corbin,,,46,667755,José Soriano,,,59
+8482,778287,2025-04-16,119,115,LAD,COL,Los Angeles Dodgers,Colorado Rockies,676272,Bobby Miller,,,,608566,Germán Márquez,,,48

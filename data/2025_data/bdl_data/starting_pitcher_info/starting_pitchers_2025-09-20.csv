@@ -1,0 +1,18 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+53231,776258,2025-09-20,116,144,DET,ATL,Detroit Tigers,Atlanta Braves,672456,Keider Montero,,,54,666214,Joey Wentz,,,33
+53237,777839,2025-09-20,142,114,MIN,CLE,Minnesota Twins,Cleveland Guardians,657746,Joe Ryan,,,41,677944,Slade Cecconi,,,44
+1591055,776243,2025-09-20,142,114,MIN,CLE,Minnesota Twins,Cleveland Guardians,641927,Bailey Ober,,,17,671106,Logan Allen,,,26
+53236,776252,2025-09-20,121,120,NYM,WSH,New York Mets,Washington Nationals,690997,Nolan McLean,,,26,676917,Cade Cavalli,,,24
+53233,776254,2025-09-20,113,112,CIN,CHC,Cincinnati Reds,Chicago Cubs,641793,Zack Littell,,,52,665871,Javier Assad,,,72
+53235,776249,2025-09-20,134,133,PIT,ATH,Pittsburgh Pirates,Athletics,696149,Bubba Chandler,,,57,806960,Luis Morales,,,58
+53232,776247,2025-09-20,139,111,TB,BOS,Tampa Bay Rays,Boston Red Sox,605288,Adrian Houser,,,37,690986,Kyle Harrison,,,38
+53238,776242,2025-09-20,140,146,TEX,MIA,Texas Rangers,Miami Marlins,683004,Jack Leiter,,,35,800049,Adam Mazur,,,60
+53234,776257,2025-09-20,110,147,BAL,NYY,Baltimore Orioles,New York Yankees,608372,Tomoyuki Sugano,,,19,607074,Carlos Rodón,,,55
+53241,776248,2025-09-20,117,136,HOU,SEA,Houston Astros,Seattle Mariners,664285,Framber Valdez,,,59,669923,George Kirby,,,68
+53242,776245,2025-09-20,118,141,KC,TOR,Kansas City Royals,Toronto Blue Jays,702070,Noah Cameron,,,65,669456,Shane Bieber,,,57
+53240,776250,2025-09-20,145,135,CWS,SD,Chicago White Sox,San Diego Padres,672782,Yoendrys Gómez,,,94,506433,Yu Darvish,,,11
+53239,776244,2025-09-20,138,158,STL,MIL,St. Louis Cardinals,Milwaukee Brewers,571945,Miles Mikolas,,,39,694477,Chad Patrick,,,39
+53243,776241,2025-09-20,115,108,COL,LAA,Colorado Rockies,Los Angeles Angels,608566,Germán Márquez,,,48,543294,Kyle Hendricks,,,28
+53244,776246,2025-09-20,109,143,AZ,PHI,Arizona Diamondbacks,Philadelphia Phillies,668678,Zac Gallen,,,23,605400,Aaron Nola,,,27
+53245,776233,2025-09-20,119,137,LAD,SF,Los Angeles Dodgers,San Francisco Giants,607192,Tyler Glasnow,,,31,678906,Kai-Wei Teng,,,66
+53237,777839,2025-09-20,142,114,MIN,CLE,Minnesota Twins,Cleveland Guardians,657746,Joe Ryan,,,41,677944,Slade Cecconi,,,44

@@ -1,0 +1,15 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+13272,778074,2025-05-03,147,139,NYY,TB,New York Yankees,Tampa Bay Rays,642232,Ryan Yarbrough,,,33,641793,Zack Littell,,,52
+13275,778066,2025-05-03,145,117,CWS,HOU,Chicago White Sox,Houston Astros,663436,Davis Martin,,,65,686613,Hunter Brown,,,58
+13266,778064,2025-05-03,141,114,TOR,CLE,Toronto Blue Jays,Cleveland Guardians,592332,Kevin Gausman,,,34,668909,Gavin Williams,,,32
+13271,778065,2025-05-03,134,135,PIT,SD,Pittsburgh Pirates,San Diego Padres,663559,Bailey Falter,,,6,681190,Randy Vásquez,,,98
+13278,778069,2025-05-03,137,115,SF,COL,San Francisco Giants,Colorado Rockies,663855,Jordan Hicks,,,12,687134,Bradley Blalock,,,64
+13269,778073,2025-05-03,111,142,BOS,MIN,Boston Red Sox,Minnesota Twins,690928,Hunter Dobbins,,,73,641927,Bailey Ober,,,17
+13270,778075,2025-05-03,146,133,MIA,ATH,Miami Marlins,Athletics,676974,Max Meyer,,,23,674370,Osvaldo Bido,,,45
+13265,778078,2025-05-03,143,109,PHI,AZ,Philadelphia Phillies,Arizona Diamondbacks,605400,Aaron Nola,,,27,694297,Brandon Pfaadt,,,32
+13273,778077,2025-05-03,113,120,CIN,WSH,Cincinnati Reds,Washington Nationals,666157,Nick Lodolo,,,40,592866,Trevor Williams,,,32
+13277,778070,2025-05-03,140,136,TEX,SEA,Texas Rangers,Seattle Mariners,571578,Patrick Corbin,,,46,622491,Luis Castillo,,,58
+13274,778071,2025-05-03,158,112,MIL,CHC,Milwaukee Brewers,Chicago Cubs,500779,Jose Quintana,,,62,592791,Jameson Taillon,,,50
+13267,778072,2025-05-03,110,118,BAL,KC,Baltimore Orioles,Kansas City Royals,608372,Tomoyuki Sugano,,,19,663460,Kris Bubic,,,50
+13268,778076,2025-05-03,144,119,ATL,LAD,Atlanta Braves,Los Angeles Dodgers,680885,Spencer Schwellenbach,,,56,808963,Roki Sasaki,,,11
+13279,778067,2025-05-03,108,116,LAA,DET,Los Angeles Angels,Detroit Tigers,543294,Kyle Hendricks,,,28,656427,Jack Flaherty,,,9

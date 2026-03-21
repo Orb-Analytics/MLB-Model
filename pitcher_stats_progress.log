@@ -1,0 +1,3023 @@
+nohup: ignoring input
+Found 184 pitcher info files
+
+Processing 2025-03-18: 1 games
+  Game 778563: LAD @ CHC ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-03-18.csv
+
+Processing 2025-03-19: 1 games
+  Game 778564: LAD @ CHC ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-03-19.csv
+
+Processing 2025-03-27: 14 games
+  Game 778557: MIL @ NYY ✓
+  Game 778556: BAL @ TOR ✓
+  Game 778553: BOS @ TEX ✓
+  Game 778555: PHI @ WSH ✓
+  Game 778558: CLE @ KC ✓
+  Game 778559: NYM @ HOU ✓
+  Game 778561: SF @ CIN ✓
+  Game 778545: ATL @ SD ✓
+  Game 778554: LAA @ CWS ✓
+  Game 778562: PIT @ MIA ✓
+  Game 778551: MIN @ STL ✓
+  Game 778546: DET @ LAD ✓
+  Game 778552: CHC @ AZ ✓
+  Game 778547: ATH @ SEA ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-03-27.csv
+
+Processing 2025-03-28: 9 games
+  Game 778560: COL @ TB ✓
+  Game 778549: BAL @ TOR ✓
+  Game 778548: PIT @ MIA ✓
+  Game 778550: BOS @ TEX ✓
+  Game 778518: NYM @ HOU ✓
+  Game 778543: CHC @ AZ ✓
+  Game 778541: ATH @ SEA ✓
+  Game 778542: ATL @ SD ✓
+  Game 778544: DET @ LAD ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-03-28.csv
+
+Processing 2025-03-29: 15 games
+  Game 778538: MIL @ NYY ✓
+  Game 778534: LAA @ CWS ✓
+  Game 778528: MIN @ STL ✓
+  Game 778536: BAL @ TOR ✓
+  Game 778535: PHI @ WSH ✓
+  Game 778529: CLE @ KC ✓
+  Game 778540: SF @ CIN ✓
+  Game 778537: COL @ TB ✓
+  Game 778539: PIT @ MIA ✓
+  Game 778531: BOS @ TEX ✓
+  Game 778530: NYM @ HOU ✓
+  Game 778520: ATL @ SD ✓
+  Game 778532: CHC @ AZ ✓
+  Game 778533: DET @ LAD ✓
+  Game 778521: ATH @ SEA ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-03-29.csv
+
+Processing 2025-03-30: 13 games
+  Game 778526: PHI @ WSH ✓
+  Game 778523: MIL @ NYY ✓
+  Game 778525: BAL @ TOR ✓
+  Game 778522: SF @ CIN ✓
+  Game 778524: COL @ TB ✓
+  Game 778519: PIT @ MIA ✓
+  Game 778510: CLE @ KC ✓
+  Game 778527: LAA @ CWS ✓
+  Game 778517: MIN @ STL ✓
+  Game 778516: BOS @ TEX ✓
+  Game 778515: CHC @ AZ ✓
+  Game 778513: ATH @ SEA ✓
+  Game 778514: ATL @ SD ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-03-30.csv
+
+Processing 2025-03-31: 14 games
+  Game 778506: MIN @ CWS ✓
+  Game 778504: KC @ MIL ✓
+  Game 778512: BOS @ BAL ✓
+  Game 778502: COL @ PHI ✓
+  Game 778511: TEX @ CIN ✓
+  Game 778509: NYM @ MIA ✓
+  Game 778508: PIT @ TB ✓
+  Game 778507: WSH @ TOR ✓
+  Game 778503: LAA @ STL ✓
+  Game 778505: SF @ HOU ✓
+  Game 778499: CLE @ SD ✓
+  Game 778496: DET @ SEA ✓
+  Game 778501: CHC @ ATH ✓
+  Game 778500: ATL @ LAD ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-03-31.csv
+
+Processing 2025-04-01: 13 games
+  Game 778498: TEX @ CIN ✓
+  Game 778497: NYM @ MIA ✓
+  Game 778493: PIT @ TB ✓
+  Game 778492: AZ @ NYY ✓
+  Game 778491: WSH @ TOR ✓
+  Game 778490: MIN @ CWS ✓
+  Game 778488: KC @ MIL ✓
+  Game 778495: LAA @ STL ✓
+  Game 778489: SF @ HOU ✓
+  Game 778485: CLE @ SD ✓
+  Game 778486: DET @ SEA ✓
+  Game 778494: CHC @ ATH ✓
+  Game 778487: ATL @ LAD ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-04-01.csv
+
+Processing 2025-04-02: 15 games
+  Game 778480: TEX @ CIN ✓
+  Game 778479: PIT @ TB ✓
+  Game 778477: KC @ MIL ✓
+  Game 778473: LAA @ STL ✓
+  Game 778474: MIN @ CWS ✓
+  Game 778478: WSH @ TOR ✓
+  Game 778471: CHC @ ATH ✓
+  Game 778476: CLE @ SD ✓
+  Game 778469: DET @ SEA ✓
+  Game 778475: SF @ HOU ✓
+  Game 778481: NYM @ MIA ✓
+  Game 778483: BOS @ BAL ✓
+  Game 778482: COL @ PHI ✓
+  Game 778484: AZ @ NYY ✓
+  Game 778472: ATL @ LAD ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-04-02.csv
+
+Processing 2025-04-03: 5 games
+  Game 778470: BOS @ BAL ✓
+  Game 778467: COL @ PHI ✓
+  Game 778462: HOU @ MIN ✓
+  Game 778466: AZ @ NYY ✓
+  Game 778468: CIN @ MIL ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-04-03.csv
+
+Processing 2025-04-04: 14 games
+  Game 778458: CWS @ DET ✓
+  Game 778463: STL @ BOS ✓
+  Game 778460: SD @ CHC ✓
+  Game 778465: TOR @ NYM ✓
+  Game 778456: ATH @ COL ✓
+  Game 778461: NYY @ PIT ✓
+  Game 778444: SEA @ SF ✓
+  Game 778457: AZ @ WSH ✓
+  Game 778459: LAD @ PHI ✓
+  Game 778464: MIA @ ATL ✓
+  Game 778455: BAL @ KC ✓
+  Game 778454: TB @ TEX ✓
+  Game 778453: CIN @ MIL ✓
+  Game 778447: CLE @ LAA ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-04-04.csv
+
+Processing 2025-04-05: 14 games
+  Game 778445: CWS @ DET ✓
+  Game 778440: HOU @ MIN ✓
+  Game 778450: SD @ CHC ✓
+  Game 778452: AZ @ WSH ✓
+  Game 778448: LAD @ PHI ✓
+  Game 778449: NYY @ PIT ✓
+  Game 778441: BAL @ KC ✓
+  Game 778438: TB @ TEX ✓
+  Game 778446: TOR @ NYM ✓
+  Game 778439: CIN @ MIL ✓
+  Game 778451: MIA @ ATL ✓
+  Game 778442: ATH @ COL ✓
+  Game 778436: SEA @ SF ✓
+  Game 778437: CLE @ LAA ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-04-05.csv
+
+Processing 2025-04-06: 16 games
+  Game 778429: AZ @ WSH ✓
+  Game 778443: STL @ BOS ✓
+  Game 778432: STL @ BOS ✓
+  Game 778434: LAD @ PHI ✓
+  Game 778428: NYY @ PIT ✓
+  Game 778435: TOR @ NYM ✓
+  Game 778433: CWS @ DET ✓
+  Game 778422: BAL @ KC ✓
+  Game 778419: HOU @ MIN ✓
+  Game 778421: CIN @ MIL ✓
+  Game 778430: SD @ CHC ✓
+  Game 778420: TB @ TEX ✓
+  Game 778423: ATH @ COL ✓
+  Game 778427: SEA @ SF ✓
+  Game 778425: CLE @ LAA ✓
+  Game 778443: STL @ BOS ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-04-06.csv
+
+Processing 2025-04-07: 11 games
+  Game 778424: NYY @ DET ✓
+  Game 778415: STL @ PIT ✓
+  Game 778418: LAD @ WSH ✓
+  Game 778426: TOR @ BOS ✓
+  Game 778416: MIA @ NYM ✓
+  Game 778411: TEX @ CHC ✓
+  Game 778412: MIN @ KC ✓
+  Game 778413: BAL @ AZ ✓
+  Game 778405: HOU @ SEA ✓
+  Game 778410: CIN @ SF ✓
+  Game 778414: SD @ ATH ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-04-07.csv
+
+Processing 2025-04-08: 15 games
+  Game 778403: NYY @ DET ✓
+  Game 778402: CWS @ CLE ✓
+  Game 778407: MIA @ NYM ✓
+  Game 778408: STL @ PIT ✓
+  Game 778409: LAD @ WSH ✓
+  Game 778404: TOR @ BOS ✓
+  Game 778417: LAA @ TB ✓
+  Game 778406: PHI @ ATL ✓
+  Game 778401: TEX @ CHC ✓
+  Game 778400: MIN @ KC ✓
+  Game 778394: MIL @ COL ✓
+  Game 778396: BAL @ AZ ✓
+  Game 778398: HOU @ SEA ✓
+  Game 778397: CIN @ SF ✓
+  Game 778395: SD @ ATH ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-04-08.csv
+
+Processing 2025-04-09: 15 games
+  Game 778389: STL @ PIT ✓
+  Game 778390: MIA @ NYM ✓
+  Game 778387: NYY @ DET ✓
+  Game 778385: TEX @ CHC ✓
+  Game 778381: SD @ ATH ✓
+  Game 778380: BAL @ AZ ✓
+  Game 778376: CIN @ SF ✓
+  Game 778392: LAD @ WSH ✓
+  Game 778383: HOU @ SEA ✓
+  Game 778391: CWS @ CLE ✓
+  Game 778386: TOR @ BOS ✓
+  Game 778399: LAA @ TB ✓
+  Game 778393: PHI @ ATL ✓
+  Game 778388: MIN @ KC ✓
+  Game 778379: MIL @ COL ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-04-09.csv
+
+Processing 2025-04-10: 6 games
+  Game 778382: LAA @ TB ✓
+  Game 778378: CWS @ CLE ✓
+  Game 778373: MIN @ KC ✓
+  Game 778371: MIL @ COL ✓
+  Game 778377: TOR @ BOS ✓
+  Game 778384: PHI @ ATL ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-04-10.csv
+
+Processing 2025-04-11: 14 games
+  Game 778375: KC @ CLE ✓
+  Game 778374: PIT @ CIN ✓
+  Game 778367: ATL @ TB ✓
+  Game 778370: SF @ NYY ✓
+  Game 778369: WSH @ MIA ✓
+  Game 778366: BOS @ CWS ✓
+  Game 778368: LAA @ HOU ✓
+  Game 778363: DET @ MIN ✓
+  Game 778365: PHI @ STL ✓
+  Game 778361: COL @ SD ✓
+  Game 778360: TEX @ SEA ✓
+  Game 778364: MIL @ AZ ✓
+  Game 778358: NYM @ ATH ✓
+  Game 778356: CHC @ LAD ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-04-11.csv
+
+Processing 2025-04-12: 15 games
+  Game 778348: DET @ MIN ✓
+  Game 778347: PHI @ STL ✓
+  Game 778355: SF @ NYY ✓
+  Game 778346: NYM @ ATH ✓
+  Game 778362: TOR @ BAL ✓
+  Game 778353: ATL @ TB ✓
+  Game 778349: BOS @ CWS ✓
+  Game 778354: WSH @ MIA ✓
+  Game 778359: KC @ CLE ✓
+  Game 778357: PIT @ CIN ✓
+  Game 778351: LAA @ HOU ✓
+  Game 778350: MIL @ AZ ✓
+  Game 778352: COL @ SD ✓
+  Game 778345: CHC @ LAD ✓
+  Game 778341: TEX @ SEA ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-04-12.csv
+
+Processing 2025-04-13: 15 games
+  Game 778344: TOR @ BAL ✓
+  Game 778339: SF @ NYY ✓
+  Game 778342: KC @ CLE ✓
+  Game 778343: PIT @ CIN ✓
+  Game 778340: ATL @ TB ✓
+  Game 778337: WSH @ MIA ✓
+  Game 778329: LAA @ HOU ✓
+  Game 778335: DET @ MIN ✓
+  Game 778338: BOS @ CWS ✓
+  Game 778336: PHI @ STL ✓
+  Game 778333: NYM @ ATH ✓
+  Game 778330: COL @ SD ✓
+  Game 778334: TEX @ SEA ✓
+  Game 778332: MIL @ AZ ✓
+  Game 778331: CHC @ LAD ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-04-13.csv
+
+Processing 2025-04-14: 10 games
+  Game 778321: WSH @ PIT ✓
+  Game 778320: SF @ PHI ✓
+  Game 778328: BOS @ TB ✓
+  Game 778327: KC @ NYY ✓
+  Game 778322: ATL @ TOR ✓
+  Game 778324: NYM @ MIN ✓
+  Game 778323: DET @ MIL ✓
+  Game 778325: HOU @ STL ✓
+  Game 778315: CHC @ SD ✓
+  Game 778326: COL @ LAD ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-04-14.csv
+
+Processing 2025-04-15: 15 games
+  Game 778314: WSH @ PIT ✓
+  Game 778316: SEA @ CIN ✓
+  Game 778318: AZ @ MIA ✓
+  Game 778313: SF @ PHI ✓
+  Game 778317: CLE @ BAL ✓
+  Game 778319: BOS @ TB ✓
+  Game 778312: KC @ NYY ✓
+  Game 778311: ATL @ TOR ✓
+  Game 778307: NYM @ MIN ✓
+  Game 778309: ATH @ CWS ✓
+  Game 778310: DET @ MIL ✓
+  Game 778308: HOU @ STL ✓
+  Game 778306: LAA @ TEX ✓
+  Game 778305: CHC @ SD ✓
+  Game 778302: COL @ LAD ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-04-15.csv
+
+Processing 2025-04-16: 15 games
+  Game 778297: ATL @ TOR ✓
+  Game 778299: NYM @ MIN ✓
+  Game 778295: DET @ MIL ✓
+  Game 778290: HOU @ STL ✓
+  Game 778288: CHC @ SD ✓
+  Game 778301: CLE @ BAL ✓
+  Game 778293: WSH @ PIT ✓
+  Game 778304: SEA @ CIN ✓
+  Game 778303: AZ @ MIA ✓
+  Game 778296: SF @ PHI ✓
+  Game 778298: BOS @ TB ✓
+  Game 778300: KC @ NYY ✓
+  Game 778294: ATH @ CWS ✓
+  Game 778289: LAA @ TEX ✓
+  Game 778287: COL @ LAD ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-04-16.csv
+
+Processing 2025-04-17: 10 games
+  Game 778291: AZ @ MIA ✓
+  Game 778280: WSH @ PIT ✓
+  Game 778285: SEA @ CIN ✓
+  Game 778283: ATH @ CWS ✓
+  Game 778279: SF @ PHI ✓
+  Game 778292: CLE @ BAL ✓
+  Game 778286: KC @ DET ✓
+  Game 778282: NYY @ TB ✓
+  Game 778278: STL @ NYM ✓
+  Game 778281: LAA @ TEX ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-04-17.csv
+
+Processing 2025-04-18: 14 games
+  Game 778268: AZ @ CHC ✓
+  Game 778277: KC @ DET ✓
+  Game 778271: CLE @ PIT ✓
+  Game 778274: MIA @ PHI ✓
+  Game 778276: CIN @ BAL ✓
+  Game 778272: NYY @ TB ✓
+  Game 778273: SEA @ TOR ✓
+  Game 778270: STL @ NYM ✓
+  Game 778275: CWS @ BOS ✓
+  Game 778284: MIN @ ATL ✓
+  Game 778263: LAD @ TEX ✓
+  Game 778269: SD @ HOU ✓
+  Game 778261: ATH @ MIL ✓
+  Game 778260: SF @ LAA ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-04-18.csv
+
+Processing 2025-04-19: 15 games
+  Game 778252: MIA @ PHI ✓
+  Game 778265: KC @ DET ✓
+  Game 778257: AZ @ CHC ✓
+  Game 778258: SEA @ TOR ✓
+  Game 778262: CIN @ BAL ✓
+  Game 778254: CLE @ PIT ✓
+  Game 778256: STL @ NYM ✓
+  Game 778251: LAD @ TEX ✓
+  Game 778247: WSH @ COL ✓
+  Game 778264: CWS @ BOS ✓
+  Game 778255: NYY @ TB ✓
+  Game 778259: SD @ HOU ✓
+  Game 778253: ATH @ MIL ✓
+  Game 778267: MIN @ ATL ✓
+  Game 778243: SF @ LAA ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-04-19.csv
+
+Processing 2025-04-20: 17 games
+  Game 778266: WSH @ COL ✓
+  Game 778250: CIN @ BAL ✓
+  Game 778242: CLE @ PIT ✓
+  Game 778249: MIN @ ATL ✓
+  Game 778245: CWS @ BOS ✓
+  Game 778248: MIA @ PHI ✓
+  Game 778241: SEA @ TOR ✓
+  Game 778246: KC @ DET ✓
+  Game 778244: STL @ NYM ✓
+  Game 778240: NYY @ TB ✓
+  Game 778239: ATH @ MIL ✓
+  Game 778236: AZ @ CHC ✓
+  Game 778234: LAD @ TEX ✓
+  Game 778235: WSH @ COL ✓
+  Game 778266: WSH @ COL ✓
+  Game 778232: SF @ LAA ✓
+  Game 778237: SD @ HOU ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-04-20.csv
+
+Processing 2025-04-21: 8 games
+  Game 778238: CWS @ BOS ✓
+  Game 778227: NYY @ CLE ✓
+  Game 778228: SD @ DET ✓
+  Game 778230: CIN @ MIA ✓
+  Game 778225: PHI @ NYM ✓
+  Game 778233: STL @ ATL ✓
+  Game 778231: TOR @ HOU ✓
+  Game 778226: MIL @ SF ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-04-21.csv
+
+Processing 2025-04-22: 15 games
+  Game 778218: NYY @ CLE ✓
+  Game 778221: SD @ DET ✓
+  Game 778219: CIN @ MIA ✓
+  Game 778222: BAL @ WSH ✓
+  Game 778224: SEA @ BOS ✓
+  Game 778223: PHI @ NYM ✓
+  Game 778229: STL @ ATL ✓
+  Game 778215: COL @ KC ✓
+  Game 778220: LAD @ CHC ✓
+  Game 778216: CWS @ MIN ✓
+  Game 778217: TOR @ HOU ✓
+  Game 778211: PIT @ LAA ✓
+  Game 778212: TB @ AZ ✓
+  Game 778210: MIL @ SF ✓
+  Game 778213: TEX @ ATH ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-04-22.csv
+
+Processing 2025-04-23: 14 games
+  Game 778214: STL @ ATL ✓
+  Game 778209: SD @ DET ✓
+  Game 778203: PHI @ NYM ✓
+  Game 778208: CIN @ MIA ✓
+  Game 778206: NYY @ CLE ✓
+  Game 778204: BAL @ WSH ✓
+  Game 778207: SEA @ BOS ✓
+  Game 778205: LAD @ CHC ✓
+  Game 778200: TOR @ HOU ✓
+  Game 778201: CWS @ MIN ✓
+  Game 778202: PIT @ LAA ✓
+  Game 778199: TB @ AZ ✓
+  Game 778198: MIL @ SF ✓
+  Game 778197: TEX @ ATH ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-04-23.csv
+
+Processing 2025-04-24: 10 games
+  Game 778195: COL @ KC ✓
+  Game 778189: CWS @ MIN ✓
+  Game 778196: SEA @ BOS ✓
+  Game 778190: COL @ KC ✓
+  Game 778195: COL @ KC ✓
+  Game 778194: MIL @ SF ✓
+  Game 778193: BAL @ WSH ✓
+  Game 778191: PIT @ LAA ✓
+  Game 778188: TB @ AZ ✓
+  Game 778192: TEX @ ATH ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-04-24.csv
+
+Processing 2025-04-25: 13 games
+  Game 778182: PHI @ CHC ✓
+  Game 778183: NYM @ WSH ✓
+  Game 778185: TOR @ NYY ✓
+  Game 778187: HOU @ KC ✓
+  Game 778186: LAA @ MIN ✓
+  Game 778184: MIL @ STL ✓
+  Game 778181: CIN @ COL ✓
+  Game 778172: TB @ SD ✓
+  Game 778177: ATL @ AZ ✓
+  Game 778175: MIA @ SEA ✓
+  Game 778178: CWS @ ATH ✓
+  Game 778176: PIT @ LAD ✓
+  Game 778171: TEX @ SF ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-04-25.csv
+
+Processing 2025-04-26: 18 games
+  Game 778179: BOS @ CLE ✓
+  Game 778169: BOS @ CLE ✓
+  Game 778168: BAL @ DET ✓
+  Game 778180: BAL @ DET ✓
+  Game 778166: LAA @ MIN ✓
+  Game 778164: MIL @ STL ✓
+  Game 778161: CIN @ COL ✓
+  Game 778173: NYM @ WSH ✓
+  Game 778159: TEX @ SF ✓
+  Game 778174: PHI @ CHC ✓
+  Game 778165: CWS @ ATH ✓
+  Game 778167: HOU @ KC ✓
+  Game 778162: ATL @ AZ ✓
+  Game 778160: TB @ SD ✓
+  Game 778163: PIT @ LAD ✓
+  Game 778154: MIA @ SEA ✓
+  Game 778180: BAL @ DET ✓
+  Game 778179: BOS @ CLE ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-04-26.csv
+
+Processing 2025-04-27: 17 games
+  Game 778170: TOR @ NYY ✓
+  Game 778153: NYM @ WSH ✓
+  Game 778156: TOR @ NYY ✓
+  Game 778170: TOR @ NYY ✓
+  Game 778157: BOS @ CLE ✓
+  Game 778155: BAL @ DET ✓
+  Game 778144: LAA @ MIN ✓
+  Game 778152: HOU @ KC ✓
+  Game 778150: MIL @ STL ✓
+  Game 778148: CIN @ COL ✓
+  Game 778151: TEX @ SF ✓
+  Game 778149: CWS @ ATH ✓
+  Game 778145: PIT @ LAD ✓
+  Game 778146: TB @ SD ✓
+  Game 778147: ATL @ AZ ✓
+  Game 778136: MIA @ SEA ✓
+  Game 778158: PHI @ CHC ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-04-27.csv
+
+Processing 2025-04-28: 8 games
+  Game 778138: NYM @ WSH ✓
+  Game 778139: MIN @ CLE ✓
+  Game 778140: NYY @ BAL ✓
+  Game 778141: STL @ CIN ✓
+  Game 778143: ATH @ TEX ✓
+  Game 778142: DET @ HOU ✓
+  Game 778137: ATL @ COL ✓
+  Game 778132: MIA @ LAD ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-04-28.csv
+
+Processing 2025-04-29: 14 games
+  Game 778129: MIN @ CLE ✓
+  Game 778133: NYY @ BAL ✓
+  Game 778135: CHC @ PIT ✓
+  Game 778131: WSH @ PHI ✓
+  Game 778128: KC @ TB ✓
+  Game 778127: BOS @ TOR ✓
+  Game 778130: AZ @ NYM ✓
+  Game 778125: MIL @ CWS ✓
+  Game 778122: ATH @ TEX ✓
+  Game 778124: DET @ HOU ✓
+  Game 778120: ATL @ COL ✓
+  Game 778121: LAA @ SEA ✓
+  Game 778126: SF @ SD ✓
+  Game 778123: MIA @ LAD ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-04-29.csv
+
+Processing 2025-04-30: 17 games
+  Game 778134: STL @ CIN ✓
+  Game 778119: STL @ CIN ✓
+  Game 778110: DET @ HOU ✓
+  Game 778102: ATL @ COL ✓
+  Game 778109: MIA @ LAD ✓
+  Game 778104: LAA @ SEA ✓
+  Game 778105: SF @ SD ✓
+  Game 778116: MIN @ CLE ✓
+  Game 778115: NYY @ BAL ✓
+  Game 778112: CHC @ PIT ✓
+  Game 778118: WSH @ PHI ✓
+  Game 778113: KC @ TB ✓
+  Game 778114: BOS @ TOR ✓
+  Game 778117: AZ @ NYM ✓
+  Game 778111: MIL @ CWS ✓
+  Game 778106: ATH @ TEX ✓
+  Game 778134: STL @ CIN ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-04-30.csv
+
+Processing 2025-05-01: 11 games
+  Game 778100: CHC @ PIT ✓
+  Game 778107: STL @ CIN ✓
+  Game 778103: AZ @ NYM ✓
+  Game 778097: KC @ TB ✓
+  Game 778108: MIN @ CLE ✓
+  Game 778094: MIL @ CWS ✓
+  Game 778096: ATH @ TEX ✓
+  Game 778099: WSH @ PHI ✓
+  Game 778095: BOS @ TOR ✓
+  Game 778101: DET @ LAA ✓
+  Game 778098: COL @ SF ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-05-01.csv
+
+Processing 2025-05-02: 15 games
+  Game 778087: WSH @ CIN ✓
+  Game 778090: SD @ PIT ✓
+  Game 778086: AZ @ PHI ✓
+  Game 778093: KC @ BAL ✓
+  Game 778088: TB @ NYY ✓
+  Game 778081: CLE @ TOR ✓
+  Game 778089: MIN @ BOS ✓
+  Game 778091: ATH @ MIA ✓
+  Game 778092: LAD @ ATL ✓
+  Game 778079: HOU @ CWS ✓
+  Game 778083: SEA @ TEX ✓
+  Game 778080: CHC @ MIL ✓
+  Game 778084: NYM @ STL ✓
+  Game 778085: DET @ LAA ✓
+  Game 778082: COL @ SF ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-05-02.csv
+
+Processing 2025-05-03: 14 games
+  Game 778074: TB @ NYY ✓
+  Game 778066: HOU @ CWS ✓
+  Game 778064: CLE @ TOR ✓
+  Game 778065: SD @ PIT ✓
+  Game 778069: COL @ SF ✓
+  Game 778073: MIN @ BOS ✓
+  Game 778075: ATH @ MIA ✓
+  Game 778078: AZ @ PHI ✓
+  Game 778077: WSH @ CIN ✓
+  Game 778070: SEA @ TEX ✓
+  Game 778071: CHC @ MIL ✓
+  Game 778072: KC @ BAL ✓
+  Game 778076: LAD @ ATL ✓
+  Game 778067: DET @ LAA ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-05-03.csv
+
+Processing 2025-05-04: 17 games
+  Game 778068: NYM @ STL ✓
+  Game 778053: NYM @ STL ✓
+  Game 778068: NYM @ STL ✓
+  Game 778062: KC @ BAL ✓
+  Game 778051: SD @ PIT ✓
+  Game 778063: MIN @ BOS ✓
+  Game 778057: TB @ NYY ✓
+  Game 778056: CLE @ TOR ✓
+  Game 778061: ATH @ MIA ✓
+  Game 778059: AZ @ PHI ✓
+  Game 778055: HOU @ CWS ✓
+  Game 778054: CHC @ MIL ✓
+  Game 778052: SEA @ TEX ✓
+  Game 778048: COL @ SF ✓
+  Game 778050: DET @ LAA ✓
+  Game 778058: WSH @ CIN ✓
+  Game 778060: LAD @ ATL ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-05-04.csv
+
+Processing 2025-05-05: 9 games
+  Game 778047: LAD @ MIA ✓
+  Game 778045: SD @ NYY ✓
+  Game 778049: CIN @ ATL ✓
+  Game 778044: SF @ CHC ✓
+  Game 778043: CWS @ KC ✓
+  Game 778042: HOU @ MIL ✓
+  Game 778036: PIT @ STL ✓
+  Game 778039: NYM @ AZ ✓
+  Game 778038: SEA @ ATH ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-05-05.csv
+
+Processing 2025-05-06: 16 games
+  Game 778026: CLE @ WSH ✓
+  Game 778046: CLE @ WSH ✓
+  Game 778035: LAD @ MIA ✓
+  Game 778037: TEX @ BOS ✓
+  Game 778040: PHI @ TB ✓
+  Game 778041: SD @ NYY ✓
+  Game 778034: CIN @ ATL ✓
+  Game 778027: SF @ CHC ✓
+  Game 778028: BAL @ MIN ✓
+  Game 778033: CWS @ KC ✓
+  Game 778031: HOU @ MIL ✓
+  Game 778030: PIT @ STL ✓
+  Game 778025: TOR @ LAA ✓
+  Game 778032: NYM @ AZ ✓
+  Game 778024: SEA @ ATH ✓
+  Game 778046: CLE @ WSH ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-05-06.csv
+
+Processing 2025-05-07: 15 games
+  Game 778022: CLE @ WSH ✓
+  Game 778015: HOU @ MIL ✓
+  Game 778016: PIT @ STL ✓
+  Game 778020: SF @ CHC ✓
+  Game 778010: SEA @ ATH ✓
+  Game 778014: NYM @ AZ ✓
+  Game 778017: LAD @ MIA ✓
+  Game 778018: TEX @ BOS ✓
+  Game 778021: PHI @ TB ✓
+  Game 778019: SD @ NYY ✓
+  Game 778023: CIN @ ATL ✓
+  Game 778011: BAL @ MIN ✓
+  Game 778012: CWS @ KC ✓
+  Game 778013: DET @ COL ✓
+  Game 778009: TOR @ LAA ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-05-07.csv
+
+Processing 2025-05-08: 10 games
+  Game 778029: DET @ COL ✓
+  Game 778007: BAL @ MIN ✓
+  Game 778006: TEX @ BOS ✓
+  Game 778008: CWS @ KC ✓
+  Game 778004: DET @ COL ✓
+  Game 778029: DET @ COL ✓
+  Game 778005: PHI @ TB ✓
+  Game 778003: CIN @ ATL ✓
+  Game 778000: TOR @ LAA ✓
+  Game 777999: LAD @ AZ ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-05-08.csv
+
+Processing 2025-05-09: 15 games
+  Game 777996: TEX @ DET ✓
+  Game 777998: ATL @ PIT ✓
+  Game 777995: STL @ WSH ✓
+  Game 778002: MIL @ TB ✓
+  Game 778001: CHC @ NYM ✓
+  Game 777997: PHI @ CLE ✓
+  Game 777990: BOS @ KC ✓
+  Game 777991: MIA @ CWS ✓
+  Game 777989: CIN @ HOU ✓
+  Game 777992: SF @ MIN ✓
+  Game 777993: SD @ COL ✓
+  Game 777986: BAL @ LAA ✓
+  Game 777988: LAD @ AZ ✓
+  Game 777984: TOR @ SEA ✓
+  Game 777994: NYY @ ATH ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-05-09.csv
+
+Processing 2025-05-10: 15 games
+  Game 777980: STL @ WSH ✓
+  Game 777985: ATL @ PIT ✓
+  Game 777972: NYY @ ATH ✓
+  Game 777981: MIL @ TB ✓
+  Game 777987: TEX @ DET ✓
+  Game 777983: PHI @ CLE ✓
+  Game 777979: CIN @ HOU ✓
+  Game 777977: BOS @ KC ✓
+  Game 777978: MIA @ CWS ✓
+  Game 777982: CHC @ NYM ✓
+  Game 777974: SF @ MIN ✓
+  Game 777975: LAD @ AZ ✓
+  Game 777976: SD @ COL ✓
+  Game 777973: BAL @ LAA ✓
+  Game 777970: TOR @ SEA ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-05-10.csv
+
+Processing 2025-05-11: 15 games
+  Game 777968: CHC @ NYM ✓
+  Game 777962: STL @ WSH ✓
+  Game 777967: ATL @ PIT ✓
+  Game 777969: TEX @ DET ✓
+  Game 777964: MIL @ TB ✓
+  Game 777963: CIN @ HOU ✓
+  Game 777965: BOS @ KC ✓
+  Game 777956: SF @ MIN ✓
+  Game 777966: MIA @ CWS ✓
+  Game 777955: SD @ COL ✓
+  Game 777957: NYY @ ATH ✓
+  Game 777961: BAL @ LAA ✓
+  Game 777954: LAD @ AZ ✓
+  Game 777958: TOR @ SEA ✓
+  Game 777971: PHI @ CLE ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-05-11.csv
+
+Processing 2025-05-12: 11 games
+  Game 777960: MIL @ CLE ✓
+  Game 777951: BOS @ DET ✓
+  Game 777953: STL @ PHI ✓
+  Game 777950: PIT @ NYM ✓
+  Game 777959: WSH @ ATL ✓
+  Game 777952: MIA @ CHC ✓
+  Game 777949: COL @ TEX ✓
+  Game 777948: KC @ HOU ✓
+  Game 777947: LAA @ SD ✓
+  Game 777941: NYY @ SEA ✓
+  Game 777939: AZ @ SF ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-05-12.csv
+
+Processing 2025-05-13: 13 games
+  Game 777944: MIL @ CLE ✓
+  Game 777940: BOS @ DET ✓
+  Game 777945: CWS @ CIN ✓
+  Game 777935: TB @ TOR ✓
+  Game 777943: PIT @ NYM ✓
+  Game 777942: WSH @ ATL ✓
+  Game 777936: MIA @ CHC ✓
+  Game 777934: COL @ TEX ✓
+  Game 777931: KC @ HOU ✓
+  Game 777932: LAA @ SD ✓
+  Game 777926: NYY @ SEA ✓
+  Game 777930: AZ @ SF ✓
+  Game 777937: ATH @ LAD ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-05-13.csv
+
+Processing 2025-05-14: 19 games
+  Game 777924: MIN @ BAL ✓
+  Game 777938: MIN @ BAL ✓
+  Game 777922: STL @ PHI ✓
+  Game 777933: STL @ PHI ✓
+  Game 777925: MIL @ CLE ✓
+  Game 777916: AZ @ SF ✓
+  Game 777915: NYY @ SEA ✓
+  Game 777927: BOS @ DET ✓
+  Game 777923: TB @ TOR ✓
+  Game 777919: PIT @ NYM ✓
+  Game 777928: CWS @ CIN ✓
+  Game 777929: WSH @ ATL ✓
+  Game 777921: MIA @ CHC ✓
+  Game 777918: COL @ TEX ✓
+  Game 777920: KC @ HOU ✓
+  Game 777914: LAA @ SD ✓
+  Game 777917: ATH @ LAD ✓
+  Game 777938: MIN @ BAL ✓
+  Game 777933: STL @ PHI ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-05-14.csv
+
+Processing 2025-05-15: 6 games
+  Game 777909: WSH @ ATL ✓
+  Game 777911: MIN @ BAL ✓
+  Game 777912: CWS @ CIN ✓
+  Game 777913: TB @ TOR ✓
+  Game 777910: HOU @ TEX ✓
+  Game 777946: ATH @ LAD ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-05-15.csv
+
+Processing 2025-05-16: 15 games
+  Game 777900: CWS @ CHC ✓
+  Game 777902: CLE @ CIN ✓
+  Game 777905: PIT @ PHI ✓
+  Game 777907: WSH @ BAL ✓
+  Game 777904: NYM @ NYY ✓
+  Game 777906: DET @ TOR ✓
+  Game 777908: ATL @ BOS ✓
+  Game 777903: TB @ MIA ✓
+  Game 777901: STL @ KC ✓
+  Game 777895: HOU @ TEX ✓
+  Game 777898: MIN @ MIL ✓
+  Game 777897: COL @ AZ ✓
+  Game 777896: SEA @ SD ✓
+  Game 777899: LAA @ LAD ✓
+  Game 777891: ATH @ SF ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-05-16.csv
+
+Processing 2025-05-17: 15 games
+  Game 777888: NYM @ NYY ✓
+  Game 777881: CWS @ CHC ✓
+  Game 777886: DET @ TOR ✓
+  Game 777890: WSH @ BAL ✓
+  Game 777889: TB @ MIA ✓
+  Game 777894: PIT @ PHI ✓
+  Game 777892: CLE @ CIN ✓
+  Game 777882: HOU @ TEX ✓
+  Game 777885: STL @ KC ✓
+  Game 777893: ATL @ BOS ✓
+  Game 777883: MIN @ MIL ✓
+  Game 777887: COL @ AZ ✓
+  Game 777875: SEA @ SD ✓
+  Game 777879: ATH @ SF ✓
+  Game 777884: LAA @ LAD ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-05-17.csv
+
+Processing 2025-05-18: 15 games
+  Game 777869: HOU @ TEX ✓
+  Game 777873: WSH @ BAL ✓
+  Game 777880: PIT @ PHI ✓
+  Game 777876: ATL @ BOS ✓
+  Game 777871: DET @ TOR ✓
+  Game 777874: CLE @ CIN ✓
+  Game 777877: TB @ MIA ✓
+  Game 777864: STL @ KC ✓
+  Game 777865: MIN @ MIL ✓
+  Game 777872: CWS @ CHC ✓
+  Game 777867: ATH @ SF ✓
+  Game 777870: COL @ AZ ✓
+  Game 777866: LAA @ LAD ✓
+  Game 777868: SEA @ SD ✓
+  Game 777878: NYM @ NYY ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-05-18.csv
+
+Processing 2025-05-19: 13 games
+  Game 777859: CIN @ PIT ✓
+  Game 777863: CHC @ MIA ✓
+  Game 777856: NYM @ BOS ✓
+  Game 777858: HOU @ TB ✓
+  Game 777861: CLE @ MIN ✓
+  Game 777857: SEA @ CWS ✓
+  Game 777860: BAL @ MIL ✓
+  Game 777862: DET @ STL ✓
+  Game 777852: PHI @ COL ✓
+  Game 777855: KC @ SF ✓
+  Game 777853: LAA @ ATH ✓
+  Game 777854: AZ @ LAD ✓
+  Game 777861: CLE @ MIN ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-05-19.csv
+
+Processing 2025-05-20: 14 games
+  Game 777847: CIN @ PIT ✓
+  Game 777850: CHC @ MIA ✓
+  Game 777851: NYM @ BOS ✓
+  Game 777841: ATL @ WSH ✓
+  Game 777848: HOU @ TB ✓
+  Game 777849: TEX @ NYY ✓
+  Game 777845: SD @ TOR ✓
+  Game 777846: SEA @ CWS ✓
+  Game 777844: BAL @ MIL ✓
+  Game 777840: DET @ STL ✓
+  Game 777842: PHI @ COL ✓
+  Game 777836: KC @ SF ✓
+  Game 777843: LAA @ ATH ✓
+  Game 777838: AZ @ LAD ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-05-20.csv
+
+Processing 2025-05-21: 14 games
+  Game 777834: CIN @ PIT ✓
+  Game 777832: HOU @ TB ✓
+  Game 777833: CHC @ MIA ✓
+  Game 777826: BAL @ MIL ✓
+  Game 777827: DET @ STL ✓
+  Game 777830: SEA @ CWS ✓
+  Game 777819: KC @ SF ✓
+  Game 777829: CLE @ MIN ✓
+  Game 777831: NYM @ BOS ✓
+  Game 777835: TEX @ NYY ✓
+  Game 777837: SD @ TOR ✓
+  Game 777823: PHI @ COL ✓
+  Game 777828: LAA @ ATH ✓
+  Game 777824: AZ @ LAD ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-05-21.csv
+
+Processing 2025-05-22: 8 games
+  Game 777818: TEX @ NYY ✓
+  Game 777816: SD @ TOR ✓
+  Game 777817: PHI @ COL ✓
+  Game 777812: LAA @ ATH ✓
+  Game 777821: CLE @ DET ✓
+  Game 777814: MIL @ PIT ✓
+  Game 777820: ATL @ WSH ✓
+  Game 777822: SEA @ HOU ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-05-22.csv
+
+Processing 2025-05-23: 16 games
+  Game 777815: BAL @ BOS ✓
+  Game 777811: CHC @ CIN ✓
+  Game 777806: MIL @ PIT ✓
+  Game 777801: SF @ WSH ✓
+  Game 777810: TOR @ TB ✓
+  Game 777807: CLE @ DET ✓
+  Game 777808: LAD @ NYM ✓
+  Game 777813: SD @ ATL ✓
+  Game 777805: TEX @ CWS ✓
+  Game 777800: SEA @ HOU ✓
+  Game 777799: KC @ MIN ✓
+  Game 777797: AZ @ STL ✓
+  Game 777802: NYY @ COL ✓
+  Game 777798: MIA @ LAA ✓
+  Game 777804: PHI @ ATH ✓
+  Game 777815: BAL @ BOS ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-05-23.csv
+
+Processing 2025-05-24: 17 games
+  Game 777809: BAL @ BOS ✓
+  Game 777809: BAL @ BOS ✓
+  Game 777790: BAL @ BOS ✓
+  Game 777788: KC @ MIN ✓
+  Game 777786: AZ @ STL ✓
+  Game 777793: SF @ WSH ✓
+  Game 777794: MIL @ PIT ✓
+  Game 777791: CHC @ CIN ✓
+  Game 777787: SEA @ HOU ✓
+  Game 777803: SD @ ATL ✓
+  Game 777792: TEX @ CWS ✓
+  Game 777782: NYY @ COL ✓
+  Game 777795: TOR @ TB ✓
+  Game 777796: CLE @ DET ✓
+  Game 777789: LAD @ NYM ✓
+  Game 777784: PHI @ ATH ✓
+  Game 777781: MIA @ LAA ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-05-24.csv
+
+Processing 2025-05-25: 15 games
+  Game 777780: CLE @ DET ✓
+  Game 777785: BAL @ BOS ✓
+  Game 777778: SF @ WSH ✓
+  Game 777776: MIL @ PIT ✓
+  Game 777779: CHC @ CIN ✓
+  Game 777775: TOR @ TB ✓
+  Game 777774: SEA @ HOU ✓
+  Game 777772: KC @ MIN ✓
+  Game 777777: TEX @ CWS ✓
+  Game 777766: AZ @ STL ✓
+  Game 777768: NYY @ COL ✓
+  Game 777765: PHI @ ATH ✓
+  Game 777767: MIA @ LAA ✓
+  Game 777783: SD @ ATL ✓
+  Game 777773: LAD @ NYM ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-05-25.csv
+
+Processing 2025-05-26: 12 games
+  Game 777770: SF @ DET ✓
+  Game 777764: BOS @ MIL ✓
+  Game 777757: COL @ CHC ✓
+  Game 777771: STL @ BAL ✓
+  Game 777759: TOR @ TEX ✓
+  Game 777760: CIN @ KC ✓
+  Game 777758: CWS @ NYM ✓
+  Game 777769: LAD @ CLE ✓
+  Game 777762: MIN @ TB ✓
+  Game 777761: PIT @ AZ ✓
+  Game 777756: MIA @ SD ✓
+  Game 777763: NYY @ LAA ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-05-26.csv
+
+Processing 2025-05-27: 15 games
+  Game 777753: LAD @ CLE ✓
+  Game 777754: STL @ BAL ✓
+  Game 777755: SF @ DET ✓
+  Game 777748: ATL @ PHI ✓
+  Game 777746: MIN @ TB ✓
+  Game 777749: CWS @ NYM ✓
+  Game 777750: CIN @ KC ✓
+  Game 777747: BOS @ MIL ✓
+  Game 777751: COL @ CHC ✓
+  Game 777741: TOR @ TEX ✓
+  Game 777752: ATH @ HOU ✓
+  Game 777745: NYY @ LAA ✓
+  Game 777744: PIT @ AZ ✓
+  Game 777743: WSH @ SEA ✓
+  Game 777742: MIA @ SD ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-05-27.csv
+
+Processing 2025-05-28: 14 games
+  Game 777739: LAD @ CLE ✓
+  Game 777738: SF @ DET ✓
+  Game 777732: MIN @ TB ✓
+  Game 777737: CWS @ NYM ✓
+  Game 777736: BOS @ MIL ✓
+  Game 777734: ATH @ HOU ✓
+  Game 777729: PIT @ AZ ✓
+  Game 777726: MIA @ SD ✓
+  Game 777740: STL @ BAL ✓
+  Game 777733: CIN @ KC ✓
+  Game 777731: COL @ CHC ✓
+  Game 777724: TOR @ TEX ✓
+  Game 777728: NYY @ LAA ✓
+  Game 777730: WSH @ SEA ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-05-28.csv
+
+Processing 2025-05-29: 6 games
+  Game 777735: ATL @ PHI ✓
+  Game 777723: ATL @ PHI ✓
+  Game 777727: ATH @ TOR ✓
+  Game 777725: TB @ HOU ✓
+  Game 777722: WSH @ SEA ✓
+  Game 777735: ATL @ PHI ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-05-29.csv
+
+Processing 2025-05-30: 15 games
+  Game 777712: CIN @ CHC ✓
+  Game 777720: CWS @ BAL ✓
+  Game 777715: MIL @ PHI ✓
+  Game 777716: ATH @ TOR ✓
+  Game 777721: LAA @ CLE ✓
+  Game 777718: COL @ NYM ✓
+  Game 777717: SF @ MIA ✓
+  Game 777719: BOS @ ATL ✓
+  Game 777709: STL @ TEX ✓
+  Game 777711: DET @ KC ✓
+  Game 777714: TB @ HOU ✓
+  Game 777710: WSH @ AZ ✓
+  Game 777707: PIT @ SD ✓
+  Game 777713: MIN @ SEA ✓
+  Game 777708: NYY @ LAD ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-05-30.csv
+
+Processing 2025-05-31: 15 games
+  Game 777704: CIN @ CHC ✓
+  Game 777701: ATH @ TOR ✓
+  Game 777697: STL @ TEX ✓
+  Game 777699: CWS @ BAL ✓
+  Game 777702: MIL @ PHI ✓
+  Game 777703: LAA @ CLE ✓
+  Game 777694: DET @ KC ✓
+  Game 777700: COL @ NYM ✓
+  Game 777693: TB @ HOU ✓
+  Game 777706: BOS @ ATL ✓
+  Game 777705: SF @ MIA ✓
+  Game 777695: MIN @ SEA ✓
+  Game 777698: NYY @ LAD ✓
+  Game 777691: PIT @ SD ✓
+  Game 777696: WSH @ AZ ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-05-31.csv
+
+Processing 2025-06-01: 15 games
+  Game 777678: STL @ TEX ✓
+  Game 777692: BOS @ ATL ✓
+  Game 777684: CWS @ BAL ✓
+  Game 777688: MIL @ PHI ✓
+  Game 777685: ATH @ TOR ✓
+  Game 777683: LAA @ CLE ✓
+  Game 777686: COL @ NYM ✓
+  Game 777689: SF @ MIA ✓
+  Game 777677: DET @ KC ✓
+  Game 777690: TB @ HOU ✓
+  Game 777687: CIN @ CHC ✓
+  Game 777679: WSH @ AZ ✓
+  Game 777680: MIN @ SEA ✓
+  Game 777681: PIT @ SD ✓
+  Game 777682: NYY @ LAD ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-06-01.csv
+
+Processing 2025-06-02: 7 games
+  Game 777673: COL @ MIA ✓
+  Game 777670: LAA @ BOS ✓
+  Game 777671: MIL @ CIN ✓
+  Game 777674: DET @ CWS ✓
+  Game 777676: SD @ SF ✓
+  Game 777669: MIN @ ATH ✓
+  Game 777675: NYM @ LAD ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-06-02.csv
+
+Processing 2025-06-03: 15 games
+  Game 777663: HOU @ PIT ✓
+  Game 777666: COL @ MIA ✓
+  Game 777659: CHC @ WSH ✓
+  Game 777664: CLE @ NYY ✓
+  Game 777665: PHI @ TOR ✓
+  Game 777667: LAA @ BOS ✓
+  Game 777668: MIL @ CIN ✓
+  Game 777672: AZ @ ATL ✓
+  Game 777662: TEX @ TB ✓
+  Game 777661: DET @ CWS ✓
+  Game 777660: KC @ STL ✓
+  Game 777655: BAL @ SEA ✓
+  Game 777656: SD @ SF ✓
+  Game 777658: MIN @ ATH ✓
+  Game 777657: NYM @ LAD ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-06-03.csv
+
+Processing 2025-06-04: 14 games
+  Game 777652: COL @ MIA ✓
+  Game 777647: MIL @ CIN ✓
+  Game 777649: LAA @ BOS ✓
+  Game 777648: HOU @ PIT ✓
+  Game 777650: CHC @ WSH ✓
+  Game 777653: CLE @ NYY ✓
+  Game 777651: PHI @ TOR ✓
+  Game 777654: AZ @ ATL ✓
+  Game 777646: TEX @ TB ✓
+  Game 777639: DET @ CWS ✓
+  Game 777645: BAL @ SEA ✓
+  Game 777641: SD @ SF ✓
+  Game 777643: MIN @ ATH ✓
+  Game 777638: NYM @ LAD ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-06-04.csv
+
+Processing 2025-06-05: 14 games
+  Game 777642: KC @ STL ✓
+  Game 777640: AZ @ ATL ✓
+  Game 777642: KC @ STL ✓
+  Game 777635: KC @ STL ✓
+  Game 777634: DET @ CWS ✓
+  Game 777637: PHI @ TOR ✓
+  Game 777636: MIN @ ATH ✓
+  Game 777628: BAL @ SEA ✓
+  Game 777633: SD @ SF ✓
+  Game 777631: NYM @ LAD ✓
+  Game 777630: HOU @ PIT ✓
+  Game 777632: CHC @ WSH ✓
+  Game 777644: CLE @ NYY ✓
+  Game 777629: TEX @ TB ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-06-05.csv
+
+Processing 2025-06-06: 16 games
+  Game 777623: AZ @ CIN ✓
+  Game 777625: MIA @ TB ✓
+  Game 777621: PHI @ PIT ✓
+  Game 777624: TEX @ WSH ✓
+  Game 777627: BOS @ NYY ✓
+  Game 777623: AZ @ CIN ✓
+  Game 777626: CHC @ DET ✓
+  Game 777622: HOU @ CLE ✓
+  Game 777618: KC @ CWS ✓
+  Game 777615: TOR @ MIN ✓
+  Game 777617: SD @ MIL ✓
+  Game 777620: LAD @ STL ✓
+  Game 777616: NYM @ COL ✓
+  Game 777614: SEA @ LAA ✓
+  Game 777613: BAL @ ATH ✓
+  Game 777619: ATL @ SF ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-06-06.csv
+
+Processing 2025-06-07: 15 games
+  Game 777609: CHC @ DET ✓
+  Game 777600: TOR @ MIN ✓
+  Game 777601: LAD @ STL ✓
+  Game 777610: TEX @ WSH ✓
+  Game 777607: PHI @ PIT ✓
+  Game 777598: ATL @ SF ✓
+  Game 777612: AZ @ CIN ✓
+  Game 777608: HOU @ CLE ✓
+  Game 777606: KC @ CWS ✓
+  Game 777611: MIA @ TB ✓
+  Game 777605: BOS @ NYY ✓
+  Game 777597: SD @ MIL ✓
+  Game 777603: SEA @ LAA ✓
+  Game 777604: NYM @ COL ✓
+  Game 777599: BAL @ ATH ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-06-07.csv
+
+Processing 2025-06-08: 15 games
+  Game 777592: MIA @ TB ✓
+  Game 777586: SD @ MIL ✓
+  Game 777596: TEX @ WSH ✓
+  Game 777595: PHI @ PIT ✓
+  Game 777602: AZ @ CIN ✓
+  Game 777594: CHC @ DET ✓
+  Game 777591: HOU @ CLE ✓
+  Game 777585: TOR @ MIN ✓
+  Game 777590: KC @ CWS ✓
+  Game 777582: LAD @ STL ✓
+  Game 777583: NYM @ COL ✓
+  Game 777588: BAL @ ATH ✓
+  Game 777587: ATL @ SF ✓
+  Game 777589: SEA @ LAA ✓
+  Game 777593: BOS @ NYY ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-06-08.csv
+
+Processing 2025-06-09: 9 games
+  Game 777580: CIN @ CLE ✓
+  Game 777574: MIA @ PIT ✓
+  Game 777578: CHC @ PHI ✓
+  Game 777584: TB @ BOS ✓
+  Game 777575: ATL @ MIL ✓
+  Game 777581: TOR @ STL ✓
+  Game 777576: ATH @ LAA ✓
+  Game 777579: LAD @ SD ✓
+  Game 777577: SEA @ AZ ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-06-09.csv
+
+Processing 2025-06-10: 15 games
+  Game 777573: DET @ BAL ✓
+  Game 777569: CIN @ CLE ✓
+  Game 777566: MIA @ PIT ✓
+  Game 777571: CHC @ PHI ✓
+  Game 777570: WSH @ NYM ✓
+  Game 777565: TB @ BOS ✓
+  Game 777557: TEX @ MIN ✓
+  Game 777572: NYY @ KC ✓
+  Game 777568: ATL @ MIL ✓
+  Game 777558: TOR @ STL ✓
+  Game 777567: CWS @ HOU ✓
+  Game 777563: SF @ COL ✓
+  Game 777564: ATH @ LAA ✓
+  Game 777560: LAD @ SD ✓
+  Game 777559: SEA @ AZ ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-06-10.csv
+
+Processing 2025-06-11: 15 games
+  Game 777552: MIA @ PIT ✓
+  Game 777553: CHC @ PHI ✓
+  Game 777549: CIN @ CLE ✓
+  Game 777554: ATL @ MIL ✓
+  Game 777545: TOR @ STL ✓
+  Game 777548: SEA @ AZ ✓
+  Game 777542: ATH @ LAA ✓
+  Game 777543: LAD @ SD ✓
+  Game 777562: DET @ BAL ✓
+  Game 777555: WSH @ NYM ✓
+  Game 777561: TB @ BOS ✓
+  Game 777556: TEX @ MIN ✓
+  Game 777551: NYY @ KC ✓
+  Game 777550: CWS @ HOU ✓
+  Game 777547: SF @ COL ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-06-11.csv
+
+Processing 2025-06-12: 8 games
+  Game 777544: WSH @ NYM ✓
+  Game 777533: TEX @ MIN ✓
+  Game 777534: SF @ COL ✓
+  Game 777540: DET @ BAL ✓
+  Game 777536: NYY @ KC ✓
+  Game 777532: STL @ MIL ✓
+  Game 777541: PIT @ CHC ✓
+  Game 777546: CWS @ HOU ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-06-12.csv
+
+Processing 2025-06-13: 15 games
+  Game 777526: PIT @ CHC ✓
+  Game 777531: TOR @ PHI ✓
+  Game 777530: MIA @ WSH ✓
+  Game 777539: LAA @ BAL ✓
+  Game 777538: CIN @ DET ✓
+  Game 777528: TB @ NYM ✓
+  Game 777537: NYY @ BOS ✓
+  Game 777535: COL @ ATL ✓
+  Game 777524: CWS @ TEX ✓
+  Game 777529: ATH @ KC ✓
+  Game 777527: MIN @ HOU ✓
+  Game 777525: STL @ MIL ✓
+  Game 777521: SD @ AZ ✓
+  Game 777520: CLE @ SEA ✓
+  Game 777522: SF @ LAD ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-06-13.csv
+
+Processing 2025-06-14: 15 games
+  Game 777514: MIA @ WSH ✓
+  Game 777517: CIN @ DET ✓
+  Game 777513: PIT @ CHC ✓
+  Game 777519: LAA @ BAL ✓
+  Game 777509: TOR @ PHI ✓
+  Game 777508: CWS @ TEX ✓
+  Game 777511: ATH @ KC ✓
+  Game 777518: TB @ NYM ✓
+  Game 777510: MIN @ HOU ✓
+  Game 777523: COL @ ATL ✓
+  Game 777512: STL @ MIL ✓
+  Game 777515: SD @ AZ ✓
+  Game 777516: NYY @ BOS ✓
+  Game 777507: CLE @ SEA ✓
+  Game 777506: SF @ LAD ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-06-14.csv
+
+Processing 2025-06-15: 15 games
+  Game 777505: CIN @ DET ✓
+  Game 777501: LAA @ BAL ✓
+  Game 777499: TOR @ PHI ✓
+  Game 777504: COL @ ATL ✓
+  Game 777503: MIA @ WSH ✓
+  Game 777500: NYY @ BOS ✓
+  Game 777502: TB @ NYM ✓
+  Game 777496: ATH @ KC ✓
+  Game 777494: MIN @ HOU ✓
+  Game 777492: STL @ MIL ✓
+  Game 777497: PIT @ CHC ✓
+  Game 777493: CWS @ TEX ✓
+  Game 777491: SD @ AZ ✓
+  Game 777495: CLE @ SEA ✓
+  Game 777498: SF @ LAD ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-06-15.csv
+
+Processing 2025-06-16: 7 games
+  Game 777483: PHI @ MIA ✓
+  Game 777488: COL @ WSH ✓
+  Game 777487: LAA @ NYY ✓
+  Game 777484: BAL @ TB ✓
+  Game 777486: BOS @ SEA ✓
+  Game 777485: HOU @ ATH ✓
+  Game 777490: SD @ LAD ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-06-16.csv
+
+Processing 2025-06-17: 15 games
+  Game 777481: PHI @ MIA ✓
+  Game 777475: PIT @ DET ✓
+  Game 777480: COL @ WSH ✓
+  Game 777476: LAA @ NYY ✓
+  Game 777479: AZ @ TOR ✓
+  Game 777478: MIN @ CIN ✓
+  Game 777489: NYM @ ATL ✓
+  Game 777477: BAL @ TB ✓
+  Game 777467: STL @ CWS ✓
+  Game 777468: KC @ TEX ✓
+  Game 777482: MIL @ CHC ✓
+  Game 777473: BOS @ SEA ✓
+  Game 777472: CLE @ SF ✓
+  Game 777469: HOU @ ATH ✓
+  Game 777471: SD @ LAD ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-06-17.csv
+
+Processing 2025-06-18: 12 games
+  Game 777453: BOS @ SEA ✓
+  Game 777465: PHI @ MIA ✓
+  Game 777461: COL @ WSH ✓
+  Game 777466: LAA @ NYY ✓
+  Game 777462: AZ @ TOR ✓
+  Game 777474: MIN @ CIN ✓
+  Game 777470: NYM @ ATL ✓
+  Game 777463: BAL @ TB ✓
+  Game 777460: KC @ TEX ✓
+  Game 777454: CLE @ SF ✓
+  Game 777456: HOU @ ATH ✓
+  Game 777457: SD @ LAD ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-06-18.csv
+
+Processing 2025-06-19: 18 games
+  Game 777452: MIN @ CIN ✓
+  Game 777445: COL @ WSH ✓
+  Game 777449: LAA @ NYY ✓
+  Game 777451: PIT @ DET ✓
+  Game 777464: PIT @ DET ✓
+  Game 777447: STL @ CWS ✓
+  Game 777458: STL @ CWS ✓
+  Game 777450: MIL @ CHC ✓
+  Game 777443: KC @ TEX ✓
+  Game 777448: AZ @ TOR ✓
+  Game 777440: CLE @ SF ✓
+  Game 777444: PHI @ MIA ✓
+  Game 777455: NYM @ ATL ✓
+  Game 777446: BAL @ TB ✓
+  Game 777441: HOU @ ATH ✓
+  Game 777442: SD @ LAD ✓
+  Game 777464: PIT @ DET ✓
+  Game 777458: STL @ CWS ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-06-19.csv
+
+Processing 2025-06-20: 15 games
+  Game 777436: SEA @ CHC ✓
+  Game 777432: TEX @ PIT ✓
+  Game 777431: DET @ TB ✓
+  Game 777438: BAL @ NYY ✓
+  Game 777435: CWS @ TOR ✓
+  Game 777439: ATL @ MIA ✓
+  Game 777433: CIN @ STL ✓
+  Game 777437: NYM @ PHI ✓
+  Game 777434: MIL @ MIN ✓
+  Game 777430: AZ @ COL ✓
+  Game 777428: HOU @ LAA ✓
+  Game 777426: KC @ SD ✓
+  Game 777429: CLE @ ATH ✓
+  Game 777427: WSH @ LAD ✓
+  Game 777425: BOS @ SF ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-06-20.csv
+
+Processing 2025-06-21: 15 games
+  Game 777420: DET @ TB ✓
+  Game 777422: BAL @ NYY ✓
+  Game 777412: MIL @ MIN ✓
+  Game 777415: CIN @ STL ✓
+  Game 777419: SEA @ CHC ✓
+  Game 777418: CWS @ TOR ✓
+  Game 777417: BOS @ SF ✓
+  Game 777421: TEX @ PIT ✓
+  Game 777424: ATL @ MIA ✓
+  Game 777413: KC @ SD ✓
+  Game 777423: NYM @ PHI ✓
+  Game 777410: AZ @ COL ✓
+  Game 777414: HOU @ LAA ✓
+  Game 777411: CLE @ ATH ✓
+  Game 777416: WSH @ LAD ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-06-21.csv
+
+Processing 2025-06-22: 15 games
+  Game 777406: BAL @ NYY ✓
+  Game 777409: DET @ TB ✓
+  Game 777404: TEX @ PIT ✓
+  Game 777408: CWS @ TOR ✓
+  Game 777402: ATL @ MIA ✓
+  Game 777401: MIL @ MIN ✓
+  Game 777407: CIN @ STL ✓
+  Game 777403: SEA @ CHC ✓
+  Game 777399: AZ @ COL ✓
+  Game 777400: CLE @ ATH ✓
+  Game 777395: BOS @ SF ✓
+  Game 777397: HOU @ LAA ✓
+  Game 777398: WSH @ LAD ✓
+  Game 777396: KC @ SD ✓
+  Game 777405: NYM @ PHI ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-06-22.csv
+
+Processing 2025-06-23: 9 games
+  Game 777394: TEX @ BAL ✓
+  Game 777389: ATL @ NYM ✓
+  Game 777390: NYY @ CIN ✓
+  Game 777388: SEA @ MIN ✓
+  Game 777393: AZ @ CWS ✓
+  Game 777391: PIT @ MIL ✓
+  Game 777392: CHC @ STL ✓
+  Game 777381: BOS @ LAA ✓
+  Game 777382: WSH @ SD ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-06-23.csv
+
+Processing 2025-06-24: 15 games
+  Game 777380: TEX @ BAL ✓
+  Game 777386: ATH @ DET ✓
+  Game 777384: TOR @ CLE ✓
+  Game 777387: ATL @ NYM ✓
+  Game 777385: NYY @ CIN ✓
+  Game 777378: TB @ KC ✓
+  Game 777375: SEA @ MIN ✓
+  Game 777383: AZ @ CWS ✓
+  Game 777374: PIT @ MIL ✓
+  Game 777373: CHC @ STL ✓
+  Game 777377: PHI @ HOU ✓
+  Game 777379: LAD @ COL ✓
+  Game 777376: BOS @ LAA ✓
+  Game 777372: WSH @ SD ✓
+  Game 777364: MIA @ SF ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-06-24.csv
+
+Processing 2025-06-25: 15 games
+  Game 777370: AZ @ CWS ✓
+  Game 777361: PIT @ MIL ✓
+  Game 777362: BOS @ LAA ✓
+  Game 777360: WSH @ SD ✓
+  Game 777365: TEX @ BAL ✓
+  Game 777371: ATH @ DET ✓
+  Game 777368: TOR @ CLE ✓
+  Game 777369: ATL @ NYM ✓
+  Game 777367: NYY @ CIN ✓
+  Game 777359: TB @ KC ✓
+  Game 777363: SEA @ MIN ✓
+  Game 777357: CHC @ STL ✓
+  Game 777366: PHI @ HOU ✓
+  Game 777358: LAD @ COL ✓
+  Game 777355: MIA @ SF ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-06-25.csv
+
+Processing 2025-06-26: 9 games
+  Game 777351: ATH @ DET ✓
+  Game 777354: TOR @ CLE ✓
+  Game 777356: SEA @ MIN ✓
+  Game 777353: TB @ KC ✓
+  Game 777350: PHI @ HOU ✓
+  Game 777348: CHC @ STL ✓
+  Game 777344: LAD @ COL ✓
+  Game 777347: MIA @ SF ✓
+  Game 777352: ATL @ NYM ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-06-26.csv
+
+Processing 2025-06-27: 15 games
+  Game 777341: NYM @ PIT ✓
+  Game 777343: TB @ BAL ✓
+  Game 777337: ATH @ NYY ✓
+  Game 777346: SD @ CIN ✓
+  Game 777349: STL @ CLE ✓
+  Game 777345: TOR @ BOS ✓
+  Game 777334: MIN @ DET ✓
+  Game 777342: PHI @ ATL ✓
+  Game 777338: SF @ CWS ✓
+  Game 777340: SEA @ TEX ✓
+  Game 777336: CHC @ HOU ✓
+  Game 777335: LAD @ KC ✓
+  Game 777339: COL @ MIL ✓
+  Game 777331: WSH @ LAA ✓
+  Game 777332: MIA @ AZ ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-06-27.csv
+
+Processing 2025-06-28: 15 games
+  Game 777326: ATH @ NYY ✓
+  Game 777324: MIN @ DET ✓
+  Game 777325: NYM @ PIT ✓
+  Game 777330: TB @ BAL ✓
+  Game 777322: SEA @ TEX ✓
+  Game 777319: LAD @ KC ✓
+  Game 777328: SD @ CIN ✓
+  Game 777329: STL @ CLE ✓
+  Game 777323: TOR @ BOS ✓
+  Game 777327: SF @ CWS ✓
+  Game 777318: MIA @ AZ ✓
+  Game 777321: COL @ MIL ✓
+  Game 777320: CHC @ HOU ✓
+  Game 777333: PHI @ ATL ✓
+  Game 777315: WSH @ LAA ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-06-28.csv
+
+Processing 2025-06-29: 15 games
+  Game 777309: STL @ CLE ✓
+  Game 777313: NYM @ PIT ✓
+  Game 777317: TB @ BAL ✓
+  Game 777310: TOR @ BOS ✓
+  Game 777316: PHI @ ATL ✓
+  Game 777307: ATH @ NYY ✓
+  Game 777312: SD @ CIN ✓
+  Game 777308: CHC @ HOU ✓
+  Game 777304: LAD @ KC ✓
+  Game 777311: SF @ CWS ✓
+  Game 777301: COL @ MIL ✓
+  Game 777302: SEA @ TEX ✓
+  Game 777305: WSH @ LAA ✓
+  Game 777303: MIA @ AZ ✓
+  Game 777314: MIN @ DET ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-06-29.csv
+
+Processing 2025-06-30: 8 games
+  Game 777306: SD @ PHI ✓
+  Game 777299: STL @ PIT ✓
+  Game 777295: NYY @ TOR ✓
+  Game 777300: CIN @ BOS ✓
+  Game 777296: ATH @ TB ✓
+  Game 777292: BAL @ TEX ✓
+  Game 777297: KC @ SEA ✓
+  Game 777291: SF @ AZ ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-06-30.csv
+
+Processing 2025-07-01: 13 games
+  Game 777294: CIN @ BOS ✓
+  Game 777283: NYY @ TOR ✓
+  Game 777288: STL @ PIT ✓
+  Game 777293: MIN @ MIA ✓
+  Game 777286: ATH @ TB ✓
+  Game 777294: CIN @ BOS ✓
+  Game 777298: LAA @ ATL ✓
+  Game 777287: CLE @ CHC ✓
+  Game 777282: BAL @ TEX ✓
+  Game 777285: HOU @ COL ✓
+  Game 777281: KC @ SEA ✓
+  Game 777278: SF @ AZ ✓
+  Game 777280: CWS @ LAD ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-07-01.csv
+
+Processing 2025-07-02: 21 games
+  Game 777271: ATH @ TB ✓
+  Game 777272: STL @ PIT ✓
+  Game 777284: DET @ WSH ✓
+  Game 777265: DET @ WSH ✓
+  Game 777273: SD @ PHI ✓
+  Game 777290: SD @ PHI ✓
+  Game 777289: MIL @ NYM ✓
+  Game 777276: MIL @ NYM ✓
+  Game 777275: MIN @ MIA ✓
+  Game 777274: NYY @ TOR ✓
+  Game 777277: CIN @ BOS ✓
+  Game 777279: LAA @ ATL ✓
+  Game 777266: CLE @ CHC ✓
+  Game 777268: BAL @ TEX ✓
+  Game 777269: HOU @ COL ✓
+  Game 777262: KC @ SEA ✓
+  Game 777270: SF @ AZ ✓
+  Game 777267: CWS @ LAD ✓
+  Game 777290: SD @ PHI ✓
+  Game 777284: DET @ WSH ✓
+  Game 777289: MIL @ NYM ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-07-02.csv
+
+Processing 2025-07-03: 10 games
+  Game 777263: MIN @ MIA ✓
+  Game 777264: HOU @ COL ✓
+  Game 777258: DET @ WSH ✓
+  Game 777260: NYY @ TOR ✓
+  Game 777257: MIL @ NYM ✓
+  Game 777261: LAA @ ATL ✓
+  Game 777259: CLE @ CHC ✓
+  Game 777256: SF @ AZ ✓
+  Game 777251: KC @ SEA ✓
+  Game 777253: CWS @ LAD ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-07-03.csv
+
+Processing 2025-07-04: 15 games
+  Game 777245: BOS @ WSH ✓
+  Game 777255: CIN @ PHI ✓
+  Game 777246: STL @ CHC ✓
+  Game 777250: NYY @ NYM ✓
+  Game 777236: PIT @ SEA ✓
+  Game 777247: TB @ MIN ✓
+  Game 777239: TEX @ SD ✓
+  Game 777242: LAA @ TOR ✓
+  Game 777249: DET @ CLE ✓
+  Game 777254: MIL @ MIA ✓
+  Game 777252: BAL @ ATL ✓
+  Game 777243: CWS @ COL ✓
+  Game 777235: HOU @ LAD ✓
+  Game 777248: KC @ AZ ✓
+  Game 777244: SF @ ATH ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-07-04.csv
+
+Processing 2025-07-05: 15 games
+  Game 777230: TB @ MIN ✓
+  Game 777229: STL @ CHC ✓
+  Game 777231: LAA @ TOR ✓
+  Game 777228: BOS @ WSH ✓
+  Game 777233: CIN @ PHI ✓
+  Game 777234: KC @ AZ ✓
+  Game 777237: BAL @ ATL ✓
+  Game 777241: NYY @ NYM ✓
+  Game 777238: MIL @ MIA ✓
+  Game 777240: DET @ CLE ✓
+  Game 777221: HOU @ LAD ✓
+  Game 777232: CWS @ COL ✓
+  Game 777223: TEX @ SD ✓
+  Game 777227: SF @ ATH ✓
+  Game 777225: PIT @ SEA ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-07-05.csv
+
+Processing 2025-07-06: 15 games
+  Game 777222: BAL @ ATL ✓
+  Game 777213: BOS @ WSH ✓
+  Game 777217: CIN @ PHI ✓
+  Game 777214: LAA @ TOR ✓
+  Game 777226: DET @ CLE ✓
+  Game 777216: NYY @ NYM ✓
+  Game 777224: MIL @ MIA ✓
+  Game 777220: TB @ MIN ✓
+  Game 777215: CWS @ COL ✓
+  Game 777218: KC @ AZ ✓
+  Game 777206: HOU @ LAD ✓
+  Game 777205: PIT @ SEA ✓
+  Game 777219: STL @ CHC ✓
+  Game 777207: TEX @ SD ✓
+  Game 777210: SF @ ATH ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-07-06.csv
+
+Processing 2025-07-07: 10 games
+  Game 777211: TB @ DET ✓
+  Game 777209: COL @ BOS ✓
+  Game 777208: MIA @ CIN ✓
+  Game 777204: PIT @ KC ✓
+  Game 777212: TOR @ CWS ✓
+  Game 777201: LAD @ MIL ✓
+  Game 777202: CLE @ HOU ✓
+  Game 777200: TEX @ LAA ✓
+  Game 777203: AZ @ SD ✓
+  Game 777199: PHI @ SF ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-07-07.csv
+
+Processing 2025-07-08: 15 games
+  Game 777198: NYM @ BAL ✓
+  Game 777195: TB @ DET ✓
+  Game 777187: SEA @ NYY ✓
+  Game 777196: COL @ BOS ✓
+  Game 777197: MIA @ CIN ✓
+  Game 777194: PIT @ KC ✓
+  Game 777190: CHC @ MIN ✓
+  Game 777188: TOR @ CWS ✓
+  Game 777193: LAD @ MIL ✓
+  Game 777191: WSH @ STL ✓
+  Game 777192: CLE @ HOU ✓
+  Game 777180: TEX @ LAA ✓
+  Game 777185: AZ @ SD ✓
+  Game 777186: PHI @ SF ✓
+  Game 777189: ATL @ ATH ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-07-08.csv
+
+Processing 2025-07-09: 14 games
+  Game 777172: TOR @ CWS ✓
+  Game 777175: LAD @ MIL ✓
+  Game 777163: PHI @ SF ✓
+  Game 777182: TB @ DET ✓
+  Game 777184: SEA @ NYY ✓
+  Game 777179: COL @ BOS ✓
+  Game 777183: MIA @ CIN ✓
+  Game 777177: PIT @ KC ✓
+  Game 777173: CHC @ MIN ✓
+  Game 777178: WSH @ STL ✓
+  Game 777174: CLE @ HOU ✓
+  Game 777171: TEX @ LAA ✓
+  Game 777162: AZ @ SD ✓
+  Game 777176: ATL @ ATH ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-07-09.csv
+
+Processing 2025-07-10: 11 games
+  Game 777181: NYM @ BAL ✓
+  Game 777165: NYM @ BAL ✓
+  Game 777181: NYM @ BAL ✓
+  Game 777166: CHC @ MIN ✓
+  Game 777168: MIA @ CIN ✓
+  Game 777169: SEA @ NYY ✓
+  Game 777170: TB @ BOS ✓
+  Game 777167: WSH @ STL ✓
+  Game 777156: ATL @ ATH ✓
+  Game 777159: TEX @ LAA ✓
+  Game 777158: AZ @ SD ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-07-10.csv
+
+Processing 2025-07-11: 17 games
+  Game 777164: CLE @ CWS ✓
+  Game 777146: CLE @ CWS ✓
+  Game 777157: MIA @ BAL ✓
+  Game 777153: CHC @ NYY ✓
+  Game 777160: COL @ CIN ✓
+  Game 777161: SEA @ DET ✓
+  Game 777155: TB @ BOS ✓
+  Game 777151: NYM @ KC ✓
+  Game 777154: TEX @ HOU ✓
+  Game 777148: PIT @ MIN ✓
+  Game 777149: WSH @ MIL ✓
+  Game 777147: ATL @ STL ✓
+  Game 777150: AZ @ LAA ✓
+  Game 777139: PHI @ SD ✓
+  Game 777152: TOR @ ATH ✓
+  Game 777143: LAD @ SF ✓
+  Game 777164: CLE @ CWS ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-07-11.csv
+
+Processing 2025-07-12: 15 games
+  Game 777142: CHC @ NYY ✓
+  Game 777145: SEA @ DET ✓
+  Game 777134: PIT @ MIN ✓
+  Game 777133: ATL @ STL ✓
+  Game 777127: LAD @ SF ✓
+  Game 777141: MIA @ BAL ✓
+  Game 777140: COL @ CIN ✓
+  Game 777136: NYM @ KC ✓
+  Game 777144: TB @ BOS ✓
+  Game 777138: CLE @ CWS ✓
+  Game 777135: WSH @ MIL ✓
+  Game 777137: TEX @ HOU ✓
+  Game 777126: PHI @ SD ✓
+  Game 777131: AZ @ LAA ✓
+  Game 777132: TOR @ ATH ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-07-12.csv
+
+Processing 2025-07-13: 15 games
+  Game 777130: TB @ BOS ✓
+  Game 777129: MIA @ BAL ✓
+  Game 777122: CHC @ NYY ✓
+  Game 777128: COL @ CIN ✓
+  Game 777121: SEA @ DET ✓
+  Game 777124: NYM @ KC ✓
+  Game 777125: TEX @ HOU ✓
+  Game 777113: PIT @ MIN ✓
+  Game 777120: CLE @ CWS ✓
+  Game 777123: WSH @ MIL ✓
+  Game 777118: ATL @ STL ✓
+  Game 777119: LAD @ SF ✓
+  Game 777116: TOR @ ATH ✓
+  Game 777115: AZ @ LAA ✓
+  Game 777117: PHI @ SD ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-07-13.csv
+
+Processing 2025-07-18: 15 games
+  Game 777101: BOS @ CHC ✓
+  Game 777107: CWS @ PIT ✓
+  Game 777112: SD @ WSH ✓
+  Game 777106: LAA @ PHI ✓
+  Game 777108: SF @ TOR ✓
+  Game 777111: CIN @ NYM ✓
+  Game 777105: ATH @ CLE ✓
+  Game 777109: KC @ MIA ✓
+  Game 777114: NYY @ ATL ✓
+  Game 777110: BAL @ TB ✓
+  Game 777098: DET @ TEX ✓
+  Game 777102: MIN @ COL ✓
+  Game 777100: STL @ AZ ✓
+  Game 777099: HOU @ SEA ✓
+  Game 777103: MIL @ LAD ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-07-18.csv
+
+Processing 2025-07-19: 15 games
+  Game 777094: SF @ TOR ✓
+  Game 777092: CIN @ NYM ✓
+  Game 777093: KC @ MIA ✓
+  Game 777089: LAA @ PHI ✓
+  Game 777090: CWS @ PIT ✓
+  Game 777091: SD @ WSH ✓
+  Game 777095: BAL @ TB ✓
+  Game 777088: DET @ TEX ✓
+  Game 777104: ATH @ CLE ✓
+  Game 777096: BOS @ CHC ✓
+  Game 777081: STL @ AZ ✓
+  Game 777097: NYY @ ATL ✓
+  Game 777080: MIN @ COL ✓
+  Game 777085: MIL @ LAD ✓
+  Game 777086: HOU @ SEA ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-07-19.csv
+
+Processing 2025-07-20: 15 games
+  Game 777079: SF @ TOR ✓
+  Game 777076: BAL @ TB ✓
+  Game 777077: SD @ WSH ✓
+  Game 777078: LAA @ PHI ✓
+  Game 777074: CWS @ PIT ✓
+  Game 777083: NYY @ ATL ✓
+  Game 777087: CIN @ NYM ✓
+  Game 777084: ATH @ CLE ✓
+  Game 777082: KC @ MIA ✓
+  Game 777075: BOS @ CHC ✓
+  Game 777072: MIN @ COL ✓
+  Game 777067: HOU @ SEA ✓
+  Game 777071: STL @ AZ ✓
+  Game 777070: MIL @ LAD ✓
+  Game 777073: DET @ TEX ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-07-20.csv
+
+Processing 2025-07-21: 15 games
+  Game 777068: BAL @ CLE ✓
+  Game 777060: DET @ PIT ✓
+  Game 777062: SD @ MIA ✓
+  Game 777064: CIN @ WSH ✓
+  Game 777063: BOS @ PHI ✓
+  Game 777066: NYY @ TOR ✓
+  Game 777061: LAA @ NYM ✓
+  Game 777069: SF @ ATL ✓
+  Game 777059: CWS @ TB ✓
+  Game 777065: KC @ CHC ✓
+  Game 777057: ATH @ TEX ✓
+  Game 777053: STL @ COL ✓
+  Game 777055: HOU @ AZ ✓
+  Game 777050: MIL @ SEA ✓
+  Game 777051: MIN @ LAD ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-07-21.csv
+
+Processing 2025-07-22: 15 games
+  Game 777056: BAL @ CLE ✓
+  Game 777044: DET @ PIT ✓
+  Game 777052: SD @ MIA ✓
+  Game 777042: CIN @ WSH ✓
+  Game 777045: BOS @ PHI ✓
+  Game 777048: CWS @ TB ✓
+  Game 777046: NYY @ TOR ✓
+  Game 777054: LAA @ NYM ✓
+  Game 777058: SF @ ATL ✓
+  Game 777047: KC @ CHC ✓
+  Game 777043: ATH @ TEX ✓
+  Game 777049: STL @ COL ✓
+  Game 777040: HOU @ AZ ✓
+  Game 777035: MIL @ SEA ✓
+  Game 777039: MIN @ LAD ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-07-22.csv
+
+Processing 2025-07-23: 15 games
+  Game 777026: CIN @ WSH ✓
+  Game 777037: SD @ MIA ✓
+  Game 777041: SF @ ATL ✓
+  Game 777029: DET @ PIT ✓
+  Game 777034: LAA @ NYM ✓
+  Game 777031: KC @ CHC ✓
+  Game 777028: STL @ COL ✓
+  Game 777032: HOU @ AZ ✓
+  Game 777024: MIL @ SEA ✓
+  Game 777022: MIN @ LAD ✓
+  Game 777036: BAL @ CLE ✓
+  Game 777027: NYY @ TOR ✓
+  Game 777038: BOS @ PHI ✓
+  Game 777030: CWS @ TB ✓
+  Game 777033: ATH @ TEX ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-07-23.csv
+
+Processing 2025-07-24: 5 games
+  Game 777019: BAL @ CLE ✓
+  Game 777021: TOR @ DET ✓
+  Game 777023: SD @ STL ✓
+  Game 777025: ATH @ HOU ✓
+  Game 777018: SEA @ LAA ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-07-24.csv
+
+Processing 2025-07-25: 14 games
+  Game 777008: MIA @ MIL ✓
+  Game 777014: AZ @ PIT ✓
+  Game 777020: COL @ BAL ✓
+  Game 777015: PHI @ NYY ✓
+  Game 777012: LAD @ BOS ✓
+  Game 777013: TB @ CIN ✓
+  Game 777016: TOR @ DET ✓
+  Game 777005: SD @ STL ✓
+  Game 777017: CHC @ CWS ✓
+  Game 777009: ATL @ TEX ✓
+  Game 777007: ATH @ HOU ✓
+  Game 777011: WSH @ MIN ✓
+  Game 777006: SEA @ LAA ✓
+  Game 777004: NYM @ SF ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-07-25.csv
+
+Processing 2025-07-26: 17 games
+  Game 777010: CLE @ KC ✓
+  Game 777001: PHI @ NYY ✓
+  Game 777010: CLE @ KC ✓
+  Game 776990: CLE @ KC ✓
+  Game 777003: TOR @ DET ✓
+  Game 777002: AZ @ PIT ✓
+  Game 777000: TB @ CIN ✓
+  Game 776999: COL @ BAL ✓
+  Game 776993: ATL @ TEX ✓
+  Game 776991: ATH @ HOU ✓
+  Game 776997: WSH @ MIN ✓
+  Game 776994: CHC @ CWS ✓
+  Game 776996: MIA @ MIL ✓
+  Game 776998: LAD @ BOS ✓
+  Game 776992: SD @ STL ✓
+  Game 776985: NYM @ SF ✓
+  Game 776995: SEA @ LAA ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-07-26.csv
+
+Processing 2025-07-27: 15 games
+  Game 776986: COL @ BAL ✓
+  Game 776983: LAD @ BOS ✓
+  Game 776984: AZ @ PIT ✓
+  Game 776988: PHI @ NYY ✓
+  Game 776982: TB @ CIN ✓
+  Game 776987: TOR @ DET ✓
+  Game 776975: CLE @ KC ✓
+  Game 776976: ATH @ HOU ✓
+  Game 776979: WSH @ MIN ✓
+  Game 776989: CHC @ CWS ✓
+  Game 776978: MIA @ MIL ✓
+  Game 776980: SD @ STL ✓
+  Game 776981: ATL @ TEX ✓
+  Game 776977: SEA @ LAA ✓
+  Game 776974: NYM @ SF ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-07-27.csv
+
+Processing 2025-07-28: 15 games
+  Game 776966: TOR @ BAL ✓
+  Game 776968: COL @ CLE ✓
+  Game 776973: AZ @ DET ✓
+  Game 776970: TB @ NYY ✓
+  Game 776967: LAD @ CIN ✓
+  Game 776961: BOS @ MIN ✓
+  Game 776971: ATL @ KC ✓
+  Game 776972: PHI @ CWS ✓
+  Game 776965: CHC @ MIL ✓
+  Game 776960: MIA @ STL ✓
+  Game 776969: WSH @ HOU ✓
+  Game 776958: TEX @ LAA ✓
+  Game 776959: NYM @ SD ✓
+  Game 776964: PIT @ SF ✓
+  Game 776957: SEA @ ATH ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-07-28.csv
+
+Processing 2025-07-29: 17 games
+  Game 778372: TOR @ BAL ✓
+  Game 776962: TOR @ BAL ✓
+  Game 776951: COL @ CLE ✓
+  Game 776953: AZ @ DET ✓
+  Game 776949: TB @ NYY ✓
+  Game 776963: LAD @ CIN ✓
+  Game 776954: BOS @ MIN ✓
+  Game 776955: ATL @ KC ✓
+  Game 776952: PHI @ CWS ✓
+  Game 776956: CHC @ MIL ✓
+  Game 776946: MIA @ STL ✓
+  Game 776950: WSH @ HOU ✓
+  Game 776945: TEX @ LAA ✓
+  Game 776947: NYM @ SD ✓
+  Game 776943: PIT @ SF ✓
+  Game 776944: SEA @ ATH ✓
+  Game 778372: TOR @ BAL ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-07-29.csv
+
+Processing 2025-07-30: 15 games
+  Game 776948: TOR @ BAL ✓
+  Game 776940: AZ @ DET ✓
+  Game 776935: BOS @ MIN ✓
+  Game 776937: WSH @ HOU ✓
+  Game 776936: ATL @ KC ✓
+  Game 776939: PHI @ CWS ✓
+  Game 776929: CHC @ MIL ✓
+  Game 776933: PIT @ SF ✓
+  Game 776931: NYM @ SD ✓
+  Game 776942: COL @ CLE ✓
+  Game 776938: TB @ NYY ✓
+  Game 776941: LAD @ CIN ✓
+  Game 776934: MIA @ STL ✓
+  Game 776932: TEX @ LAA ✓
+  Game 776930: SEA @ ATH ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-07-30.csv
+
+Processing 2025-07-31: 3 games
+  Game 776927: TB @ NYY ✓
+  Game 776928: ATL @ CIN ✓
+  Game 776923: TEX @ SEA ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-07-31.csv
+
+Processing 2025-08-01: 15 games
+  Game 776921: ATL @ CIN ✓
+  Game 776915: BAL @ CHC ✓
+  Game 776913: DET @ PHI ✓
+  Game 776917: MIL @ WSH ✓
+  Game 776920: KC @ TOR ✓
+  Game 776922: HOU @ BOS ✓
+  Game 776926: SF @ NYM ✓
+  Game 776924: MIN @ CLE ✓
+  Game 776925: NYY @ MIA ✓
+  Game 776918: LAD @ TB ✓
+  Game 776919: PIT @ COL ✓
+  Game 776916: CWS @ LAA ✓
+  Game 776906: STL @ SD ✓
+  Game 776914: AZ @ ATH ✓
+  Game 776908: TEX @ SEA ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-08-01.csv
+
+Processing 2025-08-02: 16 games
+  Game 776907: ATL @ CIN ✓
+  Game 776901: LAD @ TB ✓
+  Game 776902: BAL @ CHC ✓
+  Game 776900: KC @ TOR ✓
+  Game 776904: PIT @ COL ✓
+  Game 776912: DET @ PHI ✓
+  Game 776903: MIL @ WSH ✓
+  Game 776909: HOU @ BOS ✓
+  Game 776911: SF @ NYM ✓
+  Game 776897: TEX @ SEA ✓
+  Game 776905: MIN @ CLE ✓
+  Game 776910: NYY @ MIA ✓
+  Game 776907: ATL @ CIN ✓
+  Game 776899: AZ @ ATH ✓
+  Game 776898: CWS @ LAA ✓
+  Game 776896: STL @ SD ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-08-02.csv
+
+Processing 2025-08-03: 14 games
+  Game 776895: HOU @ BOS ✓
+  Game 776889: LAD @ TB ✓
+  Game 776894: MIL @ WSH ✓
+  Game 776893: KC @ TOR ✓
+  Game 776887: SF @ NYM ✓
+  Game 776892: MIN @ CLE ✓
+  Game 776891: NYY @ MIA ✓
+  Game 776888: BAL @ CHC ✓
+  Game 776886: PIT @ COL ✓
+  Game 776881: AZ @ ATH ✓
+  Game 776885: CWS @ LAA ✓
+  Game 776884: STL @ SD ✓
+  Game 776883: TEX @ SEA ✓
+  Game 776890: DET @ PHI ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-08-03.csv
+
+Processing 2025-08-04: 13 games
+  Game 776879: SF @ PIT ✓
+  Game 776874: MIN @ DET ✓
+  Game 776875: HOU @ MIA ✓
+  Game 776877: BAL @ PHI ✓
+  Game 776880: KC @ BOS ✓
+  Game 776876: CLE @ NYM ✓
+  Game 776882: MIL @ ATL ✓
+  Game 776878: CIN @ CHC ✓
+  Game 776871: NYY @ TEX ✓
+  Game 776872: TOR @ COL ✓
+  Game 776867: TB @ LAA ✓
+  Game 776873: SD @ AZ ✓
+  Game 776870: STL @ LAD ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-08-04.csv
+
+Processing 2025-08-05: 15 games
+  Game 776866: SF @ PIT ✓
+  Game 776861: MIN @ DET ✓
+  Game 776862: HOU @ MIA ✓
+  Game 776865: ATH @ WSH ✓
+  Game 776868: BAL @ PHI ✓
+  Game 776864: KC @ BOS ✓
+  Game 776863: CLE @ NYM ✓
+  Game 776869: MIL @ ATL ✓
+  Game 776860: CIN @ CHC ✓
+  Game 776855: NYY @ TEX ✓
+  Game 776854: TOR @ COL ✓
+  Game 776848: TB @ LAA ✓
+  Game 776852: SD @ AZ ✓
+  Game 776857: CWS @ SEA ✓
+  Game 776858: STL @ LAD ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-08-05.csv
+
+Processing 2025-08-06: 15 games
+  Game 776844: SF @ PIT ✓
+  Game 776851: BAL @ PHI ✓
+  Game 776846: CLE @ NYM ✓
+  Game 776859: MIN @ DET ✓
+  Game 776847: CIN @ CHC ✓
+  Game 776845: NYY @ TEX ✓
+  Game 776836: TOR @ COL ✓
+  Game 776843: TB @ LAA ✓
+  Game 776839: STL @ LAD ✓
+  Game 776849: HOU @ MIA ✓
+  Game 776850: ATH @ WSH ✓
+  Game 776856: KC @ BOS ✓
+  Game 776853: MIL @ ATL ✓
+  Game 776838: SD @ AZ ✓
+  Game 776841: CWS @ SEA ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-08-06.csv
+
+Processing 2025-08-07: 4 games
+  Game 776837: ATH @ WSH ✓
+  Game 776830: CWS @ SEA ✓
+  Game 776840: CIN @ PIT ✓
+  Game 776842: MIA @ ATL ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-08-07.csv
+
+Processing 2025-08-08: 15 games
+  Game 776829: CIN @ PIT ✓
+  Game 776831: ATH @ BAL ✓
+  Game 776835: HOU @ NYY ✓
+  Game 776832: LAA @ DET ✓
+  Game 776834: MIA @ ATL ✓
+  Game 776833: CLE @ CWS ✓
+  Game 776821: PHI @ TEX ✓
+  Game 776827: KC @ MIN ✓
+  Game 776828: NYM @ MIL ✓
+  Game 776826: CHC @ STL ✓
+  Game 776825: COL @ AZ ✓
+  Game 776820: BOS @ SD ✓
+  Game 776824: TB @ SEA ✓
+  Game 776823: TOR @ LAD ✓
+  Game 776822: WSH @ SF ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-08-08.csv
+
+Processing 2025-08-09: 17 games
+  Game 778431: MIA @ ATL ✓
+  Game 776819: MIA @ ATL ✓
+  Game 776815: HOU @ NYY ✓
+  Game 776802: WSH @ SF ✓
+  Game 776813: LAA @ DET ✓
+  Game 776812: CIN @ PIT ✓
+  Game 776811: ATH @ BAL ✓
+  Game 776816: KC @ MIN ✓
+  Game 776814: CLE @ CWS ✓
+  Game 776817: NYM @ MIL ✓
+  Game 776818: CHC @ STL ✓
+  Game 776810: PHI @ TEX ✓
+  Game 776809: COL @ AZ ✓
+  Game 776807: BOS @ SD ✓
+  Game 776808: TOR @ LAD ✓
+  Game 776805: TB @ SEA ✓
+  Game 778431: MIA @ ATL ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-08-09.csv
+
+Processing 2025-08-10: 15 games
+  Game 776796: KC @ MIN ✓
+  Game 776804: ATH @ BAL ✓
+  Game 776801: CIN @ PIT ✓
+  Game 776803: MIA @ ATL ✓
+  Game 776797: HOU @ NYY ✓
+  Game 776806: LAA @ DET ✓
+  Game 776798: CLE @ CWS ✓
+  Game 776799: NYM @ MIL ✓
+  Game 776800: PHI @ TEX ✓
+  Game 776793: WSH @ SF ✓
+  Game 776794: COL @ AZ ✓
+  Game 776789: BOS @ SD ✓
+  Game 776791: TB @ SEA ✓
+  Game 776788: TOR @ LAD ✓
+  Game 776795: CHC @ STL ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-08-10.csv
+
+Processing 2025-08-11: 11 games
+  Game 776792: PHI @ CIN ✓
+  Game 776790: MIN @ NYY ✓
+  Game 776784: WSH @ KC ✓
+  Game 776781: DET @ CWS ✓
+  Game 776786: PIT @ MIL ✓
+  Game 776783: COL @ STL ✓
+  Game 776785: AZ @ TEX ✓
+  Game 776782: BOS @ HOU ✓
+  Game 776779: LAD @ LAA ✓
+  Game 776780: SD @ SF ✓
+  Game 776787: TB @ ATH ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-08-11.csv
+
+Processing 2025-08-12: 15 games
+  Game 776776: SEA @ BAL ✓
+  Game 776777: PHI @ CIN ✓
+  Game 776778: MIA @ CLE ✓
+  Game 776774: MIN @ NYY ✓
+  Game 776768: CHC @ TOR ✓
+  Game 776772: ATL @ NYM ✓
+  Game 776770: WSH @ KC ✓
+  Game 776773: DET @ CWS ✓
+  Game 776771: PIT @ MIL ✓
+  Game 776775: COL @ STL ✓
+  Game 776764: AZ @ TEX ✓
+  Game 776769: BOS @ HOU ✓
+  Game 776763: LAD @ LAA ✓
+  Game 776767: SD @ SF ✓
+  Game 776762: TB @ ATH ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-08-12.csv
+
+Processing 2025-08-13: 15 games
+  Game 776759: WSH @ KC ✓
+  Game 776754: DET @ CWS ✓
+  Game 776755: PIT @ MIL ✓
+  Game 776758: COL @ STL ✓
+  Game 776746: AZ @ TEX ✓
+  Game 776749: SD @ SF ✓
+  Game 776765: PHI @ CIN ✓
+  Game 776761: SEA @ BAL ✓
+  Game 776766: MIA @ CLE ✓
+  Game 776760: MIN @ NYY ✓
+  Game 776757: CHC @ TOR ✓
+  Game 776753: BOS @ HOU ✓
+  Game 776756: ATL @ NYM ✓
+  Game 776752: LAD @ LAA ✓
+  Game 776751: TB @ ATH ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-08-13.csv
+
+Processing 2025-08-14: 7 games
+  Game 776750: SEA @ BAL ✓
+  Game 776747: CHC @ TOR ✓
+  Game 776745: MIA @ CLE ✓
+  Game 776743: PHI @ WSH ✓
+  Game 776748: ATL @ NYM ✓
+  Game 776744: DET @ MIN ✓
+  Game 776742: AZ @ COL ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-08-14.csv
+
+Processing 2025-08-15: 15 games
+  Game 776737: PIT @ CHC ✓
+  Game 776740: MIL @ CIN ✓
+  Game 776739: PHI @ WSH ✓
+  Game 776735: TEX @ TOR ✓
+  Game 776736: SEA @ NYM ✓
+  Game 776738: ATL @ CLE ✓
+  Game 776741: MIA @ BOS ✓
+  Game 776733: BAL @ HOU ✓
+  Game 776732: DET @ MIN ✓
+  Game 776728: CWS @ KC ✓
+  Game 776731: NYY @ STL ✓
+  Game 776730: AZ @ COL ✓
+  Game 776734: LAA @ ATH ✓
+  Game 776727: SD @ LAD ✓
+  Game 776729: TB @ SF ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-08-15.csv
+
+Processing 2025-08-16: 15 games
+  Game 776719: PIT @ CHC ✓
+  Game 776723: TEX @ TOR ✓
+  Game 776725: PHI @ WSH ✓
+  Game 776726: SEA @ NYM ✓
+  Game 776724: MIA @ BOS ✓
+  Game 776721: MIL @ CIN ✓
+  Game 776722: BAL @ HOU ✓
+  Game 776720: ATL @ CLE ✓
+  Game 776712: CWS @ KC ✓
+  Game 776716: DET @ MIN ✓
+  Game 776713: NYY @ STL ✓
+  Game 776715: AZ @ COL ✓
+  Game 776711: TB @ SF ✓
+  Game 776717: SD @ LAD ✓
+  Game 776718: LAA @ ATH ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-08-16.csv
+
+Processing 2025-08-17: 15 games
+  Game 776708: PHI @ WSH ✓
+  Game 776714: MIA @ BOS ✓
+  Game 776710: TEX @ TOR ✓
+  Game 776706: ATL @ CLE ✓
+  Game 776709: MIL @ CIN ✓
+  Game 776705: BAL @ HOU ✓
+  Game 776700: DET @ MIN ✓
+  Game 776702: CWS @ KC ✓
+  Game 776698: NYY @ STL ✓
+  Game 776704: PIT @ CHC ✓
+  Game 776701: AZ @ COL ✓
+  Game 776699: LAA @ ATH ✓
+  Game 776703: TB @ SF ✓
+  Game 776697: SD @ LAD ✓
+  Game 776707: SEA @ NYM ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-08-17.csv
+
+Processing 2025-08-18: 13 games
+  Game 777459: MIL @ CHC ✓
+  Game 776692: HOU @ DET ✓
+  Game 776694: TOR @ PIT ✓
+  Game 776688: STL @ MIA ✓
+  Game 776689: SEA @ PHI ✓
+  Game 776695: BAL @ BOS ✓
+  Game 776696: CWS @ ATL ✓
+  Game 776690: TEX @ KC ✓
+  Game 776693: LAD @ COL ✓
+  Game 776681: CIN @ LAA ✓
+  Game 776682: CLE @ AZ ✓
+  Game 776683: SF @ SD ✓
+  Game 777459: MIL @ CHC ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-08-18.csv
+
+Processing 2025-08-19: 17 games
+  Game 776691: MIL @ CHC ✓
+  Game 776691: MIL @ CHC ✓
+  Game 776676: MIL @ CHC ✓
+  Game 776685: HOU @ DET ✓
+  Game 776679: TOR @ PIT ✓
+  Game 776686: STL @ MIA ✓
+  Game 776678: NYM @ WSH ✓
+  Game 776680: SEA @ PHI ✓
+  Game 776684: BAL @ BOS ✓
+  Game 776687: CWS @ ATL ✓
+  Game 776677: NYY @ TB ✓
+  Game 776675: TEX @ KC ✓
+  Game 776674: ATH @ MIN ✓
+  Game 776671: LAD @ COL ✓
+  Game 776668: CIN @ LAA ✓
+  Game 776672: CLE @ AZ ✓
+  Game 776667: SF @ SD ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-08-19.csv
+
+Processing 2025-08-20: 14 games
+  Game 776661: TOR @ PIT ✓
+  Game 776662: SEA @ PHI ✓
+  Game 776673: HOU @ DET ✓
+  Game 776658: CLE @ AZ ✓
+  Game 776670: STL @ MIA ✓
+  Game 776659: NYM @ WSH ✓
+  Game 776669: CWS @ ATL ✓
+  Game 776664: NYY @ TB ✓
+  Game 776666: TEX @ KC ✓
+  Game 776665: ATH @ MIN ✓
+  Game 776663: MIL @ CHC ✓
+  Game 776660: LAD @ COL ✓
+  Game 776652: CIN @ LAA ✓
+  Game 776656: SF @ SD ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-08-20.csv
+
+Processing 2025-08-21: 9 games
+  Game 776653: ATH @ MIN ✓
+  Game 776657: TEX @ KC ✓
+  Game 776651: MIL @ CHC ✓
+  Game 776644: LAD @ COL ✓
+  Game 776650: NYM @ WSH ✓
+  Game 776642: SF @ SD ✓
+  Game 776655: HOU @ BAL ✓
+  Game 776654: BOS @ NYY ✓
+  Game 776631: STL @ TB ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-08-21.csv
+
+Processing 2025-08-22: 15 games
+  Game 776637: COL @ PIT ✓
+  Game 776648: WSH @ PHI ✓
+  Game 776643: HOU @ BAL ✓
+  Game 776647: BOS @ NYY ✓
+  Game 776649: KC @ DET ✓
+  Game 776646: TOR @ MIA ✓
+  Game 776645: NYM @ ATL ✓
+  Game 776633: STL @ TB ✓
+  Game 776639: MIN @ CWS ✓
+  Game 776641: CLE @ TEX ✓
+  Game 776634: SF @ MIL ✓
+  Game 776640: CHC @ LAA ✓
+  Game 776635: CIN @ AZ ✓
+  Game 776636: LAD @ SD ✓
+  Game 776638: ATH @ SEA ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-08-22.csv
+
+Processing 2025-08-23: 14 games
+  Game 776627: BOS @ NYY ✓
+  Game 776630: TOR @ MIA ✓
+  Game 776628: WSH @ PHI ✓
+  Game 776625: KC @ DET ✓
+  Game 776632: COL @ PIT ✓
+  Game 776629: HOU @ BAL ✓
+  Game 776623: CLE @ TEX ✓
+  Game 776619: MIN @ CWS ✓
+  Game 776621: SF @ MIL ✓
+  Game 776626: NYM @ ATL ✓
+  Game 776622: CIN @ AZ ✓
+  Game 776617: LAD @ SD ✓
+  Game 776618: CHC @ LAA ✓
+  Game 776620: ATH @ SEA ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-08-23.csv
+
+Processing 2025-08-24: 15 games
+  Game 776610: COL @ PIT ✓
+  Game 776606: STL @ TB ✓
+  Game 776612: HOU @ BAL ✓
+  Game 776613: WSH @ PHI ✓
+  Game 776624: NYM @ ATL ✓
+  Game 776615: KC @ DET ✓
+  Game 776614: TOR @ MIA ✓
+  Game 776607: MIN @ CWS ✓
+  Game 776608: SF @ MIL ✓
+  Game 776611: CLE @ TEX ✓
+  Game 776605: CHC @ LAA ✓
+  Game 776609: CIN @ AZ ✓
+  Game 776603: LAD @ SD ✓
+  Game 776602: ATH @ SEA ✓
+  Game 776616: BOS @ NYY ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-08-24.csv
+
+Processing 2025-08-25: 13 games
+  Game 776604: BOS @ BAL ✓
+  Game 776601: TB @ CLE ✓
+  Game 776600: ATL @ MIA ✓
+  Game 776597: WSH @ NYY ✓
+  Game 776596: MIN @ TOR ✓
+  Game 776598: PHI @ NYM ✓
+  Game 776599: KC @ CWS ✓
+  Game 776593: AZ @ MIL ✓
+  Game 776589: PIT @ STL ✓
+  Game 776592: LAA @ TEX ✓
+  Game 776595: SD @ SEA ✓
+  Game 776590: DET @ ATH ✓
+  Game 776594: CIN @ LAD ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-08-25.csv
+
+Processing 2025-08-26: 15 games
+  Game 776591: BOS @ BAL ✓
+  Game 776584: TB @ CLE ✓
+  Game 776581: ATL @ MIA ✓
+  Game 776588: WSH @ NYY ✓
+  Game 776582: MIN @ TOR ✓
+  Game 776585: PHI @ NYM ✓
+  Game 776583: KC @ CWS ✓
+  Game 776586: AZ @ MIL ✓
+  Game 776578: PIT @ STL ✓
+  Game 776575: LAA @ TEX ✓
+  Game 776587: COL @ HOU ✓
+  Game 776577: SD @ SEA ✓
+  Game 776576: CHC @ SF ✓
+  Game 776573: DET @ ATH ✓
+  Game 776574: CIN @ LAD ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-08-26.csv
+
+Processing 2025-08-27: 15 games
+  Game 776570: WSH @ NYY ✓
+  Game 776580: TB @ CLE ✓
+  Game 776565: ATL @ MIA ✓
+  Game 776561: SD @ SEA ✓
+  Game 776579: BOS @ BAL ✓
+  Game 776567: MIN @ TOR ✓
+  Game 776566: PHI @ NYM ✓
+  Game 776569: KC @ CWS ✓
+  Game 776572: AZ @ MIL ✓
+  Game 776568: PIT @ STL ✓
+  Game 776563: LAA @ TEX ✓
+  Game 776571: COL @ HOU ✓
+  Game 776562: CIN @ LAD ✓
+  Game 776557: CHC @ SF ✓
+  Game 776559: DET @ ATH ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-08-27.csv
+
+Processing 2025-08-28: 8 games
+  Game 776564: BOS @ BAL ✓
+  Game 776555: COL @ HOU ✓
+  Game 776553: AZ @ MIL ✓
+  Game 776554: PIT @ STL ✓
+  Game 776550: CHC @ SF ✓
+  Game 776560: ATL @ PHI ✓
+  Game 776558: MIA @ NYM ✓
+  Game 776556: NYY @ CWS ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-08-28.csv
+
+Processing 2025-08-29: 15 games
+  Game 776551: STL @ CIN ✓
+  Game 776545: TB @ WSH ✓
+  Game 776552: ATL @ PHI ✓
+  Game 776546: MIL @ TOR ✓
+  Game 776549: PIT @ BOS ✓
+  Game 776547: SEA @ CLE ✓
+  Game 776548: MIA @ NYM ✓
+  Game 776544: NYY @ CWS ✓
+  Game 776543: LAA @ HOU ✓
+  Game 776540: DET @ KC ✓
+  Game 776541: SD @ MIN ✓
+  Game 776542: CHC @ COL ✓
+  Game 776538: TEX @ ATH ✓
+  Game 776534: AZ @ LAD ✓
+  Game 776533: BAL @ SF ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-08-29.csv
+
+Processing 2025-08-30: 15 games
+  Game 776527: MIL @ TOR ✓
+  Game 776525: TB @ WSH ✓
+  Game 776539: PIT @ BOS ✓
+  Game 776535: MIA @ NYM ✓
+  Game 776532: ATL @ PHI ✓
+  Game 776536: STL @ CIN ✓
+  Game 776531: LAA @ HOU ✓
+  Game 776530: SD @ MIN ✓
+  Game 776529: NYY @ CWS ✓
+  Game 776528: DET @ KC ✓
+  Game 776537: SEA @ CLE ✓
+  Game 776516: BAL @ SF ✓
+  Game 776526: CHC @ COL ✓
+  Game 776523: AZ @ LAD ✓
+  Game 776524: TEX @ ATH ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-08-30.csv
+
+Processing 2025-08-31: 15 games
+  Game 776518: STL @ CIN ✓
+  Game 776513: SD @ MIN ✓
+  Game 776517: PIT @ BOS ✓
+  Game 776520: TB @ WSH ✓
+  Game 776515: MIL @ TOR ✓
+  Game 776521: SEA @ CLE ✓
+  Game 776519: MIA @ NYM ✓
+  Game 776510: LAA @ HOU ✓
+  Game 776512: DET @ KC ✓
+  Game 776514: NYY @ CWS ✓
+  Game 776511: CHC @ COL ✓
+  Game 776507: BAL @ SF ✓
+  Game 776508: TEX @ ATH ✓
+  Game 776509: AZ @ LAD ✓
+  Game 776522: ATL @ PHI ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-08-31.csv
+
+Processing 2025-09-01: 13 games
+  Game 776498: MIA @ WSH ✓
+  Game 776501: NYM @ DET ✓
+  Game 776503: TOR @ CIN ✓
+  Game 776505: CLE @ BOS ✓
+  Game 776499: LAA @ HOU ✓
+  Game 776502: CWS @ MIN ✓
+  Game 776497: ATH @ STL ✓
+  Game 776506: ATL @ CHC ✓
+  Game 776492: SF @ COL ✓
+  Game 776500: PHI @ MIL ✓
+  Game 776494: BAL @ SD ✓
+  Game 776504: SEA @ TB ✓
+  Game 776495: TEX @ AZ ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-09-01.csv
+
+Processing 2025-09-02: 14 games
+  Game 776490: NYM @ DET ✓
+  Game 776496: LAD @ PIT ✓
+  Game 776491: TOR @ CIN ✓
+  Game 776493: CLE @ BOS ✓
+  Game 776482: MIA @ WSH ✓
+  Game 776485: SEA @ TB ✓
+  Game 776488: LAA @ KC ✓
+  Game 776487: ATL @ CHC ✓
+  Game 776484: CWS @ MIN ✓
+  Game 776483: ATH @ STL ✓
+  Game 776489: NYY @ HOU ✓
+  Game 776486: SF @ COL ✓
+  Game 776480: BAL @ SD ✓
+  Game 776481: TEX @ AZ ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-09-02.csv
+
+Processing 2025-09-03: 15 games
+  Game 776477: MIA @ WSH ✓
+  Game 776478: NYM @ DET ✓
+  Game 776468: TEX @ AZ ✓
+  Game 776465: BAL @ SD ✓
+  Game 776479: LAD @ PIT ✓
+  Game 776475: TOR @ CIN ✓
+  Game 776474: CLE @ BOS ✓
+  Game 776476: SEA @ TB ✓
+  Game 776466: LAA @ KC ✓
+  Game 776473: ATL @ CHC ✓
+  Game 776469: CWS @ MIN ✓
+  Game 776471: PHI @ MIL ✓
+  Game 776470: ATH @ STL ✓
+  Game 776472: NYY @ HOU ✓
+  Game 776467: SF @ COL ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-09-03.csv
+
+Processing 2025-09-04: 6 games
+  Game 776459: PHI @ MIL ✓
+  Game 776461: LAD @ PIT ✓
+  Game 776458: CLE @ TB ✓
+  Game 776463: LAA @ KC ✓
+  Game 776462: CWS @ MIN ✓
+  Game 776464: NYY @ HOU ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-09-04.csv
+
+Processing 2025-09-05: 15 games
+  Game 776455: WSH @ CHC ✓
+  Game 776450: NYM @ CIN ✓
+  Game 776452: CWS @ DET ✓
+  Game 776453: MIL @ PIT ✓
+  Game 776454: LAD @ BAL ✓
+  Game 776457: TOR @ NYY ✓
+  Game 776456: PHI @ MIA ✓
+  Game 776460: SEA @ ATL ✓
+  Game 776451: CLE @ TB ✓
+  Game 776446: MIN @ KC ✓
+  Game 776449: HOU @ TEX ✓
+  Game 776445: SF @ STL ✓
+  Game 776442: SD @ COL ✓
+  Game 776444: ATH @ LAA ✓
+  Game 776448: BOS @ AZ ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-09-05.csv
+
+Processing 2025-09-06: 15 games
+  Game 776436: TOR @ NYY ✓
+  Game 776440: WSH @ CHC ✓
+  Game 776433: PHI @ MIA ✓
+  Game 776435: CWS @ DET ✓
+  Game 776439: NYM @ CIN ✓
+  Game 776441: MIL @ PIT ✓
+  Game 776443: LAD @ BAL ✓
+  Game 776438: CLE @ TB ✓
+  Game 776437: SF @ STL ✓
+  Game 776432: HOU @ TEX ✓
+  Game 776434: MIN @ KC ✓
+  Game 776447: SEA @ ATL ✓
+  Game 776424: BOS @ AZ ✓
+  Game 776431: SD @ COL ✓
+  Game 776430: ATH @ LAA ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-09-06.csv
+
+Processing 2025-09-07: 15 games
+  Game 776428: SEA @ ATL ✓
+  Game 776421: CLE @ TB ✓
+  Game 776427: LAD @ BAL ✓
+  Game 776423: TOR @ NYY ✓
+  Game 776419: MIL @ PIT ✓
+  Game 776429: NYM @ CIN ✓
+  Game 776425: CWS @ DET ✓
+  Game 776426: PHI @ MIA ✓
+  Game 776422: MIN @ KC ✓
+  Game 776416: SF @ STL ✓
+  Game 776420: WSH @ CHC ✓
+  Game 776418: HOU @ TEX ✓
+  Game 776417: SD @ COL ✓
+  Game 776414: ATH @ LAA ✓
+  Game 776415: BOS @ AZ ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-09-07.csv
+
+Processing 2025-09-08: 11 games
+  Game 776413: KC @ CLE ✓
+  Game 776409: WSH @ MIA ✓
+  Game 776405: NYM @ PHI ✓
+  Game 776412: CHC @ ATL ✓
+  Game 776406: MIL @ TEX ✓
+  Game 776411: MIN @ LAA ✓
+  Game 776407: CIN @ SD ✓
+  Game 776400: STL @ SEA ✓
+  Game 776399: AZ @ SF ✓
+  Game 776410: BOS @ ATH ✓
+  Game 776408: COL @ LAD ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-09-08.csv
+
+Processing 2025-09-09: 15 games
+  Game 776401: PIT @ BAL ✓
+  Game 776403: KC @ CLE ✓
+  Game 776397: WSH @ MIA ✓
+  Game 776404: NYM @ PHI ✓
+  Game 776398: DET @ NYY ✓
+  Game 776393: HOU @ TOR ✓
+  Game 776402: CHC @ ATL ✓
+  Game 776388: TB @ CWS ✓
+  Game 776395: MIL @ TEX ✓
+  Game 776390: MIN @ LAA ✓
+  Game 776392: CIN @ SD ✓
+  Game 776391: STL @ SEA ✓
+  Game 776394: AZ @ SF ✓
+  Game 776396: BOS @ ATH ✓
+  Game 776389: COL @ LAD ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-09-09.csv
+
+Processing 2025-09-10: 15 games
+  Game 776375: MIL @ TEX ✓
+  Game 776379: BOS @ ATH ✓
+  Game 776374: AZ @ SF ✓
+  Game 776376: MIN @ LAA ✓
+  Game 776387: PIT @ BAL ✓
+  Game 776382: KC @ CLE ✓
+  Game 776386: WSH @ MIA ✓
+  Game 776384: NYM @ PHI ✓
+  Game 776383: DET @ NYY ✓
+  Game 776385: HOU @ TOR ✓
+  Game 776381: CHC @ ATL ✓
+  Game 776378: TB @ CWS ✓
+  Game 776377: CIN @ SD ✓
+  Game 776373: STL @ SEA ✓
+  Game 776380: COL @ LAD ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-09-10.csv
+
+Processing 2025-09-11: 9 games
+  Game 776372: PIT @ BAL ✓
+  Game 776364: TB @ CWS ✓
+  Game 776369: HOU @ TOR ✓
+  Game 776367: WSH @ MIA ✓
+  Game 776368: DET @ NYY ✓
+  Game 776370: KC @ CLE ✓
+  Game 776371: NYM @ PHI ✓
+  Game 776365: COL @ SD ✓
+  Game 776362: LAA @ SEA ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-09-11.csv
+
+Processing 2025-09-12: 15 games
+  Game 776352: TB @ CHC ✓
+  Game 776351: PIT @ WSH ✓
+  Game 776354: KC @ PHI ✓
+  Game 776353: BAL @ TOR ✓
+  Game 776359: TEX @ NYM ✓
+  Game 776361: CWS @ CLE ✓
+  Game 776366: DET @ MIA ✓
+  Game 776363: NYY @ BOS ✓
+  Game 776360: HOU @ ATL ✓
+  Game 776355: AZ @ MIN ✓
+  Game 776356: STL @ MIL ✓
+  Game 776357: COL @ SD ✓
+  Game 776358: CIN @ ATH ✓
+  Game 776345: LAA @ SEA ✓
+  Game 776350: LAD @ SF ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-09-12.csv
+
+Processing 2025-09-13: 15 games
+  Game 776338: TB @ CHC ✓
+  Game 776343: BAL @ TOR ✓
+  Game 776336: PIT @ WSH ✓
+  Game 776349: TEX @ NYM ✓
+  Game 776347: DET @ MIA ✓
+  Game 776344: NYY @ BOS ✓
+  Game 776342: KC @ PHI ✓
+  Game 776348: CWS @ CLE ✓
+  Game 776337: AZ @ MIN ✓
+  Game 776346: HOU @ ATL ✓
+  Game 776339: STL @ MIL ✓
+  Game 776341: COL @ SD ✓
+  Game 776328: LAD @ SF ✓
+  Game 776333: LAA @ SEA ✓
+  Game 776340: CIN @ ATH ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-09-13.csv
+
+Processing 2025-09-14: 15 games
+  Game 776320: PIT @ WSH ✓
+  Game 776334: KC @ PHI ✓
+  Game 776329: HOU @ ATL ✓
+  Game 776322: BAL @ TOR ✓
+  Game 776335: TEX @ NYM ✓
+  Game 776331: CWS @ CLE ✓
+  Game 776332: DET @ MIA ✓
+  Game 776324: AZ @ MIN ✓
+  Game 776326: STL @ MIL ✓
+  Game 776321: TB @ CHC ✓
+  Game 776327: CIN @ ATH ✓
+  Game 776325: LAD @ SF ✓
+  Game 776323: COL @ SD ✓
+  Game 776317: LAA @ SEA ✓
+  Game 776330: NYY @ BOS ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-09-14.csv
+
+Processing 2025-09-15: 9 games
+  Game 776318: CHC @ PIT ✓
+  Game 776315: ATL @ WSH ✓
+  Game 776316: TOR @ TB ✓
+  Game 776314: BAL @ CWS ✓
+  Game 776313: NYY @ MIN ✓
+  Game 776312: CIN @ STL ✓
+  Game 776319: TEX @ HOU ✓
+  Game 776309: SF @ AZ ✓
+  Game 776311: PHI @ LAD ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-09-15.csv
+
+Processing 2025-09-16: 17 games
+  Game 777825: ATL @ WSH ✓
+  Game 776307: ATL @ WSH ✓
+  Game 776303: CLE @ DET ✓
+  Game 776308: CHC @ PIT ✓
+  Game 776310: ATH @ BOS ✓
+  Game 776304: SD @ NYM ✓
+  Game 776305: TOR @ TB ✓
+  Game 776302: SEA @ KC ✓
+  Game 776306: BAL @ CWS ✓
+  Game 776298: NYY @ MIN ✓
+  Game 776295: LAA @ MIL ✓
+  Game 776300: CIN @ STL ✓
+  Game 776301: TEX @ HOU ✓
+  Game 776293: MIA @ COL ✓
+  Game 776294: SF @ AZ ✓
+  Game 776297: PHI @ LAD ✓
+  Game 777825: ATL @ WSH ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-09-16.csv
+
+Processing 2025-09-17: 15 games
+  Game 776287: CHC @ PIT ✓
+  Game 776283: CIN @ STL ✓
+  Game 776285: BAL @ CWS ✓
+  Game 776279: SF @ AZ ✓
+  Game 776286: ATL @ WSH ✓
+  Game 776296: CLE @ DET ✓
+  Game 776299: ATH @ BOS ✓
+  Game 776290: TOR @ TB ✓
+  Game 776288: SD @ NYM ✓
+  Game 776289: SEA @ KC ✓
+  Game 776284: NYY @ MIN ✓
+  Game 776291: LAA @ MIL ✓
+  Game 776292: TEX @ HOU ✓
+  Game 776277: MIA @ COL ✓
+  Game 776280: PHI @ LAD ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-09-17.csv
+
+Processing 2025-09-18: 10 games
+  Game 776275: CLE @ DET ✓
+  Game 776276: SD @ NYM ✓
+  Game 776269: TOR @ TB ✓
+  Game 776281: ATH @ BOS ✓
+  Game 776272: SEA @ KC ✓
+  Game 776270: MIA @ COL ✓
+  Game 776282: CHC @ CIN ✓
+  Game 776278: NYY @ BAL ✓
+  Game 776274: LAA @ MIL ✓
+  Game 776271: SF @ LAD ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-09-18.csv
+
+Processing 2025-09-19: 15 games
+  Game 776267: CHC @ CIN ✓
+  Game 776266: ATH @ PIT ✓
+  Game 776268: ATL @ DET ✓
+  Game 776273: NYY @ BAL ✓
+  Game 776259: WSH @ NYM ✓
+  Game 776261: BOS @ TB ✓
+  Game 776260: TOR @ KC ✓
+  Game 776264: SD @ CWS ✓
+  Game 776251: MIA @ TEX ✓
+  Game 776253: LAA @ COL ✓
+  Game 776262: SEA @ HOU ✓
+  Game 776263: CLE @ MIN ✓
+  Game 776265: MIL @ STL ✓
+  Game 776255: PHI @ AZ ✓
+  Game 776256: SF @ LAD ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-09-19.csv
+
+Processing 2025-09-20: 17 games
+  Game 776258: ATL @ DET ✓
+  Game 777839: CLE @ MIN ✓
+  Game 776243: CLE @ MIN ✓
+  Game 776252: WSH @ NYM ✓
+  Game 776254: CHC @ CIN ✓
+  Game 776249: ATH @ PIT ✓
+  Game 776247: BOS @ TB ✓
+  Game 776242: MIA @ TEX ✓
+  Game 776257: NYY @ BAL ✓
+  Game 776248: SEA @ HOU ✓
+  Game 776245: TOR @ KC ✓
+  Game 776250: SD @ CWS ✓
+  Game 776244: MIL @ STL ✓
+  Game 776241: LAA @ COL ✓
+  Game 776246: PHI @ AZ ✓
+  Game 776233: SF @ LAD ✓
+  Game 777839: CLE @ MIN ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-09-20.csv
+
+Processing 2025-09-21: 15 games
+  Game 776238: ATL @ DET ✓
+  Game 776234: ATH @ PIT ✓
+  Game 776240: NYY @ BAL ✓
+  Game 776239: CHC @ CIN ✓
+  Game 776237: WSH @ NYM ✓
+  Game 776229: TOR @ KC ✓
+  Game 776225: CLE @ MIN ✓
+  Game 776235: SD @ CWS ✓
+  Game 776231: MIL @ STL ✓
+  Game 776226: MIA @ TEX ✓
+  Game 776232: LAA @ COL ✓
+  Game 776227: SF @ LAD ✓
+  Game 776230: PHI @ AZ ✓
+  Game 776228: SEA @ HOU ✓
+  Game 776236: BOS @ TB ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-09-21.csv
+
+Processing 2025-09-22: 3 games
+  Game 776221: WSH @ ATL ✓
+  Game 776222: MIL @ SD ✓
+  Game 776220: STL @ SF ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-09-22.csv
+
+Processing 2025-09-23: 15 games
+  Game 776223: TB @ BAL ✓
+  Game 776218: DET @ CLE ✓
+  Game 776224: PIT @ CIN ✓
+  Game 776215: MIA @ PHI ✓
+  Game 776216: CWS @ NYY ✓
+  Game 776217: BOS @ TOR ✓
+  Game 776219: WSH @ ATL ✓
+  Game 776209: NYM @ CHC ✓
+  Game 776210: MIN @ TEX ✓
+  Game 776207: KC @ LAA ✓
+  Game 776213: LAD @ AZ ✓
+  Game 776212: COL @ SEA ✓
+  Game 776214: MIL @ SD ✓
+  Game 776211: STL @ SF ✓
+  Game 776208: HOU @ ATH ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-09-23.csv
+
+Processing 2025-09-24: 15 games
+  Game 776200: WSH @ ATL ✓
+  Game 776198: MIL @ SD ✓
+  Game 776203: TB @ BAL ✓
+  Game 776204: DET @ CLE ✓
+  Game 776202: PIT @ CIN ✓
+  Game 776201: MIA @ PHI ✓
+  Game 776199: CWS @ NYY ✓
+  Game 776206: BOS @ TOR ✓
+  Game 776205: NYM @ CHC ✓
+  Game 776192: MIN @ TEX ✓
+  Game 776197: KC @ LAA ✓
+  Game 776193: LAD @ AZ ✓
+  Game 776194: COL @ SEA ✓
+  Game 776196: STL @ SF ✓
+  Game 776195: HOU @ ATH ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-09-24.csv
+
+Processing 2025-09-25: 12 games
+  Game 776190: PIT @ CIN ✓
+  Game 776191: TB @ BAL ✓
+  Game 776183: MIN @ TEX ✓
+  Game 776182: HOU @ ATH ✓
+  Game 776185: LAD @ AZ ✓
+  Game 776188: MIA @ PHI ✓
+  Game 776189: DET @ CLE ✓
+  Game 776184: CWS @ NYY ✓
+  Game 776186: BOS @ TOR ✓
+  Game 776187: NYM @ CHC ✓
+  Game 776178: KC @ LAA ✓
+  Game 776179: COL @ SEA ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-09-25.csv
+
+Processing 2025-09-26: 15 games
+  Game 776167: STL @ CHC ✓
+  Game 776176: MIN @ PHI ✓
+  Game 776165: CWS @ WSH ✓
+  Game 776174: BAL @ NYY ✓
+  Game 776177: TB @ TOR ✓
+  Game 776181: DET @ BOS ✓
+  Game 776175: TEX @ CLE ✓
+  Game 776173: NYM @ MIA ✓
+  Game 776180: PIT @ ATL ✓
+  Game 776171: CIN @ MIL ✓
+  Game 776169: HOU @ LAA ✓
+  Game 776170: AZ @ SD ✓
+  Game 776168: LAD @ SEA ✓
+  Game 776172: KC @ ATH ✓
+  Game 776166: COL @ SF ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-09-26.csv
+
+Processing 2025-09-27: 15 games
+  Game 776162: BAL @ NYY ✓
+  Game 776164: STL @ CHC ✓
+  Game 776159: TB @ TOR ✓
+  Game 776146: COL @ SF ✓
+  Game 776160: CWS @ WSH ✓
+  Game 776157: DET @ BOS ✓
+  Game 776161: NYM @ MIA ✓
+  Game 776163: MIN @ PHI ✓
+  Game 776158: TEX @ CLE ✓
+  Game 776156: PIT @ ATL ✓
+  Game 776153: CIN @ MIL ✓
+  Game 776152: AZ @ SD ✓
+  Game 776155: HOU @ LAA ✓
+  Game 776150: LAD @ SEA ✓
+  Game 776154: KC @ ATH ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-09-27.csv
+
+Processing 2025-09-28: 15 games
+  Game 776151: DET @ BOS ✓
+  Game 776138: KC @ ATH ✓
+  Game 776137: COL @ SF ✓
+  Game 776141: MIN @ PHI ✓
+  Game 776143: CWS @ WSH ✓
+  Game 776140: BAL @ NYY ✓
+  Game 776135: HOU @ LAA ✓
+  Game 776145: TB @ TOR ✓
+  Game 776136: AZ @ SD ✓
+  Game 776139: LAD @ SEA ✓
+  Game 776147: TEX @ CLE ✓
+  Game 776148: NYM @ MIA ✓
+  Game 776144: CIN @ MIL ✓
+  Game 776149: PIT @ ATL ✓
+  Game 776142: STL @ CHC ✓
+Saved data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_2025-09-28.csv
+
+============================================================
+Complete! Processed 2464/2464 games
+Files saved to: data/bdl_data/starting_pitcher_stats/
+============================================================

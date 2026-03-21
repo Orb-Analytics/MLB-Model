@@ -1,0 +1,16 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+7351,778348,2025-04-12,142,116,MIN,DET,Minnesota Twins,Detroit Tigers,663978,Chris Paddack,,,20,695549,Jackson Jobe,,,21
+7352,778347,2025-04-12,138,143,STL,PHI,St. Louis Cardinals,Philadelphia Phillies,571945,Miles Mikolas,,,39,650911,Cristopher Sánchez,,,61
+7346,778355,2025-04-12,147,137,NYY,SF,New York Yankees,San Francisco Giants,701542,Will Warren,,,98,663855,Jordan Hicks,,,12
+64009,778346,2025-04-12,133,121,ATH,NYM,Athletics,New York Mets,669372,J.T. Ginn,,,70,656849,David Peterson,,,23
+7347,778362,2025-04-12,110,141,BAL,TOR,Baltimore Orioles,Toronto Blue Jays,608372,Tomoyuki Sugano,,,19,670102,Bowden Francis,,,44
+7343,778353,2025-04-12,139,144,TB,ATL,Tampa Bay Rays,Atlanta Braves,656876,Drew Rasmussen,,,57,700363,AJ Smith-Shawver,,,32
+7350,778349,2025-04-12,145,111,CWS,BOS,Chicago White Sox,Boston Red Sox,527048,Martín Pérez,,,54,690916,Richard Fitts,,,80
+7348,778354,2025-04-12,146,120,MIA,WSH,Miami Marlins,Washington Nationals,645261,Sandy Alcantara,,,22,592866,Trevor Williams,,,32
+7344,778359,2025-04-12,114,118,CLE,KC,Cleveland Guardians,Kansas City Royals,682847,Luis Ortiz,,,45,547179,Michael Lorenzen,,,24
+7345,778357,2025-04-12,113,134,CIN,PIT,Cincinnati Reds,Pittsburgh Pirates,671096,Andrew Abbott,,,41,571760,Andrew Heaney,,,45
+7349,778351,2025-04-12,117,108,HOU,LAA,Houston Astros,Los Angeles Angels,687473,Ryan Gusto,,,67,542881,Tyler Anderson,,,31
+7355,778350,2025-04-12,109,158,AZ,MIL,Arizona Diamondbacks,Milwaukee Brewers,669203,Corbin Burnes,,,39,694477,Chad Patrick,,,39
+7354,778352,2025-04-12,135,115,SD,COL,San Diego Padres,Colorado Rockies,606996,Kyle Hart,,,68,801403,Chase Dollander,,,32
+7353,778345,2025-04-12,119,112,LAD,CHC,Los Angeles Dodgers,Chicago Cubs,808963,Roki Sasaki,,,11,676962,Ben Brown,,,32
+7357,778341,2025-04-12,136,140,SEA,TEX,Seattle Mariners,Texas Rangers,693433,Bryan Woo,,,22,677958,Kumar Rocker,,,80

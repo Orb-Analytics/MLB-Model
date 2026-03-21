@@ -1,0 +1,17 @@
+balldontlie_game_id,game_pk,date,home_team_id,away_team_id,home_team_abbreviation,away_team_abbreviation,home_team_display_name,away_team_display_name,home_starter_id,home_starter_full_name,home_starter_first_name,home_starter_last_name,home_starter_jersey,away_starter_id,away_starter_full_name,away_starter_first_name,away_starter_last_name,away_starter_jersey
+1640158,777815,2025-05-23,111,110,BOS,BAL,Boston Red Sox,Baltimore Orioles,678394,Brayan Bello,,,66,700249,Cade Povich,,,37
+18633,777811,2025-05-23,113,112,CIN,CHC,Cincinnati Reds,Chicago Cubs,668881,Hunter Greene,,,21,571510,Matthew Boyd,,,16
+18636,777806,2025-05-23,134,158,PIT,MIL,Pittsburgh Pirates,Milwaukee Brewers,694973,Paul Skenes,,,30,642547,Freddy Peralta,,,51
+18638,777801,2025-05-23,120,137,WSH,SF,Washington Nationals,San Francisco Giants,669022,MacKenzie Gore,,,1,694738,Landen Roupp,,,65
+18639,777810,2025-05-23,139,141,TB,TOR,Tampa Bay Rays,Toronto Blue Jays,656876,Drew Rasmussen,,,57,641778,Eric Lauer,,,56
+18634,777807,2025-05-23,116,114,DET,CLE,Detroit Tigers,Cleveland Guardians,695549,Jackson Jobe,,,21,677944,Slade Cecconi,,,44
+18635,777808,2025-05-23,121,119,NYM,LAD,New York Mets,Los Angeles Dodgers,656288,Griffin Canning,,,46,477132,Clayton Kershaw,,,22
+18637,777813,2025-05-23,144,135,ATL,SD,Atlanta Braves,San Diego Padres,519242,Chris Sale,,,51,601713,Nick Pivetta,,,27
+18643,777805,2025-05-23,145,140,CWS,TEX,Chicago White Sox,Texas Rangers,680732,Sean Burke,,,59,641816,Tyler Mahle,,,51
+18642,777800,2025-05-23,117,136,HOU,SEA,Houston Astros,Seattle Mariners,687473,Ryan Gusto,,,67,676106,Emerson Hancock,,,26
+18641,777799,2025-05-23,142,118,MIN,KC,Minnesota Twins,Kansas City Royals,641154,Pablo López,,,49,702070,Noah Cameron,,,65
+18640,777797,2025-05-23,138,109,STL,AZ,St. Louis Cardinals,Arizona Diamondbacks,571945,Miles Mikolas,,,39,668678,Zac Gallen,,,23
+18644,777802,2025-05-23,115,147,COL,NYY,Colorado Rockies,New York Yankees,685299,Tanner Gordon,,,29,657376,Clarke Schmidt,,,36
+18645,777798,2025-05-23,108,146,LAA,MIA,Los Angeles Angels,Miami Marlins,579328,Yusei Kikuchi,,,16,645261,Sandy Alcantara,,,22
+64566,777804,2025-05-23,133,143,ATH,PHI,Athletics,Philadelphia Phillies,682052,Jacob Lopez,,,57,554430,Zack Wheeler,,,45
+1640158,777815,2025-05-23,111,110,BOS,BAL,Boston Red Sox,Baltimore Orioles,678394,Brayan Bello,,,66,700249,Cade Povich,,,37
