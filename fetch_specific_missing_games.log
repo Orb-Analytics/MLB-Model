@@ -1,0 +1,111 @@
+================================================================================
+FETCHING MISSING GAMES
+================================================================================
+
+================================================================================
+YEAR 2015
+================================================================================
+
+  Step 1: Identifying missing games...
+    Found 1 missing game(s):
+      - game_pk 415766: Detroit Tigers @ Cleveland Indians on 2015-09-12
+
+  Step 2: Fetching and adding missing games...
+  Fetching game 415766 (Detroit Tigers @ Cleveland Indians) on 2015-09-12...
+    ✅ Added to existing file
+
+  ✅ Added 1 game(s) to 2015
+
+================================================================================
+YEAR 2016
+================================================================================
+
+  Step 1: Identifying missing games...
+    Found 2 missing game(s):
+      - game_pk 449187: Atlanta Braves @ Miami Marlins on 2016-09-25
+      - game_pk 449246: Cleveland Indians @ Detroit Tigers on 2016-10-03
+
+  Step 2: Fetching and adding missing games...
+  Fetching game 449187 (Atlanta Braves @ Miami Marlins) on 2016-09-25...
+    ✅ Added to existing file
+  Fetching game 449246 (Cleveland Indians @ Detroit Tigers) on 2016-10-03...
+    ✅ Added to existing file
+
+  ✅ Added 2 game(s) to 2016
+
+================================================================================
+YEAR 2018
+================================================================================
+
+  Step 1: Identifying missing games...
+    Found 1 missing game(s):
+      - game_pk 531548: Miami Marlins @ Pittsburgh Pirates on 2018-09-09
+
+  Step 2: Fetching and adding missing games...
+  Fetching game 531548 (Miami Marlins @ Pittsburgh Pirates) on 2018-09-09...
+    ✅ Added to existing file
+
+  ✅ Added 1 game(s) to 2018
+
+================================================================================
+YEAR 2019
+================================================================================
+
+  Step 1: Identifying missing games...
+    Found 1 missing game(s):
+      - game_pk 567304: Detroit Tigers @ Chicago White Sox on 2019-09-27
+
+  Step 2: Fetching and adding missing games...
+  Fetching game 567304 (Detroit Tigers @ Chicago White Sox) on 2019-09-27...
+    ✅ Added to existing file
+
+  ✅ Added 1 game(s) to 2019
+
+================================================================================
+YEAR 2020
+================================================================================
+
+  Step 1: Identifying missing games...
+    Found 2 missing game(s):
+      - game_pk 631472: St. Louis Cardinals @ Detroit Tigers on 2020-08-13
+      - game_pk 631471: St. Louis Cardinals @ Detroit Tigers on 2020-08-13
+
+  Step 2: Fetching and adding missing games...
+  Fetching game 631472 (St. Louis Cardinals @ Detroit Tigers) on 2020-08-13...
+    ✅ Added to existing file
+  Fetching game 631471 (St. Louis Cardinals @ Detroit Tigers) on 2020-08-13...
+    ✅ Added to existing file
+
+  ✅ Added 2 game(s) to 2020
+
+================================================================================
+YEAR 2021
+================================================================================
+
+  Step 1: Identifying missing games...
+    Found 1 missing game(s):
+      - game_pk 632457: Colorado Rockies @ Atlanta Braves on 2021-09-16
+
+  Step 2: Fetching and adding missing games...
+  Fetching game 632457 (Colorado Rockies @ Atlanta Braves) on 2021-09-16...
+    ✅ Added to existing file
+
+  ✅ Added 1 game(s) to 2021
+
+================================================================================
+YEAR 2024
+================================================================================
+
+  Step 1: Identifying missing games...
+    Found 1 missing game(s):
+      - game_pk 746577: Houston Astros @ Cleveland Guardians on 2024-09-29
+
+  Step 2: Fetching and adding missing games...
+  Fetching game 746577 (Houston Astros @ Cleveland Guardians) on 2024-09-29...
+    ✅ Added to existing file
+
+  ✅ Added 1 game(s) to 2024
+
+================================================================================
+COMPLETE: Added 9 total games
+================================================================================
