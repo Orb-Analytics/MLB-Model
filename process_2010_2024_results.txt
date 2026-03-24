@@ -1,0 +1,478 @@
+
+================================================================================
+PROCESSING YEARS 2010-2024
+================================================================================
+================================================================================
+PROCESSING YEAR 2010
+================================================================================
+
+  Found:
+    Outlook files: 180
+    Boxscore files: 180
+    Pitcher files: 180
+
+  Creating backup...
+    ✓ Backed up to data/2010_data/mlb_data/raw/bdl_data/game_outlook/backup_original_2010
+
+  Step 1: Loading boxscore structure...
+    180 dates, 2453 games
+
+  Step 2: Loading outlook games...
+    2430 total games, 506 unique matchups
+
+  Step 3: Rebuilding outlook files to match boxscore...
+    Matched: 2430/2453 games
+    Missing: 23 games
+
+  Step 4: Saving aligned outlook files...
+    Saved 180 files
+
+  Step 5: Verifying alignment...
+    Perfect dates: 160/180 (88.9%)
+    Position matches: 2189/2189 (100.0%)
+  ⚠️  2010 - Partial alignment (100.0%)
+
+================================================================================
+PROCESSING YEAR 2011
+================================================================================
+
+  Found:
+    Outlook files: 180
+    Boxscore files: 179
+    Pitcher files: 179
+
+  Creating backup...
+    ✓ Backed up to data/2011_data/mlb_data/raw/bdl_data/game_outlook/backup_original_2011
+
+  Step 1: Loading boxscore structure...
+    179 dates, 2479 games
+
+  Step 2: Loading outlook games...
+    2422 total games, 506 unique matchups
+
+  Step 3: Rebuilding outlook files to match boxscore...
+    Matched: 2422/2479 games
+    Missing: 57 games
+
+  Step 4: Saving aligned outlook files...
+    Saved 179 files
+
+  Step 5: Verifying alignment...
+    Perfect dates: 147/179 (82.1%)
+    Position matches: 2064/2064 (100.0%)
+  ⚠️  2011 - Partial alignment (100.0%)
+
+================================================================================
+PROCESSING YEAR 2012
+================================================================================
+
+  Found:
+    Outlook files: 182
+    Boxscore files: 181
+    Pitcher files: 181
+
+  Creating backup...
+    ✓ Backed up to data/2012_data/mlb_data/raw/bdl_data/game_outlook/backup_original_2012
+
+  Step 1: Loading boxscore structure...
+    181 dates, 2451 games
+
+  Step 2: Loading outlook games...
+    2428 total games, 507 unique matchups
+
+  Step 3: Rebuilding outlook files to match boxscore...
+    Matched: 2265/2451 games
+    Missing: 186 games
+
+  Step 4: Saving aligned outlook files...
+    Saved 180 files
+
+  Step 5: Verifying alignment...
+    Perfect dates: 16/181 (8.8%)
+    Position matches: 136/136 (100.0%)
+  ⚠️  2012 - Partial alignment (100.0%)
+
+================================================================================
+PROCESSING YEAR 2013
+================================================================================
+
+  Found:
+    Outlook files: 179
+    Boxscore files: 180
+    Pitcher files: 180
+
+  Creating backup...
+    ✓ Backed up to data/2013_data/mlb_data/raw/bdl_data/game_outlook/backup_original_2013
+
+  Step 1: Loading boxscore structure...
+    180 dates, 2470 games
+
+  Step 2: Loading outlook games...
+    2430 total games, 540 unique matchups
+
+  Step 3: Rebuilding outlook files to match boxscore...
+    Matched: 2268/2470 games
+    Missing: 202 games
+
+  Step 4: Saving aligned outlook files...
+    Saved 179 files
+
+  Step 5: Verifying alignment...
+    Perfect dates: 12/180 (6.7%)
+    Position matches: 92/92 (100.0%)
+  ⚠️  2013 - Partial alignment (100.0%)
+
+================================================================================
+PROCESSING YEAR 2014
+================================================================================
+
+  Found:
+    Outlook files: 181
+    Boxscore files: 181
+    Pitcher files: 181
+
+  Creating backup...
+    ✓ Backed up to data/2014_data/mlb_data/raw/bdl_data/game_outlook/backup_original_2014
+
+  Step 1: Loading boxscore structure...
+    181 dates, 2471 games
+
+  Step 2: Loading outlook games...
+    2430 total games, 540 unique matchups
+
+  Step 3: Rebuilding outlook files to match boxscore...
+    Matched: 2268/2471 games
+    Missing: 203 games
+
+  Step 4: Saving aligned outlook files...
+    Saved 181 files
+
+  Step 5: Verifying alignment...
+    Perfect dates: 14/181 (7.7%)
+    Position matches: 108/108 (100.0%)
+  ⚠️  2014 - Partial alignment (100.0%)
+
+================================================================================
+PROCESSING YEAR 2015
+================================================================================
+
+  Found:
+    Outlook files: 179
+    Boxscore files: 179
+    Pitcher files: 179
+
+  Creating backup...
+    ✓ Backed up to data/2015_data/mlb_data/raw/bdl_data/game_outlook/backup_original_2015
+
+  Step 1: Loading boxscore structure...
+    179 dates, 2470 games
+
+  Step 2: Loading outlook games...
+    2449 total games, 540 unique matchups
+
+  Step 3: Rebuilding outlook files to match boxscore...
+    Matched: 2268/2470 games
+    Missing: 202 games
+
+  Step 4: Saving aligned outlook files...
+    Saved 179 files
+
+  Step 5: Verifying alignment...
+    Perfect dates: 13/179 (7.3%)
+    Position matches: 107/107 (100.0%)
+  ⚠️  2015 - Partial alignment (100.0%)
+
+================================================================================
+PROCESSING YEAR 2016
+================================================================================
+
+  Found:
+    Outlook files: 180
+    Boxscore files: 180
+    Pitcher files: 180
+
+  Creating backup...
+    ✓ Backed up to data/2016_data/mlb_data/raw/bdl_data/game_outlook/backup_original_2016
+
+  Step 1: Loading boxscore structure...
+    179 dates, 2453 games
+
+  Step 2: Loading outlook games...
+    2428 total games, 540 unique matchups
+
+  Step 3: Rebuilding outlook files to match boxscore...
+    Matched: 2267/2453 games
+    Missing: 186 games
+
+  Step 4: Saving aligned outlook files...
+    Saved 179 files
+
+  Step 5: Verifying alignment...
+    Perfect dates: 15/179 (8.4%)
+    Position matches: 154/154 (100.0%)
+  ⚠️  2016 - Partial alignment (100.0%)
+
+================================================================================
+PROCESSING YEAR 2017
+================================================================================
+
+  Found:
+    Outlook files: 180
+    Boxscore files: 179
+    Pitcher files: 179
+
+  Creating backup...
+    ✓ Backed up to data/2017_data/mlb_data/raw/bdl_data/game_outlook/backup_original_2017
+
+  Step 1: Loading boxscore structure...
+    179 dates, 2469 games
+
+  Step 2: Loading outlook games...
+    2431 total games, 540 unique matchups
+
+  Step 3: Rebuilding outlook files to match boxscore...
+    Matched: 2268/2469 games
+    Missing: 201 games
+
+  Step 4: Saving aligned outlook files...
+    Saved 179 files
+
+  Step 5: Verifying alignment...
+    Perfect dates: 16/179 (8.9%)
+    Position matches: 151/151 (100.0%)
+  ⚠️  2017 - Partial alignment (100.0%)
+
+================================================================================
+PROCESSING YEAR 2018
+================================================================================
+
+  Found:
+    Outlook files: 184
+    Boxscore files: 184
+    Pitcher files: 184
+
+  Creating backup...
+    ✓ Backed up to data/2018_data/mlb_data/raw/bdl_data/game_outlook/backup_original_2018
+
+  Step 1: Loading boxscore structure...
+    184 dates, 2486 games
+
+  Step 2: Loading outlook games...
+    2432 total games, 540 unique matchups
+
+  Step 3: Rebuilding outlook files to match boxscore...
+    Matched: 2270/2486 games
+    Missing: 216 games
+
+  Step 4: Saving aligned outlook files...
+    Saved 184 files
+
+  Step 5: Verifying alignment...
+    Perfect dates: 11/184 (6.0%)
+    Position matches: 86/86 (100.0%)
+  ⚠️  2018 - Partial alignment (100.0%)
+
+================================================================================
+PROCESSING YEAR 2019
+================================================================================
+
+  Found:
+    Outlook files: 184
+    Boxscore files: 185
+    Pitcher files: 185
+
+  Creating backup...
+    ✓ Backed up to data/2019_data/mlb_data/raw/bdl_data/game_outlook/backup_original_2019
+
+  Step 1: Loading boxscore structure...
+    185 dates, 2470 games
+
+  Step 2: Loading outlook games...
+    2428 total games, 540 unique matchups
+
+  Step 3: Rebuilding outlook files to match boxscore...
+    Matched: 2266/2470 games
+    Missing: 204 games
+
+  Step 4: Saving aligned outlook files...
+    Saved 185 files
+
+  Step 5: Verifying alignment...
+    Perfect dates: 20/185 (10.8%)
+    Position matches: 166/166 (100.0%)
+  ⚠️  2019 - Partial alignment (100.0%)
+
+================================================================================
+PROCESSING YEAR 2020
+================================================================================
+
+  Found:
+    Outlook files: 67
+    Boxscore files: 67
+    Pitcher files: 67
+
+  Creating backup...
+    ✓ Backed up to data/2020_data/mlb_data/raw/bdl_data/game_outlook/backup_original_2020
+
+  Step 1: Loading boxscore structure...
+    67 dates, 969 games
+
+  Step 2: Loading outlook games...
+    898 total games, 239 unique matchups
+
+  Step 3: Rebuilding outlook files to match boxscore...
+    Matched: 838/969 games
+    Missing: 131 games
+
+  Step 4: Saving aligned outlook files...
+    Saved 67 files
+
+  Step 5: Verifying alignment...
+    Perfect dates: 3/67 (4.5%)
+    Position matches: 19/19 (100.0%)
+  ⚠️  2020 - Partial alignment (100.0%)
+
+================================================================================
+PROCESSING YEAR 2021
+================================================================================
+
+  Found:
+    Outlook files: 182
+    Boxscore files: 183
+    Pitcher files: 183
+
+  Creating backup...
+    ✓ Backed up to data/2021_data/mlb_data/raw/bdl_data/game_outlook/backup_original_2021
+
+  Step 1: Loading boxscore structure...
+    183 dates, 2511 games
+
+  Step 2: Loading outlook games...
+    2429 total games, 540 unique matchups
+
+  Step 3: Rebuilding outlook files to match boxscore...
+    Matched: 2267/2511 games
+    Missing: 244 games
+
+  Step 4: Saving aligned outlook files...
+    Saved 183 files
+
+  Step 5: Verifying alignment...
+    Perfect dates: 12/183 (6.6%)
+    Position matches: 113/113 (100.0%)
+  ⚠️  2021 - Partial alignment (100.0%)
+
+================================================================================
+PROCESSING YEAR 2022
+================================================================================
+
+  Found:
+    Outlook files: 179
+    Boxscore files: 179
+    Pitcher files: 179
+
+  Creating backup...
+    ✓ Backed up to data/2022_data/mlb_data/raw/bdl_data/game_outlook/backup_original_2022
+
+  Step 1: Loading boxscore structure...
+    179 dates, 2479 games
+
+  Step 2: Loading outlook games...
+    2430 total games, 540 unique matchups
+
+  Step 3: Rebuilding outlook files to match boxscore...
+    Matched: 2268/2479 games
+    Missing: 211 games
+
+  Step 4: Saving aligned outlook files...
+    Saved 179 files
+
+  Step 5: Verifying alignment...
+    Perfect dates: 15/179 (8.4%)
+    Position matches: 140/140 (100.0%)
+  ⚠️  2022 - Partial alignment (100.0%)
+
+================================================================================
+PROCESSING YEAR 2023
+================================================================================
+
+  Found:
+    Outlook files: 182
+    Boxscore files: 183
+    Pitcher files: 183
+
+  Creating backup...
+    ✓ Backed up to data/2023_data/mlb_data/raw/bdl_data/game_outlook/backup_original_2023
+
+  Step 1: Loading boxscore structure...
+    183 dates, 2476 games
+
+  Step 2: Loading outlook games...
+    2430 total games, 660 unique matchups
+
+  Step 3: Rebuilding outlook files to match boxscore...
+    Matched: 2268/2476 games
+    Missing: 208 games
+
+  Step 4: Saving aligned outlook files...
+    Saved 182 files
+
+  Step 5: Verifying alignment...
+    Perfect dates: 12/183 (6.6%)
+    Position matches: 107/107 (100.0%)
+  ⚠️  2023 - Partial alignment (100.0%)
+
+================================================================================
+PROCESSING YEAR 2024
+================================================================================
+
+  Found:
+    Outlook files: 184
+    Boxscore files: 184
+    Pitcher files: 184
+
+  Creating backup...
+    ✓ Backed up to data/2024_data/mlb_data/raw/bdl_data/game_outlook/backup_original_2024
+
+  Step 1: Loading boxscore structure...
+    184 dates, 2466 games
+
+  Step 2: Loading outlook games...
+    2427 total games, 660 unique matchups
+
+  Step 3: Rebuilding outlook files to match boxscore...
+    Matched: 2265/2466 games
+    Missing: 201 games
+
+  Step 4: Saving aligned outlook files...
+    Saved 184 files
+
+  Step 5: Verifying alignment...
+    Perfect dates: 22/184 (12.0%)
+    Position matches: 170/170 (100.0%)
+  ⚠️  2024 - Partial alignment (100.0%)
+
+
+================================================================================
+SUMMARY
+================================================================================
+
+Successful (100% alignment): 0 years
+
+Partial alignment: 15 years
+  ⚠ 2010
+  ⚠ 2011
+  ⚠ 2012
+  ⚠ 2013
+  ⚠ 2014
+  ⚠ 2015
+  ⚠ 2016
+  ⚠ 2017
+  ⚠ 2018
+  ⚠ 2019
+  ⚠ 2020
+  ⚠ 2021
+  ⚠ 2022
+  ⚠ 2023
+  ⚠ 2024
+================================================================================
