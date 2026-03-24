@@ -48,3 +48,7 @@ Thumbs.db
 # Data (if you don't want to commit large data files)
 *.csv.gz
 *.parquet
+
+# Backup directories created during data alignment
+**/game_outlook_backup_*/
+**/backup_original_*/
