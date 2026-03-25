@@ -1,0 +1,2 @@
+id,game_pk,season,date,postseason,season_type,status,period,time,home_team_id,home_team_abbreviation,home_team_name,home_team_conference,home_team_division,home_team_score,away_team_id,away_team_abbreviation,away_team_name,away_team_conference,away_team_division,away_team_score
+53000,632457,2021,2021-09-16,False,Regular Season,Final,9,0:00,144,ATL,Braves,National,East,0,115,COL,Rockies,National,West,0
