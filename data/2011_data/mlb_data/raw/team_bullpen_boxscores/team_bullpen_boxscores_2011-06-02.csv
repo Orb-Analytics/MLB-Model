@@ -1,0 +1,8 @@
+game_pk,date,home_bullpen_ip,away_bullpen_ip,home_bullpen_hits,away_bullpen_hits,home_bullpen_earned_runs,away_bullpen_earned_runs,home_bullpen_walks,away_bullpen_walks,home_bullpen_strikeouts,away_bullpen_strikeouts,home_bullpen_homeruns,away_bullpen_homeruns,home_bullpen_era,away_bullpen_era,home_bullpen_whip,away_bullpen_whip,home_bullpen_k_per_9,away_bullpen_k_per_9,home_bullpen_k_bb_ratio,away_bullpen_k_bb_ratio,home_bullpen_hr_per_9,away_bullpen_hr_per_9,home_bullpen_bb_per_9,away_bullpen_bb_per_9
+287746,2011-06-02,4.0,3.0,3,0,0,0,2,1,4,3,0,0,0.0,0.0,1.25,0.33,9.0,9.0,2.0,3.0,0.0,0.0,4.5,3.0
+287747,2011-06-02,6.8,3.0,2,2,1,0,2,1,1,2,0,0,1.32,0.0,0.59,1.0,1.32,6.0,0.5,2.0,0.0,0.0,2.65,3.0
+287748,2011-06-02,4.0,2.8,4,1,1,2,1,4,4,2,0,0,2.25,6.43,1.25,1.79,9.0,6.43,4.0,0.5,0.0,0.0,2.25,12.86
+287749,2011-06-02,3.9,3.9,7,6,7,4,2,2,4,2,3,1,16.15,9.23,2.31,2.05,9.23,4.62,2.0,1.0,6.92,2.31,4.62,4.62
+287750,2011-06-02,2.0,4.0,3,3,1,0,0,1,2,2,1,0,4.5,0.0,1.5,1.0,9.0,4.5,0.0,2.0,4.5,0.0,0.0,2.25
+287751,2011-06-02,3.0,5.0,4,4,0,1,0,2,0,7,0,1,0.0,1.8,1.33,1.2,0.0,12.6,0.0,3.5,0.0,1.8,0.0,3.6
+287752,2011-06-02,4.0,2.0,3,2,2,0,1,0,5,2,0,0,4.5,0.0,1.0,1.0,11.25,9.0,5.0,0.0,0.0,0.0,2.25,0.0

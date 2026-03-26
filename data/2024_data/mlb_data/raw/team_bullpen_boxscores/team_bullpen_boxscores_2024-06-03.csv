@@ -1,0 +1,9 @@
+game_pk,date,home_bullpen_ip,away_bullpen_ip,home_bullpen_hits,away_bullpen_hits,home_bullpen_earned_runs,away_bullpen_earned_runs,home_bullpen_walks,away_bullpen_walks,home_bullpen_strikeouts,away_bullpen_strikeouts,home_bullpen_homeruns,away_bullpen_homeruns,home_bullpen_era,away_bullpen_era,home_bullpen_whip,away_bullpen_whip,home_bullpen_k_per_9,away_bullpen_k_per_9,home_bullpen_k_bb_ratio,away_bullpen_k_bb_ratio,home_bullpen_hr_per_9,away_bullpen_hr_per_9,home_bullpen_bb_per_9,away_bullpen_bb_per_9
+744854,2024-06-03,4.9,4.0,6,4,1,2,0,3,4,2,0,0,1.84,4.5,1.22,1.75,7.35,4.5,0.0,0.67,0.0,0.0,0.0,6.75
+744930,2024-06-03,2.9,2.8,4,1,1,0,0,0,3,1,1,0,3.1,0.0,1.38,0.36,9.31,3.21,0.0,0.0,3.1,0.0,0.0,0.0
+745009,2024-06-03,3.8,3.0,1,1,1,0,0,0,3,4,1,0,2.37,0.0,0.26,0.33,7.11,12.0,0.0,0.0,2.37,0.0,0.0,0.0
+745569,2024-06-03,2.0,7.0,0,7,0,3,0,1,2,1,0,1,0.0,3.86,0.0,1.14,9.0,1.29,0.0,1.0,0.0,1.29,0.0,1.29
+746224,2024-06-03,2.8,1.9,1,2,0,1,1,0,1,0,0,0,0.0,4.74,0.71,1.05,3.21,0.0,1.0,0.0,0.0,0.0,3.21,0.0
+746382,2024-06-03,4.0,2.8,1,4,0,3,1,0,5,3,0,2,0.0,9.64,0.5,1.43,11.25,9.64,5.0,0.0,0.0,6.43,2.25,0.0
+746548,2024-06-03,4.9,3.0,8,2,5,0,0,0,0,2,1,0,9.18,0.0,1.63,0.67,0.0,6.0,0.0,0.0,1.84,0.0,0.0,0.0
+747194,2024-06-03,1.8,7.1,2,7,0,4,0,0,1,8,0,2,0.0,5.07,1.11,0.99,5.0,10.14,0.0,0.0,0.0,2.54,0.0,0.0

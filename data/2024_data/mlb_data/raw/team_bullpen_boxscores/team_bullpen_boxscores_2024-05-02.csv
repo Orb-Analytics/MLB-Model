@@ -1,0 +1,7 @@
+game_pk,date,home_bullpen_ip,away_bullpen_ip,home_bullpen_hits,away_bullpen_hits,home_bullpen_earned_runs,away_bullpen_earned_runs,home_bullpen_walks,away_bullpen_walks,home_bullpen_strikeouts,away_bullpen_strikeouts,home_bullpen_homeruns,away_bullpen_homeruns,home_bullpen_era,away_bullpen_era,home_bullpen_whip,away_bullpen_whip,home_bullpen_k_per_9,away_bullpen_k_per_9,home_bullpen_k_bb_ratio,away_bullpen_k_bb_ratio,home_bullpen_hr_per_9,away_bullpen_hr_per_9,home_bullpen_bb_per_9,away_bullpen_bb_per_9
+745021,2024-05-02,3.9,2.9,2,3,0,3,1,1,4,3,0,0,0.0,9.31,0.77,1.38,9.23,9.31,4.0,3.0,0.0,0.0,2.31,3.1
+745830,2024-05-02,6.0,5.8,5,5,1,2,3,0,6,6,0,0,1.5,3.1,1.33,0.86,9.0,9.31,2.0,0.0,0.0,0.0,4.5,0.0
+746070,2024-05-02,6.0,6.1,2,4,0,0,2,1,7,5,0,0,0.0,0.0,0.67,0.82,10.5,7.38,3.5,5.0,0.0,0.0,3.0,1.48
+746403,2024-05-02,3.8,2.8,3,3,0,5,1,2,1,4,0,0,0.0,16.07,1.05,1.79,2.37,12.86,1.0,2.0,0.0,0.0,2.37,6.43
+746969,2024-05-02,4.9,4.0,4,1,2,0,0,0,2,4,0,0,3.67,0.0,0.82,0.25,3.67,9.0,0.0,0.0,0.0,0.0,0.0,0.0
+747044,2024-05-02,4.8,4.0,2,0,1,0,1,0,6,3,1,0,1.88,0.0,0.62,0.0,11.25,6.75,6.0,0.0,1.88,0.0,1.88,0.0

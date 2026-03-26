@@ -1,0 +1,8 @@
+game_pk,date,home_bullpen_ip,away_bullpen_ip,home_bullpen_hits,away_bullpen_hits,home_bullpen_earned_runs,away_bullpen_earned_runs,home_bullpen_walks,away_bullpen_walks,home_bullpen_strikeouts,away_bullpen_strikeouts,home_bullpen_homeruns,away_bullpen_homeruns,home_bullpen_era,away_bullpen_era,home_bullpen_whip,away_bullpen_whip,home_bullpen_k_per_9,away_bullpen_k_per_9,home_bullpen_k_bb_ratio,away_bullpen_k_bb_ratio,home_bullpen_hr_per_9,away_bullpen_hr_per_9,home_bullpen_bb_per_9,away_bullpen_bb_per_9
+414703,2015-06-22,3.0,2.9,1,6,0,4,2,1,2,2,0,1,0.0,12.41,1.0,2.41,6.0,6.21,1.0,2.0,0.0,3.1,6.0,3.1
+414704,2015-06-22,6.0,5.8,4,3,1,2,1,0,3,3,0,2,1.5,3.1,0.83,0.52,4.5,4.66,3.0,0.0,0.0,3.1,1.5,0.0
+414705,2015-06-22,3.0,2.8,3,3,2,2,1,1,2,3,0,1,6.0,6.43,1.33,1.43,6.0,9.64,2.0,3.0,0.0,3.21,3.0,3.21
+414706,2015-06-22,2.8,3.0,1,0,0,0,1,1,1,6,0,0,0.0,0.0,0.71,0.33,3.21,18.0,1.0,6.0,0.0,0.0,3.21,3.0
+414707,2015-06-22,7.0,1.0,3,1,1,1,4,0,7,1,1,1,1.29,9.0,1.0,1.0,9.0,9.0,1.75,0.0,1.29,9.0,5.14,0.0
+414708,2015-06-22,5.9,5.0,7,6,3,3,0,3,6,4,1,1,4.58,5.4,1.19,1.8,9.15,7.2,0.0,1.33,1.53,1.8,0.0,5.4
+414709,2015-06-22,3.9,4.0,6,6,4,2,2,2,5,9,0,1,9.23,4.5,2.05,2.0,11.54,20.25,2.5,4.5,0.0,2.25,4.62,4.5

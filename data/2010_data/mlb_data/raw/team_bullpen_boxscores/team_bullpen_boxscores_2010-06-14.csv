@@ -1,0 +1,5 @@
+game_pk,date,home_bullpen_ip,away_bullpen_ip,home_bullpen_hits,away_bullpen_hits,home_bullpen_earned_runs,away_bullpen_earned_runs,home_bullpen_walks,away_bullpen_walks,home_bullpen_strikeouts,away_bullpen_strikeouts,home_bullpen_homeruns,away_bullpen_homeruns,home_bullpen_era,away_bullpen_era,home_bullpen_whip,away_bullpen_whip,home_bullpen_k_per_9,away_bullpen_k_per_9,home_bullpen_k_bb_ratio,away_bullpen_k_bb_ratio,home_bullpen_hr_per_9,away_bullpen_hr_per_9,home_bullpen_bb_per_9,away_bullpen_bb_per_9
+264762,2010-06-14,4.0,2.0,6,0,2,0,0,1,4,3,1,0,4.5,0.0,1.5,0.5,9.0,13.5,0.0,3.0,2.25,0.0,0.0,4.5
+264763,2010-06-14,1.8,6.0,0,3,0,4,1,7,3,5,0,0,0.0,6.0,0.56,1.67,15.0,7.5,3.0,0.71,0.0,0.0,5.0,10.5
+264798,2010-06-14,3.8,2.0,6,1,5,0,2,0,1,4,0,0,11.84,0.0,2.11,0.5,2.37,18.0,0.5,0.0,0.0,0.0,4.74,0.0
+264806,2010-06-14,2.0,4.0,0,6,0,5,1,3,1,3,0,1,0.0,11.25,0.5,2.25,4.5,6.75,1.0,1.0,0.0,2.25,4.5,6.75

@@ -1,0 +1,8 @@
+game_pk,date,home_bullpen_ip,away_bullpen_ip,home_bullpen_hits,away_bullpen_hits,home_bullpen_earned_runs,away_bullpen_earned_runs,home_bullpen_walks,away_bullpen_walks,home_bullpen_strikeouts,away_bullpen_strikeouts,home_bullpen_homeruns,away_bullpen_homeruns,home_bullpen_era,away_bullpen_era,home_bullpen_whip,away_bullpen_whip,home_bullpen_k_per_9,away_bullpen_k_per_9,home_bullpen_k_bb_ratio,away_bullpen_k_bb_ratio,home_bullpen_hr_per_9,away_bullpen_hr_per_9,home_bullpen_bb_per_9,away_bullpen_bb_per_9
+263823,2010-04-06,3.0,3.1,2,4,0,2,1,1,1,4,0,0,0.0,5.81,1.0,1.61,3.0,11.61,1.0,4.0,0.0,0.0,3.0,2.9
+263824,2010-04-06,2.8,3.0,2,3,1,2,0,4,3,1,0,0,3.21,6.0,0.71,2.33,9.64,3.0,0.0,0.25,0.0,0.0,0.0,12.0
+263825,2010-04-06,4.0,2.8,1,0,0,0,3,0,2,2,0,0,0.0,0.0,1.0,0.0,4.5,6.43,0.67,0.0,0.0,0.0,6.75,0.0
+263826,2010-04-06,4.0,3.0,5,6,3,3,3,2,5,3,1,0,6.75,9.0,2.0,2.67,11.25,9.0,1.67,1.5,2.25,0.0,6.75,6.0
+263827,2010-04-06,3.0,3.2,1,6,0,1,1,2,0,3,0,0,0.0,2.81,0.67,2.5,0.0,8.44,0.0,1.5,0.0,0.0,3.0,5.63
+263828,2010-04-06,3.0,3.0,1,1,0,0,0,1,2,2,0,0,0.0,0.0,0.33,0.67,6.0,6.0,0.0,2.0,0.0,0.0,0.0,3.0
+263837,2010-04-06,4.0,4.0,4,2,1,0,2,0,3,3,1,0,2.25,0.0,1.5,0.5,6.75,6.75,1.5,0.0,2.25,0.0,4.5,0.0

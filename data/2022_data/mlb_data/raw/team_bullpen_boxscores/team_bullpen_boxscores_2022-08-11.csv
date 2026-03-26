@@ -1,0 +1,9 @@
+game_pk,date,home_bullpen_ip,away_bullpen_ip,home_bullpen_hits,away_bullpen_hits,home_bullpen_earned_runs,away_bullpen_earned_runs,home_bullpen_walks,away_bullpen_walks,home_bullpen_strikeouts,away_bullpen_strikeouts,home_bullpen_homeruns,away_bullpen_homeruns,home_bullpen_era,away_bullpen_era,home_bullpen_whip,away_bullpen_whip,home_bullpen_k_per_9,away_bullpen_k_per_9,home_bullpen_k_bb_ratio,away_bullpen_k_bb_ratio,home_bullpen_hr_per_9,away_bullpen_hr_per_9,home_bullpen_bb_per_9,away_bullpen_bb_per_9
+661608,2022-08-11,3.0,3.8,1,4,0,0,0,2,5,7,0,0,0.0,0.0,0.33,1.58,15.0,16.58,0.0,3.5,0.0,0.0,0.0,4.74
+662645,2022-08-11,2.9,2.0,5,5,3,4,1,2,2,1,2,0,9.31,18.0,2.07,3.5,6.21,4.5,2.0,0.5,6.21,0.0,3.1,9.0
+662722,2022-08-11,2.0,3.9,4,4,3,2,1,0,5,4,1,0,13.5,4.62,2.5,1.03,22.5,9.23,5.0,0.0,4.5,0.0,4.5,0.0
+662790,2022-08-11,5.0,3.9,4,3,0,2,0,2,1,7,0,0,0.0,4.62,0.8,1.28,1.8,16.15,0.0,3.5,0.0,0.0,0.0,4.62
+662891,2022-08-11,3.0,3.0,4,5,4,6,2,2,2,3,2,2,12.0,18.0,2.0,2.33,6.0,9.0,1.0,1.5,6.0,6.0,6.0,6.0
+663023,2022-08-11,4.8,4.0,3,3,0,2,1,1,6,5,0,0,0.0,4.5,0.83,1.0,11.25,11.25,6.0,5.0,0.0,0.0,1.88,2.25
+663274,2022-08-11,3.8,2.8,2,2,0,0,0,0,4,1,0,0,0.0,0.0,0.53,0.71,9.47,3.21,0.0,0.0,0.0,0.0,0.0,0.0
+663293,2022-08-11,4.0,3.0,1,6,0,7,0,3,5,0,0,0,0.0,21.0,0.25,3.0,11.25,0.0,0.0,0.0,0.0,0.0,0.0,9.0
