@@ -16,7 +16,8 @@ import sys
 
 def safe_divide(numerator, denominator, fill_value=np.nan):
     """Safely divide, handling division by zero."""
-    return np.where(denominator != 0, numerator / denominator, fill_value)
+    with np.errstate(invalid='ignore', divide='ignore'):
+        return np.where(denominator != 0, numerator / denominator, fill_value)
 
 
 def consolidate_team_stats(year):
@@ -36,6 +37,7 @@ def consolidate_team_stats(year):
     
     print(f"Loading {len(stats_files)} season-to-date files...")
     team_stats = pd.concat([pd.read_csv(f) for f in stats_files], ignore_index=True)
+    team_stats = team_stats.drop_duplicates(subset='game_pk', keep='first')
     print(f"Loaded {len(team_stats):,} games")
     
     # Compute missing derived stats
@@ -177,6 +179,7 @@ def consolidate_starting_pitcher_stats(year):
     
     print(f"Loading {len(stats_files)} season-to-date files...")
     pitcher_stats = pd.concat([pd.read_csv(f) for f in stats_files], ignore_index=True)
+    pitcher_stats = pitcher_stats.drop_duplicates(subset='game_pk', keep='first')
     print(f"Loaded {len(pitcher_stats):,} games")
     
     # Compute missing derived stats
@@ -301,6 +304,7 @@ def consolidate_team_bullpen_stats(year):
     
     print(f"Loading {len(stats_files)} season-to-date files...")
     bullpen_stats = pd.concat([pd.read_csv(f) for f in stats_files], ignore_index=True)
+    bullpen_stats = bullpen_stats.drop_duplicates(subset='game_pk', keep='first')
     print(f"Loaded {len(bullpen_stats):,} games")
     
     # Merge with rolling stats

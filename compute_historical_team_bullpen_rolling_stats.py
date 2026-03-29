@@ -195,6 +195,7 @@ def process_year(year):
             print(f"⚠️  Warning: Could not load {file}: {e}")
     
     bullpen_df = pd.concat(bullpen_dfs, ignore_index=True)
+    bullpen_df = bullpen_df.drop_duplicates(subset='game_pk', keep='first')
     print(f"Loaded {len(bullpen_df):,} bullpen game records")
     
     # Load team boxscores to get team IDs
@@ -215,6 +216,7 @@ def process_year(year):
             print(f"⚠️  Warning: Could not load {file}: {e}")
     
     team_df = pd.concat(boxscore_dfs, ignore_index=True)
+    team_df = team_df.drop_duplicates(subset='game_pk', keep='first')
     print(f"Loaded {len(team_df):,} team boxscores")
     print()
     

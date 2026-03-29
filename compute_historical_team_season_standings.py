@@ -92,6 +92,7 @@ def process_year(year, verbose=True):
         print(f"Loading {len(boxscore_files)} boxscore files...")
     
     boxscores = pd.concat([pd.read_csv(f) for f in boxscore_files], ignore_index=True)
+    boxscores = boxscores.drop_duplicates(subset='game_pk', keep='first')
     
     if verbose:
         print(f"Loaded {len(boxscores)} games")
@@ -122,7 +123,7 @@ def process_year(year, verbose=True):
     })
     
     # Create output directory
-    output_dir = f'data/{year}_data/mlb_data/raw/team_season_standings'
+    output_dir = f'data/{year}_data/mlb_data/season_to_date_stats/team_season_standings'
     os.makedirs(output_dir, exist_ok=True)
     
     standings_data = []

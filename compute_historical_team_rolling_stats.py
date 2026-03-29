@@ -260,6 +260,8 @@ def process_year(year):
             print(f"⚠️  Warning: Could not load {file}: {e}")
     
     team_df = pd.concat(dfs, ignore_index=True)
+    # Remove duplicate game_pk entries (e.g. suspended games appearing under multiple dates)
+    team_df = team_df.drop_duplicates(subset='game_pk', keep='first')
     print(f"Loaded {len(team_df):,} games")
     print()
     

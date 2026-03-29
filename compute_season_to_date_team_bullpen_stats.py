@@ -40,11 +40,13 @@ def process_year(year, verbose=True):
         print(f"Loading {len(bullpen_files)} team bullpen boxscore files...")
     
     bullpen_boxscores = pd.concat([pd.read_csv(f) for f in bullpen_files], ignore_index=True)
+    bullpen_boxscores = bullpen_boxscores.drop_duplicates(subset='game_pk', keep='first')
     
     # Also load regular boxscores to get team names
     boxscore_pattern = f'data/{year}_data/mlb_data/raw/boxscores/boxscores_*.csv'
     boxscore_files = sorted(glob.glob(boxscore_pattern))
     boxscores = pd.concat([pd.read_csv(f) for f in boxscore_files], ignore_index=True)
+    boxscores = boxscores.drop_duplicates(subset='game_pk', keep='first')
     
     if verbose:
         print(f"Loaded {len(bullpen_boxscores)} bullpen game records")

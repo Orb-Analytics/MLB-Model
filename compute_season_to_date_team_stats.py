@@ -40,6 +40,7 @@ def process_year(year, verbose=True):
         print(f"Loading {len(boxscore_files)} boxscore files...")
     
     boxscores = pd.concat([pd.read_csv(f) for f in boxscore_files], ignore_index=True)
+    boxscores = boxscores.drop_duplicates(subset='game_pk', keep='first')
     
     if verbose:
         print(f"Loaded {len(boxscores)} games")

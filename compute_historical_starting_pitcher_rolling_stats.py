@@ -172,6 +172,7 @@ def process_year(year):
             print(f"⚠️  Warning: Could not load {file}: {e}")
     
     df = pd.concat(dfs, ignore_index=True)
+    df = df.drop_duplicates(subset='game_pk', keep='first')
     print(f"Loaded {len(df):,} games")
     print()
     
