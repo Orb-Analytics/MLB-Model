@@ -1,0 +1,16 @@
+game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probable_pitcher_id,home_probable_pitcher_name,away_probable_pitcher_id,away_probable_pitcher_name,venue,game_time_utc,status
+822758,2026-04-03,120,119,Washington Nationals,Los Angeles Dodgers,571945,Miles Mikolas,686218,Emmet Sheehan,Nationals Park,2026-04-03T17:05:00Z,Final
+824299,2026-04-03,116,138,Detroit Tigers,St. Louis Cardinals,664285,Framber Valdez,700241,Michael McGreevy,Comerica Park,2026-04-03T17:10:00Z,Final
+823568,2026-04-03,147,146,New York Yankees,Miami Marlins,701542,Will Warren,691587,Eury Pérez,Yankee Stadium,2026-04-03T17:35:00Z,Game Over
+824786,2026-04-03,111,135,Boston Red Sox,San Diego Padres,543243,Sonny Gray,650633,Michael King,Fenway Park,2026-04-03T18:10:00Z,In Progress
+824621,2026-04-03,145,141,Chicago White Sox,Toronto Blue Jays,691799,Grant Taylor,656302,Dylan Cease,Rate Field,2026-04-03T18:10:00Z,In Progress
+822919,2026-04-03,140,113,Texas Rangers,Cincinnati Reds,669022,MacKenzie Gore,663903,Brady Singer,Globe Life Field,2026-04-03T20:05:00Z,In Progress
+824458,2026-04-03,114,112,Cleveland Guardians,Chicago Cubs,676282,Joey Cantillo,690990,Cade Horton,Progressive Field,2026-04-03T20:10:00Z,In Progress
+823732,2026-04-03,142,139,Minnesota Twins,Tampa Bay Rays,641927,Bailey Ober,671212,Joe Boyle,Target Field,2026-04-03T20:10:00Z,Delayed Start
+824377,2026-04-03,115,143,Colorado Rockies,Philadelphia Phillies,547179,Michael Lorenzen,605400,Aaron Nola,Coors Field,2026-04-03T20:10:00Z,In Progress
+823406,2026-04-03,134,110,Pittsburgh Pirates,Baltimore Orioles,656605,Mitch Keller,680694,Kyle Bradish,PNC Park,2026-04-03T20:12:00Z,In Progress
+824134,2026-04-03,118,158,Kansas City Royals,Milwaukee Brewers,679883,Luinder Avila,694477,Chad Patrick,Kauffman Stadium,2026-04-03T23:45:00Z,Pre-Game
+824056,2026-04-03,108,136,Los Angeles Angels,Seattle Mariners,672282,Reid Detmers,693433,Bryan Woo,Angel Stadium,2026-04-04T01:38:00Z,Scheduled
+825026,2026-04-03,133,117,Athletics,Houston Astros,605488,Jeffrey Springs,664299,Cristian Javier,Sutter Health Park,2026-04-04T01:40:00Z,Scheduled
+825103,2026-04-03,109,144,Arizona Diamondbacks,Atlanta Braves,593958,Eduardo Rodriguez,656550,Grant Holmes,Chase Field,2026-04-04T01:45:00Z,Scheduled
+823240,2026-04-03,137,121,San Francisco Giants,New York Mets,641816,Tyler Mahle,690997,Nolan McLean,Oracle Park,2026-04-04T02:15:00Z,Scheduled

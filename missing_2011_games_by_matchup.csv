@@ -1,9 +1,0 @@
-game_pk,date,home_team_abbreviation,away_team_abbreviation,home_score,away_score,home_team_display_name,away_team_display_name,match_key
-289296,2011-09-27,SD,CHC,2,6,Padres,Cubs,CHC|SD|6-2
-289300,2011-09-27,MIN,KC,7,4,Twins,Royals,KC|MIN|4-7
-289301,2011-09-27,AZ,LAD,7,6,D-backs,Dodgers,LAD|ARI|6-7
-289046,2011-09-08,WSH,LAD,4,7,Nationals,Dodgers,LAD|WSH|7-4
-289303,2011-09-27,SEA,OAK,0,7,Mariners,Athletics,OAK|SEA|7-0
-289305,2011-09-27,MIL,PIT,6,4,Brewers,Pirates,PIT|MIL|4-6
-289306,2011-09-27,HOU,STL,6,13,Astros,Cardinals,STL|HOU|13-6
-289307,2011-09-27,LAA,TEX,3,10,Angels,Rangers,TEX|LAA|10-3

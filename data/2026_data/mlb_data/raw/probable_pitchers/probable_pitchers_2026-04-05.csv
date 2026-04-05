@@ -1,0 +1,17 @@
+game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probable_pitcher_id,home_probable_pitcher_name,away_probable_pitcher_id,away_probable_pitcher_name,venue,game_time_utc,status
+824459,2026-04-05,114,112,Cleveland Guardians,Chicago Cubs,677944,Slade Cecconi,665795,Edward Cabrera,Progressive Field,2026-04-05T17:10:00Z,In Progress
+824460,2026-04-05,114,112,Cleveland Guardians,Chicago Cubs,800048,Parker Messick,684007,Shota Imanaga,Progressive Field,2026-04-05T17:15:00Z,Scheduled
+822756,2026-04-05,120,119,Washington Nationals,Los Angeles Dodgers,656492,Foster Griffin,808963,Roki Sasaki,Nationals Park,2026-04-05T17:35:00Z,Delayed Start
+823405,2026-04-05,134,110,Pittsburgh Pirates,Baltimore Orioles,677952,Braxton Ashcraft,605135,Chris Bassitt,PNC Park,2026-04-05T17:35:00Z,Warmup
+824781,2026-04-05,111,135,Boston Red Sox,San Diego Padres,624133,Ranger Suarez,621111,Walker Buehler,Fenway Park,2026-04-05T17:35:00Z,Warmup
+823566,2026-04-05,147,146,New York Yankees,Miami Marlins,608331,Max Fried,664126,Pete Fairbanks,Yankee Stadium,2026-04-05T17:35:00Z,Delayed Start
+823729,2026-04-05,142,139,Minnesota Twins,Tampa Bay Rays,680573,Simeon Woods Richardson,607259,Nick Martinez,Target Field,2026-04-05T18:10:00Z,Pre-Game
+824620,2026-04-05,145,141,Chicago White Sox,Toronto Blue Jays,663436,Davis Martin,641778,Eric Lauer,Rate Field,2026-04-05T18:10:00Z,Pre-Game
+824131,2026-04-05,118,158,Kansas City Royals,Milwaukee Brewers,663460,Kris Bubic,690986,Kyle Harrison,Kauffman Stadium,2026-04-05T18:10:00Z,Pre-Game
+822917,2026-04-05,140,113,Texas Rangers,Cincinnati Reds,683004,Jack Leiter,695505,Chase Burns,Globe Life Field,2026-04-05T18:35:00Z,Pre-Game
+824379,2026-04-05,115,143,Colorado Rockies,Philadelphia Phillies,608372,Tomoyuki Sugano,592836,Taijuan Walker,Coors Field,2026-04-05T19:10:00Z,Pre-Game
+825025,2026-04-05,133,117,Athletics,Houston Astros,682052,Jacob Lopez,621121,Lance McCullers Jr.,Sutter Health Park,2026-04-05T20:05:00Z,Pre-Game
+823238,2026-04-05,137,121,San Francisco Giants,New York Mets,657277,Logan Webb,673540,Kodai Senga,Oracle Park,2026-04-05T20:05:00Z,Pre-Game
+824053,2026-04-05,108,136,Los Angeles Angels,Seattle Mariners,696270,Ryan Johnson,622491,Luis Castillo,Angel Stadium,2026-04-05T20:07:00Z,Pre-Game
+825102,2026-04-05,109,144,Arizona Diamondbacks,Atlanta Braves,694297,Brandon Pfaadt,527048,Martín Pérez,Chase Field,2026-04-05T20:10:00Z,Pre-Game
+824296,2026-04-05,116,138,Detroit Tigers,St. Louis Cardinals,672456,Keider Montero,681517,Kyle Leahy,Comerica Park,2026-04-05T23:20:00Z,Scheduled
