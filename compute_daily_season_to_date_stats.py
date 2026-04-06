@@ -86,8 +86,10 @@ def compute_team_season_to_date(year, target_date, verbose=True):
         'fielding_e': 0
     })
 
-    # Replay all games to accumulate stats
-    for _, game in boxscores.iterrows():
+    # Replay all games BEFORE target_date to accumulate stats (pre-game snapshot)
+    target_dt = pd.Timestamp(target_date)
+    prior_games = boxscores[boxscores['date_dt'] < target_dt]
+    for _, game in prior_games.iterrows():
         home_abbr = game['home_team_abbreviation']
         away_abbr = game['away_team_abbreviation']
 
@@ -266,7 +268,9 @@ def compute_pitcher_season_to_date(year, target_date, verbose=True):
         'ip': 0.0, 'h': 0, 'er': 0, 'hr': 0, 'bb': 0, 'k': 0
     })
 
-    for _, game in pitcher_boxscores.iterrows():
+    target_dt = pd.Timestamp(target_date)
+    prior_pitcher_games = pitcher_boxscores[pitcher_boxscores['date_dt'] < target_dt]
+    for _, game in prior_pitcher_games.iterrows():
         for side in ['home', 'away']:
             opp = 'away' if side == 'home' else 'home'
             pid = int(game[f'{side}_starter_id']) if pd.notna(game[f'{side}_starter_id']) else 0
@@ -485,7 +489,9 @@ def compute_bullpen_season_to_date(year, target_date, verbose=True):
         'total_walks': 0, 'total_strikeouts': 0, 'total_homeruns': 0
     })
 
-    for _, game in bullpen_boxscores.iterrows():
+    target_dt = pd.Timestamp(target_date)
+    prior_bullpen_games = bullpen_boxscores[bullpen_boxscores['date_dt'] < target_dt]
+    for _, game in prior_bullpen_games.iterrows():
         for side in ['home', 'away']:
             tid = int(game[f'{side}_team_id'])
             ip = float(game[f'{side}_bullpen_ip'])

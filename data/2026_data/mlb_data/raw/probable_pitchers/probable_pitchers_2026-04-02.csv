@@ -1,0 +1,4 @@
+game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probable_pitcher_id,home_probable_pitcher_name,away_probable_pitcher_id,away_probable_pitcher_name,venue,game_time_utc,status
+5057862,2026-04-02T18:10:00.000Z,12,17,Kansas City Royals,Minnesota Twins,56,Cole Ragans,878,Taj Bradley,Kauffman Stadium,2026-04-02T18:10:00.000Z,STATUS_FINAL
+5057864,2026-04-03T01:40:00.000Z,1,2,Arizona Diamondbacks,Atlanta Braves,10,Ryne Nelson,718,Reynaldo Lopez,Chase Field,2026-04-03T01:40:00.000Z,STATUS_FINAL
+5057865,2026-04-03T01:45:00.000Z,24,18,San Francisco Giants,New York Mets,894,Robbie Ray,279,David Peterson,Oracle Park,2026-04-03T01:45:00.000Z,STATUS_FINAL

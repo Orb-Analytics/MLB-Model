@@ -1,0 +1,12 @@
+game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probable_pitcher_id,home_probable_pitcher_name,away_probable_pitcher_id,away_probable_pitcher_name,venue,game_time_utc,status
+5057772,2026-03-26T17:15:00.000Z,18,22,New York Mets,Pittsburgh Pirates,114,Freddy Peralta,647,Paul Skenes,Citi Field,2026-03-26T17:15:00.000Z,STATUS_FINAL
+5057773,2026-03-26T18:10:00.000Z,16,6,Milwaukee Brewers,Chicago White Sox,1680889,Jacob Misiorowski,223389,Shane Smith,American Family Field,2026-03-26T18:10:00.000Z,STATUS_FINAL
+5057774,2026-03-26T18:20:00.000Z,5,30,Chicago Cubs,Washington Nationals,3224,Matthew Boyd,2786,Cade Cavalli,Wrigley Field,2026-03-26T18:20:00.000Z,STATUS_FINAL
+5057775,2026-03-26T19:05:00.000Z,3,17,Baltimore Orioles,Minnesota Twins,743,Trevor Rogers,3435,Joe Ryan,Oriole Park at Camden Yards,2026-03-26T19:05:00.000Z,STATUS_FINAL
+5057776,2026-03-26T20:10:00.000Z,7,4,Cincinnati Reds,Boston Red Sox,533,Andrew Abbott,555,Garrett Crochet,Great American Ball Park,2026-03-26T20:10:00.000Z,STATUS_FINAL
+5057777,2026-03-26T20:10:00.000Z,11,13,Houston Astros,Los Angeles Angels,379,Hunter Brown,4565,Jose Soriano,Daikin Park,2026-03-26T20:10:00.000Z,STATUS_FINAL
+5057778,2026-03-26T20:10:00.000Z,23,10,San Diego Padres,Detroit Tigers,5161,Nick Pivetta,178,Tarik Skubal,Petco Park,2026-03-26T20:10:00.000Z,STATUS_FINAL
+5057779,2026-03-26T20:15:00.000Z,21,28,Philadelphia Phillies,Texas Rangers,40,Cristopher Sanchez,1033,Nathan Eovaldi,Citizens Bank Park,2026-03-26T20:15:00.000Z,STATUS_FINAL
+5057780,2026-03-26T20:15:00.000Z,26,27,St. Louis Cardinals,Tampa Bay Rays,240,Matthew Liberatore,1005,Drew Rasmussen,Busch Stadium,2026-03-26T20:15:00.000Z,STATUS_FINAL
+5057781,2026-03-27T00:30:00.000Z,14,1,Los Angeles Dodgers,Arizona Diamondbacks,79,Yoshinobu Yamamoto,24,Zac Gallen,Dodger Stadium,2026-03-27T00:30:00.000Z,STATUS_FINAL
+5057782,2026-03-27T02:10:00.000Z,25,8,Seattle Mariners,Cleveland Guardians,393,Logan Gilbert,708,Tanner Bibee,T-Mobile Park,2026-03-27T02:10:00.000Z,STATUS_FINAL

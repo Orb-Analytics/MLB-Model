@@ -1,0 +1,16 @@
+game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probable_pitcher_id,home_probable_pitcher_name,away_probable_pitcher_id,away_probable_pitcher_name,venue,game_time_utc,status
+5057818,2026-03-30T20:10:00.000Z,12,17,Kansas City Royals,Minnesota Twins,984,Kris Bubic,911,Simeon Woods Richardson,Kauffman Stadium,2026-03-30T20:10:00.000Z,STATUS_FINAL
+5057819,2026-03-30T22:35:00.000Z,3,28,Baltimore Orioles,Texas Rangers,663,Chris Bassitt,51,Jack Leiter,Oriole Park at Camden Yards,2026-03-30T22:35:00.000Z,STATUS_FINAL
+5057820,2026-03-30T22:40:00.000Z,15,6,Miami Marlins,Chicago White Sox,2504,Chris Paddack,618,Davis Martin,loanDepot park,2026-03-30T22:40:00.000Z,STATUS_FINAL
+5057821,2026-03-30T22:40:00.000Z,7,22,Cincinnati Reds,Pittsburgh Pirates,1905390,Chase Burns,543,Braxton Ashcraft,Great American Ball Park,2026-03-30T22:40:00.000Z,STATUS_FINAL
+5057822,2026-03-30T22:40:00.000Z,21,30,Philadelphia Phillies,Washington Nationals,459,Taijuan Walker,8416,Foster Griffin,Citizens Bank Park,2026-03-30T22:40:00.000Z,STATUS_FINAL
+5057823,2026-03-30T23:07:00.000Z,29,9,Toronto Blue Jays,Colorado Rockies,4817,Cody Ponce,222329,Tomoyuki Sugano,Rogers Centre,2026-03-30T23:07:00.000Z,STATUS_FINAL
+5057824,2026-03-30T23:15:00.000Z,2,20,Atlanta Braves,Oakland Athletics,640,Bryce Elder,949,Jacob Lopez,Truist Park,2026-03-30T23:15:00.000Z,STATUS_FINAL
+5057825,2026-03-30T23:40:00.000Z,5,13,Chicago Cubs,Los Angeles Angels,298,Edward Cabrera,203988,Ryan Johnson,Wrigley Field,2026-03-30T23:40:00.000Z,STATUS_FINAL
+5057826,2026-03-30T23:40:00.000Z,16,27,Milwaukee Brewers,Tampa Bay Rays,854,Kyle Harrison,626,Nick Martinez,American Family Field,2026-03-30T23:40:00.000Z,STATUS_FINAL
+5057827,2026-03-30T23:45:00.000Z,26,18,St. Louis Cardinals,New York Mets,233,Kyle Leahy,1123,Clay Holmes,Busch Stadium,2026-03-30T23:45:00.000Z,STATUS_FINAL
+5057828,2026-03-31T00:10:00.000Z,11,4,Houston Astros,Boston Red Sox,1545,Lance McCullers Jr.,429,Ranger Suarez,Daikin Park,2026-03-31T00:10:00.000Z,STATUS_FINAL
+5057829,2026-03-31T01:40:00.000Z,25,19,Seattle Mariners,New York Yankees,369,Luis Castillo,414,Ryan Weathers,T-Mobile Park,2026-03-31T01:40:00.000Z,STATUS_FINAL
+5057830,2026-03-31T01:40:00.000Z,23,24,San Diego Padres,San Francisco Giants,1121,Walker Buehler,928,Landen Roupp,Petco Park,2026-03-31T01:40:00.000Z,STATUS_FINAL
+5057831,2026-03-31T02:10:00.000Z,14,8,Los Angeles Dodgers,Cleveland Guardians,15738,Roki Sasaki,2975881,Parker Messick,Dodger Stadium,2026-03-31T02:10:00.000Z,STATUS_FINAL
+5057832,2026-03-31T02:10:00.000Z,1,10,Arizona Diamondbacks,Detroit Tigers,4624,Michael Soroka,1604,Justin Verlander,Chase Field,2026-03-31T02:10:00.000Z,STATUS_FINAL

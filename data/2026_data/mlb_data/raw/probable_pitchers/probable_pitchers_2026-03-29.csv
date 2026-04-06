@@ -1,0 +1,13 @@
+game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probable_pitcher_id,home_probable_pitcher_name,away_probable_pitcher_id,away_probable_pitcher_name,venue,game_time_utc,status
+5057806,2026-03-29T17:35:00.000Z,2,12,Atlanta Braves,Kansas City Royals,664,Grant Holmes,1035,Seth Lugo,Truist Park,2026-03-29T17:35:00.000Z,STATUS_FINAL
+5057807,2026-03-29T17:35:00.000Z,3,17,Baltimore Orioles,Minnesota Twins,850,Shane Baz,832,Bailey Ober,Oriole Park at Camden Yards,2026-03-29T17:35:00.000Z,STATUS_FINAL
+5057808,2026-03-29T17:35:00.000Z,21,28,Philadelphia Phillies,Texas Rangers,5113,Jesus Luzardo,903,MacKenzie Gore,Citizens Bank Park,2026-03-29T17:35:00.000Z,STATUS_FINAL
+5057809,2026-03-29T17:37:00.000Z,29,20,Toronto Blue Jays,Oakland Athletics,5437,Eric Lauer,2619575,Luis Morales,Rogers Centre,2026-03-29T17:37:00.000Z,STATUS_FINAL
+5057810,2026-03-29T17:40:00.000Z,7,4,Cincinnati Reds,Boston Red Sox,621,Rhett Lowder,3363426,Connelly Early,Great American Ball Park,2026-03-29T17:40:00.000Z,STATUS_FINAL
+5057811,2026-03-29T17:40:00.000Z,15,9,Miami Marlins,Colorado Rockies,342,Max Meyer,3142,Jose Quintana,loanDepot park,2026-03-29T17:40:00.000Z,STATUS_FINAL
+5057812,2026-03-29T17:40:00.000Z,18,22,New York Mets,Pittsburgh Pirates,2899770,Nolan McLean,602,Carmen Mlodzinski,Citi Field,2026-03-29T17:40:00.000Z,STATUS_FINAL
+5057813,2026-03-29T18:10:00.000Z,11,13,Houston Astros,Los Angeles Angels,4667758,Tatsuya Imai,531,Jack Kochanowicz,Daikin Park,2026-03-29T18:10:00.000Z,STATUS_FINAL
+5057814,2026-03-29T18:10:00.000Z,16,6,Milwaukee Brewers,Chicago White Sox,3315628,Brandon Sproat,6032,Anthony Kay,American Family Field,2026-03-29T18:10:00.000Z,STATUS_FINAL
+5057815,2026-03-29T18:15:00.000Z,26,27,St. Louis Cardinals,Tampa Bay Rays,6133,Dustin May,262,Steven Matz,Busch Stadium,2026-03-29T18:15:00.000Z,STATUS_FINAL
+5057816,2026-03-29T18:20:00.000Z,5,30,Chicago Cubs,Washington Nationals,713,Shota Imanaga,926,Jake Irvin,Wrigley Field,2026-03-29T18:20:00.000Z,STATUS_FINAL
+5057817,2026-03-29T23:20:00.000Z,25,8,Seattle Mariners,Cleveland Guardians,405,Emerson Hancock,11,Slade Cecconi,T-Mobile Park,2026-03-29T23:20:00.000Z,STATUS_FINAL

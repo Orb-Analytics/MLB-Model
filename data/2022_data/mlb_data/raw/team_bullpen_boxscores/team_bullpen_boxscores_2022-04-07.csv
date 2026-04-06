@@ -1,8 +1,8 @@
-game_pk,date,home_bullpen_ip,away_bullpen_ip,home_bullpen_hits,away_bullpen_hits,home_bullpen_earned_runs,away_bullpen_earned_runs,home_bullpen_walks,away_bullpen_walks,home_bullpen_strikeouts,away_bullpen_strikeouts,home_bullpen_homeruns,away_bullpen_homeruns,home_bullpen_era,away_bullpen_era,home_bullpen_whip,away_bullpen_whip,home_bullpen_k_per_9,away_bullpen_k_per_9,home_bullpen_k_bb_ratio,away_bullpen_k_bb_ratio,home_bullpen_hr_per_9,away_bullpen_hr_per_9,home_bullpen_bb_per_9,away_bullpen_bb_per_9
-661042,2022-04-07,4.8,2.8,4,2,2,1,2,0,1,1,2,0,3.75,3.21,1.25,0.71,1.88,3.21,0.5,0.0,3.75,0.0,3.75,0.0
-661577,2022-04-07,3.8,4.0,2,1,1,2,0,3,8,6,1,1,2.37,4.5,0.53,1.0,18.95,13.5,0.0,2.0,2.37,2.25,0.0,6.75
-662021,2022-04-07,3.0,5.0,1,4,0,5,2,4,3,3,0,2,0.0,9.0,1.0,1.6,9.0,5.4,1.5,0.75,0.0,3.6,6.0,7.2
-662571,2022-04-07,5.0,4.0,7,3,3,1,2,2,5,4,0,1,5.4,2.25,1.8,1.25,9.0,9.0,2.5,2.0,0.0,2.25,3.6,4.5
-662766,2022-04-07,3.8,3.8,2,2,0,2,3,2,4,2,0,0,0.0,4.74,1.32,1.05,9.47,4.74,1.33,1.0,0.0,0.0,7.11,4.74
-663178,2022-04-07,3.9,3.0,5,4,3,2,1,1,2,3,0,0,6.92,6.0,1.54,1.67,4.62,9.0,2.0,3.0,0.0,0.0,2.31,3.0
-663418,2022-04-07,6.0,2.0,3,3,1,4,3,3,3,3,0,1,1.5,18.0,1.0,3.0,4.5,13.5,1.0,1.0,0.0,4.5,4.5,13.5
+game_pk,date,home_bullpen_ip,home_bullpen_hits,home_bullpen_earned_runs,home_bullpen_walks,home_bullpen_strikeouts,home_bullpen_homeruns,home_bullpen_era,home_bullpen_whip,home_bullpen_k_per_9,home_bullpen_k_bb_ratio,home_bullpen_hr_per_9,home_bullpen_bb_per_9,away_bullpen_ip,away_bullpen_hits,away_bullpen_earned_runs,away_bullpen_walks,away_bullpen_strikeouts,away_bullpen_homeruns,away_bullpen_era,away_bullpen_whip,away_bullpen_k_per_9,away_bullpen_k_bb_ratio,away_bullpen_hr_per_9,away_bullpen_bb_per_9
+661042,2022-04-07,4.3333,4,2,2,1,2,4.15,1.38,2.08,0.5,4.15,4.15,2.3333,2,1,0,1,0,3.86,0.86,3.86,0.0,0.0,0.0
+661577,2022-04-07,3.3333,2,1,0,8,1,2.7,0.6,21.6,0.0,2.7,0.0,4.0,1,2,3,6,1,4.5,1.0,13.5,2.0,2.25,6.75
+662021,2022-04-07,3.0,1,0,2,3,0,0.0,1.0,9.0,1.5,0.0,6.0,5.0,4,5,4,3,2,9.0,1.6,5.4,0.75,3.6,7.2
+662571,2022-04-07,5.0,7,3,2,5,0,5.4,1.8,9.0,2.5,0.0,3.6,4.0,3,1,2,4,1,2.25,1.25,9.0,2.0,2.25,4.5
+662766,2022-04-07,3.3333,2,0,3,4,0,0.0,1.5,10.8,1.33,0.0,8.1,3.3333,2,2,2,2,0,5.4,1.2,5.4,1.0,0.0,5.4
+663178,2022-04-07,3.6667,5,3,1,2,0,7.36,1.64,4.91,2.0,0.0,2.45,3.0,4,2,1,3,0,6.0,1.67,9.0,3.0,0.0,3.0
+663418,2022-04-07,6.0,3,1,3,3,0,1.5,1.0,4.5,1.0,0.0,4.5,2.0,3,4,3,3,1,18.0,3.0,13.5,1.0,4.5,13.5

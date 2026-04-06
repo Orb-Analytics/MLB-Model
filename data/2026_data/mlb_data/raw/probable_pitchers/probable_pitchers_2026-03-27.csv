@@ -1,0 +1,9 @@
+game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probable_pitcher_id,home_probable_pitcher_name,away_probable_pitcher_id,away_probable_pitcher_name,venue,game_time_utc,status
+5057783,2026-03-27T20:35:00.000Z,24,19,San Francisco Giants,New York Yankees,894,Robbie Ray,2183925,Cam Schlittler,Oracle Park,2026-03-27T20:35:00.000Z,STATUS_FINAL
+5057784,2026-03-27T23:07:00.000Z,29,20,Toronto Blue Jays,Oakland Athletics,741,Kevin Gausman,3816,Luis Severino,Rogers Centre,2026-03-27T23:07:00.000Z,STATUS_FINAL
+5057785,2026-03-27T23:10:00.000Z,15,9,Miami Marlins,Colorado Rockies,3087,Sandy Alcantara,982,Kyle Freeland,loanDepot park,2026-03-27T23:10:00.000Z,STATUS_FINAL
+5057786,2026-03-27T23:15:00.000Z,2,12,Atlanta Braves,Kansas City Royals,736,Chris Sale,56,Cole Ragans,Truist Park,2026-03-27T23:15:00.000Z,STATUS_FINAL
+5057787,2026-03-28T00:10:00.000Z,11,13,Houston Astros,Los Angeles Angels,558,Mike Burrows,1727,Yusei Kikuchi,Daikin Park,2026-03-28T00:10:00.000Z,STATUS_FINAL
+5057788,2026-03-28T01:40:00.000Z,25,8,Seattle Mariners,Cleveland Guardians,418,George Kirby,879,Gavin Williams,T-Mobile Park,2026-03-28T01:40:00.000Z,STATUS_FINAL
+5057789,2026-03-28T01:40:00.000Z,23,10,San Diego Padres,Detroit Tigers,291,Michael King,481,Framber Valdez,Petco Park,2026-03-28T01:40:00.000Z,STATUS_FINAL
+5057790,2026-03-28T02:10:00.000Z,14,1,Los Angeles Dodgers,Arizona Diamondbacks,5460,Emmet Sheehan,10,Ryne Nelson,Dodger Stadium,2026-03-28T02:10:00.000Z,STATUS_FINAL

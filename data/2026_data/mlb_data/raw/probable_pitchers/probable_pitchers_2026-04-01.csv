@@ -1,0 +1,16 @@
+game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probable_pitcher_id,home_probable_pitcher_name,away_probable_pitcher_id,away_probable_pitcher_name,venue,game_time_utc,status
+5057847,2026-04-01T16:15:00.000Z,2,20,Atlanta Braves,Oakland Athletics,736,Chris Sale,3816,Luis Severino,Truist Park,2026-04-01T16:15:00.000Z,STATUS_FINAL
+5057848,2026-04-01T16:35:00.000Z,3,28,Baltimore Orioles,Texas Rangers,743,Trevor Rogers,1033,Nathan Eovaldi,Oriole Park at Camden Yards,2026-04-01T16:35:00.000Z,STATUS_FINAL
+5057849,2026-04-01T16:40:00.000Z,7,22,Cincinnati Reds,Pittsburgh Pirates,533,Andrew Abbott,647,Paul Skenes,Great American Ball Park,2026-04-01T16:40:00.000Z,STATUS_FINAL
+5057850,2026-04-01T17:05:00.000Z,21,30,Philadelphia Phillies,Washington Nationals,40,Cristopher Sanchez,2786,Cade Cavalli,Citizens Bank Park,2026-04-01T17:05:00.000Z,STATUS_FINAL
+5057851,2026-04-01T17:07:00.000Z,29,9,Toronto Blue Jays,Colorado Rockies,741,Kevin Gausman,982,Kyle Freeland,Rogers Centre,2026-04-01T17:07:00.000Z,STATUS_FINAL
+5057852,2026-04-01T17:10:00.000Z,15,6,Miami Marlins,Chicago White Sox,3087,Sandy Alcantara,223389,Shane Smith,loanDepot park,2026-04-01T17:10:00.000Z,STATUS_FINAL
+5057853,2026-04-01T17:15:00.000Z,26,18,St. Louis Cardinals,New York Mets,240,Matthew Liberatore,114,Freddy Peralta,Busch Stadium,2026-04-01T17:15:00.000Z,STATUS_FINAL
+5057854,2026-04-01T17:40:00.000Z,16,27,Milwaukee Brewers,Tampa Bay Rays,1680889,Jacob Misiorowski,1005,Drew Rasmussen,American Family Field,2026-04-01T17:40:00.000Z,STATUS_FINAL
+5057855,2026-04-01T18:10:00.000Z,11,4,Houston Astros,Boston Red Sox,558,Mike Burrows,555,Garrett Crochet,Daikin Park,2026-04-01T18:10:00.000Z,STATUS_FINAL
+5057856,2026-04-01T18:20:00.000Z,5,13,Chicago Cubs,Los Angeles Angels,3224,Matthew Boyd,1727,Yusei Kikuchi,Wrigley Field,2026-04-01T18:20:00.000Z,STATUS_FINAL
+5057857,2026-04-01T19:40:00.000Z,1,10,Arizona Diamondbacks,Detroit Tigers,24,Zac Gallen,178,Tarik Skubal,Chase Field,2026-04-01T19:40:00.000Z,STATUS_FINAL
+5057858,2026-04-01T20:10:00.000Z,25,19,Seattle Mariners,New York Yankees,418,George Kirby,2183925,Cam Schlittler,T-Mobile Park,2026-04-01T20:10:00.000Z,STATUS_FINAL
+5057859,2026-04-01T20:10:00.000Z,23,24,San Diego Padres,San Francisco Giants,5161,Nick Pivetta,1813,Adrian Houser,Petco Park,2026-04-01T20:10:00.000Z,STATUS_FINAL
+5057860,2026-04-01T23:40:00.000Z,12,17,Kansas City Royals,Minnesota Twins,870109,Noah Cameron,3435,Joe Ryan,Kauffman Stadium,2026-04-01T23:40:00.000Z,STATUS_FINAL
+5057861,2026-04-02T00:20:00.000Z,14,8,Los Angeles Dodgers,Cleveland Guardians,79,Yoshinobu Yamamoto,879,Gavin Williams,Dodger Stadium,2026-04-02T00:20:00.000Z,STATUS_FINAL

@@ -1,5 +1,5 @@
-game_pk,date,home_bullpen_ip,away_bullpen_ip,home_bullpen_hits,away_bullpen_hits,home_bullpen_earned_runs,away_bullpen_earned_runs,home_bullpen_walks,away_bullpen_walks,home_bullpen_strikeouts,away_bullpen_strikeouts,home_bullpen_homeruns,away_bullpen_homeruns,home_bullpen_era,away_bullpen_era,home_bullpen_whip,away_bullpen_whip,home_bullpen_k_per_9,away_bullpen_k_per_9,home_bullpen_k_bb_ratio,away_bullpen_k_bb_ratio,home_bullpen_hr_per_9,away_bullpen_hr_per_9,home_bullpen_bb_per_9,away_bullpen_bb_per_9
-661768,2022-09-26,3.9,5.2,0,5,0,0,2,0,7,3,0,0,0.0,0.0,0.51,0.96,16.15,5.19,3.5,0.0,0.0,0.0,4.62,0.0
-662242,2022-09-26,5.0,4.0,3,9,1,7,1,5,5,2,1,0,1.8,15.75,0.8,3.5,9.0,4.5,5.0,0.4,1.8,0.0,1.8,11.25
-662460,2022-09-26,4.0,0.0,3,0,0,0,2,0,1,0,1,0,0.0,0.0,1.25,0.0,2.25,0.0,0.5,0.0,2.25,0.0,4.5,0.0
-663250,2022-09-26,7.0,7.0,9,10,9,5,6,2,5,4,4,1,11.57,6.43,2.14,1.71,6.43,5.14,0.83,2.0,5.14,1.29,7.71,2.57
+game_pk,date,home_bullpen_ip,home_bullpen_hits,home_bullpen_earned_runs,home_bullpen_walks,home_bullpen_strikeouts,home_bullpen_homeruns,home_bullpen_era,home_bullpen_whip,home_bullpen_k_per_9,home_bullpen_k_bb_ratio,home_bullpen_hr_per_9,home_bullpen_bb_per_9,away_bullpen_ip,away_bullpen_hits,away_bullpen_earned_runs,away_bullpen_walks,away_bullpen_strikeouts,away_bullpen_homeruns,away_bullpen_era,away_bullpen_whip,away_bullpen_k_per_9,away_bullpen_k_bb_ratio,away_bullpen_hr_per_9,away_bullpen_bb_per_9
+661768,2022-09-26,3.6667,0,0,2,7,0,0.0,0.55,17.18,3.5,0.0,4.91,5.6667,5,0,0,3,0,0.0,0.88,4.76,0.0,0.0,0.0
+662242,2022-09-26,5.0,3,1,1,5,1,1.8,0.8,9.0,5.0,1.8,1.8,4.0,9,7,5,2,0,15.75,3.5,4.5,0.4,0.0,11.25
+662460,2022-09-26,4.0,3,0,2,1,1,0.0,1.25,2.25,0.5,2.25,4.5,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+663250,2022-09-26,7.0,9,9,6,5,4,11.57,2.14,6.43,0.83,5.14,7.71,7.0,10,5,2,4,1,6.43,1.71,5.14,2.0,1.29,2.57

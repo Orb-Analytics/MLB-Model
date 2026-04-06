@@ -259,18 +259,6 @@ def fetch_boxscores(date_str: str):
 
 # ─── Step 4: Compute Bullpen Boxscores (for yesterday) ─────────────────────────
 
-def ip_to_outs(ip):
-    whole = int(ip)
-    frac = round((ip - whole) * 10)
-    return whole * 3 + frac
-
-
-def outs_to_ip(outs):
-    whole = outs // 3
-    frac = outs % 3
-    return round(whole + frac / 10, 1)
-
-
 def safe_divide(num, denom, default=0.0):
     if denom == 0 or pd.isna(denom):
         return default
@@ -302,12 +290,11 @@ def compute_bullpen_boxscores(date_str: str):
             continue
         starter_row = pitcher_match.iloc[0]
 
-        row = {"game_pk": gp}
+        row = {"game_pk": gp, "date": date_str}
         for side in ["home", "away"]:
-            team_outs = ip_to_outs(team_row[f"{side}_pitching_ip"])
-            starter_outs = ip_to_outs(starter_row[f"{side}_starter_ip"])
-            bp_outs = max(team_outs - starter_outs, 0)
-            bp_ip_dec = bp_outs / 3
+            team_ip = float(team_row[f"{side}_pitching_ip"])
+            starter_ip = float(starter_row[f"{side}_starter_ip"])
+            bp_ip = round(max(team_ip - starter_ip, 0), 4)
 
             bp_h = max(int(team_row[f"{side}_pitching_h"] - starter_row[f"{side}_starter_hits"]), 0)
             bp_er = max(int(team_row[f"{side}_pitching_er"] - starter_row[f"{side}_starter_earned_runs"]), 0)
@@ -315,14 +302,18 @@ def compute_bullpen_boxscores(date_str: str):
             bp_k = max(int(team_row[f"{side}_pitching_k"] - starter_row[f"{side}_starter_strikeouts"]), 0)
             bp_hr = max(int(team_row[f"{side}_pitching_hr"] - starter_row[f"{side}_starter_homeruns"]), 0)
 
-            row[f"{side}_bp_ip"] = outs_to_ip(bp_outs)
-            row[f"{side}_bp_hits"] = bp_h
-            row[f"{side}_bp_earned_runs"] = bp_er
-            row[f"{side}_bp_walks"] = bp_bb
-            row[f"{side}_bp_strikeouts"] = bp_k
-            row[f"{side}_bp_homeruns"] = bp_hr
-            row[f"{side}_bp_era"] = round(safe_divide(bp_er * 9, bp_ip_dec), 2)
-            row[f"{side}_bp_whip"] = round(safe_divide(bp_h + bp_bb, bp_ip_dec), 2)
+            row[f"{side}_bullpen_ip"] = bp_ip
+            row[f"{side}_bullpen_hits"] = bp_h
+            row[f"{side}_bullpen_earned_runs"] = bp_er
+            row[f"{side}_bullpen_walks"] = bp_bb
+            row[f"{side}_bullpen_strikeouts"] = bp_k
+            row[f"{side}_bullpen_homeruns"] = bp_hr
+            row[f"{side}_bullpen_era"] = round(safe_divide(bp_er * 9, bp_ip), 2)
+            row[f"{side}_bullpen_whip"] = round(safe_divide(bp_h + bp_bb, bp_ip), 2)
+            row[f"{side}_bullpen_k_per_9"] = round(safe_divide(bp_k * 9, bp_ip), 2)
+            row[f"{side}_bullpen_k_bb_ratio"] = round(safe_divide(bp_k, bp_bb), 2)
+            row[f"{side}_bullpen_hr_per_9"] = round(safe_divide(bp_hr * 9, bp_ip), 2)
+            row[f"{side}_bullpen_bb_per_9"] = round(safe_divide(bp_bb * 9, bp_ip), 2)
         rows.append(row)
 
     if rows:

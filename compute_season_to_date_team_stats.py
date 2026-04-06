@@ -29,7 +29,10 @@ def process_year(year, verbose=True):
         print()
     
     # Load all boxscores for this year
-    boxscore_pattern = f'data/{year}_data/mlb_data/raw/boxscores/boxscores_*.csv'
+    if year == 2025:
+        boxscore_pattern = f'data/{year}_data/mlb_data/team_boxscores/team_boxscores_*.csv'
+    else:
+        boxscore_pattern = f'data/{year}_data/mlb_data/raw/boxscores/boxscores_*.csv'
     boxscore_files = sorted(glob.glob(boxscore_pattern))
     
     if not boxscore_files:
@@ -40,6 +43,9 @@ def process_year(year, verbose=True):
         print(f"Loading {len(boxscore_files)} boxscore files...")
     
     boxscores = pd.concat([pd.read_csv(f) for f in boxscore_files], ignore_index=True)
+    # 2025 uses 'id' column instead of 'game_pk'
+    if year == 2025 and 'id' in boxscores.columns and 'game_pk' not in boxscores.columns:
+        boxscores = boxscores.rename(columns={'id': 'game_pk'})
     boxscores = boxscores.drop_duplicates(subset='game_pk', keep='first')
     
     if verbose:
@@ -83,7 +89,10 @@ def process_year(year, verbose=True):
     })
     
     # Create output directory
-    output_dir = f'data/{year}_data/mlb_data/season_to_date_stats/team_stats'
+    if year == 2025:
+        output_dir = f'data/{year}_data/bdl_data/team_season_stats'
+    else:
+        output_dir = f'data/{year}_data/mlb_data/season_to_date_stats/team_stats'
     os.makedirs(output_dir, exist_ok=True)
     
     stats_data = []

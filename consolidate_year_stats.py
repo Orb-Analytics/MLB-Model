@@ -28,15 +28,21 @@ def consolidate_team_stats(year):
     print("="*80)
     
     # Load season-to-date files
-    stats_pattern = f"data/{year}_data/mlb_data/season_to_date_stats/team_stats/team_season_stats_*.csv"
+    if str(year) == '2025':
+        stats_pattern = f"data/{year}_data/bdl_data/team_season_stats/team_season_stats_*.csv"
+    else:
+        stats_pattern = f"data/{year}_data/mlb_data/season_to_date_stats/team_stats/team_season_stats_*.csv"
     stats_files = sorted(glob.glob(stats_pattern))
     
     if not stats_files:
-        print(f"❌ No team stats files found for {year}")
+        print(f"\u274c No team stats files found for {year}")
         return False
     
     print(f"Loading {len(stats_files)} season-to-date files...")
     team_stats = pd.concat([pd.read_csv(f) for f in stats_files], ignore_index=True)
+    # 2025 uses 'id' column instead of 'game_pk'
+    if str(year) == '2025' and 'id' in team_stats.columns and 'game_pk' not in team_stats.columns:
+        team_stats = team_stats.rename(columns={'id': 'game_pk'})
     team_stats = team_stats.drop_duplicates(subset='game_pk', keep='first')
     print(f"Loaded {len(team_stats):,} games")
     
@@ -67,7 +73,10 @@ def consolidate_team_stats(year):
     
     # Merge with rolling stats
     print("Merging rolling stats...")
-    derived_dir = Path(f"data/{year}_data/mlb_data/season_to_date_stats/team_stats/derived_stats")
+    if str(year) == '2025':
+        derived_dir = Path(f"data/{year}_data/mlb_data/derived_stats/team_derived_stats")
+    else:
+        derived_dir = Path(f"data/{year}_data/mlb_data/season_to_date_stats/team_stats/derived_stats")
     
     rolling_files = [
         'batting_avg_rolling.csv', 'batting_obp_rolling.csv', 'batting_slg_rolling.csv',
@@ -170,7 +179,10 @@ def consolidate_starting_pitcher_stats(year):
     print("="*80)
     
     # Load season-to-date files
-    stats_pattern = f"data/{year}_data/mlb_data/season_to_date_stats/starting_pitcher_stats/starting_pitcher_stats_*.csv"
+    if str(year) == '2025':
+        stats_pattern = f"data/{year}_data/bdl_data/starting_pitcher_stats/starting_pitcher_stats_*.csv"
+    else:
+        stats_pattern = f"data/{year}_data/mlb_data/season_to_date_stats/starting_pitcher_stats/starting_pitcher_stats_*.csv"
     stats_files = sorted(glob.glob(stats_pattern))
     
     if not stats_files:
@@ -211,7 +223,10 @@ def consolidate_starting_pitcher_stats(year):
     
     # Merge with rolling stats
     print("Merging rolling stats...")
-    derived_dir = Path(f"data/{year}_data/mlb_data/season_to_date_stats/starting_pitcher_stats/derived_stats")
+    if str(year) == '2025':
+        derived_dir = Path(f"data/{year}_data/mlb_data/derived_stats/starting_pitcher_derived_stats")
+    else:
+        derived_dir = Path(f"data/{year}_data/mlb_data/season_to_date_stats/starting_pitcher_stats/derived_stats")
     
     rolling_files = [
         'era_rolling.csv', 'whip_rolling.csv', 'k_per_9_rolling.csv',
@@ -295,7 +310,10 @@ def consolidate_team_bullpen_stats(year):
     print("="*80)
     
     # Load season-to-date files
-    stats_pattern = f"data/{year}_data/mlb_data/season_to_date_stats/team_bullpen_stats/team_bullpen_stats_*.csv"
+    if str(year) == '2025':
+        stats_pattern = f"data/{year}_data/mlb_data/derived_stats/team_bullpen_season_to_date_stats/team_bullpen_season_to_date_*.csv"
+    else:
+        stats_pattern = f"data/{year}_data/mlb_data/season_to_date_stats/team_bullpen_stats/team_bullpen_stats_*.csv"
     stats_files = sorted(glob.glob(stats_pattern))
     
     if not stats_files:
@@ -309,7 +327,10 @@ def consolidate_team_bullpen_stats(year):
     
     # Merge with rolling stats
     print("Merging rolling stats...")
-    derived_dir = Path(f"data/{year}_data/mlb_data/season_to_date_stats/team_bullpen_stats/derived_stats")
+    if str(year) == '2025':
+        derived_dir = Path(f"data/{year}_data/mlb_data/derived_stats/team_bullpen_derived_stats")
+    else:
+        derived_dir = Path(f"data/{year}_data/mlb_data/season_to_date_stats/team_bullpen_stats/derived_stats")
     
     rolling_files = [
         'bp_era_rolling.csv', 'bp_whip_rolling.csv', 'bp_k_per_9_rolling.csv',

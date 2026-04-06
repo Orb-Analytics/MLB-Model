@@ -187,12 +187,6 @@ def build_team_boxscore(game: dict, player_stats: list[dict]) -> dict:
     home_errors = game["home_team_data"]["errors"]
     away_errors = game["away_team_data"]["errors"]
 
-    # Format IP as baseball notation (e.g., 9.0, 5.1, 5.2)
-    def format_ip(ip_decimal):
-        whole = int(ip_decimal)
-        frac = round((ip_decimal - whole) * 3)
-        return whole + frac / 10
-
     date_str = game.get("_local_date", game["date"][:10])
 
     return {
@@ -250,8 +244,8 @@ def build_team_boxscore(game: dict, player_stats: list[dict]) -> dict:
         "away_pitching_l": away_l,
         "home_pitching_era": round(home_era, 2),
         "away_pitching_era": round(away_era, 2),
-        "home_pitching_ip": format_ip(home_ip),
-        "away_pitching_ip": format_ip(away_ip),
+        "home_pitching_ip": round(home_ip, 4),
+        "away_pitching_ip": round(away_ip, 4),
         "home_pitching_h": home_p_h,
         "away_pitching_h": away_p_h,
         "home_pitching_er": home_p_er,
@@ -293,8 +287,14 @@ def build_pitcher_boxscore(game: dict, player_stats: list[dict]) -> dict:
 
     date_str = game.get("_local_date", game["date"][:10])
 
+    def baseball_ip_to_decimal(ip):
+        """Convert baseball IP notation to decimal: 5.1 -> 5.333, 5.2 -> 5.667"""
+        whole = int(ip)
+        frac = round((ip - whole) * 10)
+        return round(whole + frac / 3, 4)
+
     def pitcher_row(p):
-        ip = p["ip"] or 0
+        ip = baseball_ip_to_decimal(p["ip"] or 0)
         return {
             "id": p["player"]["id"],
             "name": p["player"]["full_name"],

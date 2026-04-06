@@ -1,0 +1,16 @@
+game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probable_pitcher_id,home_probable_pitcher_name,away_probable_pitcher_id,away_probable_pitcher_name,venue,game_time_utc,status
+5057791,2026-03-28T18:15:00.000Z,26,27,St. Louis Cardinals,Tampa Bay Rays,275,Michael McGreevy,326,Joe Boyle,Busch Stadium,2026-03-28T18:15:00.000Z,STATUS_FINAL
+5057792,2026-03-28T18:20:00.000Z,5,30,Chicago Cubs,Washington Nationals,1064651,Cade Horton,285,Miles Mikolas,Wrigley Field,2026-03-28T18:20:00.000Z,STATUS_FINAL
+5057793,2026-03-28T19:07:00.000Z,29,20,Toronto Blue Jays,Oakland Athletics,224,Dylan Cease,1025,Jeffrey Springs,Rogers Centre,2026-03-28T19:07:00.000Z,STATUS_FINAL
+5057794,2026-03-28T20:05:00.000Z,3,17,Baltimore Orioles,Minnesota Twins,1490,Kyle Bradish,878,Taj Bradley,Oriole Park at Camden Yards,2026-03-28T20:05:00.000Z,STATUS_FINAL
+5057795,2026-03-28T20:05:00.000Z,21,28,Philadelphia Phillies,Texas Rangers,373,Aaron Nola,1058,Jacob Latz,Citizens Bank Park,2026-03-28T20:05:00.000Z,STATUS_FINAL
+5057796,2026-03-28T20:10:00.000Z,7,4,Cincinnati Reds,Boston Red Sox,67,Brady Singer,200,Sonny Gray,Great American Ball Park,2026-03-28T20:10:00.000Z,STATUS_FINAL
+5057797,2026-03-28T20:10:00.000Z,15,9,Miami Marlins,Colorado Rockies,5874,Eury Perez,2293,Michael Lorenzen,loanDepot park,2026-03-28T20:10:00.000Z,STATUS_FINAL
+5057798,2026-03-28T20:10:00.000Z,18,22,New York Mets,Pittsburgh Pirates,279,David Peterson,588,Mitch Keller,Citi Field,2026-03-28T20:10:00.000Z,STATUS_FINAL
+5057799,2026-03-28T23:10:00.000Z,11,13,Houston Astros,Los Angeles Angels,1568,Cristian Javier,527,Reid Detmers,Daikin Park,2026-03-28T23:10:00.000Z,STATUS_FINAL
+5057800,2026-03-28T23:10:00.000Z,16,6,Milwaukee Brewers,Chicago White Sox,240474,Chad Patrick,534,Sean Burke,American Family Field,2026-03-28T23:10:00.000Z,STATUS_FINAL
+5057801,2026-03-28T23:15:00.000Z,2,12,Atlanta Braves,Kansas City Royals,718,Reynaldo Lopez,106,Michael Wacha,Truist Park,2026-03-28T23:15:00.000Z,STATUS_FINAL
+5057802,2026-03-28T23:15:00.000Z,24,19,San Francisco Giants,New York Yankees,4100,Tyler Mahle,6274,Will Warren,Oracle Park,2026-03-28T23:15:00.000Z,STATUS_FINAL
+5057803,2026-03-29T00:40:00.000Z,23,10,San Diego Padres,Detroit Tigers,351,Randy Vasquez,1114,Jack Flaherty,Petco Park,2026-03-29T00:40:00.000Z,STATUS_FINAL
+5057804,2026-03-29T01:10:00.000Z,14,1,Los Angeles Dodgers,Arizona Diamondbacks,1865,Tyler Glasnow,32,Eduardo Rodriguez,Dodger Stadium,2026-03-29T01:10:00.000Z,STATUS_FINAL
+5057805,2026-03-29T01:40:00.000Z,25,8,Seattle Mariners,Cleveland Guardians,529,Bryan Woo,720,Joey Cantillo,T-Mobile Park,2026-03-29T01:40:00.000Z,STATUS_FINAL

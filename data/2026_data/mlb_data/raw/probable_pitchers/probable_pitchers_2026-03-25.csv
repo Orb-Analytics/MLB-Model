@@ -1,0 +1,2 @@
+game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probable_pitcher_id,home_probable_pitcher_name,away_probable_pitcher_id,away_probable_pitcher_name,venue,game_time_utc,status
+5057771,2026-03-26T00:05:00.000Z,24,19,San Francisco Giants,New York Yankees,971,Logan Webb,5439,Max Fried,Oracle Park,2026-03-26T00:05:00.000Z,STATUS_FINAL

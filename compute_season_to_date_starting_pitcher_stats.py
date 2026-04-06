@@ -29,7 +29,10 @@ def process_year(year, verbose=True):
         print()
     
     # Load all starting pitcher boxscores for this year
-    pitcher_pattern = f'data/{year}_data/mlb_data/raw/starting_pitcher_boxscores/starting_pitcher_boxscores_*.csv'
+    if year == 2025:
+        pitcher_pattern = f'data/{year}_data/mlb_data/starting_pitcher_boxscores/starting_pitcher_boxscores_*.csv'
+    else:
+        pitcher_pattern = f'data/{year}_data/mlb_data/raw/starting_pitcher_boxscores/starting_pitcher_boxscores_*.csv'
     pitcher_files = sorted(glob.glob(pitcher_pattern))
     
     if not pitcher_files:
@@ -43,9 +46,15 @@ def process_year(year, verbose=True):
     pitcher_boxscores = pitcher_boxscores.drop_duplicates(subset='game_pk', keep='first')
     
     # Also load regular boxscores to get team info and game outcomes
-    boxscore_pattern = f'data/{year}_data/mlb_data/raw/boxscores/boxscores_*.csv'
+    if year == 2025:
+        boxscore_pattern = f'data/{year}_data/mlb_data/team_boxscores/team_boxscores_*.csv'
+    else:
+        boxscore_pattern = f'data/{year}_data/mlb_data/raw/boxscores/boxscores_*.csv'
     boxscore_files = sorted(glob.glob(boxscore_pattern))
     boxscores = pd.concat([pd.read_csv(f) for f in boxscore_files], ignore_index=True)
+    # 2025 uses 'id' column instead of 'game_pk'
+    if year == 2025 and 'id' in boxscores.columns and 'game_pk' not in boxscores.columns:
+        boxscores = boxscores.rename(columns={'id': 'game_pk'})
     boxscores = boxscores.drop_duplicates(subset='game_pk', keep='first')
     
     if verbose:
@@ -85,7 +94,10 @@ def process_year(year, verbose=True):
     })
     
     # Create output directory
-    output_dir = f'data/{year}_data/mlb_data/season_to_date_stats/starting_pitcher_stats'
+    if year == 2025:
+        output_dir = f'data/{year}_data/bdl_data/starting_pitcher_stats'
+    else:
+        output_dir = f'data/{year}_data/mlb_data/season_to_date_stats/starting_pitcher_stats'
     os.makedirs(output_dir, exist_ok=True)
     
     stats_data = []

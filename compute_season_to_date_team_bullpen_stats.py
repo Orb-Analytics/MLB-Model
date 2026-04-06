@@ -29,7 +29,10 @@ def process_year(year, verbose=True):
         print()
     
     # Load all team bullpen boxscores for this year
-    bullpen_pattern = f'data/{year}_data/mlb_data/raw/team_bullpen_boxscores/team_bullpen_boxscores_*.csv'
+    if year == 2025:
+        bullpen_pattern = f'data/{year}_data/mlb_data/team_bullpen_boxscores/team_bullpen_boxscores_*.csv'
+    else:
+        bullpen_pattern = f'data/{year}_data/mlb_data/raw/team_bullpen_boxscores/team_bullpen_boxscores_*.csv'
     bullpen_files = sorted(glob.glob(bullpen_pattern))
     
     if not bullpen_files:
@@ -43,9 +46,15 @@ def process_year(year, verbose=True):
     bullpen_boxscores = bullpen_boxscores.drop_duplicates(subset='game_pk', keep='first')
     
     # Also load regular boxscores to get team names
-    boxscore_pattern = f'data/{year}_data/mlb_data/raw/boxscores/boxscores_*.csv'
+    if year == 2025:
+        boxscore_pattern = f'data/{year}_data/mlb_data/team_boxscores/team_boxscores_*.csv'
+    else:
+        boxscore_pattern = f'data/{year}_data/mlb_data/raw/boxscores/boxscores_*.csv'
     boxscore_files = sorted(glob.glob(boxscore_pattern))
     boxscores = pd.concat([pd.read_csv(f) for f in boxscore_files], ignore_index=True)
+    # 2025 uses 'id' column instead of 'game_pk'
+    if year == 2025 and 'id' in boxscores.columns and 'game_pk' not in boxscores.columns:
+        boxscores = boxscores.rename(columns={'id': 'game_pk'})
     boxscores = boxscores.drop_duplicates(subset='game_pk', keep='first')
     
     if verbose:
@@ -78,7 +87,10 @@ def process_year(year, verbose=True):
     })
     
     # Create output directory
-    output_dir = f'data/{year}_data/mlb_data/season_to_date_stats/team_bullpen_stats'
+    if year == 2025:
+        output_dir = f'data/{year}_data/mlb_data/derived_stats/team_bullpen_season_to_date_stats'
+    else:
+        output_dir = f'data/{year}_data/mlb_data/season_to_date_stats/team_bullpen_stats'
     os.makedirs(output_dir, exist_ok=True)
     
     stats_data = []
@@ -237,7 +249,10 @@ def process_year(year, verbose=True):
     
     saved_files = 0
     for date_str, group in stats_df.groupby('date'):
-        file_path = f'{output_dir}/team_bullpen_stats_{date_str}.csv'
+        if year == 2025:
+            file_path = f'{output_dir}/team_bullpen_season_to_date_{date_str}.csv'
+        else:
+            file_path = f'{output_dir}/team_bullpen_stats_{date_str}.csv'
         group.to_csv(file_path, index=False)
         saved_files += 1
     

@@ -1,7 +1,7 @@
-game_pk,date,home_bullpen_ip,away_bullpen_ip,home_bullpen_hits,away_bullpen_hits,home_bullpen_earned_runs,away_bullpen_earned_runs,home_bullpen_walks,away_bullpen_walks,home_bullpen_strikeouts,away_bullpen_strikeouts,home_bullpen_homeruns,away_bullpen_homeruns,home_bullpen_era,away_bullpen_era,home_bullpen_whip,away_bullpen_whip,home_bullpen_k_per_9,away_bullpen_k_per_9,home_bullpen_k_bb_ratio,away_bullpen_k_bb_ratio,home_bullpen_hr_per_9,away_bullpen_hr_per_9,home_bullpen_bb_per_9,away_bullpen_bb_per_9
-413783,2015-04-16,5.0,5.8,5,7,3,4,2,4,4,6,1,1,5.4,6.21,1.4,1.9,7.2,9.31,2.0,1.5,1.8,1.55,3.6,6.21
-413784,2015-04-16,3.9,5.0,3,4,2,3,1,1,0,1,0,1,4.62,5.4,1.03,1.0,0.0,1.8,0.0,1.0,0.0,1.8,2.31,1.8
-413785,2015-04-16,3.8,2.9,2,2,0,2,1,2,4,1,0,0,0.0,6.21,0.79,1.38,9.47,3.1,4.0,0.5,0.0,0.0,2.37,6.21
-413786,2015-04-16,2.0,2.8,1,4,0,2,0,1,2,1,0,0,0.0,6.43,0.5,1.79,9.0,3.21,0.0,1.0,0.0,0.0,0.0,3.21
-413787,2015-04-16,2.8,2.0,1,1,0,0,0,0,2,2,0,0,0.0,0.0,0.36,0.5,6.43,9.0,0.0,0.0,0.0,0.0,0.0,0.0
-413788,2015-04-16,3.9,2.0,3,2,1,2,0,2,4,1,1,0,2.31,9.0,0.77,2.0,9.23,4.5,0.0,0.5,2.31,0.0,0.0,9.0
+game_pk,date,home_bullpen_ip,home_bullpen_hits,home_bullpen_earned_runs,home_bullpen_walks,home_bullpen_strikeouts,home_bullpen_homeruns,home_bullpen_era,home_bullpen_whip,home_bullpen_k_per_9,home_bullpen_k_bb_ratio,home_bullpen_hr_per_9,home_bullpen_bb_per_9,away_bullpen_ip,away_bullpen_hits,away_bullpen_earned_runs,away_bullpen_walks,away_bullpen_strikeouts,away_bullpen_homeruns,away_bullpen_era,away_bullpen_whip,away_bullpen_k_per_9,away_bullpen_k_bb_ratio,away_bullpen_hr_per_9,away_bullpen_bb_per_9
+413783,2015-04-16,5.0,5,3,2,4,1,5.4,1.4,7.2,2.0,1.8,3.6,5.3333,7,4,4,6,1,6.75,2.06,10.13,1.5,1.69,6.75
+413784,2015-04-16,3.6667,3,2,1,0,0,4.91,1.09,0.0,0.0,0.0,2.45,5.0,4,3,1,1,1,5.4,1.0,1.8,1.0,1.8,1.8
+413785,2015-04-16,3.3333,2,0,1,4,0,0.0,0.9,10.8,4.0,0.0,2.7,2.6667,2,2,2,1,0,6.75,1.5,3.37,0.5,0.0,6.75
+413786,2015-04-16,2.0,1,0,0,2,0,0.0,0.5,9.0,0.0,0.0,0.0,2.3333,4,2,1,1,0,7.71,2.14,3.86,1.0,0.0,3.86
+413787,2015-04-16,2.3333,1,0,0,2,0,0.0,0.43,7.71,0.0,0.0,0.0,2.0,1,0,0,2,0,0.0,0.5,9.0,0.0,0.0,0.0
+413788,2015-04-16,3.6667,3,1,0,4,1,2.45,0.82,9.82,0.0,2.45,0.0,2.0,2,2,2,1,0,9.0,2.0,4.5,0.5,0.0,9.0
