@@ -1,0 +1,16 @@
+game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probable_pitcher_id,home_probable_pitcher_name,away_probable_pitcher_id,away_probable_pitcher_name,venue,game_time_utc,status
+823403,2026-04-08T16:35:00Z,134,135,Pittsburgh Pirates,San Diego Padres,656605,Mitch Keller,650633,Michael King,PNC Park,2026-04-08T16:35:00Z,Scheduled
+824455,2026-04-08T17:10:00Z,114,118,Cleveland Guardians,Kansas City Royals,676282,Joey Cantillo,666142,Cole Ragans,Progressive Field,2026-04-08T17:10:00Z,Scheduled
+824779,2026-04-08T17:35:00Z,111,158,Boston Red Sox,Milwaukee Brewers,543243,Sonny Gray,675660,Shane Drohan,Fenway Park,2026-04-08T17:35:00Z,Scheduled
+824617,2026-04-08T18:10:00Z,145,110,Chicago White Sox,Baltimore Orioles,680732,Sean Burke,680694,Kyle Bradish,Rate Field,2026-04-08T18:10:00Z,Scheduled
+822915,2026-04-08T18:35:00Z,140,136,Texas Rangers,Seattle Mariners,669022,MacKenzie Gore,693433,Bryan Woo,Globe Life Field,2026-04-08T18:35:00Z,Scheduled
+822833,2026-04-08T19:07:00Z,141,119,Toronto Blue Jays,Los Angeles Dodgers,656302,Dylan Cease,660271,Shohei Ohtani,Rogers Centre,2026-04-08T19:07:00Z,Scheduled
+824374,2026-04-08T19:10:00Z,115,117,Colorado Rockies,Houston Astros,547179,Michael Lorenzen,664299,Cristian Javier,Coors Field,2026-04-08T19:10:00Z,Scheduled
+823234,2026-04-08T19:45:00Z,137,143,San Francisco Giants,Philadelphia Phillies,641816,Tyler Mahle,605400,Aaron Nola,Oracle Park,2026-04-08T19:45:00Z,Scheduled
+822753,2026-04-08T20:05:00Z,120,138,Washington Nationals,St. Louis Cardinals,571945,Miles Mikolas,700241,Michael McGreevy,Nationals Park,2026-04-08T20:05:00Z,Scheduled
+824050,2026-04-08T20:07:00Z,108,144,Los Angeles Angels,Atlanta Braves,672282,Reid Detmers,656550,Grant Holmes,Angel Stadium,2026-04-08T20:07:00Z,Scheduled
+823646,2026-04-08T20:10:00Z,121,109,New York Mets,Arizona Diamondbacks,656849,David Peterson,669194,Ryne Nelson,Citi Field,2026-04-08T20:10:00Z,Scheduled
+823000,2026-04-08T22:40:00Z,139,112,Tampa Bay Rays,Chicago Cubs,671212,Joe Boyle,607067,Colin Rea,Tropicana Field,2026-04-08T22:40:00Z,Scheduled
+823885,2026-04-08T22:40:00Z,146,113,Miami Marlins,Cincinnati Reds,691587,Eury Pérez,663903,Brady Singer,loanDepot park,2026-04-08T22:40:00Z,Scheduled
+823564,2026-04-08T23:05:00Z,147,133,New York Yankees,Athletics,701542,Will Warren,622663,Luis Severino,Yankee Stadium,2026-04-08T23:05:00Z,Scheduled
+823726,2026-04-08T23:40:00Z,142,116,Minnesota Twins,Detroit Tigers,641927,Bailey Ober,664285,Framber Valdez,Target Field,2026-04-08T23:40:00Z,Scheduled
