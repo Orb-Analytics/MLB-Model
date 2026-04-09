@@ -1,0 +1,7 @@
+game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probable_pitcher_id,home_probable_pitcher_name,away_probable_pitcher_id,away_probable_pitcher_name,venue,game_time_utc,status
+823884,2026-04-09T16:10:00Z,146,113,Miami Marlins,Cincinnati Reds,676974,Max Meyer,695076,Rhett Lowder,loanDepot park,2026-04-09T16:10:00Z,Pre-Game
+823565,2026-04-09T17:35:00Z,147,133,New York Yankees,Athletics,677960,Ryan Weathers,605488,Jeffrey Springs,Yankee Stadium,2026-04-09T17:35:00Z,Scheduled
+823724,2026-04-09T17:40:00Z,142,116,Minnesota Twins,Detroit Tigers,690953,Mick Abel,656427,Jack Flaherty,Target Field,2026-04-09T17:40:00Z,Scheduled
+823645,2026-04-09T23:10:00Z,121,109,New York Mets,Arizona Diamondbacks,690997,Nolan McLean,593958,Eduardo Rodriguez,Citi Field,2026-04-09T23:10:00Z,Scheduled
+824130,2026-04-09T23:40:00Z,118,145,Kansas City Royals,Chicago White Sox,607625,Seth Lugo,641743,Anthony Kay,Kauffman Stadium,2026-04-09T23:40:00Z,Scheduled
+823319,2026-04-10T01:40:00Z,135,115,San Diego Padres,Colorado Rockies,681190,Randy Vásquez,,,Petco Park,2026-04-10T01:40:00Z,Scheduled
