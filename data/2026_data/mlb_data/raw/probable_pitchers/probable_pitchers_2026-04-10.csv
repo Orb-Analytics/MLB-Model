@@ -1,0 +1,16 @@
+game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probable_pitcher_id,home_probable_pitcher_name,away_probable_pitcher_id,away_probable_pitcher_name,venue,game_time_utc,status
+824695,2026-04-10T18:20:00Z,112,134,Chicago Cubs,Pittsburgh Pirates,684007,Shota Imanaga,669387,Carmen Mlodzinski,Wrigley Field,2026-04-10T18:20:00Z,Scheduled
+823482,2026-04-10T22:40:00Z,143,109,Philadelphia Phillies,Arizona Diamondbacks,666200,Jesús Luzardo,647336,Michael Soroka,Citizens Bank Park,2026-04-10T22:40:00Z,Scheduled
+824297,2026-04-10T22:40:00Z,116,146,Detroit Tigers,Miami Marlins,672456,Keider Montero,663978,Chris Paddack,Comerica Park,2026-04-10T22:40:00Z,Scheduled
+824534,2026-04-10T22:45:00Z,113,108,Cincinnati Reds,Los Angeles Angels,695505,Chase Burns,686799,Jack Kochanowicz,Great American Ball Park,2026-04-10T22:45:00Z,Scheduled
+822829,2026-04-10T23:07:00Z,141,142,Toronto Blue Jays,Minnesota Twins,571578,Patrick Corbin,680573,Simeon Woods Richardson,Rogers Centre,2026-04-10T23:07:00Z,Scheduled
+823643,2026-04-10T23:10:00Z,121,133,New York Mets,Athletics,605280,Clay Holmes,669372,J.T. Ginn,Citi Field,2026-04-10T23:10:00Z,Scheduled
+822997,2026-04-10T23:10:00Z,139,147,Tampa Bay Rays,New York Yankees,571927,Steven Matz,661563,Luis Gil,Tropicana Field,2026-04-10T23:10:00Z,Scheduled
+824858,2026-04-10T23:15:00Z,110,137,Baltimore Orioles,San Francisco Giants,669358,Shane Baz,694738,Landen Roupp,Oriole Park at Camden Yards,2026-04-10T23:15:00Z,Scheduled
+824941,2026-04-10T23:15:00Z,144,114,Atlanta Braves,Cleveland Guardians,693821,Bryce Elder,677944,Slade Cecconi,Truist Park,2026-04-10T23:15:00Z,Scheduled
+824128,2026-04-10T23:40:00Z,118,145,Kansas City Royals,Chicago White Sox,663460,Kris Bubic,663436,Davis Martin,Kauffman Stadium,2026-04-10T23:40:00Z,Scheduled
+823808,2026-04-10T23:40:00Z,158,120,Milwaukee Brewers,Washington Nationals,694477,Chad Patrick,663623,Jake Irvin,American Family Field,2026-04-10T23:40:00Z,Scheduled
+823076,2026-04-11T00:15:00Z,138,111,St. Louis Cardinals,Boston Red Sox,669160,Dustin May,813349,Connelly Early,Busch Stadium,2026-04-11T00:15:00Z,Scheduled
+823318,2026-04-11T01:40:00Z,135,115,San Diego Padres,Colorado Rockies,621111,Walker Buehler,608372,Tomoyuki Sugano,Petco Park,2026-04-11T01:40:00Z,Scheduled
+823156,2026-04-11T01:40:00Z,136,117,Seattle Mariners,Houston Astros,676106,Emerson Hancock,837227,Tatsuya Imai,T-Mobile Park,2026-04-11T01:40:00Z,Scheduled
+823968,2026-04-11T02:10:00Z,119,140,Los Angeles Dodgers,Texas Rangers,607192,Tyler Glasnow,677958,Kumar Rocker,UNIQLO Field at Dodger Stadium,2026-04-11T02:10:00Z,Scheduled
