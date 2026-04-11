@@ -1,0 +1,16 @@
+game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probable_pitcher_id,home_probable_pitcher_name,away_probable_pitcher_id,away_probable_pitcher_name,venue,game_time_utc,status
+823480,2026-04-11T17:05:00Z,143,109,Philadelphia Phillies,Arizona Diamondbacks,592836,Taijuan Walker,694297,Brandon Pfaadt,Citizens Bank Park,2026-04-11T17:05:00Z,Pre-Game
+824294,2026-04-11T17:10:00Z,116,146,Detroit Tigers,Miami Marlins,663554,Casey Mize,676083,Janson Junk,Comerica Park,2026-04-11T17:10:00Z,Scheduled
+824697,2026-04-11T18:20:00Z,112,134,Chicago Cubs,Pittsburgh Pirates,665795,Edward Cabrera,677952,Braxton Ashcraft,Wrigley Field,2026-04-11T18:20:00Z,Scheduled
+822830,2026-04-11T19:07:00Z,141,142,Toronto Blue Jays,Minnesota Twins,641778,Eric Lauer,657746,Joe Ryan,Rogers Centre,2026-04-11T19:07:00Z,Scheduled
+824535,2026-04-11T20:10:00Z,113,108,Cincinnati Reds,Los Angeles Angels,682227,Brandon Williamson,691946,George Klassen,Great American Ball Park,2026-04-11T20:10:00Z,Scheduled
+823644,2026-04-11T20:10:00Z,121,133,New York Mets,Athletics,673540,Kodai Senga,682052,Jacob Lopez,Citi Field,2026-04-11T20:10:00Z,Scheduled
+824129,2026-04-11T20:10:00Z,118,145,Kansas City Royals,Chicago White Sox,608379,Michael Wacha,607200,Erick Fedde,Kauffman Stadium,2026-04-11T20:10:00Z,Scheduled
+822996,2026-04-11T22:10:00Z,139,147,Tampa Bay Rays,New York Yankees,607259,Nick Martinez,608331,Max Fried,Tropicana Field,2026-04-11T22:10:00Z,Scheduled
+823805,2026-04-11T23:10:00Z,158,120,Milwaukee Brewers,Washington Nationals,690986,Kyle Harrison,656492,Foster Griffin,American Family Field,2026-04-11T23:10:00Z,Scheduled
+824857,2026-04-11T23:15:00Z,110,137,Baltimore Orioles,San Francisco Giants,605135,Chris Bassitt,657277,Logan Webb,Oriole Park at Camden Yards,2026-04-11T23:15:00Z,Scheduled
+823074,2026-04-11T23:15:00Z,138,111,St. Louis Cardinals,Boston Red Sox,681517,Kyle Leahy,624133,Ranger Suarez,Busch Stadium,2026-04-11T23:15:00Z,Scheduled
+824939,2026-04-11T23:15:00Z,144,114,Atlanta Braves,Cleveland Guardians,527048,Martín Pérez,800048,Parker Messick,Truist Park,2026-04-11T23:15:00Z,Scheduled
+823316,2026-04-12T00:40:00Z,135,115,San Diego Padres,Colorado Rockies,608566,Germán Márquez,663372,Ryan Feltner,Petco Park,2026-04-12T00:40:00Z,Scheduled
+823967,2026-04-12T01:10:00Z,119,140,Los Angeles Dodgers,Texas Rangers,686218,Emmet Sheehan,683004,Jack Leiter,UNIQLO Field at Dodger Stadium,2026-04-12T01:10:00Z,Scheduled
+823155,2026-04-12T01:40:00Z,136,117,Seattle Mariners,Houston Astros,622491,Luis Castillo,621121,Lance McCullers Jr.,T-Mobile Park,2026-04-12T01:40:00Z,Scheduled
