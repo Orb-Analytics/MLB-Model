@@ -172,6 +172,106 @@ def fetch_game_outlook(target_date: str):
     return True
 
 
+# ─── Step 1b: Fetch Betting Odds ───────────────────────────────────────────────
+
+BETTING_OUTLOOK_DIR = BASE_DIR / "betting_outlook"
+BETTING_OUTLOOK_DIR.mkdir(parents=True, exist_ok=True)
+
+ODDS_VENDOR = "draftkings"
+
+BETTING_OUTLOOK_COLUMNS = [
+    "Date", "home team", "away team", "home score", "away score",
+    "home ml open", "away ml open", "home ml close", "away ml close",
+    "over open", "under open", "over close", "under close",
+    "over open odds", "under open odds", "over close odds", "under close odds",
+]
+
+
+def fetch_betting_odds(target_date: str):
+    """Fetch pregame betting odds for target_date from BDL API.
+
+    Reads the game_outlook file for target_date to get game IDs,
+    then fetches odds from BDL /odds endpoint.  At ETL runtime (9 AM ET),
+    today's games are still scheduled so odds are valid pregame lines.
+    """
+    out_path = BETTING_OUTLOOK_DIR / f"betting_outlook_{target_date}.csv"
+    if out_path.exists():
+        log("1b-ODDS", f"Already exists: {out_path.name}")
+        return True
+
+    outlook_path = BASE_DIR / "game_outlook" / f"game_outlook_{target_date}.csv"
+    if not outlook_path.exists():
+        log("1b-ODDS", f"No game outlook for {target_date}, skipping odds")
+        return True  # Not a failure — just no games that day
+
+    log("1b-ODDS", f"Fetching pregame odds for {target_date}...")
+
+    outlook = pd.read_csv(outlook_path)
+    game_ids = outlook["id"].astype(str).tolist()
+
+    # Fetch odds in batches of 15 (15 games × 6 vendors ≤ 100 per page)
+    odds_by_game = {}
+    BATCH = 15
+    for i in range(0, len(game_ids), BATCH):
+        batch = game_ids[i:i + BATCH]
+        cursor = None
+        while True:
+            params = {"game_ids[]": batch, "per_page": 100}
+            if cursor:
+                params["cursor"] = cursor
+            resp = requests.get(
+                f"{BDL_BASE}/odds", headers=BDL_HEADERS,
+                params=params, timeout=30,
+            )
+            resp.raise_for_status()
+            data = resp.json()
+            for o in data["data"]:
+                if o["vendor"] == ODDS_VENDOR:
+                    odds_by_game[str(o["game_id"])] = o
+            cursor = data.get("meta", {}).get("next_cursor")
+            if not cursor:
+                break
+            time.sleep(0.3)
+        time.sleep(0.3)
+
+    # Build rows
+    rows = []
+    matched = 0
+    for _, g in outlook.iterrows():
+        gid = str(g["id"])
+        row = {
+            "Date": target_date,
+            "home team": g["home_team_abbreviation"],
+            "away team": g["away_team_abbreviation"],
+            "home score": "",
+            "away score": "",
+        }
+        o = odds_by_game.get(gid)
+        if o:
+            row["home ml open"] = o["moneyline_home_odds"]
+            row["away ml open"] = o["moneyline_away_odds"]
+            row["home ml close"] = o["moneyline_home_odds"]
+            row["away ml close"] = o["moneyline_away_odds"]
+            row["over open"] = o["total_value"]
+            row["under open"] = o["total_value"]
+            row["over close"] = o["total_value"]
+            row["under close"] = o["total_value"]
+            row["over open odds"] = o["total_over_odds"]
+            row["under open odds"] = o["total_under_odds"]
+            row["over close odds"] = o["total_over_odds"]
+            row["under close odds"] = o["total_under_odds"]
+            matched += 1
+        else:
+            for col in BETTING_OUTLOOK_COLUMNS[5:]:
+                row[col] = ""
+        rows.append(row)
+
+    df = pd.DataFrame(rows, columns=BETTING_OUTLOOK_COLUMNS)
+    df.to_csv(out_path, index=False)
+    log("1b-ODDS", f"Saved {len(df)} games ({matched} with odds) to {out_path.name}")
+    return True
+
+
 # ─── Step 2: Fetch Probable Pitchers ───────────────────────────────────────────
 
 def fetch_probable_pitchers(target_date: str):
@@ -517,6 +617,9 @@ def main():
     if not args.skip_fetch:
         # Step 1: Fetch game outlook for today
         steps.append(("1-OUTLOOK", fetch_game_outlook(target_date)))
+
+        # Step 1b: Fetch pregame betting odds for today
+        steps.append(("1b-ODDS", fetch_betting_odds(target_date)))
 
         # Step 2: Fetch probable pitchers for today
         steps.append(("2-PITCHERS", fetch_probable_pitchers(target_date)))

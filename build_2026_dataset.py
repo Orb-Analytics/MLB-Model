@@ -70,7 +70,8 @@ for col in odds_cols:
 bet_files = sorted(glob.glob(os.path.join(BASE_DIR, 'raw/betting_outlook/betting_outlook_*.csv')))
 if bet_files:
     bo_all = pd.concat([pd.read_csv(f) for f in bet_files], ignore_index=True)
-    # Betting outlook uses the same team abbreviation and date format
+    # Normalize betting outlook date to match meta's M/D/YYYY format
+    bo_all['Date'] = pd.to_datetime(bo_all['Date']).dt.strftime('%-m/%-d/%Y')
     # Merge on 'home team' + 'away team' + 'Date'
     for col in odds_cols:
         if col in bo_all.columns:
