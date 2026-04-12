@@ -1,0 +1,16 @@
+game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probable_pitcher_id,home_probable_pitcher_name,away_probable_pitcher_id,away_probable_pitcher_name,venue,game_time_utc,status
+824859,2026-04-12T17:35:00Z,110,137,Baltimore Orioles,San Francisco Giants,700249,Cade Povich,605288,Adrian Houser,Oriole Park at Camden Yards,2026-04-12T17:35:00Z,Scheduled
+823479,2026-04-12T17:35:00Z,143,109,Philadelphia Phillies,Arizona Diamondbacks,691725,Andrew Painter,668678,Zac Gallen,Citizens Bank Park,2026-04-12T17:35:00Z,Scheduled
+822828,2026-04-12T17:37:00Z,141,142,Toronto Blue Jays,Minnesota Twins,453286,Max Scherzer,671737,Taj Bradley,Rogers Centre,2026-04-12T17:37:00Z,Scheduled
+824533,2026-04-12T17:40:00Z,113,108,Cincinnati Reds,Los Angeles Angels,671096,Andrew Abbott,667755,José Soriano,Great American Ball Park,2026-04-12T17:40:00Z,Scheduled
+823642,2026-04-12T17:40:00Z,121,133,New York Mets,Athletics,642547,Freddy Peralta,650644,Aaron Civale,Citi Field,2026-04-12T17:40:00Z,Scheduled
+824293,2026-04-12T17:40:00Z,116,146,Detroit Tigers,Miami Marlins,669373,Tarik Skubal,645261,Sandy Alcantara,Comerica Park,2026-04-12T17:40:00Z,Scheduled
+822998,2026-04-12T17:40:00Z,139,147,Tampa Bay Rays,New York Yankees,656876,Drew Rasmussen,693645,Cam Schlittler,Tropicana Field,2026-04-12T17:40:00Z,Scheduled
+824126,2026-04-12T18:10:00Z,118,145,Kansas City Royals,Chicago White Sox,702070,Noah Cameron,691799,Grant Taylor,Kauffman Stadium,2026-04-12T18:10:00Z,Scheduled
+823804,2026-04-12T18:10:00Z,158,120,Milwaukee Brewers,Washington Nationals,605540,Brandon Woodruff,641793,Zack Littell,American Family Field,2026-04-12T18:10:00Z,Scheduled
+823075,2026-04-12T18:15:00Z,138,111,St. Louis Cardinals,Boston Red Sox,669467,Andre Pallante,678394,Brayan Bello,Busch Stadium,2026-04-12T18:15:00Z,Pre-Game
+824696,2026-04-12T18:20:00Z,112,134,Chicago Cubs,Pittsburgh Pirates,592791,Jameson Taillon,696149,Bubba Chandler,Wrigley Field,2026-04-12T18:20:00Z,Scheduled
+823317,2026-04-12T20:10:00Z,135,115,San Diego Padres,Colorado Rockies,601713,Nick Pivetta,607536,Kyle Freeland,Petco Park,2026-04-12T20:10:00Z,Scheduled
+823154,2026-04-12T20:10:00Z,136,117,Seattle Mariners,Houston Astros,669302,Logan Gilbert,,,T-Mobile Park,2026-04-12T20:10:00Z,Scheduled
+823966,2026-04-12T20:10:00Z,119,140,Los Angeles Dodgers,Texas Rangers,808963,Roki Sasaki,594798,Jacob deGrom,UNIQLO Field at Dodger Stadium,2026-04-12T20:10:00Z,Scheduled
+824938,2026-04-12T23:20:00Z,144,114,Atlanta Braves,Cleveland Guardians,519242,Chris Sale,676440,Tanner Bibee,Truist Park,2026-04-12T23:20:00Z,Scheduled
