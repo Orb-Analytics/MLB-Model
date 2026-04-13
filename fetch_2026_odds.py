@@ -32,7 +32,7 @@ BASE_DIR = Path("data/2026_data/mlb_data/raw")
 VENDOR = "draftkings"
 
 OUTLOOK_COLS = [
-    "Date", "home team", "away team", "home score", "away score",
+    "game_pk", "Date", "home team", "away team", "home score", "away score",
     "home ml open", "away ml open", "home ml close", "away ml close",
     "over open", "under open", "over close", "under close",
     "over open odds", "under open odds", "over close odds", "under close odds",
@@ -128,6 +128,7 @@ def main():
             game_odds = [o for o in odds_by_game.get(gpk, []) if o["vendor"] == VENDOR]
             
             row = {
+                "game_pk": gpk,
                 "Date": date_str,
                 "home team": meta["home_team"],
                 "away team": meta["away_team"],

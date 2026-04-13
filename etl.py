@@ -180,7 +180,7 @@ BETTING_OUTLOOK_DIR.mkdir(parents=True, exist_ok=True)
 ODDS_VENDOR = "draftkings"
 
 BETTING_OUTLOOK_COLUMNS = [
-    "Date", "home team", "away team", "home score", "away score",
+    "game_pk", "Date", "home team", "away team", "home score", "away score",
     "home ml open", "away ml open", "home ml close", "away ml close",
     "over open", "under open", "over close", "under close",
     "over open odds", "under open odds", "over close odds", "under close odds",
@@ -240,6 +240,7 @@ def fetch_betting_odds(target_date: str):
     for _, g in outlook.iterrows():
         gid = str(g["id"])
         row = {
+            "game_pk": g["id"],
             "Date": target_date,
             "home team": g["home_team_abbreviation"],
             "away team": g["away_team_abbreviation"],

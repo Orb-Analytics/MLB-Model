@@ -70,17 +70,25 @@ for col in odds_cols:
 bet_files = sorted(glob.glob(os.path.join(BASE_DIR, 'raw/betting_outlook/betting_outlook_*.csv')))
 if bet_files:
     bo_all = pd.concat([pd.read_csv(f) for f in bet_files], ignore_index=True)
-    # Normalize betting outlook date to match meta's M/D/YYYY format
-    bo_all['Date'] = pd.to_datetime(bo_all['Date']).dt.strftime('%-m/%-d/%Y')
-    # Merge on 'home team' + 'away team' + 'Date'
-    for col in odds_cols:
-        if col in bo_all.columns:
-            merged = meta[['game_pk', 'Date', 'home team', 'away team']].merge(
-                bo_all[['Date', 'home team', 'away team', col]],
-                on=['Date', 'home team', 'away team'],
-                how='left'
-            )
-            meta[col] = merged[col].values
+    if 'game_pk' in bo_all.columns:
+        # Merge on game_pk (handles doubleheaders correctly)
+        bo_odds = bo_all[['game_pk'] + [c for c in odds_cols if c in bo_all.columns]]
+        meta = meta.drop(columns=odds_cols).merge(bo_odds, on='game_pk', how='left')
+        # Re-add any missing odds columns
+        for col in odds_cols:
+            if col not in meta.columns:
+                meta[col] = pd.NA
+    else:
+        # Legacy fallback: merge on Date + teams (no game_pk in older files)
+        bo_all['Date'] = pd.to_datetime(bo_all['Date']).dt.strftime('%-m/%-d/%Y')
+        for col in odds_cols:
+            if col in bo_all.columns:
+                merged = meta[['game_pk', 'Date', 'home team', 'away team']].merge(
+                    bo_all[['Date', 'home team', 'away team', col]],
+                    on=['Date', 'home team', 'away team'],
+                    how='left'
+                )
+                meta[col] = merged[col].values
 
 print(f"Metadata: {len(meta)} games")
 
