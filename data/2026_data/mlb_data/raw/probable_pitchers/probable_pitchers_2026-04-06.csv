@@ -7,7 +7,7 @@ game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probab
 824783,2026-04-06T22:45:00Z,111,158,Boston Red Sox,Milwaukee Brewers,678394,Brayan Bello,605540,Brandon Woodruff,Fenway Park,2026-04-06T22:45:00Z,Scheduled
 822832,2026-04-06T23:07:00Z,141,119,Toronto Blue Jays,Los Angeles Dodgers,453286,Max Scherzer,680736,Justin Wrobleski,Rogers Centre,2026-04-06T23:07:00Z,Scheduled
 823728,2026-04-06T23:40:00Z,142,116,Minnesota Twins,Detroit Tigers,657746,Joe Ryan,663554,Casey Mize,Target Field,2026-04-06T23:40:00Z,Scheduled
-824619,2026-04-06T23:40:00Z,145,110,Chicago White Sox,Baltimore Orioles,691799,Grant Taylor,,,Rate Field,2026-04-06T23:40:00Z,Scheduled
+824619,2026-04-06T23:40:00Z,145,110,Chicago White Sox,Baltimore Orioles,691799,Grant Taylor,,Brandon Young,Rate Field,2026-04-06T23:40:00Z,Scheduled
 822918,2026-04-07T00:05:00Z,140,136,Texas Rangers,Seattle Mariners,594798,Jacob deGrom,669302,Logan Gilbert,Globe Life Field,2026-04-07T00:05:00Z,Scheduled
 824376,2026-04-07T00:40:00Z,115,117,Colorado Rockies,Houston Astros,663372,Ryan Feltner,675989,Cody Bolton,Coors Field,2026-04-07T00:40:00Z,Scheduled
 824052,2026-04-07T01:38:00Z,108,144,Los Angeles Angels,Atlanta Braves,667755,José Soriano,519242,Chris Sale,Angel Stadium,2026-04-07T01:38:00Z,Scheduled

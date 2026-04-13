@@ -11,6 +11,6 @@ game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probab
 823075,2026-04-12T18:15:00Z,138,111,St. Louis Cardinals,Boston Red Sox,669467,Andre Pallante,678394,Brayan Bello,Busch Stadium,2026-04-12T18:15:00Z,Pre-Game
 824696,2026-04-12T18:20:00Z,112,134,Chicago Cubs,Pittsburgh Pirates,592791,Jameson Taillon,696149,Bubba Chandler,Wrigley Field,2026-04-12T18:20:00Z,Scheduled
 823317,2026-04-12T20:10:00Z,135,115,San Diego Padres,Colorado Rockies,601713,Nick Pivetta,607536,Kyle Freeland,Petco Park,2026-04-12T20:10:00Z,Scheduled
-823154,2026-04-12T20:10:00Z,136,117,Seattle Mariners,Houston Astros,669302,Logan Gilbert,,,T-Mobile Park,2026-04-12T20:10:00Z,Scheduled
+823154,2026-04-12T20:10:00Z,136,117,Seattle Mariners,Houston Astros,669302,Logan Gilbert,,Cody Bolton,T-Mobile Park,2026-04-12T20:10:00Z,Scheduled
 823966,2026-04-12T20:10:00Z,119,140,Los Angeles Dodgers,Texas Rangers,808963,Roki Sasaki,594798,Jacob deGrom,UNIQLO Field at Dodger Stadium,2026-04-12T20:10:00Z,Scheduled
 824938,2026-04-12T23:20:00Z,144,114,Atlanta Braves,Cleveland Guardians,519242,Chris Sale,676440,Tanner Bibee,Truist Park,2026-04-12T23:20:00Z,Scheduled

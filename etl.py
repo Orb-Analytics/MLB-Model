@@ -487,6 +487,82 @@ def update_game_outlook_scores(date_str: str):
     return True
 
 
+# ─── Step 4c: Backfill Missing Probable Pitchers ───────────────────────────────
+
+def backfill_probable_pitchers(date_str: str):
+    """Fill in missing probable pitchers from actual starting pitcher boxscores.
+
+    When the MLB Stats API doesn't have a confirmed starter at fetch time,
+    we leave the pitcher name/ID blank. Once boxscores are in (step 3),
+    we can backfill with the actual starter who pitched.
+    """
+    pp_path = BASE_DIR / "probable_pitchers" / f"probable_pitchers_{date_str}.csv"
+    sp_path = BASE_DIR / "starting_pitcher_boxscores" / f"starting_pitcher_boxscores_{date_str}.csv"
+    go_path = BASE_DIR / "game_outlook" / f"game_outlook_{date_str}.csv"
+
+    if not pp_path.exists():
+        log("4c-BACKFILL", f"No probable pitchers file for {date_str}, skipping")
+        return True
+    if not sp_path.exists():
+        log("4c-BACKFILL", f"No boxscores for {date_str}, skipping")
+        return True
+    if not go_path.exists():
+        log("4c-BACKFILL", f"No game outlook for {date_str}, skipping")
+        return True
+
+    pp = pd.read_csv(pp_path, dtype=str).fillna("")
+    sp = pd.read_csv(sp_path, dtype=str).fillna("")
+    go = pd.read_csv(go_path, dtype=str).fillna("")
+
+    # Build mapping: team display_name -> BDL game_pk (from game_outlook)
+    # Handle both sides (a team could be home or away)
+    team_to_gpk = {}
+    for _, r in go.iterrows():
+        gpk = r["game_pk"]
+        team_to_gpk[(r["home_team_display_name"], "home")] = gpk
+        team_to_gpk[(r["away_team_display_name"], "away")] = gpk
+
+    # Build mapping: BDL game_pk -> starter info (from boxscores)
+    gpk_to_starter = {}
+    for _, r in sp.iterrows():
+        gpk_to_starter[r["game_pk"]] = {
+            "home_name": r["home_starter_name"],
+            "away_name": r["away_starter_name"],
+        }
+
+    filled = 0
+    for idx, row in pp.iterrows():
+        for side, pp_name_col in [("home", "home_probable_pitcher_name"),
+                                   ("away", "away_probable_pitcher_name")]:
+            if row[pp_name_col].strip():
+                continue  # Already has a pitcher
+
+            team_name = row[f"{side}_team_name"]
+            # Try exact match first, then partial match for "Athletics" vs "Oakland Athletics"
+            gpk = team_to_gpk.get((team_name, side))
+            if not gpk:
+                for (dn, s), g in team_to_gpk.items():
+                    if s == side and (team_name in dn or dn in team_name):
+                        gpk = g
+                        break
+
+            if not gpk or gpk not in gpk_to_starter:
+                continue
+
+            starter_name = gpk_to_starter[gpk][f"{side}_name"]
+            if starter_name.strip():
+                pp.at[idx, pp_name_col] = starter_name
+                filled += 1
+                log("4c-BACKFILL", f"  Filled {side} pitcher for {team_name}: {starter_name}")
+
+    if filled > 0:
+        pp.to_csv(pp_path, index=False)
+        log("4c-BACKFILL", f"Backfilled {filled} missing pitcher(s) in {pp_path.name}")
+    else:
+        log("4c-BACKFILL", f"No missing pitchers to backfill for {date_str}")
+    return True
+
+
 # ─── Step 5: Compute Season-to-Date Stats ──────────────────────────────────────
 
 def compute_season_to_date(target_date: str):
@@ -633,6 +709,9 @@ def main():
 
         # Step 4b: Update yesterday's game outlook with final scores
         steps.append(("4b-SCORES", update_game_outlook_scores(yesterday)))
+
+        # Step 4c: Backfill missing probable pitchers from actual boxscores
+        steps.append(("4c-BACKFILL", backfill_probable_pitchers(yesterday)))
 
     # Step 5: Compute season-to-date stats for target date
     steps.append(("5-STD", compute_season_to_date(target_date)))
