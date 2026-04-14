@@ -1,6 +1,6 @@
 game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probable_pitcher_id,home_probable_pitcher_name,away_probable_pitcher_id,away_probable_pitcher_name,venue,game_time_utc,status
 823153,2026-04-13T20:10:00Z,136,117,Seattle Mariners,Houston Astros,669923,George Kirby,681347,Mike Burrows,T-Mobile Park,2026-04-13T20:10:00Z,Pre-Game
-824856,2026-04-13T22:35:00Z,110,109,Baltimore Orioles,Arizona Diamondbacks,,,669194,Ryne Nelson,Oriole Park at Camden Yards,2026-04-13T22:35:00Z,Scheduled
+824856,2026-04-13T22:35:00Z,110,109,Baltimore Orioles,Arizona Diamondbacks,,Dean Kremer,669194,Ryne Nelson,Oriole Park at Camden Yards,2026-04-13T22:35:00Z,Scheduled
 823400,2026-04-13T22:40:00Z,134,120,Pittsburgh Pirates,Washington Nationals,694973,Paul Skenes,676917,Cade Cavalli,PNC Park,2026-04-13T22:40:00Z,Scheduled
 823481,2026-04-13T22:40:00Z,143,112,Philadelphia Phillies,Chicago Cubs,650911,Cristopher Sánchez,665871,Javier Assad,Citizens Bank Park,2026-04-13T22:40:00Z,Scheduled
 823563,2026-04-13T23:05:00Z,147,108,New York Yankees,Los Angeles Angels,701542,Will Warren,579328,Yusei Kikuchi,Yankee Stadium,2026-04-13T23:05:00Z,Scheduled
