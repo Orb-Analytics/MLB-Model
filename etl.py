@@ -24,6 +24,7 @@ import sys
 import subprocess
 import argparse
 import time
+import re
 import requests
 import pandas as pd
 import numpy as np
@@ -177,8 +178,6 @@ def fetch_game_outlook(target_date: str):
 BETTING_OUTLOOK_DIR = BASE_DIR / "betting_outlook"
 BETTING_OUTLOOK_DIR.mkdir(parents=True, exist_ok=True)
 
-ODDS_VENDOR = "draftkings"
-
 BETTING_OUTLOOK_COLUMNS = [
     "game_pk", "Date", "home team", "away team", "home score", "away score",
     "home ml open", "away ml open", "home ml close", "away ml close",
@@ -186,13 +185,130 @@ BETTING_OUTLOOK_COLUMNS = [
     "over open odds", "under open odds", "over close odds", "under close odds",
 ]
 
+NOVIG_URL = "https://gql.novig.us/v1/graphql"
+NOVIG_QUERY = """
+query {
+  event(where: {_and: [
+      {_or: [
+        {status: {_eq: "OPEN_PREGAME"}},
+        {status: {_eq: "OPEN_INGAME"}}
+      ]},
+      {game: {league: {_eq: "MLB"}}}
+    ]}) {
+    id
+    description
+    game {
+      scheduled_start
+    }
+    markets {
+      description
+      is_consensus
+      outcomes {
+        description
+        available
+      }
+    }
+  }
+}
+"""
+
+_ML_RE = re.compile(r'^[A-Z]{2,3}$')
+_TOTAL_RE = re.compile(r'^[A-Z]{2,3} @ [A-Z]{2,3} t(\d+\.?\d*)$')
+_1H_RE = re.compile(r'\b1H\b|1st Inning', re.IGNORECASE)
+
+
+def _price_to_american(price):
+    """Convert Novig probability (0-1) to American odds string."""
+    try:
+        if price is None:
+            return ""
+        price = float(price)
+        if price <= 0 or price >= 1:
+            return ""
+        if price == 0.5:
+            return 100
+        elif price < 0.5:
+            return int(round((1 / price - 1) * 100))
+        else:
+            return int(round(-100 / (1 / price - 1)))
+    except Exception:
+        return ""
+
+
+def _extract_novig_odds(markets, home_abbr, away_abbr):
+    """Extract moneyline and totals from Novig consensus markets.
+
+    Returns dict with keys matching BETTING_OUTLOOK_COLUMNS odds fields,
+    or empty dict if nothing found.
+    """
+    ml = {}   # {team_abbr: american_odds}
+    total_line = None
+    total_over_odds = None
+    total_under_odds = None
+
+    for mkt in markets:
+        if not mkt.get("is_consensus"):
+            continue
+        mdesc = mkt.get("description") or ""
+        if _1H_RE.search(mdesc):
+            continue
+
+        outcomes = mkt.get("outcomes") or []
+
+        # Moneyline: market description is home team abbr (e.g. "MIL")
+        if _ML_RE.match(mdesc):
+            for oc in outcomes:
+                od = (oc.get("description") or "").strip()
+                p = oc.get("available")
+                if _1H_RE.search(od):
+                    continue
+                if _ML_RE.match(od) and p is not None:
+                    ml[od] = _price_to_american(p)
+            continue
+
+        # Totals: market description like "TOR @ MIL t7.5"
+        tm = _TOTAL_RE.match(mdesc)
+        if tm:
+            total_line = float(tm.group(1))
+            for oc in outcomes:
+                od = (oc.get("description") or "").strip()
+                p = oc.get("available")
+                if _1H_RE.search(od):
+                    continue
+                if p is not None:
+                    if od.lower().startswith("over"):
+                        total_over_odds = _price_to_american(p)
+                    elif od.lower().startswith("under"):
+                        total_under_odds = _price_to_american(p)
+            continue
+
+    result = {}
+    if home_abbr in ml and away_abbr in ml:
+        result["home ml open"] = ml[home_abbr]
+        result["away ml open"] = ml[away_abbr]
+        result["home ml close"] = ml[home_abbr]
+        result["away ml close"] = ml[away_abbr]
+    if total_line is not None:
+        result["over open"] = total_line
+        result["under open"] = total_line
+        result["over close"] = total_line
+        result["under close"] = total_line
+    if total_over_odds is not None:
+        result["over open odds"] = total_over_odds
+        result["over close odds"] = total_over_odds
+    if total_under_odds is not None:
+        result["under open odds"] = total_under_odds
+        result["under close odds"] = total_under_odds
+
+    return result
+
 
 def fetch_betting_odds(target_date: str):
-    """Fetch pregame betting odds for target_date from BDL API.
+    """Fetch pregame betting odds for target_date from Novig API.
 
-    Reads the game_outlook file for target_date to get game IDs,
-    then fetches odds from BDL /odds endpoint.  At ETL runtime (9 AM ET),
-    today's games are still scheduled so odds are valid pregame lines.
+    Reads the game_outlook file for target_date to get game info,
+    then fetches consensus odds from Novig's GraphQL endpoint.
+    Matches Novig events to game_outlook rows via display team names.
     """
     out_path = BETTING_OUTLOOK_DIR / f"betting_outlook_{target_date}.csv"
     if out_path.exists():
@@ -204,67 +320,63 @@ def fetch_betting_odds(target_date: str):
         log("1b-ODDS", f"No game outlook for {target_date}, skipping odds")
         return True  # Not a failure — just no games that day
 
-    log("1b-ODDS", f"Fetching pregame odds for {target_date}...")
+    log("1b-ODDS", f"Fetching pregame odds from Novig for {target_date}...")
 
     outlook = pd.read_csv(outlook_path)
-    game_ids = outlook["id"].astype(str).tolist()
 
-    # Fetch odds in batches of 15 (15 games × 6 vendors ≤ 100 per page)
-    odds_by_game = {}
-    BATCH = 15
-    for i in range(0, len(game_ids), BATCH):
-        batch = game_ids[i:i + BATCH]
-        cursor = None
-        while True:
-            params = {"game_ids[]": batch, "per_page": 100}
-            if cursor:
-                params["cursor"] = cursor
-            resp = requests.get(
-                f"{BDL_BASE}/odds", headers=BDL_HEADERS,
-                params=params, timeout=30,
-            )
-            resp.raise_for_status()
-            data = resp.json()
-            for o in data["data"]:
-                if o["vendor"] == ODDS_VENDOR:
-                    odds_by_game[str(o["game_id"])] = o
-            cursor = data.get("meta", {}).get("next_cursor")
-            if not cursor:
-                break
-            time.sleep(0.3)
-        time.sleep(0.3)
+    # Fetch all MLB pregame events from Novig
+    try:
+        resp = requests.post(NOVIG_URL, json={"query": NOVIG_QUERY}, timeout=30)
+        resp.raise_for_status()
+        novig_data = resp.json()
+    except Exception as e:
+        log("1b-ODDS", f"Novig API error: {e}")
+        return False
+
+    events = novig_data.get("data", {}).get("event", [])
+
+    # Build lookup: "Away Display @ Home Display" -> event with most markets
+    # Novig can have duplicate events; pick the one with the most markets
+    event_lookup = {}
+    for ev in events:
+        desc = ev.get("description", "")
+        n_markets = len(ev.get("markets") or [])
+        if desc not in event_lookup or n_markets > len(event_lookup[desc].get("markets") or []):
+            event_lookup[desc] = ev
 
     # Build rows
     rows = []
     matched = 0
     for _, g in outlook.iterrows():
-        gid = str(g["id"])
+        home_display = str(g["home_team_display_name"]).strip()
+        away_display = str(g["away_team_display_name"]).strip()
+        home_abbr = str(g["home_team_abbreviation"]).strip()
+        away_abbr = str(g["away_team_abbreviation"]).strip()
+
         row = {
             "game_pk": g["id"],
             "Date": target_date,
-            "home team": g["home_team_abbreviation"],
-            "away team": g["away_team_abbreviation"],
+            "home team": home_abbr,
+            "away team": away_abbr,
             "home score": "",
             "away score": "",
         }
-        o = odds_by_game.get(gid)
-        if o:
-            row["home ml open"] = o["moneyline_home_odds"]
-            row["away ml open"] = o["moneyline_away_odds"]
-            row["home ml close"] = o["moneyline_home_odds"]
-            row["away ml close"] = o["moneyline_away_odds"]
-            row["over open"] = o["total_value"]
-            row["under open"] = o["total_value"]
-            row["over close"] = o["total_value"]
-            row["under close"] = o["total_value"]
-            row["over open odds"] = o["total_over_odds"]
-            row["under open odds"] = o["total_under_odds"]
-            row["over close odds"] = o["total_over_odds"]
-            row["under close odds"] = o["total_under_odds"]
-            matched += 1
-        else:
-            for col in BETTING_OUTLOOK_COLUMNS[5:]:
+
+        # Match Novig event by display name
+        novig_key = f"{away_display} @ {home_display}"
+        ev = event_lookup.get(novig_key)
+
+        if ev and ev.get("markets"):
+            odds = _extract_novig_odds(ev["markets"], home_abbr, away_abbr)
+            if odds:
+                row.update(odds)
+                matched += 1
+
+        # Fill any missing odds columns with empty string
+        for col in BETTING_OUTLOOK_COLUMNS:
+            if col not in row:
                 row[col] = ""
+
         rows.append(row)
 
     df = pd.DataFrame(rows, columns=BETTING_OUTLOOK_COLUMNS)
