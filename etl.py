@@ -216,6 +216,9 @@ _ML_RE = re.compile(r'^[A-Z]{2,3}$')
 _TOTAL_RE = re.compile(r'^[A-Z]{2,3} @ [A-Z]{2,3} t(\d+\.?\d*)$')
 _1H_RE = re.compile(r'\b1H\b|1st Inning', re.IGNORECASE)
 
+# Novig uses different abbreviations for 3 teams
+_NOVIG_ABBR_MAP = {"KAN": "KC", "CWS": "CHW", "WAS": "WSH"}
+
 
 def _price_to_american(price):
     """Convert Novig probability (0-1) to American odds string."""
@@ -263,6 +266,7 @@ def _extract_novig_odds(markets, home_abbr, away_abbr):
                 if _1H_RE.search(od):
                     continue
                 if _ML_RE.match(od) and p is not None:
+                    od = _NOVIG_ABBR_MAP.get(od, od)
                     ml[od] = _price_to_american(p)
             continue
 
