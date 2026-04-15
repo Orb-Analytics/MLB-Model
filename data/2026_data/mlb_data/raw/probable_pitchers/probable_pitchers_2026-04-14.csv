@@ -10,7 +10,7 @@ game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probab
 824616,2026-04-14T23:40:00Z,145,139,Chicago White Sox,Tampa Bay Rays,702273,Noah Schultz,663556,Shane McClanahan,Rate Field,2026-04-14T23:40:00Z,Scheduled
 823802,2026-04-14T23:40:00Z,158,141,Milwaukee Brewers,Toronto Blue Jays,694819,Jacob Misiorowski,592332,Kevin Gausman,American Family Field,2026-04-14T23:40:00Z,Scheduled
 823072,2026-04-14T23:45:00Z,138,114,St. Louis Cardinals,Cleveland Guardians,700241,Michael McGreevy,676282,Joey Cantillo,Busch Stadium,2026-04-14T23:45:00Z,Scheduled
-824210,2026-04-15T00:10:00Z,117,115,Houston Astros,Colorado Rockies,676467,Colton Gordon,,,Daikin Park,2026-04-15T00:10:00Z,Scheduled
+824210,2026-04-15T00:10:00Z,117,115,Houston Astros,Colorado Rockies,676467,Colton Gordon,,Michael Lorenzen,Daikin Park,2026-04-15T00:10:00Z,Scheduled
 823315,2026-04-15T01:40:00Z,135,136,San Diego Padres,Seattle Mariners,650633,Michael King,693433,Bryan Woo,Petco Park,2026-04-15T01:40:00Z,Scheduled
 825022,2026-04-15T01:40:00Z,133,140,Athletics,Texas Rangers,605488,Jeffrey Springs,669022,MacKenzie Gore,Sutter Health Park,2026-04-15T01:40:00Z,Scheduled
 823965,2026-04-15T02:10:00Z,119,121,Los Angeles Dodgers,New York Mets,808967,Yoshinobu Yamamoto,690997,Nolan McLean,UNIQLO Field at Dodger Stadium,2026-04-15T02:10:00Z,Scheduled
