@@ -3,7 +3,7 @@ game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probab
 823071,2026-04-15T17:15:00Z,138,114,St. Louis Cardinals,Cleveland Guardians,669160,Dustin May,677944,Slade Cecconi,Busch Stadium,2026-04-15T17:15:00Z,Pre-Game
 823722,2026-04-15T17:40:00Z,142,111,Minnesota Twins,Boston Red Sox,680573,Simeon Woods Richardson,813349,Connelly Early,Target Field,2026-04-15T17:40:00Z,Scheduled
 824291,2026-04-15T22:40:00Z,116,118,Detroit Tigers,Kansas City Royals,656427,Jack Flaherty,607625,Seth Lugo,Comerica Park,2026-04-15T22:40:00Z,Scheduled
-823399,2026-04-15T22:40:00Z,134,120,Pittsburgh Pirates,Washington Nationals,,,663623,Jake Irvin,PNC Park,2026-04-15T22:40:00Z,Scheduled
+823399,2026-04-15T22:40:00Z,134,120,Pittsburgh Pirates,Washington Nationals,,Mason Montgomery,663623,Jake Irvin,PNC Park,2026-04-15T22:40:00Z,Scheduled
 824532,2026-04-15T22:40:00Z,113,137,Cincinnati Reds,San Francisco Giants,695076,Rhett Lowder,641816,Tyler Mahle,Great American Ball Park,2026-04-15T22:40:00Z,Scheduled
 823477,2026-04-15T22:40:00Z,143,112,Philadelphia Phillies,Chicago Cubs,666200,Jesús Luzardo,684007,Shota Imanaga,Citizens Bank Park,2026-04-15T22:40:00Z,Scheduled
 823561,2026-04-15T23:05:00Z,147,108,New York Yankees,Los Angeles Angels,661563,Luis Gil,686799,Jack Kochanowicz,Yankee Stadium,2026-04-15T23:05:00Z,Scheduled

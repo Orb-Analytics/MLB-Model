@@ -1,0 +1,11 @@
+game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probable_pitcher_id,home_probable_pitcher_name,away_probable_pitcher_id,away_probable_pitcher_name,venue,game_time_utc,status
+823396,2026-04-16T16:35:00Z,134,120,Pittsburgh Pirates,Washington Nationals,677952,Braxton Ashcraft,656492,Foster Griffin,PNC Park,2026-04-16T16:35:00Z,Scheduled
+824530,2026-04-16T16:40:00Z,113,137,Cincinnati Reds,San Francisco Giants,695505,Chase Burns,694738,Landen Roupp,Great American Ball Park,2026-04-16T16:40:00Z,Pre-Game
+824289,2026-04-16T17:10:00Z,116,118,Detroit Tigers,Kansas City Royals,672456,Keider Montero,663460,Kris Bubic,Comerica Park,2026-04-16T17:10:00Z,Scheduled
+823560,2026-04-16T17:35:00Z,147,108,New York Yankees,Los Angeles Angels,608331,Max Fried,,,Yankee Stadium,2026-04-16T17:35:00Z,Scheduled
+823801,2026-04-16T17:40:00Z,158,141,Milwaukee Brewers,Toronto Blue Jays,687075,Brandon Sproat,571578,Patrick Corbin,American Family Field,2026-04-16T17:40:00Z,Scheduled
+824614,2026-04-16T18:10:00Z,145,139,Chicago White Sox,Tampa Bay Rays,673929,Jordan Leasure,571927,Steven Matz,Rate Field,2026-04-16T18:10:00Z,Scheduled
+825023,2026-04-16T19:05:00Z,133,140,Athletics,Texas Rangers,682052,Jacob Lopez,683004,Jack Leiter,Sutter Health Park,2026-04-16T19:05:00Z,Scheduled
+824453,2026-04-16T22:10:00Z,114,110,Cleveland Guardians,Baltimore Orioles,800048,Parker Messick,669358,Shane Baz,Progressive Field,2026-04-16T22:10:00Z,Scheduled
+824208,2026-04-17T00:10:00Z,117,115,Houston Astros,Colorado Rockies,680802,Ryan Weiss,675848,Juan Mejia,Daikin Park,2026-04-17T00:10:00Z,Scheduled
+823313,2026-04-17T00:40:00Z,135,136,San Diego Padres,Seattle Mariners,621111,Walker Buehler,622491,Luis Castillo,Petco Park,2026-04-17T00:40:00Z,Scheduled
