@@ -18,7 +18,22 @@ import numpy as np
 import glob
 import os
 import sys
+import unicodedata
 from collections import defaultdict
+
+
+def _strip_accents(s):
+    """Normalize Unicode accented characters to ASCII equivalents.
+
+    E.g. 'Pérez' -> 'Perez', 'Márquez' -> 'Marquez'.
+    The MLB Stats API uses accented names while boxscore data does not.
+    """
+    if not isinstance(s, str):
+        return s
+    return ''.join(
+        c for c in unicodedata.normalize('NFD', s)
+        if unicodedata.category(c) != 'Mn'
+    )
 
 
 def safe_divide(numerator, denominator):
@@ -46,6 +61,11 @@ def build_pitcher_name_to_id(year):
             pid = int(row[f'{side}_starter_id'])
             if pid > 0 and pd.notna(name):
                 name_to_id[name] = pid
+                # Also store accent-stripped variant so accented
+                # probable-pitcher names can match unaccented boxscore names.
+                stripped = _strip_accents(name)
+                if stripped != name:
+                    name_to_id[stripped] = pid
     return name_to_id
 
 
@@ -357,13 +377,15 @@ def compute_pitcher_season_to_date(year, target_date, verbose=True):
 
         for side in ['home', 'away']:
             mlb_name = game[f'{side}_probable_pitcher_name']
-            # Try exact match, then partial name matching
+            # Try exact match, then accent-stripped match, then partial name matching
             bdl_id = name_to_id.get(mlb_name, 0)
             if bdl_id == 0 and pd.notna(mlb_name):
-                # Try matching last name + first initial
-                mlb_last = mlb_name.split()[-1] if isinstance(mlb_name, str) else ''
+                bdl_id = name_to_id.get(_strip_accents(mlb_name), 0)
+            if bdl_id == 0 and pd.notna(mlb_name):
+                # Try matching last name + first initial (accent-aware)
+                mlb_last = _strip_accents(mlb_name.split()[-1]) if isinstance(mlb_name, str) else ''
                 for bdl_name, bid in name_to_id.items():
-                    if isinstance(bdl_name, str) and bdl_name.split()[-1] == mlb_last:
+                    if isinstance(bdl_name, str) and _strip_accents(bdl_name.split()[-1]) == mlb_last:
                         if mlb_name[0] == bdl_name[0]:
                             bdl_id = bid
                             break

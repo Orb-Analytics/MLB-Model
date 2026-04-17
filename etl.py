@@ -674,6 +674,10 @@ def backfill_probable_pitchers(date_str: str):
     if filled > 0:
         pp.to_csv(pp_path, index=False)
         log("4c-BACKFILL", f"Backfilled {filled} missing pitcher(s) in {pp_path.name}")
+        # Re-run STD for the backfilled date so updated pitcher names propagate
+        # into the season-to-date stats file (steps 6-9 will pick them up).
+        log("4c-BACKFILL", f"Re-running STD for {date_str} to propagate backfilled pitchers...")
+        compute_season_to_date(date_str)
     else:
         log("4c-BACKFILL", f"No missing pitchers to backfill for {date_str}")
     return True

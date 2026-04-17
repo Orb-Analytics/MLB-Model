@@ -1,0 +1,233 @@
+date,away_team,home_team,away_score,home_score,away_odds,home_odds,status
+2026-03-25,San Francisco Giants,New York Yankees,0,7,+110,-120,Completed
+2026-03-26,Seattle Mariners,Cleveland Guardians,4,6,-185,+154,Completed
+2026-03-26,Los Angeles Dodgers,Arizona Diamondbacks,8,2,-250,+229,Completed
+2026-03-26,Philadelphia Phillies,Texas Rangers,5,3,-159,+140,Completed
+2026-03-26,St. Louis Cardinals,Tampa Bay Rays,9,7,+114,-130,Completed
+2026-03-26,Cincinnati Reds,Boston Red Sox,0,3,+135,-159,Completed
+2026-03-26,San Diego Padres,Detroit Tigers,2,8,+110,-125,Completed
+2026-03-26,Houston Astros,Los Angeles Angels,0,3,-175,+160,Completed
+2026-03-26,Baltimore Orioles,Minnesota Twins,2,1,-133,+125,Completed
+2026-03-26,Chicago Cubs,Washington Nationals,4,10,-208,+175,Completed
+2026-03-26,Milwaukee Brewers,Chicago White Sox,14,2,-200,+165,Completed
+2026-03-26,New York Mets,Pittsburgh Pirates,11,7,-115,+104,Completed
+2026-03-27,Los Angeles Dodgers,Arizona Diamondbacks,5,4,-238,+200,Completed
+2026-03-27,Seattle Mariners,Cleveland Guardians,5,1,-169,+145,Completed
+2026-03-27,San Diego Padres,Detroit Tigers,2,5,-128,+118,Completed
+2026-03-27,Houston Astros,Los Angeles Angels,2,6,-169,+145,Completed
+2026-03-27,Atlanta Braves,Kansas City Royals,6,0,-141,+120,Completed
+2026-03-27,Miami Marlins,Colorado Rockies,2,1,-189,+165,Completed
+2026-03-27,Toronto Blue Jays,Athletics,3,2,-179,+150,Completed
+2026-03-27,San Francisco Giants,New York Yankees,0,3,+114,-130,Completed
+2026-03-28,San Diego Padres,Detroit Tigers,3,0,-105,+100,Completed
+2026-03-28,Atlanta Braves,Kansas City Royals,6,2,-149,+125,Completed
+2026-03-28,San Francisco Giants,New York Yankees,1,3,+114,-135,Completed
+2026-03-28,Milwaukee Brewers,Chicago White Sox,6,1,-200,+165,Completed
+2026-03-28,Houston Astros,Los Angeles Angels,11,9,-128,+118,Completed
+2026-03-28,Cincinnati Reds,Boston Red Sox,6,5,+114,-135,Completed
+2026-03-28,Miami Marlins,Colorado Rockies,4,3,-189,+165,Completed
+2026-03-28,New York Mets,Pittsburgh Pirates,4,2,-169,+145,Completed
+2026-03-28,Baltimore Orioles,Minnesota Twins,1,4,-167,+145,Completed
+2026-03-28,Philadelphia Phillies,Texas Rangers,4,5,-149,+125,Completed
+2026-03-28,Toronto Blue Jays,Athletics,8,7,-189,+165,Completed
+2026-03-28,Chicago Cubs,Washington Nationals,10,2,-250,+204,Completed
+2026-03-28,St. Louis Cardinals,Tampa Bay Rays,6,5,+100,-115,Completed
+2026-03-28,Seattle Mariners,Cleveland Guardians,5,6,-179,+150,Completed
+2026-03-28,Los Angeles Dodgers,Arizona Diamondbacks,3,2,-250,+204,Completed
+2026-03-29,Seattle Mariners,Cleveland Guardians,8,0,-149,+125,Completed
+2026-03-29,Chicago Cubs,Washington Nationals,3,6,-250,+210,Completed
+2026-03-29,St. Louis Cardinals,Tampa Bay Rays,7,11,+104,-115,Completed
+2026-03-29,Milwaukee Brewers,Chicago White Sox,9,7,-164,+140,Completed
+2026-03-29,Houston Astros,Los Angeles Angels,9,7,-169,+150,Completed
+2026-03-29,Cincinnati Reds,Boston Red Sox,3,2,+118,-135,Completed
+2026-03-29,Miami Marlins,Colorado Rockies,4,3,-189,+160,Completed
+2026-03-29,New York Mets,Pittsburgh Pirates,3,4,-179,+154,Completed
+2026-03-29,Toronto Blue Jays,Athletics,5,2,-149,+135,Completed
+2026-03-29,Atlanta Braves,Kansas City Royals,1,4,-149,+125,Completed
+2026-03-29,Baltimore Orioles,Minnesota Twins,8,6,-154,+135,Completed
+2026-03-29,Philadelphia Phillies,Texas Rangers,3,8,-159,+140,Completed
+2026-03-30,Arizona Diamondbacks,Detroit Tigers,9,6,-115,+104,Completed
+2026-03-30,Los Angeles Dodgers,Cleveland Guardians,2,4,-169,+165,Completed
+2026-03-30,Seattle Mariners,New York Yankees,2,1,+100,-118,Completed
+2026-03-30,San Diego Padres,San Francisco Giants,2,3,-118,+100,Completed
+2026-03-30,Houston Astros,Boston Red Sox,8,1,+114,-130,Completed
+2026-03-30,St. Louis Cardinals,New York Mets,2,4,+129,-149,Completed
+2026-03-30,Chicago Cubs,Los Angeles Angels,7,2,-189,+160,Completed
+2026-03-30,Milwaukee Brewers,Tampa Bay Rays,2,3,-159,+140,Completed
+2026-03-30,Atlanta Braves,Athletics,4,0,-125,+110,Completed
+2026-03-30,Toronto Blue Jays,Colorado Rockies,5,14,-294,+240,Completed
+2026-03-30,Miami Marlins,Chicago White Sox,4,9,-149,+125,Completed
+2026-03-30,Cincinnati Reds,Pittsburgh Pirates,2,0,-133,+114,Completed
+2026-03-30,Philadelphia Phillies,Washington Nationals,2,13,-169,+145,Completed
+2026-03-30,Baltimore Orioles,Texas Rangers,2,5,-125,+114,Completed
+2026-03-30,Kansas City Royals,Minnesota Twins,3,1,-164,+140,Completed
+2026-03-31,Los Angeles Dodgers,Cleveland Guardians,4,1,-278,+229,Completed
+2026-03-31,Arizona Diamondbacks,Detroit Tigers,7,5,-110,-110,Completed
+2026-03-31,Seattle Mariners,New York Yankees,0,5,+100,-110,Completed
+2026-03-31,San Diego Padres,San Francisco Giants,3,9,+110,-130,Completed
+2026-03-31,Houston Astros,Boston Red Sox,9,2,-139,+125,Completed
+2026-03-31,St. Louis Cardinals,New York Mets,3,0,+129,-149,Completed
+2026-03-31,Chicago Cubs,Los Angeles Angels,0,2,-141,+120,Completed
+2026-03-31,Milwaukee Brewers,Tampa Bay Rays,6,2,-125,+104,Completed
+2026-03-31,Atlanta Braves,Athletics,2,5,-149,+129,Completed
+2026-03-31,Toronto Blue Jays,Colorado Rockies,5,1,-270,+225,Completed
+2026-03-31,Miami Marlins,Chicago White Sox,9,2,-149,+135,Completed
+2026-03-31,Cincinnati Reds,Pittsburgh Pirates,3,8,+100,-120,Completed
+2026-03-31,Philadelphia Phillies,Washington Nationals,3,2,-189,+160,Completed
+2026-03-31,Baltimore Orioles,Texas Rangers,5,8,+104,-120,Completed
+2026-04-01,St. Louis Cardinals,New York Mets,2,1,+140,-164,Completed
+2026-04-01,Miami Marlins,Chicago White Sox,10,0,-149,+125,Completed
+2026-04-01,Toronto Blue Jays,Colorado Rockies,1,2,-278,+225,Completed
+2026-04-01,Philadelphia Phillies,Washington Nationals,6,5,-278,+229,Completed
+2026-04-01,Cincinnati Reds,Pittsburgh Pirates,3,8,+120,-139,Completed
+2026-04-01,Baltimore Orioles,Texas Rangers,8,3,-115,+100,Completed
+2026-04-01,Atlanta Braves,Athletics,5,1,-222,+195,Completed
+2026-04-01,Los Angeles Dodgers,Cleveland Guardians,1,4,-303,+250,Completed
+2026-04-01,Kansas City Royals,Minnesota Twins,13,9,-105,-115,Completed
+2026-04-01,Seattle Mariners,New York Yankees,3,5,-120,+100,Completed
+2026-04-01,San Diego Padres,San Francisco Giants,7,1,-149,+129,Completed
+2026-04-01,Arizona Diamondbacks,Detroit Tigers,1,0,+129,-143,Completed
+2026-04-01,Chicago Cubs,Los Angeles Angels,6,2,-161,+145,Completed
+2026-04-01,Houston Astros,Boston Red Sox,6,4,+120,-139,Completed
+2026-04-01,Milwaukee Brewers,Tampa Bay Rays,8,2,-135,+120,Completed
+2026-04-02,San Francisco Giants,New York Mets,7,2,+100,-120,Completed
+2026-04-02,Arizona Diamondbacks,Atlanta Braves,2,17,-105,-105,Completed
+2026-04-02,Kansas City Royals,Minnesota Twins,1,5,-149,+129,Completed
+2026-04-03,San Francisco Giants,New York Mets,3,10,+110,-130,Completed
+2026-04-03,Arizona Diamondbacks,Atlanta Braves,0,2,-105,-110,Completed
+2026-04-03,Athletics,Houston Astros,11,4,-105,-110,Completed
+2026-04-03,Los Angeles Angels,Seattle Mariners,1,3,+135,-159,Completed
+2026-04-03,Pittsburgh Pirates,Baltimore Orioles,5,4,+104,-115,Completed
+2026-04-03,Cleveland Guardians,Chicago Cubs,4,1,+100,-110,Completed
+2026-04-03,Colorado Rockies,Philadelphia Phillies,1,10,+154,-185,Completed
+2026-04-03,Minnesota Twins,Tampa Bay Rays,10,4,-110,-110,Completed
+2026-04-03,Texas Rangers,Cincinnati Reds,3,5,-164,+145,Completed
+2026-04-03,Boston Red Sox,San Diego Padres,5,2,-120,+104,Completed
+2026-04-03,Chicago White Sox,Toronto Blue Jays,5,4,+170,-200,Completed
+2026-04-03,New York Yankees,Miami Marlins,8,2,-164,+140,Completed
+2026-04-03,Detroit Tigers,St. Louis Cardinals,4,0,-175,+154,Completed
+2026-04-03,Washington Nationals,Los Angeles Dodgers,6,13,+229,-278,Completed
+2026-04-04,Los Angeles Angels,Seattle Mariners,1,0,+140,-159,Completed
+2026-04-04,San Francisco Giants,New York Mets,0,9,-118,+100,Completed
+2026-04-04,Colorado Rockies,Philadelphia Phillies,1,2,+210,-250,Completed
+2026-04-04,Arizona Diamondbacks,Atlanta Braves,2,1,-110,-102,Completed
+2026-04-04,Minnesota Twins,Tampa Bay Rays,1,7,+100,-118,Completed
+2026-04-04,Texas Rangers,Cincinnati Reds,0,2,-139,+120,Completed
+2026-04-04,New York Yankees,Miami Marlins,9,7,-200,+165,Completed
+2026-04-04,Boston Red Sox,San Diego Padres,2,3,-149,+125,Completed
+2026-04-04,Athletics,Houston Astros,0,11,-115,+100,Completed
+2026-04-04,Pittsburgh Pirates,Baltimore Orioles,3,2,-115,-105,Completed
+2026-04-04,Washington Nationals,Los Angeles Dodgers,5,10,+245,-303,Completed
+2026-04-04,Chicago White Sox,Toronto Blue Jays,6,3,+129,-149,Completed
+2026-04-04,Kansas City Royals,Milwaukee Brewers,2,5,+100,-120,Completed
+2026-04-04,Detroit Tigers,St. Louis Cardinals,11,6,-169,+145,Completed
+2026-04-05,Colorado Rockies,Philadelphia Phillies,4,1,+129,-154,Completed
+2026-04-05,Texas Rangers,Cincinnati Reds,1,2,-125,+104,Completed
+2026-04-05,Chicago White Sox,Toronto Blue Jays,3,0,+145,-167,Completed
+2026-04-05,Kansas City Royals,Milwaukee Brewers,5,8,-120,+104,Completed
+2026-04-05,Minnesota Twins,Tampa Bay Rays,1,4,-110,-110,Completed
+2026-04-05,Pittsburgh Pirates,Baltimore Orioles,8,2,-120,+104,Completed
+2026-04-05,Boston Red Sox,San Diego Padres,6,8,-154,+135,Completed
+2026-04-05,Washington Nationals,Los Angeles Dodgers,6,8,+145,-169,Completed
+2026-04-05,New York Yankees,Miami Marlins,6,7,-294,+240,Completed
+2026-04-05,Cleveland Guardians,Chicago Cubs,0,1,+110,-130,Completed
+2026-04-05,Detroit Tigers,St. Louis Cardinals,3,5,-141,+120,Completed
+2026-04-05,Arizona Diamondbacks,Atlanta Braves,6,5,-105,-110,Completed
+2026-04-05,Cleveland Guardians,Chicago Cubs,6,5,+110,-130,Completed
+2026-04-05,Los Angeles Angels,Seattle Mariners,8,7,+145,-169,Completed
+2026-04-05,Athletics,Houston Astros,12,10,+118,-130,Completed
+2026-04-05,San Francisco Giants,New York Mets,2,5,-115,+104,Completed
+2026-04-06,San Francisco Giants,Philadelphia Phillies,4,6,+100,-120,Completed
+2026-04-06,Los Angeles Angels,Atlanta Braves,6,2,+150,-175,Completed
+2026-04-06,Colorado Rockies,Houston Astros,9,7,+125,-149,Completed
+2026-04-06,Texas Rangers,Seattle Mariners,2,1,-111,+100,Completed
+2026-04-06,Chicago White Sox,Baltimore Orioles,1,2,+120,-133,Completed
+2026-04-06,Minnesota Twins,Detroit Tigers,7,3,-125,+104,Completed
+2026-04-06,Toronto Blue Jays,Los Angeles Dodgers,2,14,+104,-125,Completed
+2026-04-06,Boston Red Sox,Milwaukee Brewers,6,8,+114,-130,Completed
+2026-04-06,Washington Nationals,St. Louis Cardinals,9,6,-105,-110,Completed
+2026-04-06,Miami Marlins,Cincinnati Reds,0,2,-130,+125,Completed
+2026-04-06,Pittsburgh Pirates,San Diego Padres,0,5,-141,+120,Completed
+2026-04-06,Cleveland Guardians,Kansas City Royals,2,4,-115,-102,Completed
+2026-04-06,Tampa Bay Rays,Chicago Cubs,6,4,-120,+104,Completed
+2026-04-07,San Francisco Giants,Philadelphia Phillies,6,0,+129,-154,Completed
+2026-04-07,Los Angeles Angels,Atlanta Braves,2,7,+110,-130,Completed
+2026-04-07,Colorado Rockies,Houston Astros,5,1,+140,-164,Completed
+2026-04-07,Texas Rangers,Seattle Mariners,3,2,+104,-115,Completed
+2026-04-07,Minnesota Twins,Detroit Tigers,4,2,+140,-164,Completed
+2026-04-07,Toronto Blue Jays,Los Angeles Dodgers,1,4,+129,-154,Completed
+2026-04-07,New York Yankees,Athletics,5,3,-270,+220,Completed
+2026-04-07,Boston Red Sox,Milwaukee Brewers,3,2,-159,+135,Completed
+2026-04-07,Washington Nationals,St. Louis Cardinals,6,7,-115,-105,Completed
+2026-04-07,Tampa Bay Rays,Chicago Cubs,2,9,-120,+100,Completed
+2026-04-07,Miami Marlins,Cincinnati Reds,3,6,-135,+120,Completed
+2026-04-07,Pittsburgh Pirates,San Diego Padres,7,1,-149,+125,Completed
+2026-04-07,New York Mets,Arizona Diamondbacks,4,3,-149,+125,Completed
+2026-04-07,Chicago White Sox,Baltimore Orioles,2,4,+125,-149,Completed
+2026-04-07,Cleveland Guardians,Kansas City Royals,2,1,-125,+104,Completed
+2026-04-08,Minnesota Twins,Detroit Tigers,8,6,+129,-149,Completed
+2026-04-08,New York Yankees,Athletics,2,3,-200,+165,Completed
+2026-04-08,Tampa Bay Rays,Chicago Cubs,2,6,-110,+100,Completed
+2026-04-08,Miami Marlins,Cincinnati Reds,7,4,-125,+110,Completed
+2026-04-08,New York Mets,Arizona Diamondbacks,2,7,-125,+114,Completed
+2026-04-08,Los Angeles Angels,Atlanta Braves,2,8,+104,-125,Completed
+2026-04-08,Washington Nationals,St. Louis Cardinals,1,6,+100,-120,Completed
+2026-04-08,San Francisco Giants,Philadelphia Phillies,5,0,+114,-135,Completed
+2026-04-08,Colorado Rockies,Houston Astros,9,1,+114,-135,Completed
+2026-04-08,Toronto Blue Jays,Los Angeles Dodgers,4,3,+135,-154,Completed
+2026-04-08,Texas Rangers,Seattle Mariners,3,0,+100,-120,Completed
+2026-04-08,Chicago White Sox,Baltimore Orioles,3,5,+125,-149,Completed
+2026-04-08,Boston Red Sox,Milwaukee Brewers,5,0,-135,+120,Completed
+2026-04-08,Cleveland Guardians,Kansas City Royals,10,2,+114,-125,Completed
+2026-04-08,Pittsburgh Pirates,San Diego Padres,2,8,+104,-120,Completed
+2026-04-09,Miami Marlins,Cincinnati Reds,8,1,-120,+104,Completed
+2026-04-09,San Diego Padres,Colorado Rockies,7,3,-185,+154,Completed
+2026-04-09,Kansas City Royals,Chicago White Sox,0,2,-179,+150,Completed
+2026-04-09,New York Mets,Arizona Diamondbacks,1,7,-182,+154,Completed
+2026-04-09,Minnesota Twins,Detroit Tigers,3,1,+120,-130,Completed
+2026-04-09,New York Yankees,Athletics,0,1,-189,+165,Completed
+2026-04-10,Los Angeles Dodgers,Texas Rangers,8,7,-227,+200,Completed
+2026-04-10,San Diego Padres,Colorado Rockies,5,2,-169,+145,Completed
+2026-04-10,Seattle Mariners,Houston Astros,9,6,-130,+120,Completed
+2026-04-10,St. Louis Cardinals,Boston Red Sox,3,2,+118,-135,Completed
+2026-04-10,Kansas City Royals,Chicago White Sox,2,0,-179,+150,Completed
+2026-04-10,Milwaukee Brewers,Washington Nationals,3,7,-200,+170,Completed
+2026-04-10,Atlanta Braves,Cleveland Guardians,11,5,-139,+120,Completed
+2026-04-10,Baltimore Orioles,San Francisco Giants,3,6,-125,+104,Completed
+2026-04-10,New York Mets,Athletics,0,4,-143,+125,Completed
+2026-04-10,Tampa Bay Rays,New York Yankees,5,3,+100,-115,Completed
+2026-04-10,Toronto Blue Jays,Minnesota Twins,10,4,-154,+135,Completed
+2026-04-10,Cincinnati Reds,Los Angeles Angels,2,10,-179,+165,Completed
+2026-04-10,Philadelphia Phillies,Arizona Diamondbacks,4,5,-179,+150,Completed
+2026-04-10,Detroit Tigers,Miami Marlins,2,0,-130,+114,Completed
+2026-04-10,Chicago Cubs,Pittsburgh Pirates,0,2,-149,+135,Completed
+2026-04-11,Seattle Mariners,Houston Astros,8,7,-135,+135,Completed
+2026-04-11,Los Angeles Dodgers,Texas Rangers,6,3,-185,+154,Completed
+2026-04-11,San Diego Padres,Colorado Rockies,9,5,-164,+140,Completed
+2026-04-11,Atlanta Braves,Cleveland Guardians,0,6,-118,+100,Completed
+2026-04-11,Baltimore Orioles,San Francisco Giants,6,2,+100,-120,Completed
+2026-04-11,St. Louis Cardinals,Boston Red Sox,1,7,+120,-139,Completed
+2026-04-11,Milwaukee Brewers,Washington Nationals,1,3,-179,+154,Completed
+2026-04-11,Tampa Bay Rays,New York Yankees,5,4,+145,-169,Completed
+2026-04-11,New York Mets,Athletics,6,11,-159,+135,Completed
+2026-04-11,Kansas City Royals,Chicago White Sox,2,0,-189,+160,Completed
+2026-04-11,Cincinnati Reds,Los Angeles Angels,7,3,-130,+110,Completed
+2026-04-11,Toronto Blue Jays,Minnesota Twins,4,7,-120,+104,Completed
+2026-04-11,Chicago Cubs,Pittsburgh Pirates,3,4,-145,+129,Completed
+2026-04-11,Detroit Tigers,Miami Marlins,6,1,-135,+114,Completed
+2026-04-11,Philadelphia Phillies,Arizona Diamondbacks,4,3,-120,+104,Completed
+2026-04-12,Atlanta Braves,Cleveland Guardians,13,1,-200,+165,Completed
+2026-04-12,San Diego Padres,Colorado Rockies,7,2,-227,+185,Completed
+2026-04-12,Seattle Mariners,Houston Astros,6,1,-189,+160,Completed
+2026-04-12,Los Angeles Dodgers,Texas Rangers,2,5,-125,+110,Completed
+2026-04-12,Chicago Cubs,Pittsburgh Pirates,7,6,-130,+114,Completed
+2026-04-12,St. Louis Cardinals,Boston Red Sox,3,9,-102,-115,Completed
+2026-04-12,Kansas City Royals,Chicago White Sox,5,6,-179,+154,Completed
+2026-04-12,Milwaukee Brewers,Washington Nationals,6,8,-222,+185,Completed
+2026-04-12,New York Mets,Athletics,0,1,-164,+145,Completed
+2026-04-12,Cincinnati Reds,Los Angeles Angels,6,9,-105,-110,Completed
+2026-04-12,Detroit Tigers,Miami Marlins,8,2,-169,+145,Completed
+2026-04-12,Tampa Bay Rays,New York Yankees,5,4,+114,-135,Completed
+2026-04-12,Toronto Blue Jays,Minnesota Twins,2,8,-130,+114,Completed
+2026-04-12,Philadelphia Phillies,Arizona Diamondbacks,3,4,-130,+120,Completed
+2026-04-12,Baltimore Orioles,San Francisco Giants,6,2,-120,+104,Completed
