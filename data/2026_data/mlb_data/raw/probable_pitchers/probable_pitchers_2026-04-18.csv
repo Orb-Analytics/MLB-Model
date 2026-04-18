@@ -1,0 +1,16 @@
+game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probable_pitcher_id,home_probable_pitcher_name,away_probable_pitcher_id,away_probable_pitcher_name,venue,game_time_utc,status
+823558,2026-04-18T17:35:00Z,147,118,New York Yankees,Kansas City Royals,701542,Will Warren,702070,Noah Cameron,Yankee Stadium,2026-04-18T17:35:00Z,Scheduled
+823721,2026-04-18T18:10:00Z,142,113,Minnesota Twins,Cincinnati Reds,671737,Taj Bradley,671096,Andrew Abbott,Target Field,2026-04-18T18:10:00Z,Scheduled
+824694,2026-04-18T18:20:00Z,112,121,Chicago Cubs,New York Mets,592791,Jameson Taillon,642547,Freddy Peralta,Wrigley Field,2026-04-18T18:20:00Z,Scheduled
+822751,2026-04-18T20:05:00Z,120,137,Washington Nationals,San Francisco Giants,676917,Cade Cavalli,605288,Adrian Houser,Nationals Park,2026-04-18T20:05:00Z,Scheduled
+823394,2026-04-18T20:05:00Z,134,139,Pittsburgh Pirates,Tampa Bay Rays,694973,Paul Skenes,656876,Drew Rasmussen,PNC Park,2026-04-18T20:05:00Z,Scheduled
+825020,2026-04-18T20:05:00Z,133,145,Athletics,Chicago White Sox,622663,Luis Severino,607200,Erick Fedde,Sutter Health Park,2026-04-18T20:05:00Z,Scheduled
+824775,2026-04-18T20:10:00Z,111,116,Boston Red Sox,Detroit Tigers,678394,Brayan Bello,669373,Tarik Skubal,Fenway Park,2026-04-18T20:10:00Z,Scheduled
+823882,2026-04-18T20:10:00Z,146,158,Miami Marlins,Milwaukee Brewers,645261,Sandy Alcantara,605540,Brandon Woodruff,loanDepot park,2026-04-18T20:10:00Z,Scheduled
+824451,2026-04-18T22:10:00Z,114,110,Cleveland Guardians,Baltimore Orioles,668909,Gavin Williams,665152,Dean Kremer,Progressive Field,2026-04-18T22:10:00Z,Scheduled
+824206,2026-04-18T23:10:00Z,117,138,Houston Astros,St. Louis Cardinals,621121,Lance McCullers Jr.,669467,Andre Pallante,Daikin Park,2026-04-18T23:10:00Z,Scheduled
+823151,2026-04-18T23:15:00Z,136,140,Seattle Mariners,Texas Rangers,669923,George Kirby,543135,Nathan Eovaldi,T-Mobile Park,2026-04-18T23:15:00Z,Scheduled
+823474,2026-04-18T23:15:00Z,143,144,Philadelphia Phillies,Atlanta Braves,650911,Cristopher Sánchez,519242,Chris Sale,Citizens Bank Park,2026-04-18T23:15:00Z,Scheduled
+824372,2026-04-19T00:10:00Z,115,119,Colorado Rockies,Los Angeles Dodgers,663372,Ryan Feltner,686218,Emmet Sheehan,Coors Field,2026-04-19T00:10:00Z,Scheduled
+825098,2026-04-19T00:10:00Z,109,141,Arizona Diamondbacks,Toronto Blue Jays,668678,Zac Gallen,453286,Max Scherzer,Chase Field,2026-04-19T00:10:00Z,Scheduled
+824049,2026-04-19T01:38:00Z,108,135,Los Angeles Angels,San Diego Padres,579328,Yusei Kikuchi,608566,Germán Márquez,Angel Stadium,2026-04-19T01:38:00Z,Scheduled

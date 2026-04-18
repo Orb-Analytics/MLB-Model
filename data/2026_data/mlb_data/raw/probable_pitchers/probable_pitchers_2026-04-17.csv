@@ -5,7 +5,7 @@ game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probab
 822752,2026-04-17T22:45:00Z,120,137,Washington Nationals,San Francisco Giants,641793,Zack Littell,657277,Logan Webb,Nationals Park,2026-04-17T22:45:00Z,Scheduled
 823397,2026-04-17T22:45:00Z,134,139,Pittsburgh Pirates,Tampa Bay Rays,696149,Bubba Chandler,607259,Nick Martinez,PNC Park,2026-04-17T22:45:00Z,Scheduled
 823559,2026-04-17T23:05:00Z,147,118,New York Yankees,Kansas City Royals,693645,Cam Schlittler,608379,Michael Wacha,Yankee Stadium,2026-04-17T23:05:00Z,Scheduled
-823883,2026-04-17T23:10:00Z,146,158,Miami Marlins,Milwaukee Brewers,676083,Janson Junk,,,loanDepot park,2026-04-17T23:10:00Z,Scheduled
+823883,2026-04-17T23:10:00Z,146,158,Miami Marlins,Milwaukee Brewers,676083,Janson Junk,,Coleman Crow,loanDepot park,2026-04-17T23:10:00Z,Scheduled
 824778,2026-04-17T23:15:00Z,111,116,Boston Red Sox,Detroit Tigers,624133,Ranger Suarez,663554,Casey Mize,Fenway Park,2026-04-17T23:15:00Z,Scheduled
 824207,2026-04-18T00:10:00Z,117,138,Houston Astros,St. Louis Cardinals,663567,Peter Lambert,681517,Kyle Leahy,Daikin Park,2026-04-18T00:10:00Z,Scheduled
 823720,2026-04-18T00:10:00Z,142,113,Minnesota Twins,Cincinnati Reds,657746,Joe Ryan,682227,Brandon Williamson,Target Field,2026-04-18T00:10:00Z,Scheduled
