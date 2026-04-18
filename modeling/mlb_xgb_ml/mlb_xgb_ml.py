@@ -169,6 +169,9 @@ df_train_raw, feature_cols = clean_and_select_features(df_raw)
 
 # Exclude 2020 — COVID-shortened season, statistically non-comparable
 df_train = df_train_raw[df_train_raw['season'] != 2020].copy()
+
+# Exclude games on or after the prediction date to prevent data leakage
+df_train = df_train[df_train['Date'] < pd.Timestamp(predict_date)].copy()
 df_train = df_train.sort_values('Date').reset_index(drop=True)
 
 # Drop rows with null rolling_10 values — early season games (<10 games played)
@@ -241,6 +244,12 @@ results['xgb_away_prob'] = away_prob.round(4)
 results['pick?'] = np.where(home_prob >= 0.5,
                             df_pred['home team'].values,
                             df_pred['away team'].values)
+
+# 1 if pick is the favorite, 0 if underdog
+pick_is_home = (home_prob >= 0.5).astype(int)
+fav_is_home = results['fav at home?'].values
+results['pick_fav?']  = (pick_is_home == fav_is_home).astype(int)
+results['pick_home?'] = pick_is_home
 
 # Official pick only if max probability > PICK_THRESHOLD
 max_prob = np.maximum(home_prob, away_prob)
