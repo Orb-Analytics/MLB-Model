@@ -3,13 +3,13 @@ name: Send Picks to Graphics Pipeline
 on:
   push:
     paths:
-      - 'modeling/mlb_xgb_ml/predictions/**/*.csv'
+      - 'modeling/mlb_xgb_ml/predictions/predictions_*.csv'  # Match your file pattern
   workflow_dispatch:
     inputs:
       picks_file:
-        description: 'CSV file with picks to send'
+        description: 'CSV file with picks to send (relative to repo root)'
         required: false
-        default: 'modeling/mlb_xgb_ml/predictions/daily_picks.csv'
+        default: 'modeling/mlb_xgb_ml/predictions/predictions_2026-04-19.csv'
 
 jobs:
   send-picks:
@@ -30,15 +30,25 @@ jobs:
         run: |
           mkdir -p graphics-pipeline/incoming_picks
           
-          PICKS_FILE="${{ github.event.inputs.picks_file || 'modeling/mlb_xgb_ml/predictions/daily_picks.csv' }}"
+          # Determine picks file location (use input or auto-find latest)
+          PICKS_FILE="${{ github.event.inputs.picks_file }}"
+          
+          if [ -z "$PICKS_FILE" ]; then
+            # If no input provided, use the latest predictions_*.csv file
+            PICKS_FILE=$(ls -t modeling/mlb_xgb_ml/predictions/predictions_*.csv 2>/dev/null | head -1)
+          fi
           
           if [ ! -f "$PICKS_FILE" ]; then
             echo "Error: Picks file not found: $PICKS_FILE"
             exit 1
           fi
           
+          echo "Using predictions file: $PICKS_FILE"
+          
+          # Generate filename with timestamp
           TIMESTAMP=$(date +%Y%m%d_%H%M%S)
-          DEST_FILE="graphics-pipeline/incoming_picks/picks_${TIMESTAMP}.csv"
+          FILENAME=$(basename "$PICKS_FILE")
+          DEST_FILE="graphics-pipeline/incoming_picks/${TIMESTAMP}_${FILENAME}"
           
           cp "$PICKS_FILE" "$DEST_FILE"
           
