@@ -258,6 +258,11 @@ results['pick_made?'] = (max_prob > PICK_THRESHOLD).astype(int)
 # Placeholder — to be filled after game results are in
 results['pick_correct?'] = ''
 
+# Add over/under line and odds
+results['over close'] = df_pred['over close'].values
+results['over close odds'] = df_pred['over close odds'].values
+results['under close odds'] = df_pred['under close odds'].values
+
 print('\n=== PREDICTIONS ===')
 print(results.to_string(index=False))
 
