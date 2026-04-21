@@ -1,0 +1,16 @@
+game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probable_pitcher_id,home_probable_pitcher_name,away_probable_pitcher_id,away_probable_pitcher_name,venue,game_time_utc,status
+824448,2026-04-21T22:10:00Z,114,117,Cleveland Guardians,Houston Astros,800048,Parker Messick,680802,Ryan Weiss,Progressive Field,2026-04-21T22:10:00Z,Scheduled
+822995,2026-04-21T22:40:00Z,139,113,Tampa Bay Rays,Cincinnati Reds,571927,Steven Matz,695505,Chase Burns,Tropicana Field,2026-04-21T22:40:00Z,Scheduled
+823880,2026-04-21T22:40:00Z,146,138,Miami Marlins,St. Louis Cardinals,663978,Chris Paddack,669160,Dustin May,loanDepot park,2026-04-21T22:40:00Z,Scheduled
+824290,2026-04-21T22:40:00Z,116,158,Detroit Tigers,Milwaukee Brewers,672456,Keider Montero,690986,Kyle Harrison,Comerica Park,2026-04-21T22:40:00Z,Scheduled
+822747,2026-04-21T22:45:00Z,120,144,Washington Nationals,Atlanta Braves,656492,Foster Griffin,625643,Reynaldo López,Nationals Park,2026-04-21T22:45:00Z,Scheduled
+824773,2026-04-21T22:45:00Z,111,147,Boston Red Sox,New York Yankees,813349,Connelly Early,661563,Luis Gil,Fenway Park,2026-04-21T22:45:00Z,Scheduled
+823640,2026-04-21T23:10:00Z,121,142,New York Mets,Minnesota Twins,690997,Nolan McLean,680573,Simeon Woods Richardson,Citi Field,2026-04-21T23:10:00Z,Scheduled
+824127,2026-04-21T23:40:00Z,118,110,Kansas City Royals,Baltimore Orioles,663460,Kris Bubic,669358,Shane Baz,Kauffman Stadium,2026-04-21T23:40:00Z,Scheduled
+824690,2026-04-21T23:40:00Z,112,143,Chicago Cubs,Philadelphia Phillies,684007,Shota Imanaga,666200,Jesús Luzardo,Wrigley Field,2026-04-21T23:40:00Z,Scheduled
+822914,2026-04-22T00:05:00Z,140,134,Texas Rangers,Pittsburgh Pirates,,,,,Globe Life Field,2026-04-22T00:05:00Z,Scheduled
+824369,2026-04-22T00:40:00Z,115,135,Colorado Rockies,San Diego Padres,,,681190,Randy Vásquez,Coors Field,2026-04-22T00:40:00Z,Scheduled
+824045,2026-04-22T01:38:00Z,108,141,Los Angeles Angels,Toronto Blue Jays,686799,Jack Kochanowicz,571578,Patrick Corbin,Angel Stadium,2026-04-22T01:38:00Z,Scheduled
+823148,2026-04-22T01:40:00Z,136,133,Seattle Mariners,Athletics,622491,Luis Castillo,682052,Jacob Lopez,T-Mobile Park,2026-04-22T01:40:00Z,Scheduled
+825099,2026-04-22T01:40:00Z,109,145,Arizona Diamondbacks,Chicago White Sox,518876,Merrill Kelly,680732,Sean Burke,Chase Field,2026-04-22T01:40:00Z,Scheduled
+823236,2026-04-22T01:45:00Z,137,119,San Francisco Giants,Los Angeles Dodgers,694738,Landen Roupp,808967,Yoshinobu Yamamoto,Oracle Park,2026-04-22T01:45:00Z,Scheduled

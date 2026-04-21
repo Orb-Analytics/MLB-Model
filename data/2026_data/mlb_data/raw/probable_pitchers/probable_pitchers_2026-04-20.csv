@@ -1,7 +1,7 @@
 game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probable_pitcher_id,home_probable_pitcher_name,away_probable_pitcher_id,away_probable_pitcher_name,venue,game_time_utc,status
 824776,2026-04-20T15:10:00Z,111,116,Boston Red Sox,Detroit Tigers,543243,Sonny Gray,656427,Jack Flaherty,Fenway Park,2026-04-20T15:10:00Z,Pre-Game
 824450,2026-04-20T22:10:00Z,114,117,Cleveland Guardians,Houston Astros,677944,Slade Cecconi,681293,Spencer Arrighetti,Progressive Field,2026-04-20T22:10:00Z,Scheduled
-822994,2026-04-20T22:40:00Z,139,113,Tampa Bay Rays,Cincinnati Reds,,,695076,Rhett Lowder,Tropicana Field,2026-04-20T22:40:00Z,Scheduled
+822994,2026-04-20T22:40:00Z,139,113,Tampa Bay Rays,Cincinnati Reds,,Jesse Scholtens,695076,Rhett Lowder,Tropicana Field,2026-04-20T22:40:00Z,Scheduled
 823879,2026-04-20T22:40:00Z,146,138,Miami Marlins,St. Louis Cardinals,676974,Max Meyer,700241,Michael McGreevy,loanDepot park,2026-04-20T22:40:00Z,Scheduled
 822749,2026-04-20T22:45:00Z,120,144,Washington Nationals,Atlanta Braves,663623,Jake Irvin,693821,Bryce Elder,Nationals Park,2026-04-20T22:45:00Z,Scheduled
 824125,2026-04-20T23:40:00Z,118,110,Kansas City Royals,Baltimore Orioles,607625,Seth Lugo,680694,Kyle Bradish,Kauffman Stadium,2026-04-20T23:40:00Z,Scheduled
