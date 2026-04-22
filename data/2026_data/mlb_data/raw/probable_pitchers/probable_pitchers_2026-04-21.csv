@@ -8,8 +8,8 @@ game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probab
 823640,2026-04-21T23:10:00Z,121,142,New York Mets,Minnesota Twins,690997,Nolan McLean,680573,Simeon Woods Richardson,Citi Field,2026-04-21T23:10:00Z,Scheduled
 824127,2026-04-21T23:40:00Z,118,110,Kansas City Royals,Baltimore Orioles,663460,Kris Bubic,669358,Shane Baz,Kauffman Stadium,2026-04-21T23:40:00Z,Scheduled
 824690,2026-04-21T23:40:00Z,112,143,Chicago Cubs,Philadelphia Phillies,684007,Shota Imanaga,666200,Jesús Luzardo,Wrigley Field,2026-04-21T23:40:00Z,Scheduled
-822914,2026-04-22T00:05:00Z,140,134,Texas Rangers,Pittsburgh Pirates,,,,,Globe Life Field,2026-04-22T00:05:00Z,Scheduled
-824369,2026-04-22T00:40:00Z,115,135,Colorado Rockies,San Diego Padres,,,681190,Randy Vásquez,Coors Field,2026-04-22T00:40:00Z,Scheduled
+822914,2026-04-22T00:05:00Z,140,134,Texas Rangers,Pittsburgh Pirates,,Kumar Rocker,,Carmen Mlodzinski,Globe Life Field,2026-04-22T00:05:00Z,Scheduled
+824369,2026-04-22T00:40:00Z,115,135,Colorado Rockies,San Diego Padres,,Jimmy Herget,681190,Randy Vásquez,Coors Field,2026-04-22T00:40:00Z,Scheduled
 824045,2026-04-22T01:38:00Z,108,141,Los Angeles Angels,Toronto Blue Jays,686799,Jack Kochanowicz,571578,Patrick Corbin,Angel Stadium,2026-04-22T01:38:00Z,Scheduled
 823148,2026-04-22T01:40:00Z,136,133,Seattle Mariners,Athletics,622491,Luis Castillo,682052,Jacob Lopez,T-Mobile Park,2026-04-22T01:40:00Z,Scheduled
 825099,2026-04-22T01:40:00Z,109,145,Arizona Diamondbacks,Chicago White Sox,518876,Merrill Kelly,680732,Sean Burke,Chase Field,2026-04-22T01:40:00Z,Scheduled

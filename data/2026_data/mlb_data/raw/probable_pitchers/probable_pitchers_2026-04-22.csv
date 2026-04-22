@@ -1,0 +1,16 @@
+game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probable_pitcher_id,home_probable_pitcher_name,away_probable_pitcher_id,away_probable_pitcher_name,venue,game_time_utc,status
+823878,2026-04-22T16:10:00Z,146,138,Miami Marlins,St. Louis Cardinals,676083,Janson Junk,681517,Kyle Leahy,loanDepot park,2026-04-22T16:10:00Z,Pre-Game
+824449,2026-04-22T17:10:00Z,114,117,Cleveland Guardians,Houston Astros,676440,Tanner Bibee,663567,Peter Lambert,Progressive Field,2026-04-22T17:10:00Z,Scheduled
+822993,2026-04-22T17:10:00Z,139,113,Tampa Bay Rays,Cincinnati Reds,607259,Nick Martinez,682227,Brandon Williamson,Tropicana Field,2026-04-22T17:10:00Z,Scheduled
+824123,2026-04-22T18:10:00Z,118,110,Kansas City Royals,Baltimore Orioles,608379,Michael Wacha,605135,Chris Bassitt,Kauffman Stadium,2026-04-22T18:10:00Z,Scheduled
+824044,2026-04-22T19:07:00Z,108,141,Los Angeles Angels,Toronto Blue Jays,667755,José Soriano,641778,Eric Lauer,Angel Stadium,2026-04-22T19:07:00Z,Scheduled
+823147,2026-04-22T20:10:00Z,136,133,Seattle Mariners,Athletics,669302,Logan Gilbert,650644,Aaron Civale,T-Mobile Park,2026-04-22T20:10:00Z,Scheduled
+824286,2026-04-22T22:40:00Z,116,158,Detroit Tigers,Milwaukee Brewers,663554,Casey Mize,694477,Chad Patrick,Comerica Park,2026-04-22T22:40:00Z,Scheduled
+822748,2026-04-22T22:45:00Z,120,144,Washington Nationals,Atlanta Braves,641793,Zack Littell,800311,Didier Fuentes,Nationals Park,2026-04-22T22:45:00Z,Scheduled
+824774,2026-04-22T22:45:00Z,111,147,Boston Red Sox,New York Yankees,624133,Ranger Suarez,608331,Max Fried,Fenway Park,2026-04-22T22:45:00Z,Scheduled
+823641,2026-04-22T23:10:00Z,121,142,New York Mets,Minnesota Twins,605280,Clay Holmes,687570,Connor Prielipp,Citi Field,2026-04-22T23:10:00Z,Scheduled
+824688,2026-04-22T23:40:00Z,112,143,Chicago Cubs,Philadelphia Phillies,571510,Matthew Boyd,679775,Kyle Backhus,Wrigley Field,2026-04-22T23:40:00Z,Scheduled
+822913,2026-04-23T00:05:00Z,140,134,Texas Rangers,Pittsburgh Pirates,683004,Jack Leiter,677952,Braxton Ashcraft,Globe Life Field,2026-04-23T00:05:00Z,Scheduled
+824367,2026-04-23T00:40:00Z,115,135,Colorado Rockies,San Diego Padres,608372,Tomoyuki Sugano,621111,Walker Buehler,Coors Field,2026-04-23T00:40:00Z,Scheduled
+825097,2026-04-23T01:40:00Z,109,145,Arizona Diamondbacks,Chicago White Sox,593958,Eduardo Rodriguez,641743,Anthony Kay,Chase Field,2026-04-23T01:40:00Z,Scheduled
+823231,2026-04-23T01:45:00Z,137,119,San Francisco Giants,Los Angeles Dodgers,641816,Tyler Mahle,660271,Shohei Ohtani,Oracle Park,2026-04-23T01:45:00Z,Scheduled
