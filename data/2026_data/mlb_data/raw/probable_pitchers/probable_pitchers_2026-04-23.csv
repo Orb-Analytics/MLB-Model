@@ -1,0 +1,10 @@
+game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probable_pitcher_id,home_probable_pitcher_name,away_probable_pitcher_id,away_probable_pitcher_name,venue,game_time_utc,status
+822745,2026-04-23T17:05:00Z,120,144,Washington Nationals,Atlanta Braves,676917,Cade Cavalli,702275,JR Ritchie,Nationals Park,2026-04-23T17:05:00Z,Scheduled
+824288,2026-04-23T17:10:00Z,116,158,Detroit Tigers,Milwaukee Brewers,669373,Tarik Skubal,687075,Brandon Sproat,Comerica Park,2026-04-23T17:10:00Z,Scheduled
+824689,2026-04-23T18:20:00Z,112,143,Chicago Cubs,Philadelphia Phillies,665795,Edward Cabrera,650911,Cristopher Sánchez,Wrigley Field,2026-04-23T18:20:00Z,Scheduled
+824368,2026-04-23T19:10:00Z,115,135,Colorado Rockies,San Diego Padres,663372,Ryan Feltner,663362,Matt Waldron,Coors Field,2026-04-23T19:10:00Z,Scheduled
+825096,2026-04-23T19:40:00Z,109,145,Arizona Diamondbacks,Chicago White Sox,647336,Michael Soroka,663436,Davis Martin,Chase Field,2026-04-23T19:40:00Z,Scheduled
+823233,2026-04-23T19:45:00Z,137,119,San Francisco Giants,Los Angeles Dodgers,657277,Logan Webb,607192,Tyler Glasnow,Oracle Park,2026-04-23T19:45:00Z,Scheduled
+824770,2026-04-23T22:10:00Z,111,147,Boston Red Sox,New York Yankees,801139,Payton Tolle,693645,Cam Schlittler,Fenway Park,2026-04-23T22:10:00Z,Scheduled
+823639,2026-04-23T23:10:00Z,121,142,New York Mets,Minnesota Twins,681035,Christian Scott,657746,Joe Ryan,Citi Field,2026-04-23T23:10:00Z,Scheduled
+822912,2026-04-24T00:05:00Z,140,134,Texas Rangers,Pittsburgh Pirates,594798,Jacob deGrom,696149,Bubba Chandler,Globe Life Field,2026-04-24T00:05:00Z,Scheduled
