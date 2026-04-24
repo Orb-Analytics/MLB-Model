@@ -1,0 +1,15 @@
+game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probable_pitcher_id,home_probable_pitcher_name,away_probable_pitcher_id,away_probable_pitcher_name,venue,game_time_utc,status
+824529,2026-04-24T22:40:00Z,113,116,Cincinnati Reds,Detroit Tigers,671096,Andrew Abbott,664285,Framber Valdez,Great American Ball Park,2026-04-24T22:40:00Z,Scheduled
+824854,2026-04-24T23:05:00Z,110,111,Baltimore Orioles,Boston Red Sox,687064,Brandon Young,678394,Brayan Bello,Oriole Park at Camden Yards,2026-04-24T23:05:00Z,Scheduled
+822827,2026-04-24T23:07:00Z,141,114,Toronto Blue Jays,Cleveland Guardians,453286,Max Scherzer,668909,Gavin Williams,Rogers Centre,2026-04-24T23:07:00Z,Scheduled
+823638,2026-04-24T23:10:00Z,121,115,New York Mets,Colorado Rockies,642547,Freddy Peralta,547179,Michael Lorenzen,Citi Field,2026-04-24T23:10:00Z,Scheduled
+822992,2026-04-24T23:10:00Z,139,142,Tampa Bay Rays,Minnesota Twins,656876,Drew Rasmussen,671737,Taj Bradley,Tropicana Field,2026-04-24T23:10:00Z,Scheduled
+824932,2026-04-24T23:15:00Z,144,143,Atlanta Braves,Philadelphia Phillies,656550,Grant Holmes,691725,Andrew Painter,Truist Park,2026-04-24T23:15:00Z,Scheduled
+824124,2026-04-24T23:40:00Z,118,108,Kansas City Royals,Los Angeles Angels,702070,Noah Cameron,579328,Yusei Kikuchi,Kauffman Stadium,2026-04-24T23:40:00Z,Scheduled
+824611,2026-04-24T23:40:00Z,145,120,Chicago White Sox,Washington Nationals,663542,Bryan Hudson,571945,Miles Mikolas,Rate Field,2026-04-24T23:40:00Z,Scheduled
+823800,2026-04-24T23:40:00Z,158,134,Milwaukee Brewers,Pittsburgh Pirates,605540,Brandon Woodruff,694973,Paul Skenes,American Family Field,2026-04-24T23:40:00Z,Scheduled
+822909,2026-04-25T00:05:00Z,140,133,Texas Rangers,Athletics,543135,Nathan Eovaldi,622663,Luis Severino,Globe Life Field,2026-04-25T00:05:00Z,Scheduled
+824204,2026-04-25T00:10:00Z,117,147,Houston Astros,New York Yankees,621121,Lance McCullers Jr.,701542,Will Warren,Daikin Park,2026-04-25T00:10:00Z,Scheduled
+823069,2026-04-25T00:15:00Z,138,136,St. Louis Cardinals,Seattle Mariners,669467,Andre Pallante,669923,George Kirby,Busch Stadium,2026-04-25T00:15:00Z,Scheduled
+823962,2026-04-25T02:15:00Z,119,112,Los Angeles Dodgers,Chicago Cubs,686218,Emmet Sheehan,592791,Jameson Taillon,UNIQLO Field at Dodger Stadium,2026-04-25T02:15:00Z,Scheduled
+823232,2026-04-25T02:15:00Z,137,146,San Francisco Giants,Miami Marlins,605288,Adrian Houser,645261,Sandy Alcantara,Oracle Park,2026-04-25T02:15:00Z,Scheduled
