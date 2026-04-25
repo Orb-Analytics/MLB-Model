@@ -45,11 +45,25 @@ jobs:
           
           echo "Using predictions file: $PICKS_FILE"
           
-          # Generate filename with timestamp
-          TIMESTAMP=$(date +%Y%m%d_%H%M%S)
+          # Extract date from filename (predictions_2026-04-19.csv -> 20260419)
           FILENAME=$(basename "$PICKS_FILE")
-          DEST_FILE="graphics-pipeline/incoming_picks/${TIMESTAMP}_${FILENAME}"
           
+          # Extract date from predictions_YYYY-MM-DD.csv format
+          if [[ $FILENAME =~ predictions_([0-9]{4})-([0-9]{2})-([0-9]{2})\.csv ]]; then
+            PRED_DATE="${BASH_REMATCH[1]}${BASH_REMATCH[2]}${BASH_REMATCH[3]}"
+            DEST_FILE="graphics-pipeline/incoming_picks/${PRED_DATE}_predictions.csv"
+          elif [[ $FILENAME =~ ([0-9]{4})-([0-9]{2})-([0-9]{2}) ]]; then
+            # Try to extract date from any YYYY-MM-DD pattern in filename
+            PRED_DATE="${BASH_REMATCH[1]}${BASH_REMATCH[2]}${BASH_REMATCH[3]}"
+            DEST_FILE="graphics-pipeline/incoming_picks/${PRED_DATE}_predictions.csv"
+          else
+            # Use today's date as fallback
+            PRED_DATE=$(date +%Y%m%d)
+            DEST_FILE="graphics-pipeline/incoming_picks/${PRED_DATE}_predictions.csv"
+            echo "Warning: Could not extract date from filename, using today's date: $PRED_DATE"
+          fi
+          
+          # Copy the picks file
           cp "$PICKS_FILE" "$DEST_FILE"
           
           echo "✓ Copied $PICKS_FILE to $DEST_FILE"
