@@ -34,8 +34,8 @@ jobs:
           PICKS_FILE="${{ github.event.inputs.picks_file }}"
           
           if [ -z "$PICKS_FILE" ]; then
-            # If no input provided, use the latest predictions_*.csv file
-            PICKS_FILE=$(ls -t modeling/mlb_xgb_ml/predictions/predictions_*.csv 2>/dev/null | head -1)
+            # Sort by filename (not modification time) to get latest date
+            PICKS_FILE=$(ls modeling/mlb_xgb_ml/predictions/predictions_*.csv 2>/dev/null | sort -r | head -1)
           fi
           
           if [ ! -f "$PICKS_FILE" ]; then
