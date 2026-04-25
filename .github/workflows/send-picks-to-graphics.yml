@@ -7,9 +7,9 @@ on:
   workflow_dispatch:
     inputs:
       picks_file:
-        description: 'CSV file with picks to send (relative to repo root)'
+        description: 'CSV file with picks to send (leave blank to auto-detect latest)'
         required: false
-        default: 'modeling/mlb_xgb_ml/predictions/predictions_2026-04-19.csv'
+        default: ''
 
 jobs:
   send-picks:
