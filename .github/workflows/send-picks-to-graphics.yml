@@ -10,6 +10,10 @@ on:
         description: 'CSV file with picks to send (leave blank to auto-detect latest)'
         required: false
         default: ''
+      send_previous_day:
+        description: 'Also send previous day results (default: true)'
+        required: false
+        default: 'true'
 
 jobs:
   send-picks:
@@ -32,6 +36,12 @@ jobs:
           
           # Determine picks file location (use input or auto-find latest)
           PICKS_FILE="${{ github.event.inputs.picks_file }}"
+          SEND_PREVIOUS="${{ github.event.inputs.send_previous_day }}"
+          
+          # Default to sending previous day if not specified
+          if [ -z "$SEND_PREVIOUS" ]; then
+            SEND_PREVIOUS="true"
+          fi
           
           if [ -z "$PICKS_FILE" ]; then
             # Sort by filename (not modification time) to get latest date
@@ -45,28 +55,45 @@ jobs:
           
           echo "Using predictions file: $PICKS_FILE"
           
-          # Extract date from filename (predictions_2026-04-19.csv -> 20260419)
-          FILENAME=$(basename "$PICKS_FILE")
+          # Function to copy a predictions file
+          copy_predictions_file() {
+            local SOURCE_FILE="$1"
+            local FILENAME=$(basename "$SOURCE_FILE")
+            
+            # Extract date from predictions_YYYY-MM-DD.csv format
+            if [[ $FILENAME =~ predictions_([0-9]{4})-([0-9]{2})-([0-9]{2})\.csv ]]; then
+              PRED_DATE="${BASH_REMATCH[1]}${BASH_REMATCH[2]}${BASH_REMATCH[3]}"
+              DEST_FILE="graphics-pipeline/incoming_picks/${PRED_DATE}_predictions.csv"
+            elif [[ $FILENAME =~ ([0-9]{4})-([0-9]{2})-([0-9]{2}) ]]; then
+              # Try to extract date from any YYYY-MM-DD pattern in filename
+              PRED_DATE="${BASH_REMATCH[1]}${BASH_REMATCH[2]}${BASH_REMATCH[3]}"
+              DEST_FILE="graphics-pipeline/incoming_picks/${PRED_DATE}_predictions.csv"
+            else
+              # Use today's date as fallback
+              PRED_DATE=$(date +%Y%m%d)
+              DEST_FILE="graphics-pipeline/incoming_picks/${PRED_DATE}_predictions.csv"
+              echo "Warning: Could not extract date from filename, using today's date: $PRED_DATE"
+            fi
+            
+            # Copy the picks file
+            cp "$SOURCE_FILE" "$DEST_FILE"
+            echo "✓ Copied $SOURCE_FILE to $DEST_FILE"
+          }
           
-          # Extract date from predictions_YYYY-MM-DD.csv format
-          if [[ $FILENAME =~ predictions_([0-9]{4})-([0-9]{2})-([0-9]{2})\.csv ]]; then
-            PRED_DATE="${BASH_REMATCH[1]}${BASH_REMATCH[2]}${BASH_REMATCH[3]}"
-            DEST_FILE="graphics-pipeline/incoming_picks/${PRED_DATE}_predictions.csv"
-          elif [[ $FILENAME =~ ([0-9]{4})-([0-9]{2})-([0-9]{2}) ]]; then
-            # Try to extract date from any YYYY-MM-DD pattern in filename
-            PRED_DATE="${BASH_REMATCH[1]}${BASH_REMATCH[2]}${BASH_REMATCH[3]}"
-            DEST_FILE="graphics-pipeline/incoming_picks/${PRED_DATE}_predictions.csv"
-          else
-            # Use today's date as fallback
-            PRED_DATE=$(date +%Y%m%d)
-            DEST_FILE="graphics-pipeline/incoming_picks/${PRED_DATE}_predictions.csv"
-            echo "Warning: Could not extract date from filename, using today's date: $PRED_DATE"
+          # Copy today's predictions file
+          copy_predictions_file "$PICKS_FILE"
+          
+          # Also send previous day's file (with results) if enabled
+          if [ "$SEND_PREVIOUS" = "true" ]; then
+            PREVIOUS_FILE=$(ls modeling/mlb_xgb_ml/predictions/predictions_*.csv 2>/dev/null | sort -r | head -2 | tail -1)
+            
+            if [ -n "$PREVIOUS_FILE" ] && [ -f "$PREVIOUS_FILE" ] && [ "$PREVIOUS_FILE" != "$PICKS_FILE" ]; then
+              echo "Also sending previous day's results: $PREVIOUS_FILE"
+              copy_predictions_file "$PREVIOUS_FILE"
+            else
+              echo "No previous day file found or it's the same as today's file"
+            fi
           fi
-          
-          # Copy the picks file
-          cp "$PICKS_FILE" "$DEST_FILE"
-          
-          echo "✓ Copied $PICKS_FILE to $DEST_FILE"
       
       - name: Commit and push to graphics repo
         working-directory: graphics-pipeline
@@ -79,7 +106,7 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "Add MLB picks for $(date +%Y-%m-%d)"
+            git commit -m "Add MLB picks and results for $(date +%Y-%m-%d)"
             git push
             echo "✓ Picks pushed to graphics pipeline repo"
           fi
