@@ -1,0 +1,16 @@
+game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probable_pitcher_id,home_probable_pitcher_name,away_probable_pitcher_id,away_probable_pitcher_name,venue,game_time_utc,status
+824851,2026-04-25T16:05:00Z,110,111,Baltimore Orioles,Boston Red Sox,669432,Trevor Rogers,676979,Garrett Crochet,Oriole Park at Camden Yards,2026-04-25T16:05:00Z,Pre-Game
+823070,2026-04-25T18:15:00Z,138,136,St. Louis Cardinals,Seattle Mariners,669461,Matthew Liberatore,693433,Bryan Woo,Busch Stadium,2026-04-25T18:15:00Z,Scheduled
+822826,2026-04-25T19:07:00Z,141,114,Toronto Blue Jays,Cleveland Guardians,592332,Kevin Gausman,676282,Joey Cantillo,Rogers Centre,2026-04-25T19:07:00Z,Scheduled
+823229,2026-04-25T20:05:00Z,137,146,San Francisco Giants,Miami Marlins,592662,Robbie Ray,691587,Eury Pérez,Oracle Park,2026-04-25T20:05:00Z,Scheduled
+822989,2026-04-25T20:10:00Z,139,142,Tampa Bay Rays,Minnesota Twins,663556,Shane McClanahan,641927,Bailey Ober,Tropicana Field,2026-04-25T20:10:00Z,Scheduled
+824613,2026-04-25T20:10:00Z,145,120,Chicago White Sox,Washington Nationals,702273,Noah Schultz,663623,Jake Irvin,Rate Field,2026-04-25T20:10:00Z,Scheduled
+825093,2026-04-25T22:05:00Z,109,135,Arizona Diamondbacks,San Diego Padres,668678,Zac Gallen,608566,Germán Márquez,Estadio Alfredo Harp Helu,2026-04-25T22:05:00Z,Scheduled
+822910,2026-04-25T23:05:00Z,140,133,Texas Rangers,Athletics,669022,MacKenzie Gore,605488,Jeffrey Springs,Globe Life Field,2026-04-25T23:05:00Z,Scheduled
+824121,2026-04-25T23:10:00Z,118,108,Kansas City Royals,Los Angeles Angels,666142,Cole Ragans,700712,Walbert Urena,Kauffman Stadium,2026-04-25T23:10:00Z,Scheduled
+824203,2026-04-25T23:10:00Z,117,147,Houston Astros,New York Yankees,681347,Mike Burrows,677960,Ryan Weathers,Daikin Park,2026-04-25T23:10:00Z,Scheduled
+823799,2026-04-25T23:10:00Z,158,134,Milwaukee Brewers,Pittsburgh Pirates,694819,Jacob Misiorowski,656605,Mitch Keller,American Family Field,2026-04-25T23:10:00Z,Scheduled
+824527,2026-04-25T23:15:00Z,113,116,Cincinnati Reds,Detroit Tigers,663903,Brady Singer,656427,Jack Flaherty,Great American Ball Park,2026-04-25T23:15:00Z,Scheduled
+823960,2026-04-25T23:15:00Z,119,112,Los Angeles Dodgers,Chicago Cubs,808963,Roki Sasaki,607067,Colin Rea,UNIQLO Field at Dodger Stadium,2026-04-25T23:15:00Z,Scheduled
+824933,2026-04-25T23:15:00Z,144,143,Atlanta Braves,Philadelphia Phillies,693821,Bryce Elder,554430,Zack Wheeler,Truist Park,2026-04-25T23:15:00Z,Scheduled
+823637,2026-04-25T20:10:00Z,121,115,New York Mets,Colorado Rockies,673540,Kodai Senga,500779,Jose Quintana,Citi Field,2026-04-25T20:10:00Z,Postponed
