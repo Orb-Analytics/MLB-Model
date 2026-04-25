@@ -689,7 +689,7 @@ def compute_season_to_date(target_date: str):
     """Run compute_daily_season_to_date_stats.py."""
     log("5-STD", f"Computing season-to-date stats for {target_date}...")
     result = subprocess.run(
-        [sys.executable, "compute_daily_season_to_date_stats.py", target_date],
+        [sys.executable, "scripts/etl/compute/compute_daily_season_to_date_stats.py", target_date],
         capture_output=True, text=True
     )
     if result.returncode != 0:
@@ -708,7 +708,7 @@ def compute_rolling(target_date: str):
     """Run compute_daily_rolling_stats.py."""
     log("6-ROLLING", f"Computing rolling stats for {target_date}...")
     result = subprocess.run(
-        [sys.executable, "compute_daily_rolling_stats.py", target_date],
+        [sys.executable, "scripts/etl/compute/compute_daily_rolling_stats.py", target_date],
         capture_output=True, text=True
     )
     if result.returncode != 0:
@@ -726,7 +726,7 @@ def consolidate():
     """Run consolidate_year_stats.py."""
     log("7-CONSOLIDATE", f"Consolidating processed files for {YEAR}...")
     result = subprocess.run(
-        [sys.executable, "consolidate_year_stats.py", str(YEAR)],
+        [sys.executable, "scripts/etl/consolidate/consolidate_year_stats.py", str(YEAR)],
         capture_output=True, text=True
     )
     if result.returncode != 0:
@@ -744,7 +744,7 @@ def build_dataset():
     """Run build_2026_dataset.py."""
     log("8-DATASET", "Building 2026 dataset...")
     result = subprocess.run(
-        [sys.executable, "build_2026_dataset.py"],
+        [sys.executable, "scripts/etl/builders/build_2026_dataset.py"],
         capture_output=True, text=True
     )
     if result.returncode != 0:
