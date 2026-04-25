@@ -34,6 +34,16 @@ jobs:
         python -m pip install --upgrade pip
         pip install pandas numpy xgboost scikit-learn
 
+    - name: Update previous day's predictions with results
+      run: |
+        if [ -n "${{ inputs.target_date }}" ]; then
+          # Calculate previous date
+          python modeling/mlb_xgb_ml/update_previous_predictions.py "${{ inputs.target_date }}"
+        else
+          python modeling/mlb_xgb_ml/update_previous_predictions.py
+        fi
+      continue-on-error: true
+
     - name: Run XGB model
       run: |
         if [ -n "${{ inputs.target_date }}" ]; then
