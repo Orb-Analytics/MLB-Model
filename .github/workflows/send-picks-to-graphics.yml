@@ -1,6 +1,9 @@
 name: Send Picks to Graphics Pipeline
 
 on:
+  workflow_run:
+    workflows: ["MLB XGB Predictions"]
+    types: [completed]
   push:
     paths:
       - 'modeling/mlb_xgb_ml/predictions/predictions_*.csv'  # Match your file pattern
@@ -18,6 +21,7 @@ on:
 jobs:
   send-picks:
     runs-on: ubuntu-latest
+    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
     
     steps:
       - name: Checkout MLB repo
