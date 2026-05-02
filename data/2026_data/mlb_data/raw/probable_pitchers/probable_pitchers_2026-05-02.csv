@@ -1,0 +1,16 @@
+game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probable_pitcher_id,home_probable_pitcher_name,away_probable_pitcher_id,away_probable_pitcher_name,venue,game_time_utc,status
+823554,2026-05-02T17:35:00Z,147,110,New York Yankees,Baltimore Orioles,677960,Ryan Weathers,680694,Kyle Bradish,Yankee Stadium,2026-05-02T17:35:00Z,Scheduled
+823715,2026-05-02T18:10:00Z,142,141,Minnesota Twins,Toronto Blue Jays,687570,Connor Prielipp,656302,Dylan Cease,Target Field,2026-05-02T18:10:00Z,Scheduled
+824685,2026-05-02T18:20:00Z,112,109,Chicago Cubs,Arizona Diamondbacks,684007,Shota Imanaga,669194,Ryne Nelson,Wrigley Field,2026-05-02T18:20:00Z,Scheduled
+825014,2026-05-02T20:05:00Z,133,114,Athletics,Cleveland Guardians,682052,Jacob Lopez,677944,Slade Cecconi,Sutter Health Park,2026-05-02T20:05:00Z,Scheduled
+823388,2026-05-02T20:05:00Z,134,113,Pittsburgh Pirates,Cincinnati Reds,669387,Carmen Mlodzinski,695076,Rhett Lowder,PNC Park,2026-05-02T20:05:00Z,Scheduled
+822746,2026-05-02T20:05:00Z,120,158,Washington Nationals,Milwaukee Brewers,656492,Foster Griffin,690986,Kyle Harrison,Nationals Park,2026-05-02T20:05:00Z,Scheduled
+824771,2026-05-02T20:10:00Z,111,117,Boston Red Sox,Houston Astros,813349,Connelly Early,681293,Spencer Arrighetti,Fenway Park,2026-05-02T20:10:00Z,Scheduled
+823876,2026-05-02T20:10:00Z,146,143,Miami Marlins,Philadelphia Phillies,676974,Max Meyer,691725,Andrew Painter,loanDepot park,2026-05-02T20:10:00Z,Scheduled
+822988,2026-05-02T22:10:00Z,139,137,Tampa Bay Rays,San Francisco Giants,643377,Griffin Jax,694738,Landen Roupp,Tropicana Field,2026-05-02T22:10:00Z,Scheduled
+823067,2026-05-02T23:15:00Z,138,119,St. Louis Cardinals,Los Angeles Dodgers,700241,Michael McGreevy,808963,Roki Sasaki,Busch Stadium,2026-05-02T23:15:00Z,Scheduled
+824284,2026-05-02T23:15:00Z,116,140,Detroit Tigers,Texas Rangers,672456,Keider Montero,677958,Kumar Rocker,Comerica Park,2026-05-02T23:15:00Z,Scheduled
+824365,2026-05-03T00:10:00Z,115,144,Colorado Rockies,Atlanta Braves,,,519242,Chris Sale,Coors Field,2026-05-03T00:10:00Z,Scheduled
+823308,2026-05-03T00:40:00Z,135,145,San Diego Padres,Chicago White Sox,650633,Michael King,680732,Sean Burke,Petco Park,2026-05-03T00:40:00Z,Scheduled
+824042,2026-05-03T01:38:00Z,108,121,Los Angeles Angels,New York Mets,672282,Reid Detmers,690997,Nolan McLean,Angel Stadium,2026-05-03T01:38:00Z,Scheduled
+823144,2026-05-03T01:40:00Z,136,118,Seattle Mariners,Kansas City Royals,676106,Emerson Hancock,607625,Seth Lugo,T-Mobile Park,2026-05-03T01:40:00Z,Scheduled

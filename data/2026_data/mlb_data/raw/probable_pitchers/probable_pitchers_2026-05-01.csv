@@ -3,8 +3,8 @@ game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probab
 824287,2026-05-01T22:40:00Z,116,140,Detroit Tigers,Texas Rangers,656427,Jack Flaherty,669022,MacKenzie Gore,Comerica Park,2026-05-01T22:40:00Z,Scheduled
 823389,2026-05-01T22:45:00Z,134,113,Pittsburgh Pirates,Cincinnati Reds,656605,Mitch Keller,663903,Brady Singer,PNC Park,2026-05-01T22:45:00Z,Scheduled
 822744,2026-05-01T22:45:00Z,120,158,Washington Nationals,Milwaukee Brewers,663623,Jake Irvin,694819,Jacob Misiorowski,Nationals Park,2026-05-01T22:45:00Z,Scheduled
-823557,2026-05-01T23:05:00Z,147,110,New York Yankees,Baltimore Orioles,701542,Will Warren,,,Yankee Stadium,2026-05-01T23:05:00Z,Scheduled
-824772,2026-05-01T23:10:00Z,111,117,Boston Red Sox,Houston Astros,,,681347,Mike Burrows,Fenway Park,2026-05-01T23:10:00Z,Scheduled
+823557,2026-05-01T23:05:00Z,147,110,New York Yankees,Baltimore Orioles,701542,Will Warren,,Cade Povich,Yankee Stadium,2026-05-01T23:05:00Z,Scheduled
+824772,2026-05-01T23:10:00Z,111,117,Boston Red Sox,Houston Astros,,Jake Bennett,681347,Mike Burrows,Fenway Park,2026-05-01T23:10:00Z,Scheduled
 822990,2026-05-01T23:10:00Z,139,137,Tampa Bay Rays,San Francisco Giants,663556,Shane McClanahan,592662,Robbie Ray,Tropicana Field,2026-05-01T23:10:00Z,Scheduled
 823877,2026-05-01T23:10:00Z,146,143,Miami Marlins,Philadelphia Phillies,691587,Eury Pérez,554430,Zack Wheeler,loanDepot park,2026-05-01T23:10:00Z,Scheduled
 823713,2026-05-02T00:10:00Z,142,141,Minnesota Twins,Toronto Blue Jays,680573,Simeon Woods Richardson,571578,Patrick Corbin,Target Field,2026-05-02T00:10:00Z,Scheduled
