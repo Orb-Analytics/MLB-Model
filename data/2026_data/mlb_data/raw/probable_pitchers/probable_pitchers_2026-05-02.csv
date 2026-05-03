@@ -10,7 +10,7 @@ game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probab
 822988,2026-05-02T22:10:00Z,139,137,Tampa Bay Rays,San Francisco Giants,643377,Griffin Jax,694738,Landen Roupp,Tropicana Field,2026-05-02T22:10:00Z,Scheduled
 823067,2026-05-02T23:15:00Z,138,119,St. Louis Cardinals,Los Angeles Dodgers,700241,Michael McGreevy,808963,Roki Sasaki,Busch Stadium,2026-05-02T23:15:00Z,Scheduled
 824284,2026-05-02T23:15:00Z,116,140,Detroit Tigers,Texas Rangers,672456,Keider Montero,677958,Kumar Rocker,Comerica Park,2026-05-02T23:15:00Z,Scheduled
-824365,2026-05-03T00:10:00Z,115,144,Colorado Rockies,Atlanta Braves,,,519242,Chris Sale,Coors Field,2026-05-03T00:10:00Z,Scheduled
+824365,2026-05-03T00:10:00Z,115,144,Colorado Rockies,Atlanta Braves,,Brennan Bernardino,519242,Chris Sale,Coors Field,2026-05-03T00:10:00Z,Scheduled
 823308,2026-05-03T00:40:00Z,135,145,San Diego Padres,Chicago White Sox,650633,Michael King,680732,Sean Burke,Petco Park,2026-05-03T00:40:00Z,Scheduled
 824042,2026-05-03T01:38:00Z,108,121,Los Angeles Angels,New York Mets,672282,Reid Detmers,690997,Nolan McLean,Angel Stadium,2026-05-03T01:38:00Z,Scheduled
 823144,2026-05-03T01:40:00Z,136,118,Seattle Mariners,Kansas City Royals,676106,Emerson Hancock,607625,Seth Lugo,T-Mobile Park,2026-05-03T01:40:00Z,Scheduled
