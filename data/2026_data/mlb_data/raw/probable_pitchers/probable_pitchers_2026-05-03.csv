@@ -3,7 +3,7 @@ game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probab
 824769,2026-05-03T17:35:00Z,111,117,Boston Red Sox,Houston Astros,624133,Ranger Suarez,675989,Cody Bolton,Fenway Park,2026-05-03T17:35:00Z,Scheduled
 823387,2026-05-03T17:35:00Z,134,113,Pittsburgh Pirates,Cincinnati Reds,677952,Braxton Ashcraft,695505,Chase Burns,PNC Park,2026-05-03T17:35:00Z,Scheduled
 823555,2026-05-03T17:35:00Z,147,110,New York Yankees,Baltimore Orioles,608331,Max Fried,694346,Trey Gibson,Yankee Stadium,2026-05-03T17:35:00Z,Scheduled
-822742,2026-05-03T17:35:00Z,120,158,Washington Nationals,Milwaukee Brewers,641793,Zack Littell,,,Nationals Park,2026-05-03T17:35:00Z,Scheduled
+822742,2026-05-03T17:35:00Z,120,158,Washington Nationals,Milwaukee Brewers,641793,Zack Littell,,Logan Henderson,Nationals Park,2026-05-03T17:35:00Z,Scheduled
 822987,2026-05-03T17:40:00Z,139,137,Tampa Bay Rays,San Francisco Giants,571927,Steven Matz,641816,Tyler Mahle,Tropicana Field,2026-05-03T17:40:00Z,Scheduled
 823875,2026-05-03T17:40:00Z,146,143,Miami Marlins,Philadelphia Phillies,663978,Chris Paddack,666200,Jesús Luzardo,loanDepot park,2026-05-03T17:40:00Z,Scheduled
 823065,2026-05-03T18:15:00Z,138,119,St. Louis Cardinals,Los Angeles Dodgers,669160,Dustin May,680736,Justin Wrobleski,Busch Stadium,2026-05-03T18:15:00Z,Scheduled

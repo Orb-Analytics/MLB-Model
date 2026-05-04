@@ -1,0 +1,13 @@
+game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probable_pitcher_id,home_probable_pitcher_name,away_probable_pitcher_id,away_probable_pitcher_name,venue,game_time_utc,status
+824363,2026-05-04T21:40:00Z,115,121,Colorado Rockies,New York Mets,608372,Tomoyuki Sugano,,,Coors Field,2026-05-04T21:40:00Z,Scheduled
+824283,2026-05-04T22:40:00Z,116,111,Detroit Tigers,Boston Red Sox,669373,Tarik Skubal,801139,Payton Tolle,Comerica Park,2026-05-04T22:40:00Z,Scheduled
+822984,2026-05-04T22:40:00Z,139,141,Tampa Bay Rays,Toronto Blue Jays,607259,Nick Martinez,,,Tropicana Field,2026-05-04T22:40:00Z,Scheduled
+823874,2026-05-04T22:40:00Z,146,143,Miami Marlins,Philadelphia Phillies,676083,Janson Junk,605400,Aaron Nola,loanDepot park,2026-05-04T22:40:00Z,Scheduled
+823552,2026-05-04T23:05:00Z,147,110,New York Yankees,Baltimore Orioles,693645,Cam Schlittler,669358,Shane Baz,Yankee Stadium,2026-05-04T23:05:00Z,Scheduled
+824684,2026-05-04T23:40:00Z,112,113,Chicago Cubs,Cincinnati Reds,665795,Edward Cabrera,695534,Chase Petty,Wrigley Field,2026-05-04T23:40:00Z,Scheduled
+824120,2026-05-04T23:40:00Z,118,114,Kansas City Royals,Cleveland Guardians,608379,Michael Wacha,676440,Tanner Bibee,Kauffman Stadium,2026-05-04T23:40:00Z,Scheduled
+823064,2026-05-04T23:45:00Z,138,158,St. Louis Cardinals,Milwaukee Brewers,681517,Kyle Leahy,694477,Chad Patrick,Busch Stadium,2026-05-04T23:45:00Z,Scheduled
+824201,2026-05-05T00:10:00Z,117,119,Houston Astros,Los Angeles Dodgers,595345,Steven Okert,808967,Yoshinobu Yamamoto,Daikin Park,2026-05-05T00:10:00Z,Scheduled
+824039,2026-05-05T01:38:00Z,108,145,Los Angeles Angels,Chicago White Sox,667755,José Soriano,663436,Davis Martin,Angel Stadium,2026-05-05T01:38:00Z,Scheduled
+823143,2026-05-05T01:40:00Z,136,144,Seattle Mariners,Atlanta Braves,669302,Logan Gilbert,702275,JR Ritchie,T-Mobile Park,2026-05-05T01:40:00Z,Scheduled
+823228,2026-05-05T01:45:00Z,137,135,San Francisco Giants,San Diego Padres,686790,Trevor McDonald,681190,Randy Vásquez,Oracle Park,2026-05-05T01:45:00Z,Scheduled
