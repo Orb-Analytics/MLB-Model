@@ -1,0 +1,16 @@
+game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probable_pitcher_id,home_probable_pitcher_name,away_probable_pitcher_id,away_probable_pitcher_name,venue,game_time_utc,status
+822985,2026-05-06T17:10:00Z,139,141,Tampa Bay Rays,Toronto Blue Jays,663556,Shane McClanahan,571578,Patrick Corbin,Tropicana Field,2026-05-06T17:10:00Z,Scheduled
+823063,2026-05-06T17:15:00Z,138,158,St. Louis Cardinals,Milwaukee Brewers,669467,Andre Pallante,687075,Brandon Sproat,Busch Stadium,2026-05-06T17:15:00Z,Scheduled
+824198,2026-05-06T18:10:00Z,117,119,Houston Astros,Los Angeles Dodgers,621121,Lance McCullers Jr.,607192,Tyler Glasnow,Daikin Park,2026-05-06T18:10:00Z,Scheduled
+823226,2026-05-06T19:45:00Z,137,135,San Francisco Giants,San Diego Padres,605288,Adrian Houser,663362,Matt Waldron,Oracle Park,2026-05-06T19:45:00Z,Scheduled
+824036,2026-05-06T20:07:00Z,108,145,Los Angeles Angels,Chicago White Sox,700712,Walbert Ureña,702273,Noah Schultz,Angel Stadium,2026-05-06T20:07:00Z,Scheduled
+823141,2026-05-06T20:10:00Z,136,144,Seattle Mariners,Atlanta Braves,693433,Bryan Woo,527048,Martín Pérez,T-Mobile Park,2026-05-06T20:10:00Z,Scheduled
+824282,2026-05-06T22:40:00Z,116,111,Detroit Tigers,Boston Red Sox,656427,Jack Flaherty,543243,Sonny Gray,Comerica Park,2026-05-06T22:40:00Z,Scheduled
+823470,2026-05-06T22:40:00Z,143,133,Philadelphia Phillies,Athletics,554430,Zack Wheeler,605488,Jeffrey Springs,Citizens Bank Park,2026-05-06T22:40:00Z,Scheduled
+823872,2026-05-06T22:40:00Z,146,110,Miami Marlins,Baltimore Orioles,691587,Eury Pérez,687064,Brandon Young,loanDepot park,2026-05-06T22:40:00Z,Scheduled
+822740,2026-05-06T22:45:00Z,120,142,Washington Nationals,Minnesota Twins,571945,Miles Mikolas,641927,Bailey Ober,Nationals Park,2026-05-06T22:45:00Z,Scheduled
+823550,2026-05-06T23:05:00Z,147,140,New York Yankees,Texas Rangers,701542,Will Warren,543135,Nathan Eovaldi,Yankee Stadium,2026-05-06T23:05:00Z,Scheduled
+824683,2026-05-06T23:40:00Z,112,113,Chicago Cubs,Cincinnati Reds,607067,Colin Rea,663903,Brady Singer,Wrigley Field,2026-05-06T23:40:00Z,Scheduled
+824118,2026-05-06T23:40:00Z,118,114,Kansas City Royals,Cleveland Guardians,666142,Cole Ragans,676282,Joey Cantillo,Kauffman Stadium,2026-05-06T23:40:00Z,Scheduled
+824361,2026-05-07T01:20:00Z,115,121,Colorado Rockies,New York Mets,547179,Michael Lorenzen,642547,Freddy Peralta,Coors Field,2026-05-07T01:20:00Z,Scheduled
+825091,2026-05-07T01:40:00Z,109,134,Arizona Diamondbacks,Pittsburgh Pirates,647336,Michael Soroka,694973,Paul Skenes,Chase Field,2026-05-07T01:40:00Z,Scheduled
