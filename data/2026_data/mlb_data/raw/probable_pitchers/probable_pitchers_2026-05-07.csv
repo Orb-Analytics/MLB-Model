@@ -1,0 +1,11 @@
+game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probable_pitcher_id,home_probable_pitcher_name,away_probable_pitcher_id,away_probable_pitcher_name,venue,game_time_utc,status
+823551,2026-05-07T16:35:00Z,147,140,New York Yankees,Texas Rangers,621112,Paul Blackburn,669022,MacKenzie Gore,Yankee Stadium,2026-05-07T16:35:00Z,Scheduled
+822741,2026-05-07T17:05:00Z,120,142,Washington Nationals,Minnesota Twins,663623,Jake Irvin,680573,Simeon Woods Richardson,Nationals Park,2026-05-07T17:05:00Z,Scheduled
+824117,2026-05-07T18:10:00Z,118,114,Kansas City Royals,Cleveland Guardians,607625,Seth Lugo,677944,Slade Cecconi,Kauffman Stadium,2026-05-07T18:10:00Z,Scheduled
+824681,2026-05-07T18:20:00Z,112,113,Chicago Cubs,Cincinnati Reds,684007,Shota Imanaga,695076,Rhett Lowder,Wrigley Field,2026-05-07T18:20:00Z,Scheduled
+824362,2026-05-07T19:10:00Z,115,121,Colorado Rockies,New York Mets,500779,Jose Quintana,681035,Christian Scott,Coors Field,2026-05-07T19:10:00Z,Scheduled
+825090,2026-05-07T19:40:00Z,109,134,Arizona Diamondbacks,Pittsburgh Pirates,668678,Zac Gallen,656605,Mitch Keller,Chase Field,2026-05-07T19:40:00Z,Scheduled
+823467,2026-05-07T22:40:00Z,143,133,Philadelphia Phillies,Athletics,691725,Andrew Painter,669372,J.T. Ginn,Citizens Bank Park,2026-05-07T22:40:00Z,Scheduled
+823870,2026-05-07T22:40:00Z,146,110,Miami Marlins,Baltimore Orioles,676974,Max Meyer,700249,Cade Povich,loanDepot park,2026-05-07T22:40:00Z,Scheduled
+824767,2026-05-07T23:10:00Z,111,139,Boston Red Sox,Tampa Bay Rays,687562,Jake Bennett,643377,Griffin Jax,Fenway Park,2026-05-07T23:10:00Z,Scheduled
+823306,2026-05-08T02:10:00Z,135,138,San Diego Padres,St. Louis Cardinals,650633,Michael King,669461,Matthew Liberatore,Petco Park,2026-05-08T02:10:00Z,Scheduled
