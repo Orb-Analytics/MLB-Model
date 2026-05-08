@@ -1,0 +1,16 @@
+game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probable_pitcher_id,home_probable_pitcher_name,away_probable_pitcher_id,away_probable_pitcher_name,venue,game_time_utc,status
+824522,2026-05-08T22:10:00Z,113,117,Cincinnati Reds,Houston Astros,666157,Nick Lodolo,681347,Mike Burrows,Great American Ball Park,2026-05-08T22:10:00Z,Scheduled
+823466,2026-05-08T22:40:00Z,143,115,Philadelphia Phillies,Colorado Rockies,666200,Jesús Luzardo,801403,Chase Dollander,Citizens Bank Park,2026-05-08T22:40:00Z,Scheduled
+824846,2026-05-08T23:05:00Z,110,133,Baltimore Orioles,Athletics,680694,Kyle Bradish,682052,Jacob Lopez,Oriole Park at Camden Yards,2026-05-08T23:05:00Z,Scheduled
+822822,2026-05-08T23:07:00Z,141,108,Toronto Blue Jays,Los Angeles Angels,656302,Dylan Cease,672282,Reid Detmers,Rogers Centre,2026-05-08T23:07:00Z,Scheduled
+824768,2026-05-08T23:10:00Z,111,139,Boston Red Sox,Tampa Bay Rays,813349,Connelly Early,669947,Jesse Scholtens,Fenway Park,2026-05-08T23:10:00Z,Scheduled
+823871,2026-05-08T23:10:00Z,146,120,Miami Marlins,Washington Nationals,702281,Robby Snelling,656492,Foster Griffin,loanDepot park,2026-05-08T23:10:00Z,Scheduled
+824443,2026-05-08T23:15:00Z,114,142,Cleveland Guardians,Minnesota Twins,800048,Parker Messick,687570,Connor Prielipp,Progressive Field,2026-05-08T23:15:00Z,Scheduled
+824116,2026-05-08T23:40:00Z,118,116,Kansas City Royals,Detroit Tigers,663460,Kris Bubic,672456,Keider Montero,Kauffman Stadium,2026-05-08T23:40:00Z,Scheduled
+824607,2026-05-08T23:40:00Z,145,136,Chicago White Sox,Seattle Mariners,680732,Sean Burke,676106,Emerson Hancock,Rate Field,2026-05-08T23:40:00Z,Scheduled
+823794,2026-05-08T23:40:00Z,158,147,Milwaukee Brewers,New York Yankees,694819,Jacob Misiorowski,608331,Max Fried,American Family Field,2026-05-08T23:40:00Z,Scheduled
+822904,2026-05-09T00:05:00Z,140,112,Texas Rangers,Chicago Cubs,677958,Kumar Rocker,676962,Ben Brown,Globe Life Field,2026-05-09T00:05:00Z,Scheduled
+825088,2026-05-09T01:40:00Z,109,121,Arizona Diamondbacks,New York Mets,669194,Ryne Nelson,690997,Nolan McLean,Chase Field,2026-05-09T01:40:00Z,Scheduled
+823303,2026-05-09T01:45:00Z,135,138,San Diego Padres,St. Louis Cardinals,656288,Griffin Canning,700241,Michael McGreevy,Petco Park,2026-05-09T01:45:00Z,Scheduled
+823957,2026-05-09T02:10:00Z,119,144,Los Angeles Dodgers,Atlanta Braves,686218,Emmet Sheehan,519242,Chris Sale,UNIQLO Field at Dodger Stadium,2026-05-09T02:10:00Z,Scheduled
+823225,2026-05-09T02:15:00Z,137,134,San Francisco Giants,Pittsburgh Pirates,,,669387,Carmen Mlodzinski,Oracle Park,2026-05-09T02:15:00Z,Scheduled
