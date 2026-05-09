@@ -13,4 +13,4 @@ game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probab
 825088,2026-05-09T01:40:00Z,109,121,Arizona Diamondbacks,New York Mets,669194,Ryne Nelson,690997,Nolan McLean,Chase Field,2026-05-09T01:40:00Z,Scheduled
 823303,2026-05-09T01:45:00Z,135,138,San Diego Padres,St. Louis Cardinals,656288,Griffin Canning,700241,Michael McGreevy,Petco Park,2026-05-09T01:45:00Z,Scheduled
 823957,2026-05-09T02:10:00Z,119,144,Los Angeles Dodgers,Atlanta Braves,686218,Emmet Sheehan,519242,Chris Sale,UNIQLO Field at Dodger Stadium,2026-05-09T02:10:00Z,Scheduled
-823225,2026-05-09T02:15:00Z,137,134,San Francisco Giants,Pittsburgh Pirates,,,669387,Carmen Mlodzinski,Oracle Park,2026-05-09T02:15:00Z,Scheduled
+823225,2026-05-09T02:15:00Z,137,134,San Francisco Giants,Pittsburgh Pirates,,Robbie Ray,669387,Carmen Mlodzinski,Oracle Park,2026-05-09T02:15:00Z,Scheduled
