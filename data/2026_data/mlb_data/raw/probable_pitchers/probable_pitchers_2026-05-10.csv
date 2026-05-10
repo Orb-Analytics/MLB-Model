@@ -1,0 +1,16 @@
+game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probable_pitcher_id,home_probable_pitcher_name,away_probable_pitcher_id,away_probable_pitcher_name,venue,game_time_utc,status
+823868,2026-05-10T16:15:00Z,146,120,Miami Marlins,Washington Nationals,645261,Sandy Alcantara,676917,Cade Cavalli,loanDepot park,2026-05-10T16:15:00Z,Scheduled
+824845,2026-05-10T17:35:00Z,110,133,Baltimore Orioles,Athletics,605135,Chris Bassitt,622663,Luis Severino,Oriole Park at Camden Yards,2026-05-10T17:35:00Z,Scheduled
+824765,2026-05-10T17:35:00Z,111,139,Boston Red Sox,Tampa Bay Rays,801139,Payton Tolle,607259,Nick Martinez,Fenway Park,2026-05-10T17:35:00Z,Pre-Game
+823463,2026-05-10T17:35:00Z,143,115,Philadelphia Phillies,Colorado Rockies,650911,Cristopher Sánchez,608372,Tomoyuki Sugano,Citizens Bank Park,2026-05-10T17:35:00Z,Scheduled
+822819,2026-05-10T17:37:00Z,141,108,Toronto Blue Jays,Los Angeles Angels,693686,Spencer Miles,667755,José Soriano,Rogers Centre,2026-05-10T17:37:00Z,Scheduled
+824520,2026-05-10T17:40:00Z,113,117,Cincinnati Reds,Houston Astros,671096,Andrew Abbott,678906,Kai-Wei Teng,Great American Ball Park,2026-05-10T17:40:00Z,Scheduled
+824440,2026-05-10T17:40:00Z,114,142,Cleveland Guardians,Minnesota Twins,668909,Gavin Williams,702193,Andrew Morris,Progressive Field,2026-05-10T17:40:00Z,Scheduled
+824605,2026-05-10T18:10:00Z,145,136,Chicago White Sox,Seattle Mariners,663436,Davis Martin,669302,Logan Gilbert,Rate Field,2026-05-10T18:10:00Z,Scheduled
+823793,2026-05-10T18:10:00Z,158,147,Milwaukee Brewers,New York Yankees,701656,Logan Henderson,607074,Carlos Rodón,American Family Field,2026-05-10T18:10:00Z,Scheduled
+822902,2026-05-10T18:35:00Z,140,112,Texas Rangers,Chicago Cubs,594798,Jacob deGrom,592791,Jameson Taillon,Globe Life Field,2026-05-10T18:35:00Z,Scheduled
+823221,2026-05-10T20:05:00Z,137,134,San Francisco Giants,Pittsburgh Pirates,641816,Tyler Mahle,696149,Bubba Chandler,Oracle Park,2026-05-10T20:05:00Z,Scheduled
+825085,2026-05-10T20:10:00Z,109,121,Arizona Diamondbacks,New York Mets,593958,Eduardo Rodriguez,623211,Huascar Brazobán,Chase Field,2026-05-10T20:10:00Z,Scheduled
+823305,2026-05-10T20:10:00Z,135,138,San Diego Padres,St. Louis Cardinals,621111,Walker Buehler,681517,Kyle Leahy,Petco Park,2026-05-10T20:10:00Z,Scheduled
+823954,2026-05-10T20:10:00Z,119,144,Los Angeles Dodgers,Atlanta Braves,680736,Justin Wrobleski,693821,Bryce Elder,UNIQLO Field at Dodger Stadium,2026-05-10T20:10:00Z,Scheduled
+824113,2026-05-10T23:20:00Z,118,116,Kansas City Royals,Detroit Tigers,702070,Noah Cameron,669724,Brenan Hanifee,Kauffman Stadium,2026-05-10T23:20:00Z,Scheduled
