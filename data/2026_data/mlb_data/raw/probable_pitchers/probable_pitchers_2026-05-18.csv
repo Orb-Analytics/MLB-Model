@@ -1,0 +1,15 @@
+game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probable_pitcher_id,home_probable_pitcher_name,away_probable_pitcher_id,away_probable_pitcher_name,venue,game_time_utc,status
+824277,2026-05-18T22:40:00Z,116,114,Detroit Tigers,Cleveland Guardians,664285,Framber Valdez,677944,Slade Cecconi,Comerica Park,2026-05-18T22:40:00Z,Scheduled
+822980,2026-05-18T22:40:00Z,139,110,Tampa Bay Rays,Baltimore Orioles,663556,Shane McClanahan,669432,Trevor Rogers,Tropicana Field,2026-05-18T22:40:00Z,Scheduled
+823465,2026-05-18T22:40:00Z,143,113,Philadelphia Phillies,Cincinnati Reds,691725,Andrew Painter,666157,Nick Lodolo,Citizens Bank Park,2026-05-18T22:40:00Z,Scheduled
+823867,2026-05-18T22:40:00Z,146,144,Miami Marlins,Atlanta Braves,676974,Max Meyer,702275,JR Ritchie,loanDepot park,2026-05-18T22:40:00Z,Scheduled
+822734,2026-05-18T22:45:00Z,120,121,Washington Nationals,New York Mets,663623,Jake Irvin,681035,Christian Scott,Nationals Park,2026-05-18T22:45:00Z,Scheduled
+823549,2026-05-18T23:05:00Z,147,141,New York Yankees,Toronto Blue Jays,677960,Ryan Weathers,571578,Patrick Corbin,Yankee Stadium,2026-05-18T23:05:00Z,Scheduled
+824114,2026-05-18T23:40:00Z,118,111,Kansas City Royals,Boston Red Sox,607625,Seth Lugo,543243,Sonny Gray,Kauffman Stadium,2026-05-18T23:40:00Z,Scheduled
+823705,2026-05-18T23:40:00Z,142,117,Minnesota Twins,Houston Astros,696070,Kendry Rojas,837227,Tatsuya Imai,Target Field,2026-05-18T23:40:00Z,Scheduled
+824680,2026-05-18T23:40:00Z,112,158,Chicago Cubs,Milwaukee Brewers,684007,Shota Imanaga,687075,Brandon Sproat,Wrigley Field,2026-05-18T23:40:00Z,Scheduled
+824357,2026-05-19T00:40:00Z,115,140,Colorado Rockies,Texas Rangers,500779,Jose Quintana,669022,MacKenzie Gore,Coors Field,2026-05-19T00:40:00Z,Scheduled
+824035,2026-05-19T01:38:00Z,108,133,Los Angeles Angels,Athletics,700712,Walbert Ureña,669372,J.T. Ginn,Angel Stadium,2026-05-19T01:38:00Z,Scheduled
+823301,2026-05-19T01:40:00Z,135,119,San Diego Padres,Los Angeles Dodgers,650633,Michael King,808967,Yoshinobu Yamamoto,Petco Park,2026-05-19T01:40:00Z,Scheduled
+825087,2026-05-19T01:40:00Z,109,137,Arizona Diamondbacks,San Francisco Giants,668678,Zac Gallen,592662,Robbie Ray,Chase Field,2026-05-19T01:40:00Z,Scheduled
+823137,2026-05-19T01:40:00Z,136,145,Seattle Mariners,Chicago White Sox,693433,Bryan Woo,702273,Noah Schultz,T-Mobile Park,2026-05-19T01:40:00Z,Scheduled
