@@ -1,0 +1,16 @@
+game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probable_pitcher_id,home_probable_pitcher_name,away_probable_pitcher_id,away_probable_pitcher_name,venue,game_time_utc,status
+823865,2026-05-19T20:10:00Z,146,144,Miami Marlins,Atlanta Braves,666129,Braxton Garrett,527048,Martín Pérez,loanDepot park,2026-05-19T20:10:00Z,Scheduled
+824276,2026-05-19T22:40:00Z,116,114,Detroit Tigers,Cleveland Guardians,672456,Keider Montero,800048,Parker Messick,Comerica Park,2026-05-19T22:40:00Z,Scheduled
+822979,2026-05-19T22:40:00Z,139,110,Tampa Bay Rays,Baltimore Orioles,643377,Griffin Jax,680694,Kyle Bradish,Tropicana Field,2026-05-19T22:40:00Z,Scheduled
+823464,2026-05-19T22:40:00Z,143,113,Philadelphia Phillies,Cincinnati Reds,666200,Jesús Luzardo,695505,Chase Burns,Citizens Bank Park,2026-05-19T22:40:00Z,Scheduled
+822736,2026-05-19T22:45:00Z,120,121,Washington Nationals,New York Mets,656492,Foster Griffin,690997,Nolan McLean,Nationals Park,2026-05-19T22:45:00Z,Scheduled
+823548,2026-05-19T23:05:00Z,147,141,New York Yankees,Toronto Blue Jays,701542,Will Warren,656302,Dylan Cease,Yankee Stadium,2026-05-19T23:05:00Z,Scheduled
+824112,2026-05-19T23:40:00Z,118,111,Kansas City Royals,Boston Red Sox,663559,Bailey Falter,624133,Ranger Suarez,Kauffman Stadium,2026-05-19T23:40:00Z,Scheduled
+823704,2026-05-19T23:40:00Z,142,117,Minnesota Twins,Houston Astros,805673,Zebby Matthews,621121,Lance McCullers Jr.,Target Field,2026-05-19T23:40:00Z,Scheduled
+824677,2026-05-19T23:40:00Z,112,158,Chicago Cubs,Milwaukee Brewers,676962,Ben Brown,694819,Jacob Misiorowski,Wrigley Field,2026-05-19T23:40:00Z,Scheduled
+823059,2026-05-19T23:45:00Z,138,134,St. Louis Cardinals,Pittsburgh Pirates,669461,Matthew Liberatore,656605,Mitch Keller,Busch Stadium,2026-05-19T23:45:00Z,Scheduled
+824356,2026-05-20T00:40:00Z,115,140,Colorado Rockies,Texas Rangers,671111,Sammy Peralta,677958,Kumar Rocker,Coors Field,2026-05-20T00:40:00Z,Scheduled
+824033,2026-05-20T01:38:00Z,108,133,Los Angeles Angels,Athletics,672282,Reid Detmers,682052,Jacob Lopez,Angel Stadium,2026-05-20T01:38:00Z,Scheduled
+823302,2026-05-20T01:40:00Z,135,119,San Diego Padres,Los Angeles Dodgers,656288,Griffin Canning,686218,Emmet Sheehan,Petco Park,2026-05-20T01:40:00Z,Scheduled
+825086,2026-05-20T01:40:00Z,109,137,Arizona Diamondbacks,San Francisco Giants,669194,Ryne Nelson,694738,Landen Roupp,Chase Field,2026-05-20T01:40:00Z,Scheduled
+823136,2026-05-20T01:40:00Z,136,145,Seattle Mariners,Chicago White Sox,682243,Bryce Miller,641743,Anthony Kay,T-Mobile Park,2026-05-20T01:40:00Z,Scheduled
