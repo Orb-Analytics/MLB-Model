@@ -5,7 +5,7 @@ game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probab
 824355,2026-05-20T19:10:00Z,115,140,Colorado Rockies,Texas Rangers,607536,Kyle Freeland,683004,Jack Leiter,Coors Field,2026-05-20T19:10:00Z,Scheduled
 825084,2026-05-20T19:40:00Z,109,137,Arizona Diamondbacks,San Francisco Giants,518876,Merrill Kelly,641816,Tyler Mahle,Chase Field,2026-05-20T19:40:00Z,Scheduled
 823134,2026-05-20T20:10:00Z,136,145,Seattle Mariners,Chicago White Sox,676106,Emerson Hancock,680732,Sean Burke,T-Mobile Park,2026-05-20T20:10:00Z,Scheduled
-824273,2026-05-20T22:40:00Z,116,114,Detroit Tigers,Cleveland Guardians,,,676440,Tanner Bibee,Comerica Park,2026-05-20T22:40:00Z,Scheduled
+824273,2026-05-20T22:40:00Z,116,114,Detroit Tigers,Cleveland Guardians,,Drew Anderson,676440,Tanner Bibee,Comerica Park,2026-05-20T22:40:00Z,Scheduled
 823866,2026-05-20T22:40:00Z,146,144,Miami Marlins,Atlanta Braves,676083,Janson Junk,519242,Chris Sale,loanDepot park,2026-05-20T22:40:00Z,Scheduled
 822735,2026-05-20T22:45:00Z,120,121,Washington Nationals,New York Mets,641793,Zack Littell,804267,Zach Thornton,Nationals Park,2026-05-20T22:45:00Z,Scheduled
 823547,2026-05-20T23:05:00Z,147,141,New York Yankees,Toronto Blue Jays,693645,Cam Schlittler,702056,Trey Yesavage,Yankee Stadium,2026-05-20T23:05:00Z,Scheduled
