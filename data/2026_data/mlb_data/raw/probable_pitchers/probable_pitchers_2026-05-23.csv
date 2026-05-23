@@ -1,0 +1,17 @@
+game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probable_pitcher_id,home_probable_pitcher_name,away_probable_pitcher_id,away_probable_pitcher_name,venue,game_time_utc,status
+824518,2026-05-23T17:10:00Z,113,138,Cincinnati Reds,St. Louis Cardinals,663978,Chris Paddack,669467,Andre Pallante,Great American Ball Park,2026-05-23T17:10:00Z,Final
+824516,2026-05-23T23:15:00Z,113,138,Cincinnati Reds,St. Louis Cardinals,695534,Chase Petty,681517,Kyle Leahy,Great American Ball Park,2026-05-23T23:15:00Z,Pre-Game
+824674,2026-05-23T18:20:00Z,112,117,Chicago Cubs,Houston Astros,607067,Colin Rea,678906,Kai-Wei Teng,Wrigley Field,2026-05-23T18:20:00Z,Final
+822814,2026-05-23T19:07:00Z,141,134,Toronto Blue Jays,Pittsburgh Pirates,571578,Patrick Corbin,694973,Paul Skenes,Rogers Centre,2026-05-23T19:07:00Z,In Progress
+823458,2026-05-23T20:05:00Z,143,114,Philadelphia Phillies,Cleveland Guardians,554430,Zack Wheeler,677944,Slade Cecconi,Citizens Bank Park,2026-05-23T20:05:00Z,Delayed Start
+823222,2026-05-23T20:05:00Z,137,145,San Francisco Giants,Chicago White Sox,605288,Adrian Houser,663542,Bryan Hudson,Oracle Park,2026-05-23T20:05:00Z,In Progress
+824109,2026-05-23T20:10:00Z,118,136,Kansas City Royals,Seattle Mariners,663568,Stephen Kolek,669923,George Kirby,Kauffman Stadium,2026-05-23T20:10:00Z,In Progress
+824760,2026-05-23T20:10:00Z,111,142,Boston Red Sox,Minnesota Twins,663558,Jovani Morán,671737,Taj Bradley,Fenway Park,2026-05-23T20:10:00Z,Player challenge
+824920,2026-05-23T20:10:00Z,144,120,Atlanta Braves,Washington Nationals,656550,Grant Holmes,663623,Jake Irvin,Truist Park,2026-05-23T20:10:00Z,In Progress
+823862,2026-05-23T20:10:00Z,146,121,Miami Marlins,New York Mets,676974,Max Meyer,642547,Freddy Peralta,loanDepot park,2026-05-23T20:10:00Z,In Progress
+823787,2026-05-23T23:15:00Z,158,119,Milwaukee Brewers,Los Angeles Dodgers,688107,Robert Gasser,808963,Roki Sasaki,American Family Field,2026-05-23T23:15:00Z,Pre-Game
+823300,2026-05-24T01:40:00Z,135,133,San Diego Padres,Athletics,608337,Lucas Giolito,669372,J.T. Ginn,Petco Park,2026-05-24T01:40:00Z,Scheduled
+824030,2026-05-24T02:05:00Z,108,140,Los Angeles Angels,Texas Rangers,700712,Walbert Ureña,543135,Nathan Eovaldi,Angel Stadium,2026-05-24T02:05:00Z,Scheduled
+825080,2026-05-24T02:10:00Z,109,115,Arizona Diamondbacks,Colorado Rockies,668678,Zac Gallen,547179,Michael Lorenzen,Chase Field,2026-05-24T02:10:00Z,Pre-Game
+823543,2026-05-23T17:35:00Z,147,139,New York Yankees,Tampa Bay Rays,677960,Ryan Weathers,656876,Drew Rasmussen,Yankee Stadium,2026-05-23T17:35:00Z,Postponed
+824840,2026-05-23T20:05:00Z,110,116,Baltimore Orioles,Detroit Tigers,687064,Brandon Young,664285,Framber Valdez,Oriole Park at Camden Yards,2026-05-23T20:05:00Z,Postponed

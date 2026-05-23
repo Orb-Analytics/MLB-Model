@@ -7,7 +7,7 @@ game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probab
 824761,2026-05-22T23:10:00Z,111,142,Boston Red Sox,Minnesota Twins,801139,Payton Tolle,687570,Connor Prielipp,Fenway Park,2026-05-22T23:10:00Z,Scheduled
 823863,2026-05-22T23:10:00Z,146,121,Miami Marlins,New York Mets,691587,Eury Pérez,668964,Tobias Myers,loanDepot park,2026-05-22T23:10:00Z,Scheduled
 824842,2026-05-22T23:15:00Z,110,116,Baltimore Orioles,Detroit Tigers,605135,Chris Bassitt,656427,Jack Flaherty,Oriole Park at Camden Yards,2026-05-22T23:15:00Z,Scheduled
-824922,2026-05-22T23:15:00Z,144,120,Atlanta Braves,Washington Nationals,,,571945,Miles Mikolas,Truist Park,2026-05-22T23:15:00Z,Scheduled
+824922,2026-05-22T23:15:00Z,144,120,Atlanta Braves,Washington Nationals,,Bryce Elder,571945,Miles Mikolas,Truist Park,2026-05-22T23:15:00Z,Scheduled
 824110,2026-05-22T23:40:00Z,118,136,Kansas City Royals,Seattle Mariners,702070,Noah Cameron,669302,Logan Gilbert,Kauffman Stadium,2026-05-22T23:40:00Z,Scheduled
 823788,2026-05-22T23:40:00Z,158,119,Milwaukee Brewers,Los Angeles Dodgers,701656,Logan Henderson,680736,Justin Wrobleski,American Family Field,2026-05-22T23:40:00Z,Scheduled
 824029,2026-05-23T01:38:00Z,108,140,Los Angeles Angels,Texas Rangers,680570,Grayson Rodriguez,594798,Jacob deGrom,Angel Stadium,2026-05-23T01:38:00Z,Scheduled
