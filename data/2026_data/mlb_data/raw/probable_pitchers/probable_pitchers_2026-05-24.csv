@@ -1,0 +1,17 @@
+game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probable_pitcher_id,home_probable_pitcher_name,away_probable_pitcher_id,away_probable_pitcher_name,venue,game_time_utc,status
+822813,2026-05-24T16:15:00Z,141,134,Toronto Blue Jays,Pittsburgh Pirates,656302,Dylan Cease,656605,Mitch Keller,Rogers Centre,2026-05-24T16:15:00Z,Pre-Game
+824839,2026-05-24T16:35:00Z,110,116,Baltimore Orioles,Detroit Tigers,687064,Brandon Young,664285,Framber Valdez,Oriole Park at Camden Yards,2026-05-24T16:35:00Z,Pre-Game
+824840,2026-05-24T22:05:00Z,110,116,Baltimore Orioles,Detroit Tigers,669432,Trevor Rogers,,,Oriole Park at Camden Yards,2026-05-24T22:05:00Z,Scheduled
+824759,2026-05-24T17:35:00Z,111,142,Boston Red Sox,Minnesota Twins,543243,Sonny Gray,641927,Bailey Ober,Fenway Park,2026-05-24T17:35:00Z,Scheduled
+823459,2026-05-24T17:35:00Z,143,114,Philadelphia Phillies,Cleveland Guardians,691725,Andrew Painter,800048,Parker Messick,Citizens Bank Park,2026-05-24T17:35:00Z,Scheduled
+823544,2026-05-24T17:35:00Z,147,139,New York Yankees,Tampa Bay Rays,677960,Ryan Weathers,656876,Drew Rasmussen,Yankee Stadium,2026-05-24T17:35:00Z,Scheduled
+824514,2026-05-24T17:40:00Z,113,138,Cincinnati Reds,St. Louis Cardinals,663903,Brady Singer,669461,Matthew Liberatore,Great American Ball Park,2026-05-24T17:40:00Z,Scheduled
+823861,2026-05-24T17:40:00Z,146,121,Miami Marlins,New York Mets,663969,Tyler Phillips,681035,Christian Scott,loanDepot park,2026-05-24T17:40:00Z,Scheduled
+824108,2026-05-24T18:10:00Z,118,136,Kansas City Royals,Seattle Mariners,607625,Seth Lugo,693433,Bryan Woo,Kauffman Stadium,2026-05-24T18:10:00Z,Scheduled
+823786,2026-05-24T18:10:00Z,158,119,Milwaukee Brewers,Los Angeles Dodgers,687075,Brandon Sproat,808967,Yoshinobu Yamamoto,American Family Field,2026-05-24T18:10:00Z,Scheduled
+824676,2026-05-24T18:20:00Z,112,117,Chicago Cubs,Houston Astros,684007,Shota Imanaga,663567,Peter Lambert,Wrigley Field,2026-05-24T18:20:00Z,Scheduled
+823220,2026-05-24T20:05:00Z,137,145,San Francisco Giants,Chicago White Sox,592662,Robbie Ray,702273,Noah Schultz,Oracle Park,2026-05-24T20:05:00Z,Scheduled
+825081,2026-05-24T20:10:00Z,109,115,Arizona Diamondbacks,Colorado Rockies,669194,Ryne Nelson,500779,Jose Quintana,Chase Field,2026-05-24T20:10:00Z,Scheduled
+823297,2026-05-24T20:10:00Z,135,133,San Diego Padres,Athletics,650633,Michael King,665622,Luis Medina,Petco Park,2026-05-24T20:10:00Z,Scheduled
+824921,2026-05-24T20:10:00Z,144,120,Atlanta Braves,Washington Nationals,527048,Martín Pérez,656492,Foster Griffin,Truist Park,2026-05-24T20:10:00Z,Scheduled
+824028,2026-05-24T23:20:00Z,108,140,Los Angeles Angels,Texas Rangers,672282,Reid Detmers,669022,MacKenzie Gore,Angel Stadium,2026-05-24T23:20:00Z,Scheduled
