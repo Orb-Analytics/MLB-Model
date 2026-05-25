@@ -1,0 +1,14 @@
+game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probable_pitcher_id,home_probable_pitcher_name,away_probable_pitcher_id,away_probable_pitcher_name,venue,game_time_utc,status
+823380,2026-05-25T17:35:00Z,134,112,Pittsburgh Pirates,Chicago Cubs,669387,Carmen Mlodzinski,676962,Ben Brown,PNC Park,2026-05-25T17:35:00Z,Scheduled
+824838,2026-05-25T17:35:00Z,110,139,Baltimore Orioles,Tampa Bay Rays,680694,Kyle Bradish,663556,Shane McClanahan,Oriole Park at Camden Yards,2026-05-25T17:35:00Z,Scheduled
+824598,2026-05-25T18:10:00Z,145,142,Chicago White Sox,Minnesota Twins,641743,Anthony Kay,805673,Zebby Matthews,Rate Field,2026-05-25T18:10:00Z,Scheduled
+823784,2026-05-25T18:10:00Z,158,138,Milwaukee Brewers,St. Louis Cardinals,694819,Jacob Misiorowski,669461,Matthew Liberatore,American Family Field,2026-05-25T18:10:00Z,Scheduled
+824107,2026-05-25T19:40:00Z,118,147,Kansas City Royals,New York Yankees,608379,Michael Wacha,701542,Will Warren,Kauffman Stadium,2026-05-25T19:40:00Z,Scheduled
+823625,2026-05-25T20:10:00Z,121,113,New York Mets,Cincinnati Reds,690997,Nolan McLean,666157,Nick Lodolo,Citi Field,2026-05-25T20:10:00Z,Scheduled
+823219,2026-05-25T21:05:00Z,137,109,San Francisco Giants,Arizona Diamondbacks,694738,Landen Roupp,518876,Merrill Kelly,Oracle Park,2026-05-25T21:05:00Z,Scheduled
+824437,2026-05-25T22:10:00Z,114,120,Cleveland Guardians,Washington Nationals,676440,Tanner Bibee,641793,Zack Littell,Progressive Field,2026-05-25T22:10:00Z,Scheduled
+823296,2026-05-25T22:40:00Z,135,143,San Diego Padres,Philadelphia Phillies,681190,Randy Vásquez,666200,Jesús Luzardo,Petco Park,2026-05-25T22:40:00Z,Scheduled
+822899,2026-05-25T23:05:00Z,140,117,Texas Rangers,Houston Astros,677958,Kumar Rocker,837227,Tatsuya Imai,Globe Life Field,2026-05-25T23:05:00Z,Scheduled
+822812,2026-05-25T23:07:00Z,141,146,Toronto Blue Jays,Miami Marlins,702056,Trey Yesavage,676083,Janson Junk,Rogers Centre,2026-05-25T23:07:00Z,Scheduled
+823948,2026-05-26T01:10:00Z,119,115,Los Angeles Dodgers,Colorado Rockies,686218,Emmet Sheehan,685299,Tanner Gordon,UNIQLO Field at Dodger Stadium,2026-05-26T01:10:00Z,Scheduled
+825005,2026-05-26T01:40:00Z,133,136,Athletics,Seattle Mariners,650644,Aaron Civale,622491,Luis Castillo,Sutter Health Park,2026-05-26T01:40:00Z,Scheduled

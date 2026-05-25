@@ -1,7 +1,7 @@
 game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probable_pitcher_id,home_probable_pitcher_name,away_probable_pitcher_id,away_probable_pitcher_name,venue,game_time_utc,status
 822813,2026-05-24T16:15:00Z,141,134,Toronto Blue Jays,Pittsburgh Pirates,656302,Dylan Cease,656605,Mitch Keller,Rogers Centre,2026-05-24T16:15:00Z,Pre-Game
 824839,2026-05-24T16:35:00Z,110,116,Baltimore Orioles,Detroit Tigers,687064,Brandon Young,664285,Framber Valdez,Oriole Park at Camden Yards,2026-05-24T16:35:00Z,Pre-Game
-824840,2026-05-24T22:05:00Z,110,116,Baltimore Orioles,Detroit Tigers,669432,Trevor Rogers,,,Oriole Park at Camden Yards,2026-05-24T22:05:00Z,Scheduled
+824840,2026-05-24T22:05:00Z,110,116,Baltimore Orioles,Detroit Tigers,669432,Trevor Rogers,,Troy Melton,Oriole Park at Camden Yards,2026-05-24T22:05:00Z,Scheduled
 824759,2026-05-24T17:35:00Z,111,142,Boston Red Sox,Minnesota Twins,543243,Sonny Gray,641927,Bailey Ober,Fenway Park,2026-05-24T17:35:00Z,Scheduled
 823459,2026-05-24T17:35:00Z,143,114,Philadelphia Phillies,Cleveland Guardians,691725,Andrew Painter,800048,Parker Messick,Citizens Bank Park,2026-05-24T17:35:00Z,Scheduled
 823544,2026-05-24T17:35:00Z,147,139,New York Yankees,Tampa Bay Rays,677960,Ryan Weathers,656876,Drew Rasmussen,Yankee Stadium,2026-05-24T17:35:00Z,Scheduled
