@@ -5,7 +5,7 @@ game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probab
 823379,2026-05-26T22:40:00Z,134,112,Pittsburgh Pirates,Chicago Cubs,677952,Braxton Ashcraft,696136,Jordan Wicks,PNC Park,2026-05-26T22:40:00Z,Scheduled
 824758,2026-05-26T22:45:00Z,111,144,Boston Red Sox,Atlanta Braves,624133,Ranger Suarez,675911,Spencer Strider,Fenway Park,2026-05-26T22:45:00Z,Scheduled
 822811,2026-05-26T23:07:00Z,141,146,Toronto Blue Jays,Miami Marlins,680755,Braydon Fisher,645261,Sandy Alcantara,Rogers Centre,2026-05-26T23:07:00Z,Scheduled
-823624,2026-05-26T23:10:00Z,121,113,New York Mets,Cincinnati Reds,,,695505,Chase Burns,Citi Field,2026-05-26T23:10:00Z,Scheduled
+823624,2026-05-26T23:10:00Z,121,113,New York Mets,Cincinnati Reds,,David Peterson,695505,Chase Burns,Citi Field,2026-05-26T23:10:00Z,Scheduled
 824597,2026-05-26T23:40:00Z,145,142,Chicago White Sox,Minnesota Twins,680732,Sean Burke,657746,Joe Ryan,Rate Field,2026-05-26T23:40:00Z,Scheduled
 824106,2026-05-26T23:40:00Z,118,147,Kansas City Royals,New York Yankees,663559,Bailey Falter,693645,Cam Schlittler,Kauffman Stadium,2026-05-26T23:40:00Z,Scheduled
 823785,2026-05-26T23:40:00Z,158,138,Milwaukee Brewers,St. Louis Cardinals,690986,Kyle Harrison,700241,Michael McGreevy,American Family Field,2026-05-26T23:40:00Z,Scheduled
