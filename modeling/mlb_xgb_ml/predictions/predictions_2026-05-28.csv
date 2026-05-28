@@ -1,0 +1,7 @@
+date,home team,away team,home odds,away odds,fav at home?,xgb_home_prob,xgb_away_prob,pick?,pick_fav?,pick_home?,pick_made?,pick_correct?,over close,over close odds,under close odds
+5/28/2026,DET,LAA,-121.0,119.0,1,0.5809,0.4191,DET,1,1,1,,8.5,-102.0,102.0
+5/28/2026,CHW,MIN,-141.0,139.0,1,0.6094,0.3906,CHW,1,1,1,,7.5,-107.0,102.0
+5/28/2026,BOS,ATL,127.0,-127.0,0,0.4988,0.5012,ATL,1,0,0,,6.5,-118.0,114.0
+5/28/2026,BAL,TOR,-119.0,117.0,1,0.479,0.521,TOR,0,0,0,,8.5,-108.0,102.0
+5/28/2026,PIT,CHC,-154.0,153.0,1,0.6191,0.3809,PIT,1,1,1,,7.5,-101.0,-104.0
+5/28/2026,TEX,HOU,-132.0,130.0,1,0.607,0.393,TEX,1,1,1,,7.5,112.0,-117.0
