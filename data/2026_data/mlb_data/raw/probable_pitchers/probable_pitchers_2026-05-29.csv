@@ -2,7 +2,7 @@ game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probab
 824515,2026-05-29T22:40:00Z,113,144,Cincinnati Reds,Atlanta Braves,663978,Chris Paddack,656550,Grant Holmes,Great American Ball Park,2026-05-29T22:40:00Z,Scheduled
 822732,2026-05-29T22:45:00Z,120,135,Washington Nationals,San Diego Padres,687606,Paxton Schultz,608337,Lucas Giolito,Nationals Park,2026-05-29T22:45:00Z,Scheduled
 823377,2026-05-29T22:45:00Z,134,142,Pittsburgh Pirates,Minnesota Twins,683003,Jared Jones,671737,Taj Bradley,PNC Park,2026-05-29T22:45:00Z,Scheduled
-824835,2026-05-29T23:05:00Z,110,141,Baltimore Orioles,Toronto Blue Jays,669432,Trevor Rogers,,,Oriole Park at Camden Yards,2026-05-29T23:05:00Z,Scheduled
+824835,2026-05-29T23:05:00Z,110,141,Baltimore Orioles,Toronto Blue Jays,669432,Trevor Rogers,,Adam Macko,Oriole Park at Camden Yards,2026-05-29T23:05:00Z,Scheduled
 824433,2026-05-29T23:10:00Z,114,111,Cleveland Guardians,Boston Red Sox,677944,Slade Cecconi,701719,Tyler Samaniego,Progressive Field,2026-05-29T23:10:00Z,Scheduled
 822978,2026-05-29T23:10:00Z,139,108,Tampa Bay Rays,Los Angeles Angels,607259,Nick Martinez,700712,Walbert Ureña,Tropicana Field,2026-05-29T23:10:00Z,Scheduled
 823623,2026-05-29T23:10:00Z,121,146,New York Mets,Miami Marlins,642547,Freddy Peralta,676974,Max Meyer,Citi Field,2026-05-29T23:10:00Z,Scheduled

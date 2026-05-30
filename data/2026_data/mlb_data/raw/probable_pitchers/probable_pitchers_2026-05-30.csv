@@ -1,0 +1,16 @@
+game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probable_pitcher_id,home_probable_pitcher_name,away_probable_pitcher_id,away_probable_pitcher_name,venue,game_time_utc,status
+824593,2026-05-30T18:10:00Z,145,116,Chicago White Sox,Detroit Tigers,641743,Anthony Kay,664285,Framber Valdez,Rate Field,2026-05-30T18:10:00Z,Scheduled
+822731,2026-05-30T20:05:00Z,120,135,Washington Nationals,San Diego Padres,656492,Foster Griffin,650633,Michael King,Nationals Park,2026-05-30T20:05:00Z,Scheduled
+822893,2026-05-30T20:05:00Z,140,118,Texas Rangers,Kansas City Royals,677958,Kumar Rocker,607625,Seth Lugo,Globe Life Field,2026-05-30T20:05:00Z,Scheduled
+824833,2026-05-30T20:05:00Z,110,141,Baltimore Orioles,Toronto Blue Jays,687064,Brandon Young,702056,Trey Yesavage,Oriole Park at Camden Yards,2026-05-30T20:05:00Z,Scheduled
+823375,2026-05-30T20:05:00Z,134,142,Pittsburgh Pirates,Minnesota Twins,656605,Mitch Keller,641927,Bailey Ober,PNC Park,2026-05-30T20:05:00Z,Scheduled
+824431,2026-05-30T20:10:00Z,114,111,Cleveland Guardians,Boston Red Sox,800048,Parker Messick,543243,Sonny Gray,Progressive Field,2026-05-30T20:10:00Z,Scheduled
+822975,2026-05-30T20:10:00Z,139,108,Tampa Bay Rays,Los Angeles Angels,656876,Drew Rasmussen,672282,Reid Detmers,Tropicana Field,2026-05-30T20:10:00Z,Scheduled
+823622,2026-05-30T20:10:00Z,121,146,New York Mets,Miami Marlins,681035,Christian Scott,663969,Tyler Phillips,Citi Field,2026-05-30T20:10:00Z,Scheduled
+824190,2026-05-30T20:10:00Z,117,158,Houston Astros,Milwaukee Brewers,663567,Peter Lambert,687075,Brandon Sproat,Daikin Park,2026-05-30T20:10:00Z,Scheduled
+823054,2026-05-30T23:15:00Z,138,112,St. Louis Cardinals,Chicago Cubs,681517,Kyle Leahy,676962,Ben Brown,Busch Stadium,2026-05-30T23:15:00Z,Scheduled
+824513,2026-05-30T23:15:00Z,113,144,Cincinnati Reds,Atlanta Braves,663903,Brady Singer,527048,Martín Pérez,Great American Ball Park,2026-05-30T23:15:00Z,Scheduled
+824352,2026-05-31T01:10:00Z,115,137,Colorado Rockies,San Francisco Giants,663372,Ryan Feltner,605288,Adrian Houser,Coors Field,2026-05-31T01:10:00Z,Scheduled
+825000,2026-05-31T02:05:00Z,133,147,Athletics,New York Yankees,669372,J.T. Ginn,677960,Ryan Weathers,Sutter Health Park,2026-05-31T02:05:00Z,Scheduled
+823132,2026-05-31T02:10:00Z,136,109,Seattle Mariners,Arizona Diamondbacks,693433,Bryan Woo,669194,Ryne Nelson,T-Mobile Park,2026-05-31T02:10:00Z,Scheduled
+823945,2026-05-31T02:10:00Z,119,143,Los Angeles Dodgers,Philadelphia Phillies,808963,Roki Sasaki,666200,Jesús Luzardo,UNIQLO Field at Dodger Stadium,2026-05-31T02:10:00Z,Scheduled
