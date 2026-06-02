@@ -1,0 +1,16 @@
+game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probable_pitcher_id,home_probable_pitcher_name,away_probable_pitcher_id,away_probable_pitcher_name,venue,game_time_utc,status
+822971,2026-06-02T22:40:00Z,139,116,Tampa Bay Rays,Detroit Tigers,571927,Steven Matz,656427,Jack Flaherty,Tropicana Field,2026-06-02T22:40:00Z,Scheduled
+823460,2026-06-02T22:40:00Z,143,135,Philadelphia Phillies,San Diego Padres,605400,Aaron Nola,681190,Randy Vásquez,Citizens Bank Park,2026-06-02T22:40:00Z,Scheduled
+824754,2026-06-02T22:45:00Z,111,110,Boston Red Sox,Baltimore Orioles,813349,Connelly Early,669358,Shane Baz,Fenway Park,2026-06-02T22:45:00Z,Scheduled
+822728,2026-06-02T22:45:00Z,120,146,Washington Nationals,Miami Marlins,571945,Miles Mikolas,669199,Lake Bachar,Nationals Park,2026-06-02T22:45:00Z,Scheduled
+823541,2026-06-02T23:05:00Z,147,114,New York Yankees,Cleveland Guardians,693645,Cam Schlittler,676282,Joey Cantillo,Yankee Stadium,2026-06-02T23:05:00Z,Scheduled
+824511,2026-06-02T23:10:00Z,113,118,Cincinnati Reds,Kansas City Royals,671096,Andrew Abbott,702070,Noah Cameron,Great American Ball Park,2026-06-02T23:10:00Z,Scheduled
+824918,2026-06-02T23:15:00Z,144,141,Atlanta Braves,Toronto Blue Jays,693821,Bryce Elder,592332,Kevin Gausman,Truist Park,2026-06-02T23:15:00Z,Scheduled
+823700,2026-06-02T23:40:00Z,142,145,Minnesota Twins,Chicago White Sox,687570,Connor Prielipp,663436,Davis Martin,Target Field,2026-06-02T23:40:00Z,Scheduled
+823782,2026-06-02T23:40:00Z,158,137,Milwaukee Brewers,San Francisco Giants,690986,Kyle Harrison,686790,Trevor McDonald,American Family Field,2026-06-02T23:40:00Z,Scheduled
+823052,2026-06-02T23:45:00Z,138,140,St. Louis Cardinals,Texas Rangers,669160,Dustin May,543135,Nathan Eovaldi,Busch Stadium,2026-06-02T23:45:00Z,Scheduled
+824675,2026-06-03T00:05:00Z,112,133,Chicago Cubs,Athletics,592791,Jameson Taillon,695611,Gage Jump,Wrigley Field,2026-06-03T00:05:00Z,Scheduled
+824189,2026-06-03T00:10:00Z,117,134,Houston Astros,Pittsburgh Pirates,681347,Mike Burrows,696149,Bubba Chandler,Daikin Park,2026-06-03T00:10:00Z,Scheduled
+824026,2026-06-03T01:38:00Z,108,115,Los Angeles Angels,Colorado Rockies,680570,Grayson Rodriguez,608372,Tomoyuki Sugano,Angel Stadium,2026-06-03T01:38:00Z,Scheduled
+825079,2026-06-03T01:40:00Z,109,119,Arizona Diamondbacks,Los Angeles Dodgers,647336,Michael Soroka,641778,Eric Lauer,Chase Field,2026-06-03T01:40:00Z,Scheduled
+823129,2026-06-03T01:40:00Z,136,121,Seattle Mariners,New York Mets,669302,Logan Gilbert,,,T-Mobile Park,2026-06-03T01:40:00Z,Scheduled
