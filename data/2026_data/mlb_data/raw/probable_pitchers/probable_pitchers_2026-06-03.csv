@@ -1,0 +1,16 @@
+game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probable_pitcher_id,home_probable_pitcher_name,away_probable_pitcher_id,away_probable_pitcher_name,venue,game_time_utc,status
+822727,2026-06-03T17:05:00Z,120,146,Washington Nationals,Miami Marlins,674841,Andrew Alvarez,676974,Max Meyer,Nationals Park,2026-06-03T17:05:00Z,Pre-Game
+822973,2026-06-03T17:10:00Z,139,116,Tampa Bay Rays,Detroit Tigers,607259,Nick Martinez,675512,Troy Melton,Tropicana Field,2026-06-03T17:10:00Z,Pre-Game
+823701,2026-06-03T17:40:00Z,142,145,Minnesota Twins,Chicago White Sox,671737,Taj Bradley,607200,Erick Fedde,Target Field,2026-06-03T17:40:00Z,Pre-Game
+823130,2026-06-03T19:40:00Z,136,121,Seattle Mariners,New York Mets,669923,George Kirby,642547,Freddy Peralta,T-Mobile Park,2026-06-03T19:40:00Z,Scheduled
+823456,2026-06-03T22:40:00Z,143,135,Philadelphia Phillies,San Diego Padres,650911,Cristopher Sánchez,621111,Walker Buehler,Citizens Bank Park,2026-06-03T22:40:00Z,Scheduled
+824755,2026-06-03T22:45:00Z,111,110,Boston Red Sox,Baltimore Orioles,801139,Payton Tolle,605135,Chris Bassitt,Fenway Park,2026-06-03T22:45:00Z,Scheduled
+823540,2026-06-03T23:05:00Z,147,114,New York Yankees,Cleveland Guardians,543037,Gerrit Cole,668909,Gavin Williams,Yankee Stadium,2026-06-03T23:05:00Z,Scheduled
+824509,2026-06-03T23:10:00Z,113,118,Cincinnati Reds,Kansas City Royals,695505,Chase Burns,663568,Stephen Kolek,Great American Ball Park,2026-06-03T23:10:00Z,Scheduled
+824917,2026-06-03T23:15:00Z,144,141,Atlanta Braves,Toronto Blue Jays,656550,Grant Holmes,571578,Patrick Corbin,Truist Park,2026-06-03T23:15:00Z,Scheduled
+823780,2026-06-03T23:40:00Z,158,137,Milwaukee Brewers,San Francisco Giants,,,657277,Logan Webb,American Family Field,2026-06-03T23:40:00Z,Scheduled
+823051,2026-06-03T23:45:00Z,138,140,St. Louis Cardinals,Texas Rangers,669467,Andre Pallante,669022,MacKenzie Gore,Busch Stadium,2026-06-03T23:45:00Z,Scheduled
+824671,2026-06-04T00:05:00Z,112,133,Chicago Cubs,Athletics,607067,Colin Rea,605488,Jeffrey Springs,Wrigley Field,2026-06-04T00:05:00Z,Scheduled
+824188,2026-06-04T00:10:00Z,117,134,Houston Astros,Pittsburgh Pirates,681293,Spencer Arrighetti,694973,Paul Skenes,Daikin Park,2026-06-04T00:10:00Z,Scheduled
+824024,2026-06-04T01:38:00Z,108,115,Los Angeles Angels,Colorado Rockies,700712,Walbert Ureña,547179,Michael Lorenzen,Angel Stadium,2026-06-04T01:38:00Z,Scheduled
+825077,2026-06-04T01:40:00Z,109,119,Arizona Diamondbacks,Los Angeles Dodgers,668678,Zac Gallen,660271,Shohei Ohtani,Chase Field,2026-06-04T01:40:00Z,Scheduled
