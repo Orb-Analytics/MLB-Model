@@ -8,7 +8,7 @@ game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probab
 823540,2026-06-03T23:05:00Z,147,114,New York Yankees,Cleveland Guardians,543037,Gerrit Cole,668909,Gavin Williams,Yankee Stadium,2026-06-03T23:05:00Z,Scheduled
 824509,2026-06-03T23:10:00Z,113,118,Cincinnati Reds,Kansas City Royals,695505,Chase Burns,663568,Stephen Kolek,Great American Ball Park,2026-06-03T23:10:00Z,Scheduled
 824917,2026-06-03T23:15:00Z,144,141,Atlanta Braves,Toronto Blue Jays,656550,Grant Holmes,571578,Patrick Corbin,Truist Park,2026-06-03T23:15:00Z,Scheduled
-823780,2026-06-03T23:40:00Z,158,137,Milwaukee Brewers,San Francisco Giants,,,657277,Logan Webb,American Family Field,2026-06-03T23:40:00Z,Scheduled
+823780,2026-06-03T23:40:00Z,158,137,Milwaukee Brewers,San Francisco Giants,,Robert Gasser,657277,Logan Webb,American Family Field,2026-06-03T23:40:00Z,Scheduled
 823051,2026-06-03T23:45:00Z,138,140,St. Louis Cardinals,Texas Rangers,669467,Andre Pallante,669022,MacKenzie Gore,Busch Stadium,2026-06-03T23:45:00Z,Scheduled
 824671,2026-06-04T00:05:00Z,112,133,Chicago Cubs,Athletics,607067,Colin Rea,605488,Jeffrey Springs,Wrigley Field,2026-06-04T00:05:00Z,Scheduled
 824188,2026-06-04T00:10:00Z,117,134,Houston Astros,Pittsburgh Pirates,681293,Spencer Arrighetti,694973,Paul Skenes,Daikin Park,2026-06-04T00:10:00Z,Scheduled
