@@ -1,0 +1,16 @@
+game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probable_pitcher_id,home_probable_pitcher_name,away_probable_pitcher_id,away_probable_pitcher_name,venue,game_time_utc,status
+824673,2026-06-05T18:20:00Z,112,137,Chicago Cubs,San Francisco Giants,665795,Edward Cabrera,592662,Robbie Ray,Wrigley Field,2026-06-05T18:20:00Z,Scheduled
+824271,2026-06-05T22:40:00Z,116,136,Detroit Tigers,Seattle Mariners,664285,Framber Valdez,693433,Bryan Woo,Comerica Park,2026-06-05T22:40:00Z,Scheduled
+823455,2026-06-05T22:40:00Z,143,145,Philadelphia Phillies,Chicago White Sox,666200,Jesús Luzardo,641743,Anthony Kay,Citizens Bank Park,2026-06-05T22:40:00Z,Scheduled
+823538,2026-06-05T23:05:00Z,147,111,New York Yankees,Boston Red Sox,677960,Ryan Weathers,543243,Sonny Gray,Yankee Stadium,2026-06-05T23:05:00Z,Scheduled
+822810,2026-06-05T23:07:00Z,141,110,Toronto Blue Jays,Baltimore Orioles,702056,Trey Yesavage,687064,Brandon Young,Rogers Centre,2026-06-05T23:07:00Z,Scheduled
+823860,2026-06-05T23:10:00Z,146,139,Miami Marlins,Tampa Bay Rays,687473,Ryan Gusto,656876,Drew Rasmussen,loanDepot park,2026-06-05T23:10:00Z,Scheduled
+824914,2026-06-05T23:15:00Z,144,134,Atlanta Braves,Pittsburgh Pirates,527048,Martín Pérez,656605,Mitch Keller,Truist Park,2026-06-05T23:15:00Z,Scheduled
+824186,2026-06-06T00:10:00Z,117,133,Houston Astros,Athletics,663567,Peter Lambert,678022,Jack Perkins,Daikin Park,2026-06-06T00:10:00Z,Scheduled
+823049,2026-06-06T00:15:00Z,138,113,St. Louis Cardinals,Cincinnati Reds,681517,Kyle Leahy,663903,Brady Singer,Busch Stadium,2026-06-06T00:15:00Z,Scheduled
+822892,2026-06-06T00:15:00Z,140,114,Texas Rangers,Cleveland Guardians,677958,Kumar Rocker,800048,Parker Messick,Globe Life Field,2026-06-06T00:15:00Z,Scheduled
+823699,2026-06-06T00:15:00Z,142,118,Minnesota Twins,Kansas City Royals,805673,Zebby Matthews,608379,Michael Wacha,Target Field,2026-06-06T00:15:00Z,Scheduled
+824350,2026-06-06T00:40:00Z,115,158,Colorado Rockies,Milwaukee Brewers,663372,Ryan Feltner,687075,Brandon Sproat,Coors Field,2026-06-06T00:40:00Z,Scheduled
+825073,2026-06-06T01:40:00Z,109,120,Arizona Diamondbacks,Washington Nationals,518876,Merrill Kelly,656492,Foster Griffin,Chase Field,2026-06-06T01:40:00Z,Scheduled
+823293,2026-06-06T01:40:00Z,135,121,San Diego Padres,New York Mets,650633,Michael King,681035,Christian Scott,Petco Park,2026-06-06T01:40:00Z,Scheduled
+823943,2026-06-06T02:10:00Z,119,108,Los Angeles Dodgers,Los Angeles Angels,808963,Roki Sasaki,,,UNIQLO Field at Dodger Stadium,2026-06-06T02:10:00Z,Scheduled

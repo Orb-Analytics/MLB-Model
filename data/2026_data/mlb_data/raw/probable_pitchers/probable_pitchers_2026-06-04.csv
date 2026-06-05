@@ -3,7 +3,7 @@ game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probab
 824753,2026-06-04T17:35:00Z,111,110,Boston Red Sox,Baltimore Orioles,678394,Brayan Bello,669432,Trevor Rogers,Fenway Park,2026-06-04T17:35:00Z,Pre-Game
 823542,2026-06-04T17:35:00Z,147,114,New York Yankees,Cleveland Guardians,607074,Carlos Rodón,677944,Slade Cecconi,Yankee Stadium,2026-06-04T17:35:00Z,Scheduled
 823779,2026-06-04T18:10:00Z,158,137,Milwaukee Brewers,San Francisco Giants,689441,Coleman Crow,605288,Adrian Houser,American Family Field,2026-06-04T18:10:00Z,Scheduled
-824919,2026-06-04T23:15:00Z,144,141,Atlanta Braves,Toronto Blue Jays,519242,Chris Sale,,,Truist Park,2026-06-04T23:15:00Z,Scheduled
+824919,2026-06-04T23:15:00Z,144,141,Atlanta Braves,Toronto Blue Jays,519242,Chris Sale,,Mason Fluharty,Truist Park,2026-06-04T23:15:00Z,Scheduled
 823698,2026-06-04T23:40:00Z,142,118,Minnesota Twins,Kansas City Royals,702193,Andrew Morris,607625,Seth Lugo,Target Field,2026-06-04T23:40:00Z,Scheduled
 824672,2026-06-05T00:05:00Z,112,133,Chicago Cubs,Athletics,684007,Shota Imanaga,669372,J.T. Ginn,Wrigley Field,2026-06-05T00:05:00Z,Scheduled
 824185,2026-06-05T00:10:00Z,117,134,Houston Astros,Pittsburgh Pirates,678906,Kai-Wei Teng,683003,Jared Jones,Daikin Park,2026-06-05T00:10:00Z,Scheduled
