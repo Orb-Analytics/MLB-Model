@@ -1,0 +1,16 @@
+game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probable_pitcher_id,home_probable_pitcher_name,away_probable_pitcher_id,away_probable_pitcher_name,venue,game_time_utc,status
+824269,2026-06-06T17:10:00Z,116,136,Detroit Tigers,Seattle Mariners,672456,Keider Montero,682243,Bryce Miller,Comerica Park,2026-06-06T17:10:00Z,Scheduled
+823697,2026-06-06T18:10:00Z,142,118,Minnesota Twins,Kansas City Royals,657746,Joe Ryan,679883,Luinder Avila,Target Field,2026-06-06T18:10:00Z,Scheduled
+823048,2026-06-06T18:15:00Z,138,113,St. Louis Cardinals,Cincinnati Reds,669461,Matthew Liberatore,666157,Nick Lodolo,Busch Stadium,2026-06-06T18:15:00Z,Scheduled
+824669,2026-06-06T18:20:00Z,112,137,Chicago Cubs,San Francisco Giants,676962,Ben Brown,694738,Landen Roupp,Wrigley Field,2026-06-06T18:20:00Z,Scheduled
+822808,2026-06-06T19:07:00Z,141,110,Toronto Blue Jays,Baltimore Orioles,,,680694,Kyle Bradish,Rogers Centre,2026-06-06T19:07:00Z,Scheduled
+823454,2026-06-06T20:05:00Z,143,145,Philadelphia Phillies,Chicago White Sox,691725,Andrew Painter,685126,Brandon Eisert,Citizens Bank Park,2026-06-06T20:05:00Z,Scheduled
+825075,2026-06-06T20:10:00Z,109,120,Arizona Diamondbacks,Washington Nationals,593958,Eduardo Rodriguez,641793,Zack Littell,Chase Field,2026-06-06T20:10:00Z,Scheduled
+824184,2026-06-06T20:10:00Z,117,133,Houston Astros,Athletics,837227,Tatsuya Imai,695034,Kade Morris,Daikin Park,2026-06-06T20:10:00Z,Scheduled
+824915,2026-06-06T20:10:00Z,144,134,Atlanta Braves,Pittsburgh Pirates,675911,Spencer Strider,677952,Braxton Ashcraft,Truist Park,2026-06-06T20:10:00Z,Scheduled
+823859,2026-06-06T20:10:00Z,146,139,Miami Marlins,Tampa Bay Rays,669199,Lake Bachar,663556,Shane McClanahan,loanDepot park,2026-06-06T20:10:00Z,Scheduled
+822891,2026-06-06T23:35:00Z,140,114,Texas Rangers,Cleveland Guardians,683004,Jack Leiter,676440,Tanner Bibee,Globe Life Field,2026-06-06T23:35:00Z,Scheduled
+823539,2026-06-06T23:35:00Z,147,111,New York Yankees,Boston Red Sox,701542,Will Warren,624133,Ranger Suarez,Yankee Stadium,2026-06-06T23:35:00Z,Scheduled
+824351,2026-06-07T01:10:00Z,115,158,Colorado Rockies,Milwaukee Brewers,,,694819,Jacob Misiorowski,Coors Field,2026-06-07T01:10:00Z,Scheduled
+823942,2026-06-07T02:10:00Z,119,108,Los Angeles Dodgers,Los Angeles Angels,808967,Yoshinobu Yamamoto,686799,Jack Kochanowicz,UNIQLO Field at Dodger Stadium,2026-06-07T02:10:00Z,Scheduled
+823292,2026-06-07T02:10:00Z,135,121,San Diego Padres,New York Mets,656288,Griffin Canning,690997,Nolan McLean,Petco Park,2026-06-07T02:10:00Z,Scheduled
