@@ -1,0 +1,16 @@
+game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probable_pitcher_id,home_probable_pitcher_name,away_probable_pitcher_id,away_probable_pitcher_name,venue,game_time_utc,status
+824916,2026-06-07T17:35:00Z,144,134,Atlanta Braves,Pittsburgh Pirates,693821,Bryce Elder,696149,Bubba Chandler,Truist Park,2026-06-07T17:35:00Z,Scheduled
+823453,2026-06-07T17:35:00Z,143,145,Philadelphia Phillies,Chicago White Sox,605400,Aaron Nola,656457,Tyler Gilbert,Citizens Bank Park,2026-06-07T17:35:00Z,Scheduled
+823537,2026-06-07T17:35:00Z,147,111,New York Yankees,Boston Red Sox,693645,Cam Schlittler,624133,Ranger Suarez,Yankee Stadium,2026-06-07T17:35:00Z,Scheduled
+822807,2026-06-07T17:37:00Z,141,110,Toronto Blue Jays,Baltimore Orioles,592332,Kevin Gausman,669358,Shane Baz,Rogers Centre,2026-06-07T17:37:00Z,Scheduled
+824268,2026-06-07T17:40:00Z,116,136,Detroit Tigers,Seattle Mariners,656427,Jack Flaherty,622491,Luis Castillo,Comerica Park,2026-06-07T17:40:00Z,Scheduled
+823857,2026-06-07T17:40:00Z,146,139,Miami Marlins,Tampa Bay Rays,645261,Sandy Alcantara,643377,Griffin Jax,loanDepot park,2026-06-07T17:40:00Z,Scheduled
+824183,2026-06-07T18:10:00Z,117,133,Houston Astros,Athletics,681347,Mike Burrows,695611,Gage Jump,Daikin Park,2026-06-07T18:10:00Z,Scheduled
+823696,2026-06-07T18:10:00Z,142,118,Minnesota Twins,Kansas City Royals,687570,Connor Prielipp,702070,Noah Cameron,Target Field,2026-06-07T18:10:00Z,Scheduled
+823047,2026-06-07T18:15:00Z,138,113,St. Louis Cardinals,Cincinnati Reds,700241,Michael McGreevy,695076,Rhett Lowder,Busch Stadium,2026-06-07T18:15:00Z,Scheduled
+822890,2026-06-07T18:35:00Z,140,114,Texas Rangers,Cleveland Guardians,594798,Jacob deGrom,676282,Joey Cantillo,Globe Life Field,2026-06-07T18:35:00Z,Scheduled
+824349,2026-06-07T19:10:00Z,115,158,Colorado Rockies,Milwaukee Brewers,607536,Kyle Freeland,675660,Shane Drohan,Coors Field,2026-06-07T19:10:00Z,Scheduled
+825074,2026-06-07T19:15:00Z,109,120,Arizona Diamondbacks,Washington Nationals,647336,Michael Soroka,676917,Cade Cavalli,Chase Field,2026-06-07T19:15:00Z,Scheduled
+823941,2026-06-07T20:10:00Z,119,108,Los Angeles Dodgers,Los Angeles Angels,686218,Emmet Sheehan,667755,José Soriano,UNIQLO Field at Dodger Stadium,2026-06-07T20:10:00Z,Scheduled
+823291,2026-06-07T20:10:00Z,135,121,San Diego Padres,New York Mets,681190,Randy Vásquez,623211,Huascar Brazobán,Petco Park,2026-06-07T20:10:00Z,Scheduled
+824670,2026-06-08T00:30:00Z,112,137,Chicago Cubs,San Francisco Giants,592791,Jameson Taillon,686790,Trevor McDonald,Wrigley Field,2026-06-08T00:30:00Z,Scheduled
