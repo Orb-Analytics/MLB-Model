@@ -1,0 +1,9 @@
+game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probable_pitcher_id,home_probable_pitcher_name,away_probable_pitcher_id,away_probable_pitcher_name,venue,game_time_utc,status
+824829,2026-06-08T22:35:00Z,110,136,Baltimore Orioles,Seattle Mariners,,,676106,Emerson Hancock,Oriole Park at Camden Yards,2026-06-08T22:35:00Z,Scheduled
+822972,2026-06-08T22:40:00Z,139,111,Tampa Bay Rays,Boston Red Sox,693855,Ian Seymour,813349,Connelly Early,Tropicana Field,2026-06-08T22:40:00Z,Scheduled
+824427,2026-06-08T22:40:00Z,114,147,Cleveland Guardians,New York Yankees,668909,Gavin Williams,701542,Will Warren,Progressive Field,2026-06-08T22:40:00Z,Scheduled
+822806,2026-06-08T23:07:00Z,141,143,Toronto Blue Jays,Philadelphia Phillies,571578,Patrick Corbin,650911,Cristopher Sánchez,Rogers Centre,2026-06-08T23:07:00Z,Scheduled
+824025,2026-06-09T01:38:00Z,108,117,Los Angeles Angels,Houston Astros,680570,Grayson Rodriguez,681293,Spencer Arrighetti,Angel Stadium,2026-06-09T01:38:00Z,Scheduled
+823289,2026-06-09T01:40:00Z,135,113,San Diego Padres,Cincinnati Reds,621111,Walker Buehler,671096,Andrew Abbott,Petco Park,2026-06-09T01:40:00Z,Scheduled
+823218,2026-06-09T01:45:00Z,137,120,San Francisco Giants,Washington Nationals,657277,Logan Webb,571945,Miles Mikolas,Oracle Park,2026-06-09T01:45:00Z,Scheduled
+824998,2026-06-09T02:05:00Z,133,158,Athletics,Milwaukee Brewers,605488,Jeffrey Springs,690986,Kyle Harrison,Las Vegas Ballpark,2026-06-09T02:05:00Z,Scheduled
