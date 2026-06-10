@@ -1,0 +1,16 @@
+game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probable_pitcher_id,home_probable_pitcher_name,away_probable_pitcher_id,away_probable_pitcher_name,venue,game_time_utc,status
+822970,2026-06-10T17:10:00Z,139,111,Tampa Bay Rays,Boston Red Sox,656876,Drew Rasmussen,687562,Jake Bennett,Tropicana Field,2026-06-10T17:10:00Z,Scheduled
+824428,2026-06-10T17:10:00Z,114,147,Cleveland Guardians,New York Yankees,800048,Parker Messick,607074,Carlos Rodón,Progressive Field,2026-06-10T17:10:00Z,Pre-Game
+823215,2026-06-10T19:45:00Z,137,120,San Francisco Giants,Washington Nationals,592662,Robbie Ray,656492,Foster Griffin,Oracle Park,2026-06-10T19:45:00Z,Scheduled
+823287,2026-06-10T20:10:00Z,135,113,San Diego Padres,Cincinnati Reds,650633,Michael King,663903,Brady Singer,Petco Park,2026-06-10T20:10:00Z,Scheduled
+824831,2026-06-10T22:35:00Z,110,136,Baltimore Orioles,Seattle Mariners,687064,Brandon Young,669923,George Kirby,Oriole Park at Camden Yards,2026-06-10T22:35:00Z,Scheduled
+823372,2026-06-10T22:40:00Z,134,119,Pittsburgh Pirates,Los Angeles Dodgers,683003,Jared Jones,660271,Shohei Ohtani,PNC Park,2026-06-10T22:40:00Z,Scheduled
+824266,2026-06-10T22:40:00Z,116,142,Detroit Tigers,Minnesota Twins,664285,Framber Valdez,,,Comerica Park,2026-06-10T22:40:00Z,Scheduled
+823856,2026-06-10T22:40:00Z,146,109,Miami Marlins,Arizona Diamondbacks,687473,Ryan Gusto,669194,Ryne Nelson,loanDepot park,2026-06-10T22:40:00Z,Scheduled
+822804,2026-06-10T23:07:00Z,141,143,Toronto Blue Jays,Philadelphia Phillies,453286,Max Scherzer,666200,Jesús Luzardo,Rogers Centre,2026-06-10T23:07:00Z,Scheduled
+823618,2026-06-10T23:10:00Z,121,138,New York Mets,St. Louis Cardinals,681810,Austin Warren,669467,Andre Pallante,Citi Field,2026-06-10T23:10:00Z,Scheduled
+824103,2026-06-10T23:40:00Z,118,140,Kansas City Royals,Texas Rangers,607625,Seth Lugo,669022,MacKenzie Gore,Kauffman Stadium,2026-06-10T23:40:00Z,Scheduled
+824590,2026-06-10T23:40:00Z,145,144,Chicago White Sox,Atlanta Braves,,,519242,Chris Sale,Rate Field,2026-06-10T23:40:00Z,Scheduled
+824348,2026-06-11T00:40:00Z,115,112,Colorado Rockies,Chicago Cubs,547179,Michael Lorenzen,684007,Shota Imanaga,Coors Field,2026-06-11T00:40:00Z,Scheduled
+824996,2026-06-11T01:05:00Z,133,158,Athletics,Milwaukee Brewers,678022,Jack Perkins,687075,Brandon Sproat,Las Vegas Ballpark,2026-06-11T01:05:00Z,Scheduled
+824022,2026-06-11T01:38:00Z,108,117,Los Angeles Angels,Houston Astros,672282,Reid Detmers,663567,Peter Lambert,Angel Stadium,2026-06-11T01:38:00Z,Scheduled
