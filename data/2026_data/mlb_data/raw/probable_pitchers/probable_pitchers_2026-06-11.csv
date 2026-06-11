@@ -1,0 +1,9 @@
+game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probable_pitcher_id,home_probable_pitcher_name,away_probable_pitcher_id,away_probable_pitcher_name,venue,game_time_utc,status
+823619,2026-06-11T17:10:00Z,121,138,New York Mets,St. Louis Cardinals,681035,Christian Scott,690928,Hunter Dobbins,Citi Field,2026-06-11T17:10:00Z,Pre-Game
+824265,2026-06-11T17:10:00Z,116,142,Detroit Tigers,Minnesota Twins,672456,Keider Montero,805673,Zebby Matthews,Comerica Park,2026-06-11T17:10:00Z,Pre-Game
+823855,2026-06-11T17:10:00Z,146,109,Miami Marlins,Arizona Diamondbacks,663969,Tyler Phillips,518876,Merrill Kelly,loanDepot park,2026-06-11T17:10:00Z,Pre-Game
+824101,2026-06-11T18:10:00Z,118,140,Kansas City Royals,Texas Rangers,608379,Michael Wacha,677958,Kumar Rocker,Kauffman Stadium,2026-06-11T18:10:00Z,Scheduled
+824346,2026-06-11T19:10:00Z,115,112,Colorado Rockies,Chicago Cubs,663372,Ryan Feltner,665795,Edward Cabrera,Coors Field,2026-06-11T19:10:00Z,Scheduled
+823371,2026-06-11T22:40:00Z,134,119,Pittsburgh Pirates,Los Angeles Dodgers,656605,Mitch Keller,680736,Justin Wrobleski,PNC Park,2026-06-11T22:40:00Z,Scheduled
+824827,2026-06-11T23:05:00Z,110,136,Baltimore Orioles,Seattle Mariners,680694,Kyle Bradish,693433,Bryan Woo,Oriole Park at Camden Yards,2026-06-11T23:05:00Z,Scheduled
+824589,2026-06-11T23:40:00Z,145,144,Chicago White Sox,Atlanta Braves,,,527048,Martín Pérez,Rate Field,2026-06-11T23:40:00Z,Scheduled
