@@ -1,0 +1,8 @@
+game_pk,date,home_bullpen_ip,home_bullpen_hits,home_bullpen_earned_runs,home_bullpen_walks,home_bullpen_strikeouts,home_bullpen_homeruns,home_bullpen_era,home_bullpen_whip,home_bullpen_k_per_9,home_bullpen_k_bb_ratio,home_bullpen_hr_per_9,home_bullpen_bb_per_9,away_bullpen_ip,away_bullpen_hits,away_bullpen_earned_runs,away_bullpen_walks,away_bullpen_strikeouts,away_bullpen_homeruns,away_bullpen_era,away_bullpen_whip,away_bullpen_k_per_9,away_bullpen_k_bb_ratio,away_bullpen_hr_per_9,away_bullpen_bb_per_9
+5058793,2026-06-11,4.0,1,0,1,8,0,0.0,0.5,18.0,8.0,0.0,2.25,2.0,1,0,1,3,0,0.0,1.0,13.5,3.0,0.0,4.5
+5058794,2026-06-11,2.6667,1,0,0,3,0,0.0,0.37,10.12,0.0,0.0,0.0,2.0,4,4,2,1,3,18.0,3.0,4.5,0.5,13.5,9.0
+5058795,2026-06-11,4.3333,0,0,1,3,0,0.0,0.23,6.23,3.0,0.0,2.08,3.6667,3,2,0,4,1,4.91,0.82,9.82,0.0,2.45,0.0
+5058796,2026-06-11,2.0,2,0,0,4,0,0.0,1.0,18.0,0.0,0.0,0.0,4.3333,1,0,1,4,0,0.0,0.46,8.31,4.0,0.0,2.08
+5058797,2026-06-11,4.6667,6,3,0,5,2,5.79,1.29,9.64,0.0,3.86,0.0,3.6667,7,1,0,6,1,2.45,1.91,14.73,0.0,2.45,0.0
+5058798,2026-06-11,5.0,3,2,4,4,0,3.6,1.4,7.2,1.0,0.0,7.2,4.3333,6,2,1,9,0,4.15,1.62,18.69,9.0,0.0,2.08
+5058799,2026-06-11,5.0,2,0,1,4,0,0.0,0.6,7.2,4.0,0.0,1.8,3.0,0,0,2,3,0,0.0,0.67,9.0,1.5,0.0,6.0
