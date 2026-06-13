@@ -1,0 +1,16 @@
+game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probable_pitcher_id,home_probable_pitcher_name,away_probable_pitcher_id,away_probable_pitcher_name,venue,game_time_utc,status
+823694,2026-06-13T18:10:00Z,142,138,Minnesota Twins,St. Louis Cardinals,687570,Connor Prielipp,669461,Matthew Liberatore,Target Field,2026-06-13T18:10:00Z,Scheduled
+822802,2026-06-13T19:07:00Z,141,147,Toronto Blue Jays,New York Yankees,592332,Kevin Gausman,693645,Cam Schlittler,Rogers Centre,2026-06-13T19:07:00Z,Scheduled
+824828,2026-06-13T20:05:00Z,110,135,Baltimore Orioles,San Diego Padres,694346,Trey Gibson,681190,Randy Vásquez,Oriole Park at Camden Yards,2026-06-13T20:05:00Z,Scheduled
+822725,2026-06-13T20:05:00Z,120,136,Washington Nationals,Seattle Mariners,676917,Cade Cavalli,622491,Luis Castillo,Nationals Park,2026-06-13T20:05:00Z,Scheduled
+823369,2026-06-13T20:05:00Z,134,146,Pittsburgh Pirates,Miami Marlins,696149,Bubba Chandler,669199,Lake Bachar,PNC Park,2026-06-13T20:05:00Z,Scheduled
+824508,2026-06-13T20:10:00Z,113,109,Cincinnati Reds,Arizona Diamondbacks,695076,Rhett Lowder,647336,Michael Soroka,Great American Ball Park,2026-06-13T20:10:00Z,Scheduled
+824426,2026-06-13T20:10:00Z,114,116,Cleveland Guardians,Detroit Tigers,676282,Joey Cantillo,669373,Tarik Skubal,Progressive Field,2026-06-13T20:10:00Z,Scheduled
+824749,2026-06-13T20:10:00Z,111,140,Boston Red Sox,Texas Rangers,624133,Ranger Suarez,594798,Jacob deGrom,Fenway Park,2026-06-13T20:10:00Z,Scheduled
+823616,2026-06-13T20:10:00Z,121,144,New York Mets,Atlanta Braves,,,527048,Martín Pérez,Citi Field,2026-06-13T20:10:00Z,Scheduled
+824587,2026-06-13T20:10:00Z,145,119,Chicago White Sox,Los Angeles Dodgers,680732,Sean Burke,808967,Yoshinobu Yamamoto,Rate Field,2026-06-13T20:10:00Z,Scheduled
+824100,2026-06-13T23:10:00Z,118,117,Kansas City Royals,Houston Astros,702070,Noah Cameron,681347,Mike Burrows,Kauffman Stadium,2026-06-13T23:10:00Z,Scheduled
+823776,2026-06-13T23:10:00Z,158,143,Milwaukee Brewers,Philadelphia Phillies,675660,Shane Drohan,605400,Aaron Nola,American Family Field,2026-06-13T23:10:00Z,Scheduled
+824995,2026-06-14T02:05:00Z,133,115,Athletics,Colorado Rockies,683155,Joey Estes,607536,Kyle Freeland,Las Vegas Ballpark,2026-06-14T02:05:00Z,Scheduled
+823213,2026-06-14T02:05:00Z,137,112,San Francisco Giants,Chicago Cubs,686790,Trevor McDonald,676962,Ben Brown,Oracle Park,2026-06-14T02:05:00Z,Scheduled
+824019,2026-06-14T02:07:00Z,108,139,Los Angeles Angels,Tampa Bay Rays,667755,José Soriano,643377,Griffin Jax,Angel Stadium,2026-06-14T02:07:00Z,Scheduled
