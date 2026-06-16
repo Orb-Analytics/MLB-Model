@@ -1,0 +1,16 @@
+game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probable_pitcher_id,home_probable_pitcher_name,away_probable_pitcher_id,away_probable_pitcher_name,venue,game_time_utc,status
+823451,2026-06-16T22:40:00Z,143,146,Philadelphia Phillies,Miami Marlins,666200,Jesús Luzardo,663969,Tyler Phillips,Citizens Bank Park,2026-06-16T22:40:00Z,Scheduled
+822723,2026-06-16T22:45:00Z,120,118,Washington Nationals,Kansas City Royals,656492,Foster Griffin,608379,Michael Wacha,Nationals Park,2026-06-16T22:45:00Z,Scheduled
+824750,2026-06-16T22:45:00Z,111,141,Boston Red Sox,Toronto Blue Jays,801139,Payton Tolle,656302,Dylan Cease,Fenway Park,2026-06-16T22:45:00Z,Scheduled
+823535,2026-06-16T23:05:00Z,147,145,New York Yankees,Chicago White Sox,543037,Gerrit Cole,663436,Davis Martin,Yankee Stadium,2026-06-16T23:05:00Z,Scheduled
+824504,2026-06-16T23:10:00Z,113,121,Cincinnati Reds,New York Mets,663903,Brady Singer,673540,Kodai Senga,Great American Ball Park,2026-06-16T23:10:00Z,Scheduled
+824912,2026-06-16T23:15:00Z,144,137,Atlanta Braves,San Francisco Giants,656550,Grant Holmes,605288,Adrian Houser,Truist Park,2026-06-16T23:15:00Z,Scheduled
+823775,2026-06-16T23:40:00Z,158,114,Milwaukee Brewers,Cleveland Guardians,688107,Robert Gasser,677944,Slade Cecconi,American Family Field,2026-06-16T23:40:00Z,Scheduled
+823045,2026-06-16T23:45:00Z,138,135,St. Louis Cardinals,San Diego Padres,669467,Andre Pallante,650633,Michael King,Busch Stadium,2026-06-16T23:45:00Z,Scheduled
+824667,2026-06-17T00:05:00Z,112,115,Chicago Cubs,Colorado Rockies,665795,Edward Cabrera,663372,Ryan Feltner,Wrigley Field,2026-06-17T00:05:00Z,Scheduled
+822888,2026-06-17T00:05:00Z,140,142,Texas Rangers,Minnesota Twins,677958,Kumar Rocker,805673,Zebby Matthews,Globe Life Field,2026-06-17T00:05:00Z,Scheduled
+824182,2026-06-17T00:10:00Z,117,116,Houston Astros,Detroit Tigers,686613,Hunter Brown,664285,Framber Valdez,Daikin Park,2026-06-17T00:10:00Z,Scheduled
+825070,2026-06-17T01:40:00Z,109,108,Arizona Diamondbacks,Los Angeles Angels,518876,Merrill Kelly,672282,Reid Detmers,Chase Field,2026-06-17T01:40:00Z,Scheduled
+824991,2026-06-17T01:40:00Z,133,134,Athletics,Pittsburgh Pirates,678022,Jack Perkins,656605,Mitch Keller,Sutter Health Park,2026-06-17T01:40:00Z,Scheduled
+823128,2026-06-17T01:40:00Z,136,110,Seattle Mariners,Baltimore Orioles,669302,Logan Gilbert,687064,Brandon Young,T-Mobile Park,2026-06-17T01:40:00Z,Scheduled
+823939,2026-06-17T02:10:00Z,119,139,Los Angeles Dodgers,Tampa Bay Rays,680736,Justin Wrobleski,656876,Drew Rasmussen,UNIQLO Field at Dodger Stadium,2026-06-17T02:10:00Z,Scheduled

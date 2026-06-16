@@ -2,9 +2,9 @@ game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probab
 823452,2026-06-15T22:40:00Z,143,146,Philadelphia Phillies,Miami Marlins,554430,Zack Wheeler,687473,Ryan Gusto,Citizens Bank Park,2026-06-15T22:40:00Z,Scheduled
 822724,2026-06-15T22:45:00Z,120,118,Washington Nationals,Kansas City Royals,674841,Andrew Alvarez,687765,Mitch Spence,Nationals Park,2026-06-15T22:45:00Z,Scheduled
 824505,2026-06-15T23:10:00Z,113,121,Cincinnati Reds,New York Mets,695505,Chase Burns,668964,Tobias Myers,Great American Ball Park,2026-06-15T23:10:00Z,Scheduled
-823046,2026-06-15T23:45:00Z,138,135,St. Louis Cardinals,San Diego Padres,669160,Dustin May,,,Busch Stadium,2026-06-15T23:45:00Z,Scheduled
+823046,2026-06-15T23:45:00Z,138,135,St. Louis Cardinals,San Diego Padres,669160,Dustin May,,Wandy Peralta,Busch Stadium,2026-06-15T23:45:00Z,Scheduled
 824666,2026-06-16T00:05:00Z,112,115,Chicago Cubs,Colorado Rockies,684007,Shota Imanaga,547179,Michael Lorenzen,Wrigley Field,2026-06-16T00:05:00Z,Scheduled
-822887,2026-06-16T00:05:00Z,140,142,Texas Rangers,Minnesota Twins,669022,MacKenzie Gore,,,Globe Life Field,2026-06-16T00:05:00Z,Scheduled
+822887,2026-06-16T00:05:00Z,140,142,Texas Rangers,Minnesota Twins,669022,MacKenzie Gore,,Mike Paredes,Globe Life Field,2026-06-16T00:05:00Z,Scheduled
 824181,2026-06-16T00:10:00Z,117,116,Houston Astros,Detroit Tigers,678906,Kai-Wei Teng,675512,Troy Melton,Daikin Park,2026-06-16T00:10:00Z,Scheduled
 825071,2026-06-16T01:40:00Z,109,108,Arizona Diamondbacks,Los Angeles Angels,669194,Ryne Nelson,700712,Walbert Ureña,Chase Field,2026-06-16T01:40:00Z,Scheduled
 824993,2026-06-16T01:40:00Z,133,134,Athletics,Pittsburgh Pirates,669372,J.T. Ginn,683003,Jared Jones,Sutter Health Park,2026-06-16T01:40:00Z,Scheduled
