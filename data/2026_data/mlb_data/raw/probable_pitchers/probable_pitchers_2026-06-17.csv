@@ -4,12 +4,12 @@ game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probab
 823450,2026-06-17T17:05:00Z,143,146,Philadelphia Phillies,Miami Marlins,691725,Andrew Painter,645261,Sandy Alcantara,Citizens Bank Park,2026-06-17T17:05:00Z,Pre-Game
 824912,2026-06-17T18:00:00Z,144,137,Atlanta Braves,San Francisco Giants,656550,Grant Holmes,605288,Adrian Houser,Truist Park,2026-06-17T18:00:00Z,Suspended
 824178,2026-06-17T18:10:00Z,117,116,Houston Astros,Detroit Tigers,663567,Peter Lambert,663554,Casey Mize,Daikin Park,2026-06-17T18:10:00Z,Scheduled
-823044,2026-06-17T18:15:00Z,138,135,St. Louis Cardinals,San Diego Padres,681517,Kyle Leahy,,,Busch Stadium,2026-06-17T18:15:00Z,Scheduled
+823044,2026-06-17T18:15:00Z,138,135,St. Louis Cardinals,San Diego Padres,681517,Kyle Leahy,,Bradgley Rodriguez,Busch Stadium,2026-06-17T18:15:00Z,Scheduled
 823940,2026-06-17T19:10:00Z,119,139,Los Angeles Dodgers,Tampa Bay Rays,660271,Shohei Ohtani,663556,Shane McClanahan,UNIQLO Field at Dodger Stadium,2026-06-17T19:10:00Z,Scheduled
 825072,2026-06-17T19:40:00Z,109,108,Arizona Diamondbacks,Los Angeles Angels,593958,Eduardo Rodriguez,691951,Sam Aldegheri,Chase Field,2026-06-17T19:40:00Z,Scheduled
 824746,2026-06-17T22:45:00Z,111,141,Boston Red Sox,Toronto Blue Jays,687562,Jake Bennett,453286,Max Scherzer,Fenway Park,2026-06-17T22:45:00Z,Scheduled
 823536,2026-06-17T23:05:00Z,147,145,New York Yankees,Chicago White Sox,607074,Carlos Rodón,641743,Anthony Kay,Yankee Stadium,2026-06-17T23:05:00Z,Scheduled
-824913,2026-06-17T23:15:00Z,144,137,Atlanta Braves,San Francisco Giants,702275,JR Ritchie,,,Truist Park,2026-06-17T23:15:00Z,Scheduled
+824913,2026-06-17T23:15:00Z,144,137,Atlanta Braves,San Francisco Giants,702275,JR Ritchie,,Carson Whisenhunt,Truist Park,2026-06-17T23:15:00Z,Scheduled
 823774,2026-06-17T23:40:00Z,158,114,Milwaukee Brewers,Cleveland Guardians,687075,Brandon Sproat,668909,Gavin Williams,American Family Field,2026-06-17T23:40:00Z,Scheduled
 824668,2026-06-18T00:05:00Z,112,115,Chicago Cubs,Colorado Rockies,665871,Javier Assad,807743,Sean Sullivan,Wrigley Field,2026-06-18T00:05:00Z,Scheduled
 824992,2026-06-18T01:40:00Z,133,134,Athletics,Pittsburgh Pirates,650644,Aaron Civale,677952,Braxton Ashcraft,Sutter Health Park,2026-06-18T01:40:00Z,Scheduled
