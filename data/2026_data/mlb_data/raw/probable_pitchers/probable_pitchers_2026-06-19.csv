@@ -1,0 +1,15 @@
+game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probable_pitcher_id,home_probable_pitcher_name,away_probable_pitcher_id,away_probable_pitcher_name,venue,game_time_utc,status
+824663,2026-06-19T18:20:00Z,112,141,Chicago Cubs,Toronto Blue Jays,676962,Ben Brown,592332,Kevin Gausman,Wrigley Field,2026-06-19T18:20:00Z,Scheduled
+824264,2026-06-19T22:40:00Z,116,145,Detroit Tigers,Chicago White Sox,669373,Tarik Skubal,607200,Erick Fedde,Comerica Park,2026-06-19T22:40:00Z,Scheduled
+823534,2026-06-19T23:05:00Z,147,113,New York Yankees,Cincinnati Reds,693645,Cam Schlittler,695076,Rhett Lowder,Yankee Stadium,2026-06-19T23:05:00Z,Scheduled
+822966,2026-06-19T23:10:00Z,139,120,Tampa Bay Rays,Washington Nationals,643377,Griffin Jax,676917,Cade Cavalli,Tropicana Field,2026-06-19T23:10:00Z,Scheduled
+823853,2026-06-19T23:10:00Z,146,137,Miami Marlins,San Francisco Giants,,,694738,Landen Roupp,loanDepot park,2026-06-19T23:10:00Z,Scheduled
+824910,2026-06-19T23:15:00Z,144,158,Atlanta Braves,Milwaukee Brewers,527048,Martín Pérez,694819,Jacob Misiorowski,Truist Park,2026-06-19T23:15:00Z,Scheduled
+822886,2026-06-20T00:05:00Z,140,135,Texas Rangers,San Diego Padres,594798,Jacob deGrom,681190,Randy Vásquez,Globe Life Field,2026-06-20T00:05:00Z,Scheduled
+824179,2026-06-20T00:10:00Z,117,114,Houston Astros,Cleveland Guardians,837227,Tatsuya Imai,676440,Tanner Bibee,Daikin Park,2026-06-20T00:10:00Z,Scheduled
+824097,2026-06-20T00:15:00Z,118,138,Kansas City Royals,St. Louis Cardinals,607625,Seth Lugo,700241,Michael McGreevy,Kauffman Stadium,2026-06-20T00:15:00Z,Scheduled
+824345,2026-06-20T00:40:00Z,115,134,Colorado Rockies,Pittsburgh Pirates,607536,Kyle Freeland,696149,Bubba Chandler,Coors Field,2026-06-20T00:40:00Z,Scheduled
+824990,2026-06-20T01:40:00Z,133,108,Athletics,Los Angeles Angels,605488,Jeffrey Springs,667755,José Soriano,Sutter Health Park,2026-06-20T01:40:00Z,Scheduled
+825069,2026-06-20T01:45:00Z,109,142,Arizona Diamondbacks,Minnesota Twins,647336,Michael Soroka,687570,Connor Prielipp,Chase Field,2026-06-20T01:45:00Z,Scheduled
+823936,2026-06-20T02:10:00Z,119,110,Los Angeles Dodgers,Baltimore Orioles,808963,Roki Sasaki,694346,Trey Gibson,UNIQLO Field at Dodger Stadium,2026-06-20T02:10:00Z,Scheduled
+823124,2026-06-20T02:10:00Z,136,111,Seattle Mariners,Boston Red Sox,682243,Bryce Miller,624133,Ranger Suarez,T-Mobile Park,2026-06-20T02:10:00Z,Scheduled
