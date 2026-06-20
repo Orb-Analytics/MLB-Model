@@ -1,0 +1,15 @@
+game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probable_pitcher_id,home_probable_pitcher_name,away_probable_pitcher_id,away_probable_pitcher_name,venue,game_time_utc,status
+824263,2026-06-20T17:10:00Z,116,145,Detroit Tigers,Chicago White Sox,675512,Troy Melton,,,Comerica Park,2026-06-20T17:10:00Z,Pre-Game
+823532,2026-06-20T17:35:00Z,147,113,New York Yankees,Cincinnati Reds,701542,Will Warren,671096,Andrew Abbott,Yankee Stadium,2026-06-20T17:35:00Z,Scheduled
+824665,2026-06-20T18:20:00Z,112,141,Chicago Cubs,Toronto Blue Jays,607067,Colin Rea,571578,Patrick Corbin,Wrigley Field,2026-06-20T18:20:00Z,Scheduled
+822885,2026-06-20T20:05:00Z,140,135,Texas Rangers,San Diego Padres,543135,Nathan Eovaldi,621111,Walker Buehler,Globe Life Field,2026-06-20T20:05:00Z,Scheduled
+822967,2026-06-20T20:10:00Z,139,120,Tampa Bay Rays,Washington Nationals,693855,Ian Seymour,676917,Cade Cavalli,Tropicana Field,2026-06-20T20:10:00Z,Scheduled
+823854,2026-06-20T20:10:00Z,146,137,Miami Marlins,San Francisco Giants,676974,Max Meyer,686790,Trevor McDonald,loanDepot park,2026-06-20T20:10:00Z,Scheduled
+824909,2026-06-20T20:10:00Z,144,158,Atlanta Braves,Milwaukee Brewers,519242,Chris Sale,690986,Kyle Harrison,Truist Park,2026-06-20T20:10:00Z,Scheduled
+824180,2026-06-20T23:15:00Z,117,114,Houston Astros,Cleveland Guardians,681293,Spencer Arrighetti,676282,Joey Cantillo,Daikin Park,2026-06-20T23:15:00Z,Scheduled
+823447,2026-06-20T23:15:00Z,143,121,Philadelphia Phillies,New York Mets,650911,Cristopher Sánchez,642547,Freddy Peralta,Citizens Bank Park,2026-06-20T23:15:00Z,Scheduled
+824342,2026-06-21T01:10:00Z,115,134,Colorado Rockies,Pittsburgh Pirates,608372,Tomoyuki Sugano,694973,Paul Skenes,Coors Field,2026-06-21T01:10:00Z,Scheduled
+824988,2026-06-21T02:05:00Z,133,108,Athletics,Los Angeles Angels,669372,J.T. Ginn,700712,Walbert Ureña,Sutter Health Park,2026-06-21T02:05:00Z,Scheduled
+823937,2026-06-21T02:10:00Z,119,110,Los Angeles Dodgers,Baltimore Orioles,808967,Yoshinobu Yamamoto,669432,Trevor Rogers,UNIQLO Field at Dodger Stadium,2026-06-21T02:10:00Z,Scheduled
+823126,2026-06-21T02:10:00Z,136,111,Seattle Mariners,Boston Red Sox,676106,Emerson Hancock,813349,Connelly Early,T-Mobile Park,2026-06-21T02:10:00Z,Scheduled
+825068,2026-06-21T02:10:00Z,109,142,Arizona Diamondbacks,Minnesota Twins,668678,Zac Gallen,671737,Taj Bradley,Chase Field,2026-06-21T02:10:00Z,Scheduled

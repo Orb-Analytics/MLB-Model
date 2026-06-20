@@ -3,7 +3,7 @@ game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probab
 824264,2026-06-19T22:40:00Z,116,145,Detroit Tigers,Chicago White Sox,669373,Tarik Skubal,607200,Erick Fedde,Comerica Park,2026-06-19T22:40:00Z,Scheduled
 823534,2026-06-19T23:05:00Z,147,113,New York Yankees,Cincinnati Reds,693645,Cam Schlittler,695076,Rhett Lowder,Yankee Stadium,2026-06-19T23:05:00Z,Scheduled
 822966,2026-06-19T23:10:00Z,139,120,Tampa Bay Rays,Washington Nationals,643377,Griffin Jax,676917,Cade Cavalli,Tropicana Field,2026-06-19T23:10:00Z,Scheduled
-823853,2026-06-19T23:10:00Z,146,137,Miami Marlins,San Francisco Giants,,,694738,Landen Roupp,loanDepot park,2026-06-19T23:10:00Z,Scheduled
+823853,2026-06-19T23:10:00Z,146,137,Miami Marlins,San Francisco Giants,,Lake Bachar,694738,Landen Roupp,loanDepot park,2026-06-19T23:10:00Z,Scheduled
 824910,2026-06-19T23:15:00Z,144,158,Atlanta Braves,Milwaukee Brewers,527048,Martín Pérez,694819,Jacob Misiorowski,Truist Park,2026-06-19T23:15:00Z,Scheduled
 822886,2026-06-20T00:05:00Z,140,135,Texas Rangers,San Diego Padres,594798,Jacob deGrom,681190,Randy Vásquez,Globe Life Field,2026-06-20T00:05:00Z,Scheduled
 824179,2026-06-20T00:10:00Z,117,114,Houston Astros,Cleveland Guardians,837227,Tatsuya Imai,676440,Tanner Bibee,Daikin Park,2026-06-20T00:10:00Z,Scheduled
