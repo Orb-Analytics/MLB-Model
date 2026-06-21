@@ -1,0 +1,16 @@
+game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probable_pitcher_id,home_probable_pitcher_name,away_probable_pitcher_id,away_probable_pitcher_name,venue,game_time_utc,status
+823531,2026-06-21T17:35:00Z,147,113,New York Yankees,Cincinnati Reds,695684,Elmer Rodríguez,695505,Chase Burns,Yankee Stadium,2026-06-21T17:35:00Z,Scheduled
+824908,2026-06-21T17:35:00Z,144,158,Atlanta Braves,Milwaukee Brewers,693821,Bryce Elder,688107,Robert Gasser,Truist Park,2026-06-21T17:35:00Z,Scheduled
+822968,2026-06-21T17:40:00Z,139,120,Tampa Bay Rays,Washington Nationals,607259,Nick Martinez,674841,Andrew Alvarez,Tropicana Field,2026-06-21T17:40:00Z,Scheduled
+824260,2026-06-21T17:40:00Z,116,145,Detroit Tigers,Chicago White Sox,672456,Keider Montero,663436,Davis Martin,Comerica Park,2026-06-21T17:40:00Z,Scheduled
+823852,2026-06-21T17:40:00Z,146,137,Miami Marlins,San Francisco Giants,687473,Ryan Gusto,657277,Logan Webb,loanDepot park,2026-06-21T17:40:00Z,Scheduled
+824177,2026-06-21T18:10:00Z,117,114,Houston Astros,Cleveland Guardians,678906,Kai-Wei Teng,677944,Slade Cecconi,Daikin Park,2026-06-21T18:10:00Z,Scheduled
+824095,2026-06-21T18:10:00Z,118,138,Kansas City Royals,St. Louis Cardinals,663568,Stephen Kolek,669160,Dustin May,Kauffman Stadium,2026-06-21T18:10:00Z,Scheduled
+824664,2026-06-21T18:20:00Z,112,141,Chicago Cubs,Toronto Blue Jays,684007,Shota Imanaga,656302,Dylan Cease,Wrigley Field,2026-06-21T18:20:00Z,Scheduled
+822883,2026-06-21T18:35:00Z,140,135,Texas Rangers,San Diego Padres,543135,Nathan Eovaldi,,,Globe Life Field,2026-06-21T18:35:00Z,Scheduled
+824343,2026-06-21T19:10:00Z,115,134,Colorado Rockies,Pittsburgh Pirates,547179,Michael Lorenzen,683003,Jared Jones,Coors Field,2026-06-21T19:10:00Z,Scheduled
+825067,2026-06-21T19:15:00Z,109,142,Arizona Diamondbacks,Minnesota Twins,703615,Jose Cabrera,702474,Mike Paredes,Chase Field,2026-06-21T19:15:00Z,Scheduled
+824987,2026-06-21T20:05:00Z,133,108,Athletics,Los Angeles Angels,678022,Jack Perkins,672282,Reid Detmers,Sutter Health Park,2026-06-21T20:05:00Z,Scheduled
+823934,2026-06-21T20:10:00Z,119,110,Los Angeles Dodgers,Baltimore Orioles,686218,Emmet Sheehan,687064,Brandon Young,UNIQLO Field at Dodger Stadium,2026-06-21T20:10:00Z,Scheduled
+823123,2026-06-21T20:10:00Z,136,111,Seattle Mariners,Boston Red Sox,669302,Logan Gilbert,801139,Payton Tolle,T-Mobile Park,2026-06-21T20:10:00Z,Scheduled
+823449,2026-06-21T23:20:00Z,143,121,Philadelphia Phillies,New York Mets,554430,Zack Wheeler,656849,David Peterson,Citizens Bank Park,2026-06-21T23:20:00Z,Scheduled

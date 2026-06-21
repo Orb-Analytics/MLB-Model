@@ -1,5 +1,5 @@
 game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probable_pitcher_id,home_probable_pitcher_name,away_probable_pitcher_id,away_probable_pitcher_name,venue,game_time_utc,status
-824263,2026-06-20T17:10:00Z,116,145,Detroit Tigers,Chicago White Sox,675512,Troy Melton,,,Comerica Park,2026-06-20T17:10:00Z,Pre-Game
+824263,2026-06-20T17:10:00Z,116,145,Detroit Tigers,Chicago White Sox,675512,Troy Melton,,Sean Newcomb,Comerica Park,2026-06-20T17:10:00Z,Pre-Game
 823532,2026-06-20T17:35:00Z,147,113,New York Yankees,Cincinnati Reds,701542,Will Warren,671096,Andrew Abbott,Yankee Stadium,2026-06-20T17:35:00Z,Scheduled
 824665,2026-06-20T18:20:00Z,112,141,Chicago Cubs,Toronto Blue Jays,607067,Colin Rea,571578,Patrick Corbin,Wrigley Field,2026-06-20T18:20:00Z,Scheduled
 822885,2026-06-20T20:05:00Z,140,135,Texas Rangers,San Diego Padres,543135,Nathan Eovaldi,621111,Walker Buehler,Globe Life Field,2026-06-20T20:05:00Z,Scheduled
