@@ -1,0 +1,228 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="https://fonts.googleapis.com/css2?family=League+Gothic&display=swap" rel="stylesheet">
+        <style>
+            body { font-family: 'League Gothic', Arial, sans-serif; background-color: #2a2a2a; padding: 10px; }
+            .container { max-width: 800px; margin: 0 auto; background-color: #ffffff; padding: 20px; border-radius: 10px; }
+            .header { text-align: center; border-bottom: 3px solid #9a29e9; padding-bottom: 20px; margin-bottom: 20px; }
+            .record { font-size: 20px; font-weight: bold; color: #000000; text-align: center; margin: 20px 0; line-height: 1.6; }
+            .section { margin: 20px 0; }
+            .section-title { font-size: 24px; font-weight: bold; color: #000000; padding-bottom: 10px; margin-bottom: 15px; text-align: center; }
+            .pick { background-color: #e5e5e5; padding: 25px; margin: 15px 0; border-radius: 8px; border-left: 4px solid #9a29e9; }
+            .pick-content { display: table; width: 100%; }
+            .pick-left { display: table-cell; vertical-align: middle; width: 55%; white-space: nowrap; }
+            .pick-right { display: table-cell; vertical-align: middle; width: 45%; text-align: left; border-left: 2px solid #999; padding-left: 15px; }
+            .pick-logo { width: 70px; height: 70px; vertical-align: middle; margin-right: 15px; }
+            .pick-team { font-size: 40px; font-weight: bold; display: inline-block; vertical-align: middle; white-space: nowrap; }
+            .pick-matchup { font-size: 16px; color: #666; margin-top: 5px; font-family: Arial, sans-serif; }
+            .pick-stat { color: #222; font-size: 18px; font-family: Arial, sans-serif; margin-bottom: 5px; font-weight: 500; }
+            .result-win { background-color: #e8f5e9; border-left-color: #4caf50; }
+            .result-loss { background-color: #ffebee; border-left-color: #f44336; }
+            .pick-emoji { font-size: 48px; display: inline-block; vertical-align: middle; margin-right: 15px; }
+            .footer { margin-top: 30px; padding-top: 20px; border-top: 2px solid #ddd; font-size: 12px; color: #777; font-family: Arial, sans-serif; }
+            .ad-section { text-align: center; margin: 20px 0; padding: 15px; background-color: #ffffff; border-radius: 8px; font-family: Arial, sans-serif; }
+            .ad-image { max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto; }
+            .ad-image-spacing { margin-bottom: 15px; }
+            .ad-text { font-size: 14px; color: #000000; line-height: 1.6; margin: 15px auto; max-width: 600px; padding: 0 10px; }
+            @media only screen and (max-width: 600px) {
+                .pick-team { font-size: 24px; }
+                .pick-logo { width: 50px; height: 50px; }
+                .pick-stat { font-size: 15px; }
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <div class="header">
+                <h1>⚾ MLB PREDICTIONS - 2026-06-22</h1>
+                <div style="font-size: 20px; color: #000000; font-weight: bold; margin-top: 10px;">Presented by: Orb Analytics Ltd.</div>
+                <div style="margin-top: 10px;">
+                    <img src="cid:orb_logo" alt="Orb Analytics" style="max-width: 200px; height: auto; display: block; margin: 0 auto;" />
+                </div>
+                
+                <!-- Follow us text -->
+                <div style="text-align: center; margin-top: 20px; font-size: 20px; font-weight: bold; color: #000000;">
+                    Follow us on social media!
+                </div>
+                
+                <!-- Social Media Icons -->
+                <table role="presentation" cellpadding="0" cellspacing="0" align="center" style="margin: 15px auto 0; background-color: #f0f0f0; border-radius: 8px; padding: 15px;">
+                    <tr>
+                        <td valign="top" align="center" style="padding: 0 10px;">
+                            <a target="_blank" href="https://orbanalytics.substack.com/">
+                                <img height="32" src="cid:substack_logo" alt="Substack" width="32" style="display:block;border:0;" />
+                            </a>
+                        </td>
+                        <td align="center" valign="top" style="padding: 0 10px;">
+                            <a href="https://www.tiktok.com/@orb.analytics" target="_blank">
+                                <img width="32" height="32" src="cid:tiktok_logo" alt="TikTok" style="display:block;border:0;" />
+                            </a>
+                        </td>
+                        <td align="center" valign="top" style="padding: 0 10px;">
+                            <a target="_blank" href="https://www.instagram.com/orb.analytics/">
+                                <img width="32" height="32" src="cid:instagram_logo" alt="Instagram" style="display:block;border:0;" />
+                            </a>
+                        </td>
+                        <td align="center" valign="top" style="padding: 0 10px;">
+                            <a target="_blank" href="https://www.youtube.com/@OrbAnalyticsLimited">
+                                <img width="32" height="32" src="cid:youtube_logo" alt="YouTube" style="display:block;border:0;" />
+                            </a>
+                        </td>
+                        <td align="center" valign="top" style="padding: 0 10px;">
+                            <a href="https://x.com/OrbPicks" target="_blank">
+                                <img width="32" height="32" src="cid:x_logo" alt="X" style="display:block;border:0;" />
+                            </a>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+    
+        <div class="section">
+            <div class="section-title">🎯 TODAY'S PICKS</div>
+    
+                <div class="pick">
+                    <div class="pick-content">
+                        <div class="pick-left">
+                            <img src="https://a.espncdn.com/i/teamlogos/mlb/500/laa.png" class="pick-logo">
+                            <div style="display: inline-block; vertical-align: middle;">
+                                <div class="pick-team">LAA</div>
+                                <div class="pick-matchup">vs BAL (Underdog)</div>
+                            </div>
+                        </div>
+                        <div class="pick-right">
+                            <div class="pick-stat">Odds: <strong>+150</strong></div>
+                            <div class="pick-stat">Win Prob: <strong>43.8%</strong></div>
+                            <div class="pick-stat">Edge: <strong>380.1%</strong></div>
+                        </div>
+                    </div>
+                </div>
+            
+                <div class="pick">
+                    <div class="pick-content">
+                        <div class="pick-left">
+                            <img src="https://a.espncdn.com/i/teamlogos/mlb/500/min.png" class="pick-logo">
+                            <div style="display: inline-block; vertical-align: middle;">
+                                <div class="pick-team">MIN</div>
+                                <div class="pick-matchup">vs LAD (Underdog)</div>
+                            </div>
+                        </div>
+                        <div class="pick-right">
+                            <div class="pick-stat">Odds: <strong>+135</strong></div>
+                            <div class="pick-stat">Win Prob: <strong>45.2%</strong></div>
+                            <div class="pick-stat">Edge: <strong>259.9%</strong></div>
+                        </div>
+                    </div>
+                </div>
+            
+                <div class="pick">
+                    <div class="pick-content">
+                        <div class="pick-left">
+                            <img src="https://a.espncdn.com/i/teamlogos/mlb/500/sd.png" class="pick-logo">
+                            <div style="display: inline-block; vertical-align: middle;">
+                                <div class="pick-team">SD</div>
+                                <div class="pick-matchup">vs ATL (Favorite)</div>
+                            </div>
+                        </div>
+                        <div class="pick-right">
+                            <div class="pick-stat">Odds: <strong>-102</strong></div>
+                            <div class="pick-stat">Win Prob: <strong>51.7%</strong></div>
+                            <div class="pick-stat">Edge: <strong>122.3%</strong></div>
+                        </div>
+                    </div>
+                </div>
+            
+                <div class="pick">
+                    <div class="pick-content">
+                        <div class="pick-left">
+                            <img src="https://a.espncdn.com/i/teamlogos/mlb/500/wsh.png" class="pick-logo">
+                            <div style="display: inline-block; vertical-align: middle;">
+                                <div class="pick-team">WSH</div>
+                                <div class="pick-matchup">vs PHI (Favorite)</div>
+                            </div>
+                        </div>
+                        <div class="pick-right">
+                            <div class="pick-stat">Odds: <strong>-113</strong></div>
+                            <div class="pick-stat">Win Prob: <strong>54.2%</strong></div>
+                            <div class="pick-stat">Edge: <strong>116.1%</strong></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        <div class="ad-section">
+            <a href="https://apps.apple.com/us/app/novig/id6443958997" target="_blank">
+                <img src="cid:novig_ad" class="ad-image ad-image-spacing" alt="Novig - Download Now">
+            </a>
+            <p class="ad-text">
+                🚀 Sign up today & use code <strong>'ORB'</strong> for $50 in bonuses when you spend $5<br><br>
+                🔥 Play Smarter with Novig – America's #1 Sports Prediction Market 🔥<br><br>
+                ✅ Better Odds – Play against real users, with no house cut (VIG)
+            </p>
+        </div>
+    
+        <div class="section">
+            <div class="section-title">📊 SEASON PERFORMANCE</div>
+            <div style="background-color: #f5f5f5; padding: 25px; margin: 15px 0; border-radius: 8px; font-family: Arial, sans-serif;">
+                <div style="text-align: center; margin-bottom: 20px;">
+                    <div style="font-size: 28px; font-weight: bold; color: #000;">
+                        0-0 (0.0%)
+                    </div>
+                    <div style="font-size: 20px; color: #666; margin-top: 5px;">
+                        Units: +0.00 | ROI: +0.0%
+                    </div>
+                </div>
+                
+                <table style="width: 100%; border-collapse: collapse; margin-top: 20px;">
+                    <tr style="border-bottom: 2px solid #ddd;">
+                        <th style="text-align: left; padding: 12px; font-size: 16px; color: #000;">Split</th>
+                        <th style="text-align: center; padding: 12px; font-size: 16px; color: #000;">Record</th>
+                        <th style="text-align: center; padding: 12px; font-size: 16px; color: #000;">Win %</th>
+                        <th style="text-align: center; padding: 12px; font-size: 16px; color: #000;">Units</th>
+                    </tr>
+                    <tr style="background-color: #fff;">
+                        <td style="padding: 12px; font-weight: bold;">Favorites</td>
+                        <td style="text-align: center; padding: 12px;">0-0</td>
+                        <td style="text-align: center; padding: 12px;">0.0%</td>
+                        <td style="text-align: center; padding: 12px; color: #4caf50;">+0.00</td>
+                    </tr>
+                    <tr style="background-color: #f9f9f9;">
+                        <td style="padding: 12px; font-weight: bold;">Underdogs</td>
+                        <td style="text-align: center; padding: 12px;">0-0</td>
+                        <td style="text-align: center; padding: 12px;">0.0%</td>
+                        <td style="text-align: center; padding: 12px; color: #4caf50;">+0.00</td>
+                    </tr>
+                    <tr style="background-color: #fff;">
+                        <td style="padding: 12px; font-weight: bold;">Home Picks</td>
+                        <td style="text-align: center; padding: 12px;">0-0</td>
+                        <td style="text-align: center; padding: 12px;">0.0%</td>
+                        <td style="text-align: center; padding: 12px; color: #4caf50;">+0.00</td>
+                    </tr>
+                    <tr style="background-color: #f9f9f9;">
+                        <td style="padding: 12px; font-weight: bold;">Away Picks</td>
+                        <td style="text-align: center; padding: 12px;">0-0</td>
+                        <td style="text-align: center; padding: 12px;">0.0%</td>
+                        <td style="text-align: center; padding: 12px; color: #4caf50;">+0.00</td>
+                    </tr>
+                </table>
+                
+                <div style="text-align: center; margin-top: 20px; font-size: 14px; color: #666;">
+                    Strategy: 1.5% Dog / 0.5% Fav (REGRESSED) | Model: 65% Market + 35% XGBoost
+                </div>
+            </div>
+        </div>
+    
+            <div class="footer">
+                <div class="section-title">DISCLAIMER:</div>
+                <p>The information provided on this website is for informational purposes only. It is not intended to be gambling or financial advice, and should not be relied upon as such. We are not responsible for any actions or decisions taken by readers based on the information provided on this website.</p>
+                
+                <p>The picks and predictions provided on this website are based on our own research and analysis, and are intended to be used for entertainment and informational purposes only. We do not guarantee the accuracy or completeness of the information provided, and we are not responsible for any losses or damages incurred as a result of using this information for gambling or other purposes.</p>
+                
+                <p>By accessing and using this website, you acknowledge and agree to the terms of this disclaimer, and you assume all risks and liabilities associated with your use of the information provided on this website.</p>
+            </div>
+        </div>
+    </body>
+    </html>
+    

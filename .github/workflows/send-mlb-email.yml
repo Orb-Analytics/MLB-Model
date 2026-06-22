@@ -1,11 +1,12 @@
 name: Send MLB Predictions Email
 
 on:
-  # Run daily at 9 AM EST (2 PM UTC)
-  schedule:
-    - cron: '0 14 * * *'
+  # Trigger after predictions workflow completes
+  workflow_run:
+    workflows: ["MLB XGB Predictions"]
+    types: [completed]
   
-  # Allow manual trigger
+  # Allow manual trigger for testing
   workflow_dispatch:
     inputs:
       test_mode:
@@ -17,6 +18,7 @@ on:
 jobs:
   send-email:
     runs-on: ubuntu-latest
+    if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
 
     steps:
     - name: Checkout repository
@@ -37,12 +39,15 @@ jobs:
         GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
         GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
       run: |
-        if [ "${{ github.event.inputs.test_mode }}" = "true" ] || [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
-          echo "Running in test mode..."
+        if [ "${{ github.event.inputs.test_mode }}" = "true" ]; then
+          echo "🧪 Running in TEST mode (manual trigger)..."
           python modeling/email_mlb_predictions.py --test-mode
-        else
-          echo "Running in production mode..."
+        elif [ "${{ github.event_name }}" = "workflow_run" ]; then
+          echo "📧 Running in PRODUCTION mode (automatic trigger)..."
           python modeling/email_mlb_predictions.py
+        else
+          echo "🧪 Running in TEST mode (default for manual trigger)..."
+          python modeling/email_mlb_predictions.py --test-mode
         fi
 
     - name: Commit updated records
