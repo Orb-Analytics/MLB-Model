@@ -184,7 +184,15 @@ def apply_strategy_and_get_picks(predictions_df, underdog_threshold=1.5, favorit
                 'away_team': row['away_team'],
                 'home_odds': row['home_odds'],
                 'away_odds': row['away_odds'],
-                'date': row['date']
+                'date': row['date'],
+                # Detailed tracking fields
+                'market_home_prob': row['market_home_prob'],
+                'market_away_prob': row['market_away_prob'],
+                'xgb_home_prob': row['xgb_home_prob'],
+                'xgb_away_prob': 1 - row['xgb_home_prob'],
+                'regressed_home_prob': row['regressed_home_prob'],
+                'regressed_away_prob': row['regressed_away_prob'],
+                'home_is_favorite': 1 if home_is_fav else 0
             })
         
         # Check if we pick away
@@ -201,7 +209,15 @@ def apply_strategy_and_get_picks(predictions_df, underdog_threshold=1.5, favorit
                 'away_team': row['away_team'],
                 'home_odds': row['home_odds'],
                 'away_odds': row['away_odds'],
-                'date': row['date']
+                'date': row['date'],
+                # Detailed tracking fields
+                'market_home_prob': row['market_home_prob'],
+                'market_away_prob': row['market_away_prob'],
+                'xgb_home_prob': row['xgb_home_prob'],
+                'xgb_away_prob': 1 - row['xgb_home_prob'],
+                'regressed_home_prob': row['regressed_home_prob'],
+                'regressed_away_prob': row['regressed_away_prob'],
+                'home_is_favorite': 1 if home_is_fav else 0
             })
     
     return picks
@@ -374,6 +390,87 @@ def save_todays_picks(picks, picks_file=None):
     picks_df = pd.DataFrame(picks)
     picks_df.to_csv(picks_file, index=False)
     print(f"💾 Today's picks saved: {picks_file}")
+
+
+def save_detailed_picks_tracking(picks, graded_picks=None, tracking_file=None):
+    """Save detailed picks tracking with all model data and results."""
+    if tracking_file is None:
+        tracking_file = REPO_ROOT / 'data' / 'mlb_detailed_picks_tracking.csv'
+    
+    # Prepare detailed data
+    detailed_records = []
+    
+    # Add graded picks from yesterday (if any)
+    if graded_picks:
+        for pick in graded_picks:
+            detailed_records.append({
+                'date': pick['date'],
+                'home_team': pick['home_team'],
+                'away_team': pick['away_team'],
+                'home_odds': pick['home_odds'],
+                'away_odds': pick['away_odds'],
+                'home_is_favorite': pick.get('home_is_favorite', 1 if pick['home_odds'] < pick['away_odds'] else 0),
+                'pick_made': pick['pick_team'],
+                'pick_is_home': 1 if pick['is_home'] else 0,
+                'pick_is_favorite': 1 if pick['is_favorite'] else 0,
+                'pick_odds': pick['pick_odds'],
+                'edge': pick['edge'],
+                'market_home_prob': pick.get('market_home_prob', odds_to_prob(pick['home_odds'])),
+                'market_away_prob': pick.get('market_away_prob', odds_to_prob(pick['away_odds'])),
+                'xgb_home_prob': pick.get('xgb_home_prob', None),
+                'xgb_away_prob': pick.get('xgb_away_prob', None),
+                'regressed_home_prob': pick.get('regressed_home_prob', None),
+                'regressed_away_prob': pick.get('regressed_away_prob', None),
+                'pick_correct': 1 if pick['won'] else 0,
+                'units': pick['units'],
+                'home_score': pick.get('home_score', None),
+                'away_score': pick.get('away_score', None)
+            })
+    
+    # Add today's picks (not yet graded)
+    if picks:
+        for pick in picks:
+            detailed_records.append({
+                'date': pick['date'],
+                'home_team': pick['home_team'],
+                'away_team': pick['away_team'],
+                'home_odds': pick['home_odds'],
+                'away_odds': pick['away_odds'],
+                'home_is_favorite': pick['home_is_favorite'],
+                'pick_made': pick['pick_team'],
+                'pick_is_home': 1 if pick['is_home'] else 0,
+                'pick_is_favorite': 1 if pick['is_favorite'] else 0,
+                'pick_odds': pick['pick_odds'],
+                'edge': pick['edge'],
+                'market_home_prob': pick['market_home_prob'],
+                'market_away_prob': pick['market_away_prob'],
+                'xgb_home_prob': pick['xgb_home_prob'],
+                'xgb_away_prob': pick['xgb_away_prob'],
+                'regressed_home_prob': pick['regressed_home_prob'],
+                'regressed_away_prob': pick['regressed_away_prob'],
+                'pick_correct': None,  # Not graded yet
+                'units': None,  # Not graded yet
+                'home_score': None,
+                'away_score': None
+            })
+    
+    if not detailed_records:
+        return
+    
+    new_df = pd.DataFrame(detailed_records)
+    
+    # If file exists, append; otherwise create new
+    if tracking_file.exists():
+        existing_df = pd.read_csv(tracking_file)
+        combined_df = pd.concat([existing_df, new_df], ignore_index=True)
+        # Remove duplicates (same date, same teams)
+        combined_df = combined_df.drop_duplicates(subset=['date', 'home_team', 'away_team', 'pick_made'], keep='last')
+        combined_df.to_csv(tracking_file, index=False)
+        print(f"💾 Updated detailed tracking: {tracking_file} ({len(new_df)} new records)")
+    else:
+        new_df.to_csv(tracking_file, index=False)
+        print(f"💾 Created detailed tracking: {tracking_file} ({len(new_df)} records)")
+
 
 
 def load_yesterdays_picks(picks_file=None):
@@ -683,7 +780,7 @@ def send_email_html(subject, html_body, test_mode=False):
     logo_files = {
         'orb_logo': 'Orb_logo.png',
         'novig_ad': 'novig-5for50-ORB.png',
-        'substack_logo': 'substack.png',
+        'substack_logo': 'substack.svg',
         'tiktok_logo': 'tiktok.png',
         'instagram_logo': 'instagram.png',
         'youtube_logo': 'youtube.png',
@@ -777,6 +874,9 @@ def main():
     if todays_predictions.empty:
         print("   No predictions available for today")
         picks = []
+        # Still save graded picks if we have them
+        if graded_picks:
+            save_detailed_picks_tracking([], graded_picks)
     else:
         picks = apply_strategy_and_get_picks(todays_predictions)
         print(f"   Games: {len(todays_predictions)}")
@@ -791,6 +891,9 @@ def main():
         
         # Save today's picks for tomorrow's grading
         save_todays_picks(picks)
+        
+        # Save detailed picks tracking with full model data
+        save_detailed_picks_tracking(picks, graded_picks)
     print()
     
     # Format email
