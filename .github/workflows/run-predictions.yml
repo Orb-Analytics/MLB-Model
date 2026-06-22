@@ -52,18 +52,10 @@ jobs:
           python modeling/mlb_xgb_ml/mlb_xgb_ml.py
         fi
 
-    - name: Apply 1.5% Dog / 0.5% Fav strategy and save picks
-      run: |
-        if [ -n "${{ inputs.target_date }}" ]; then
-          python modeling/mlb_xgb_ml/apply_email_strategy.py "${{ inputs.target_date }}"
-        else
-          python modeling/mlb_xgb_ml/apply_email_strategy.py
-        fi
-
-    - name: Commit predictions and picks
+    - name: Commit predictions
       run: |
         git config user.name "github-actions[bot]"
         git config user.email "github-actions[bot]@users.noreply.github.com"
-        git add modeling/mlb_xgb_ml/predictions/ data/mlb_todays_picks.csv
-        git diff --staged --quiet || git commit -m "Add XGB predictions and email picks for $(date -u +%Y-%m-%d)"
+        git add modeling/mlb_xgb_ml/predictions/
+        git diff --staged --quiet || git commit -m "Add XGB predictions for $(date -u +%Y-%m-%d)"
         git push
