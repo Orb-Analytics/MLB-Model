@@ -1,0 +1,14 @@
+game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probable_pitcher_id,home_probable_pitcher_name,away_probable_pitcher_id,away_probable_pitcher_name,venue,game_time_utc,status
+824261,2026-06-22T22:10:00Z,116,147,Detroit Tigers,New York Yankees,664285,Framber Valdez,543037,Gerrit Cole,Comerica Park,2026-06-22T22:10:00Z,Scheduled
+822964,2026-06-22T22:40:00Z,139,118,Tampa Bay Rays,Kansas City Royals,656876,Drew Rasmussen,608379,Michael Wacha,Tropicana Field,2026-06-22T22:40:00Z,Scheduled
+823851,2026-06-22T22:40:00Z,146,140,Miami Marlins,Texas Rangers,663969,Tyler Phillips,641302,Tyler Alexander,loanDepot park,2026-06-22T22:40:00Z,Scheduled
+822720,2026-06-22T22:45:00Z,120,143,Washington Nationals,Philadelphia Phillies,656492,Foster Griffin,,,Nationals Park,2026-06-22T22:45:00Z,Scheduled
+822800,2026-06-22T23:07:00Z,141,117,Toronto Blue Jays,Houston Astros,656302,Dylan Cease,686613,Hunter Brown,Rogers Centre,2026-06-22T23:07:00Z,Scheduled
+823613,2026-06-22T23:10:00Z,121,112,New York Mets,Chicago Cubs,673540,Kodai Senga,684007,Shota Imanaga,Citi Field,2026-06-22T23:10:00Z,Scheduled
+824502,2026-06-22T23:10:00Z,113,158,Cincinnati Reds,Milwaukee Brewers,663903,Brady Singer,,,Great American Ball Park,2026-06-22T23:10:00Z,Scheduled
+823692,2026-06-22T23:40:00Z,142,119,Minnesota Twins,Los Angeles Dodgers,805673,Zebby Matthews,641778,Eric Lauer,Target Field,2026-06-22T23:40:00Z,Scheduled
+824585,2026-06-22T23:40:00Z,145,114,Chicago White Sox,Cleveland Guardians,641743,Anthony Kay,668909,Gavin Williams,Rate Field,2026-06-22T23:40:00Z,Scheduled
+823040,2026-06-22T23:45:00Z,138,109,St. Louis Cardinals,Arizona Diamondbacks,669467,Andre Pallante,518876,Merrill Kelly,Busch Stadium,2026-06-22T23:45:00Z,Scheduled
+824344,2026-06-23T00:40:00Z,115,111,Colorado Rockies,Boston Red Sox,663372,Ryan Feltner,687562,Jake Bennett,Coors Field,2026-06-23T00:40:00Z,Scheduled
+824016,2026-06-23T01:38:00Z,108,110,Los Angeles Angels,Baltimore Orioles,691951,Sam Aldegheri,680694,Kyle Bradish,Angel Stadium,2026-06-23T01:38:00Z,Scheduled
+823288,2026-06-23T02:10:00Z,135,144,San Diego Padres,Atlanta Braves,650633,Michael King,656550,Grant Holmes,Petco Park,2026-06-23T02:10:00Z,Scheduled
