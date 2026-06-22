@@ -39,14 +39,14 @@ jobs:
         GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
         GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
       run: |
-        if [ "${{ github.event.inputs.test_mode }}" = "true" ]; then
-          echo "🧪 Running in TEST mode (manual trigger)..."
-          python modeling/email_mlb_predictions.py --test-mode
+        if [ "${{ github.event.inputs.test_mode }}" = "false" ]; then
+          echo "📧 Running in PRODUCTION mode (manual trigger, test_mode unchecked)..."
+          python modeling/email_mlb_predictions.py
         elif [ "${{ github.event_name }}" = "workflow_run" ]; then
           echo "📧 Running in PRODUCTION mode (automatic trigger)..."
           python modeling/email_mlb_predictions.py
         else
-          echo "🧪 Running in TEST mode (default for manual trigger)..."
+          echo "🧪 Running in TEST mode (manual trigger, test_mode checked or default)..."
           python modeling/email_mlb_predictions.py --test-mode
         fi
 

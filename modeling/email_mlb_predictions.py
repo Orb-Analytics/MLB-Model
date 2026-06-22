@@ -780,7 +780,7 @@ def send_email_html(subject, html_body, test_mode=False):
     logo_files = {
         'orb_logo': 'Orb_logo.png',
         'novig_ad': 'novig-5for50-ORB.png',
-        'substack_logo': 'substack.svg',
+        'substack_logo': 'substack.png',
         'tiktok_logo': 'tiktok.png',
         'instagram_logo': 'instagram.png',
         'youtube_logo': 'youtube.png',
