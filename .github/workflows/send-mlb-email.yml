@@ -1,0 +1,55 @@
+name: Send MLB Predictions Email
+
+on:
+  # Run daily at 9 AM EST (2 PM UTC)
+  schedule:
+    - cron: '0 14 * * *'
+  
+  # Allow manual trigger
+  workflow_dispatch:
+    inputs:
+      test_mode:
+        description: 'Send in test mode (only to Gmail address)'
+        required: false
+        type: boolean
+        default: true
+
+jobs:
+  send-email:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.12'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install pandas numpy
+
+    - name: Send MLB predictions email
+      env:
+        GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
+        GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+      run: |
+        if [ "${{ github.event.inputs.test_mode }}" = "true" ] || [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+          echo "Running in test mode..."
+          python modeling/email_mlb_predictions.py --test-mode
+        else
+          echo "Running in production mode..."
+          python modeling/email_mlb_predictions.py
+        fi
+
+    - name: Commit updated records
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "github-actions[bot]@users.noreply.github.com"
+        git add data/mlb_todays_picks.csv data/mlb_season_record.csv
+        git diff --staged --quiet || git commit -m "Update MLB email records for $(date -u +%Y-%m-%d)"
+        git push
+      continue-on-error: true
