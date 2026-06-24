@@ -364,11 +364,8 @@ def update_season_record(graded_picks, record_file=None):
     # Load existing record if it exists
     if record_file.exists():
         existing_df = pd.read_csv(record_file)
-        # Remove any duplicates for the same date/game
-        existing_df = existing_df[
-            ~((existing_df['date'] == graded_picks[0]['date']) &
-              (existing_df['home_team'] == graded_picks[0]['home_team']))
-        ]
+        # Remove any existing picks from the same date to avoid duplicates
+        existing_df = existing_df[existing_df['date'] != graded_picks[0]['date']]
         # Append new picks
         updated_df = pd.concat([existing_df, new_picks_df], ignore_index=True)
     else:
