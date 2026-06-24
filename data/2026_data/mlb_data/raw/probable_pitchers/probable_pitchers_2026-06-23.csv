@@ -12,5 +12,5 @@ game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probab
 823043,2026-06-23T23:45:00Z,138,109,St. Louis Cardinals,Arizona Diamondbacks,681517,Kyle Leahy,593958,Eduardo Rodriguez,Busch Stadium,2026-06-23T23:45:00Z,Scheduled
 824340,2026-06-24T00:40:00Z,115,111,Colorado Rockies,Boston Red Sox,807743,Sean Sullivan,543243,Sonny Gray,Coors Field,2026-06-24T00:40:00Z,Scheduled
 824017,2026-06-24T01:38:00Z,108,110,Los Angeles Angels,Baltimore Orioles,696270,Ryan Johnson,669358,Shane Baz,Angel Stadium,2026-06-24T01:38:00Z,Scheduled
-823286,2026-06-24T01:40:00Z,135,144,San Diego Padres,Atlanta Braves,,,702275,JR Ritchie,Petco Park,2026-06-24T01:40:00Z,Scheduled
+823286,2026-06-24T01:40:00Z,135,144,San Diego Padres,Atlanta Braves,,Wandy Peralta,702275,JR Ritchie,Petco Park,2026-06-24T01:40:00Z,Scheduled
 823210,2026-06-24T01:45:00Z,137,133,San Francisco Giants,Athletics,592662,Robbie Ray,650644,Aaron Civale,Oracle Park,2026-06-24T01:45:00Z,Scheduled

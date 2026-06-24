@@ -1,0 +1,17 @@
+game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probable_pitcher_id,home_probable_pitcher_name,away_probable_pitcher_id,away_probable_pitcher_name,venue,game_time_utc,status
+823850,2026-06-24T16:10:00Z,146,140,Miami Marlins,Texas Rangers,691587,Eury Pérez,594798,Jacob deGrom,loanDepot park,2026-06-24T16:10:00Z,Scheduled
+823613,2026-06-24T17:10:00Z,121,112,New York Mets,Chicago Cubs,690997,Nolan McLean,,,Citi Field,2026-06-24T17:10:00Z,Scheduled
+823611,2026-06-24T23:10:00Z,121,112,New York Mets,Chicago Cubs,640455,Sean Manaea,,,Citi Field,2026-06-24T23:10:00Z,Scheduled
+824583,2026-06-24T18:10:00Z,145,114,Chicago White Sox,Cleveland Guardians,607200,Erick Fedde,676440,Tanner Bibee,Rate Field,2026-06-24T18:10:00Z,Scheduled
+824341,2026-06-24T19:10:00Z,115,111,Colorado Rockies,Boston Red Sox,607536,Kyle Freeland,624133,Ranger Suarez,Coors Field,2026-06-24T19:10:00Z,Scheduled
+824018,2026-06-24T20:07:00Z,108,110,Los Angeles Angels,Baltimore Orioles,667755,José Soriano,694346,Trey Gibson,Angel Stadium,2026-06-24T20:07:00Z,Scheduled
+823367,2026-06-24T22:40:00Z,134,136,Pittsburgh Pirates,Seattle Mariners,677952,Braxton Ashcraft,693433,Bryan Woo,PNC Park,2026-06-24T22:40:00Z,Scheduled
+822965,2026-06-24T22:40:00Z,139,118,Tampa Bay Rays,Kansas City Royals,643377,Griffin Jax,702070,Noah Cameron,Tropicana Field,2026-06-24T22:40:00Z,Scheduled
+824259,2026-06-24T22:40:00Z,116,147,Detroit Tigers,New York Yankees,669373,Tarik Skubal,677960,Ryan Weathers,Comerica Park,2026-06-24T22:40:00Z,Scheduled
+822719,2026-06-24T22:45:00Z,120,143,Washington Nationals,Philadelphia Phillies,571945,Miles Mikolas,605400,Aaron Nola,Nationals Park,2026-06-24T22:45:00Z,Scheduled
+822798,2026-06-24T23:07:00Z,141,117,Toronto Blue Jays,Houston Astros,702056,Trey Yesavage,681347,Mike Burrows,Rogers Centre,2026-06-24T23:07:00Z,Scheduled
+824500,2026-06-24T23:10:00Z,113,158,Cincinnati Reds,Milwaukee Brewers,695076,Rhett Lowder,675660,Shane Drohan,Great American Ball Park,2026-06-24T23:10:00Z,Scheduled
+823691,2026-06-24T23:40:00Z,142,119,Minnesota Twins,Los Angeles Dodgers,657746,Joe Ryan,660271,Shohei Ohtani,Target Field,2026-06-24T23:40:00Z,Scheduled
+823041,2026-06-24T23:45:00Z,138,109,St. Louis Cardinals,Arizona Diamondbacks,669461,Matthew Liberatore,683352,Mitch Bratt,Busch Stadium,2026-06-24T23:45:00Z,Scheduled
+823284,2026-06-25T00:40:00Z,135,144,San Diego Padres,Atlanta Braves,676664,JP Sears,527048,Martín Pérez,Petco Park,2026-06-25T00:40:00Z,Scheduled
+823208,2026-06-25T01:45:00Z,137,133,San Francisco Giants,Athletics,641816,Tyler Mahle,695611,Gage Jump,Oracle Park,2026-06-25T01:45:00Z,Scheduled
