@@ -23,6 +23,13 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
+      with:
+        ref: main
+        fetch-depth: 0
+
+    - name: Pull latest changes
+      run: |
+        git pull origin main
 
     - name: Set up Python
       uses: actions/setup-python@v5

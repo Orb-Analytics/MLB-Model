@@ -602,7 +602,7 @@ def format_email_html(picks, yesterday_results, season_record, date_str):
                         <div class="pick-right">
                             <div class="pick-stat">Odds: <strong>{format_american_odds(pick['pick_odds'])}</strong></div>
                             <div class="pick-stat">Win Prob: <strong>{pick['cover_prob']:.1%}</strong></div>
-                            <div class="pick-stat">Edge: <strong>{pick['edge']:.1%}</strong></div>
+                            <div class="pick-stat">Edge: <strong>{pick['edge']:.1f}%</strong></div>
                         </div>
                     </div>
                 </div>
@@ -642,7 +642,7 @@ def format_email_html(picks, yesterday_results, season_record, date_str):
                         </div>
                         <div class="pick-right">
                             <div class="pick-stat">Odds: <strong>{format_american_odds(result['pick_odds'])}</strong></div>
-                            <div class="pick-stat">Edge: <strong>{result['edge']:.1%}</strong></div>
+                            <div class="pick-stat">Edge: <strong>{result['edge']:.1f}%</strong></div>
                             <div class="pick-stat">Units: <strong>{result['units']:+.2f}</strong></div>
                         </div>
                     </div>
