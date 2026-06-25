@@ -1,7 +1,7 @@
 game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probable_pitcher_id,home_probable_pitcher_name,away_probable_pitcher_id,away_probable_pitcher_name,venue,game_time_utc,status
 823850,2026-06-24T16:10:00Z,146,140,Miami Marlins,Texas Rangers,691587,Eury Pérez,594798,Jacob deGrom,loanDepot park,2026-06-24T16:10:00Z,Scheduled
-823613,2026-06-24T17:10:00Z,121,112,New York Mets,Chicago Cubs,690997,Nolan McLean,,,Citi Field,2026-06-24T17:10:00Z,Scheduled
-823611,2026-06-24T23:10:00Z,121,112,New York Mets,Chicago Cubs,640455,Sean Manaea,,,Citi Field,2026-06-24T23:10:00Z,Scheduled
+823613,2026-06-24T17:10:00Z,121,112,New York Mets,Chicago Cubs,690997,Nolan McLean,,Shota Imanaga,Citi Field,2026-06-24T17:10:00Z,Scheduled
+823611,2026-06-24T23:10:00Z,121,112,New York Mets,Chicago Cubs,640455,Sean Manaea,,Shota Imanaga,Citi Field,2026-06-24T23:10:00Z,Scheduled
 824583,2026-06-24T18:10:00Z,145,114,Chicago White Sox,Cleveland Guardians,607200,Erick Fedde,676440,Tanner Bibee,Rate Field,2026-06-24T18:10:00Z,Scheduled
 824341,2026-06-24T19:10:00Z,115,111,Colorado Rockies,Boston Red Sox,607536,Kyle Freeland,624133,Ranger Suarez,Coors Field,2026-06-24T19:10:00Z,Scheduled
 824018,2026-06-24T20:07:00Z,108,110,Los Angeles Angels,Baltimore Orioles,667755,José Soriano,694346,Trey Gibson,Angel Stadium,2026-06-24T20:07:00Z,Scheduled

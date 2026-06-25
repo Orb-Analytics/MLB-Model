@@ -1,0 +1,10 @@
+game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probable_pitcher_id,home_probable_pitcher_name,away_probable_pitcher_id,away_probable_pitcher_name,venue,game_time_utc,status
+822961,2026-06-25T16:10:00Z,139,118,Tampa Bay Rays,Kansas City Royals,668984,Casey Legumina,607625,Seth Lugo,Tropicana Field,2026-06-25T16:10:00Z,Pre-Game
+823366,2026-06-25T16:35:00Z,134,136,Pittsburgh Pirates,Seattle Mariners,696149,Bubba Chandler,682243,Bryce Miller,PNC Park,2026-06-25T16:35:00Z,Pre-Game
+823209,2026-06-25T19:45:00Z,137,133,San Francisco Giants,Athletics,694738,Landen Roupp,605488,Jeffrey Springs,Oracle Park,2026-06-25T19:45:00Z,Scheduled
+824258,2026-06-25T22:40:00Z,116,117,Detroit Tigers,Houston Astros,675512,Troy Melton,837227,Tatsuya Imai,Comerica Park,2026-06-25T22:40:00Z,Scheduled
+822717,2026-06-25T22:45:00Z,120,143,Washington Nationals,Philadelphia Phillies,676917,Cade Cavalli,650911,Cristopher Sánchez,Nationals Park,2026-06-25T22:45:00Z,Scheduled
+822797,2026-06-25T23:07:00Z,141,140,Toronto Blue Jays,Texas Rangers,592332,Kevin Gausman,669022,MacKenzie Gore,Rogers Centre,2026-06-25T23:07:00Z,Scheduled
+823612,2026-06-25T23:10:00Z,121,112,New York Mets,Chicago Cubs,642547,Freddy Peralta,571510,Matthew Boyd,Citi Field,2026-06-25T23:10:00Z,Scheduled
+824747,2026-06-25T23:10:00Z,111,147,Boston Red Sox,New York Yankees,813349,Connelly Early,693645,Cam Schlittler,Fenway Park,2026-06-25T23:10:00Z,Scheduled
+823042,2026-06-25T23:45:00Z,138,109,St. Louis Cardinals,Arizona Diamondbacks,700241,Michael McGreevy,668678,Zac Gallen,Busch Stadium,2026-06-25T23:45:00Z,Scheduled
