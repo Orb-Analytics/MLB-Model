@@ -1,0 +1,16 @@
+game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probable_pitcher_id,home_probable_pitcher_name,away_probable_pitcher_id,away_probable_pitcher_name,venue,game_time_utc,status
+824257,2026-06-27T17:10:00Z,116,117,Detroit Tigers,Houston Astros,664285,Framber Valdez,678906,Kai-Wei Teng,Comerica Park,2026-06-27T17:10:00Z,Scheduled
+824745,2026-06-27T17:10:00Z,111,147,Boston Red Sox,New York Yankees,687562,Jake Bennett,543037,Gerrit Cole,Fenway Park,2026-06-27T17:10:00Z,Scheduled
+822794,2026-06-27T19:07:00Z,141,140,Toronto Blue Jays,Texas Rangers,656302,Dylan Cease,615698,Cal Quantrill,Rogers Centre,2026-06-27T19:07:00Z,Scheduled
+823364,2026-06-27T20:05:00Z,134,113,Pittsburgh Pirates,Cincinnati Reds,683003,Jared Jones,695505,Chase Burns,PNC Park,2026-06-27T20:05:00Z,Scheduled
+823609,2026-06-27T20:10:00Z,121,143,New York Mets,Philadelphia Phillies,681035,Christian Scott,660604,Alan Rangel,Citi Field,2026-06-27T20:10:00Z,Scheduled
+824581,2026-06-27T20:10:00Z,145,118,Chicago White Sox,Kansas City Royals,663436,Davis Martin,608379,Michael Wacha,Rate Field,2026-06-27T20:10:00Z,Scheduled
+822960,2026-06-27T22:10:00Z,139,109,Tampa Bay Rays,Arizona Diamondbacks,642121,Cole Sulser,703615,Jose Cabrera,Tropicana Field,2026-06-27T22:10:00Z,Scheduled
+824825,2026-06-27T23:05:00Z,110,120,Baltimore Orioles,Washington Nationals,687064,Brandon Young,656492,Foster Griffin,Oriole Park at Camden Yards,2026-06-27T23:05:00Z,Scheduled
+824421,2026-06-27T23:10:00Z,114,136,Cleveland Guardians,Seattle Mariners,677944,Slade Cecconi,669302,Logan Gilbert,Progressive Field,2026-06-27T23:10:00Z,Scheduled
+823689,2026-06-27T23:10:00Z,142,115,Minnesota Twins,Colorado Rockies,702474,Mike Paredes,547179,Michael Lorenzen,Target Field,2026-06-27T23:10:00Z,Scheduled
+823770,2026-06-27T23:10:00Z,158,112,Milwaukee Brewers,Chicago Cubs,690986,Kyle Harrison,656849,David Peterson,American Family Field,2026-06-27T23:10:00Z,Scheduled
+823038,2026-06-27T23:15:00Z,138,146,St. Louis Cardinals,Miami Marlins,669467,Andre Pallante,687473,Ryan Gusto,Busch Stadium,2026-06-27T23:15:00Z,Scheduled
+823283,2026-06-28T00:40:00Z,135,119,San Diego Padres,Los Angeles Dodgers,681190,Randy Vásquez,808967,Yoshinobu Yamamoto,Petco Park,2026-06-28T00:40:00Z,Scheduled
+823207,2026-06-28T01:05:00Z,137,144,San Francisco Giants,Atlanta Braves,657277,Logan Webb,693821,Bryce Elder,Oracle Park,2026-06-28T01:05:00Z,Scheduled
+824015,2026-06-28T01:38:00Z,108,133,Los Angeles Angels,Athletics,672282,Reid Detmers,678022,Jack Perkins,Angel Stadium,2026-06-28T01:38:00Z,Scheduled
