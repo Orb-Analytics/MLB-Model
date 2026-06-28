@@ -1,0 +1,16 @@
+game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probable_pitcher_id,home_probable_pitcher_name,away_probable_pitcher_id,away_probable_pitcher_name,venue,game_time_utc,status
+824821,2026-06-28T17:35:00Z,110,120,Baltimore Orioles,Washington Nationals,680694,Kyle Bradish,641793,Zack Littell,Oriole Park at Camden Yards,2026-06-28T17:35:00Z,Scheduled
+823362,2026-06-28T17:35:00Z,134,113,Pittsburgh Pirates,Cincinnati Reds,656605,Mitch Keller,663903,Brady Singer,PNC Park,2026-06-28T17:35:00Z,Scheduled
+822795,2026-06-28T17:37:00Z,141,140,Toronto Blue Jays,Texas Rangers,669456,Shane Bieber,677958,Kumar Rocker,Rogers Centre,2026-06-28T17:37:00Z,Scheduled
+824256,2026-06-28T17:40:00Z,116,117,Detroit Tigers,Houston Astros,656427,Jack Flaherty,686613,Hunter Brown,Comerica Park,2026-06-28T17:40:00Z,Scheduled
+824422,2026-06-28T17:40:00Z,114,136,Cleveland Guardians,Seattle Mariners,668909,Gavin Williams,676106,Emerson Hancock,Progressive Field,2026-06-28T17:40:00Z,Scheduled
+822959,2026-06-28T17:40:00Z,139,109,Tampa Bay Rays,Arizona Diamondbacks,656876,Drew Rasmussen,518876,Merrill Kelly,Tropicana Field,2026-06-28T17:40:00Z,Scheduled
+823608,2026-06-28T17:40:00Z,121,143,New York Mets,Philadelphia Phillies,672335,Cionel Pérez,666200,Jesús Luzardo,Citi Field,2026-06-28T17:40:00Z,Scheduled
+823686,2026-06-28T18:10:00Z,142,115,Minnesota Twins,Colorado Rockies,687570,Connor Prielipp,663372,Ryan Feltner,Target Field,2026-06-28T18:10:00Z,Scheduled
+824580,2026-06-28T18:10:00Z,145,118,Chicago White Sox,Kansas City Royals,641743,Anthony Kay,679883,Luinder Avila,Rate Field,2026-06-28T18:10:00Z,Scheduled
+823769,2026-06-28T18:10:00Z,158,112,Milwaukee Brewers,Chicago Cubs,605540,Brandon Woodruff,669020,Ryan Rolison,American Family Field,2026-06-28T18:10:00Z,Scheduled
+823037,2026-06-28T18:15:00Z,138,146,St. Louis Cardinals,Miami Marlins,681517,Kyle Leahy,663969,Tyler Phillips,Busch Stadium,2026-06-28T18:15:00Z,Scheduled
+824011,2026-06-28T19:15:00Z,108,133,Los Angeles Angels,Athletics,691951,Sam Aldegheri,650644,Aaron Civale,Angel Stadium,2026-06-28T19:15:00Z,Scheduled
+823204,2026-06-28T20:05:00Z,137,144,San Francisco Giants,Atlanta Braves,592662,Robbie Ray,519242,Chris Sale,Oracle Park,2026-06-28T20:05:00Z,Scheduled
+823281,2026-06-28T20:10:00Z,135,119,San Diego Padres,Los Angeles Dodgers,650633,Michael King,686218,Emmet Sheehan,Petco Park,2026-06-28T20:10:00Z,Scheduled
+824744,2026-06-28T23:20:00Z,111,147,Boston Red Sox,New York Yankees,543243,Sonny Gray,607074,Carlos Rodón,Fenway Park,2026-06-28T23:20:00Z,Scheduled
