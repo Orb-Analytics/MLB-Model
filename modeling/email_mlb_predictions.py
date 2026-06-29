@@ -697,38 +697,59 @@ def format_email_html(picks, yesterday_results, season_record, date_str):
                     </div>
                 </div>
                 
-                <table style="width: 100%; border-collapse: collapse; margin-top: 20px;">
-                    <tr style="border-bottom: 2px solid #ddd;">
-                        <th style="text-align: left; padding: 12px; font-size: 16px; color: #000;">Split</th>
-                        <th style="text-align: center; padding: 12px; font-size: 16px; color: #000;">Record</th>
-                        <th style="text-align: center; padding: 12px; font-size: 16px; color: #000;">Win %</th>
-                        <th style="text-align: center; padding: 12px; font-size: 16px; color: #000;">Units</th>
-                    </tr>
-                    <tr style="background-color: #fff;">
-                        <td style="padding: 12px; font-weight: bold;">Favorites</td>
-                        <td style="text-align: center; padding: 12px;">{season_record['fav_wins']}-{season_record['fav_losses']}</td>
-                        <td style="text-align: center; padding: 12px;">{(season_record['fav_wins']/season_record['fav_total']*100) if season_record['fav_total'] > 0 else 0:.1f}%</td>
-                        <td style="text-align: center; padding: 12px; {"color: #4caf50;" if season_record['fav_units'] >= 0 else "color: #f44336;"}">{season_record['fav_units']:+.2f}</td>
-                    </tr>
-                    <tr style="background-color: #f9f9f9;">
-                        <td style="padding: 12px; font-weight: bold;">Underdogs</td>
-                        <td style="text-align: center; padding: 12px;">{season_record['dog_wins']}-{season_record['dog_losses']}</td>
-                        <td style="text-align: center; padding: 12px;">{(season_record['dog_wins']/season_record['dog_total']*100) if season_record['dog_total'] > 0 else 0:.1f}%</td>
-                        <td style="text-align: center; padding: 12px; {"color: #4caf50;" if season_record['dog_units'] >= 0 else "color: #f44336;"}">{season_record['dog_units']:+.2f}</td>
-                    </tr>
-                    <tr style="background-color: #fff;">
-                        <td style="padding: 12px; font-weight: bold;">Home Picks</td>
-                        <td style="text-align: center; padding: 12px;">{season_record['home_wins']}-{season_record['home_losses']}</td>
-                        <td style="text-align: center; padding: 12px;">{(season_record['home_wins']/season_record['home_total']*100) if season_record['home_total'] > 0 else 0:.1f}%</td>
-                        <td style="text-align: center; padding: 12px; {"color: #4caf50;" if season_record['home_units'] >= 0 else "color: #f44336;"}">{season_record['home_units']:+.2f}</td>
-                    </tr>
-                    <tr style="background-color: #f9f9f9;">
-                        <td style="padding: 12px; font-weight: bold;">Away Picks</td>
-                        <td style="text-align: center; padding: 12px;">{season_record['away_wins']}-{season_record['away_losses']}</td>
-                        <td style="text-align: center; padding: 12px;">{(season_record['away_wins']/season_record['away_total']*100) if season_record['away_total'] > 0 else 0:.1f}%</td>
-                        <td style="text-align: center; padding: 12px; {"color: #4caf50;" if season_record['away_units'] >= 0 else "color: #f44336;"}">{season_record['away_units']:+.2f}</td>
-                    </tr>
-                </table>
+                <!-- Split by Role -->
+                <div style="margin-top: 25px;">
+                    <div style="font-size: 18px; font-weight: bold; color: #000; text-align: center; margin-bottom: 10px;">
+                        By Role (Fav/Dog)
+                    </div>
+                    <table style="width: 100%; border-collapse: collapse;">
+                        <tr style="border-bottom: 2px solid #ddd;">
+                            <th style="text-align: left; padding: 12px; font-size: 16px; color: #000;">Split</th>
+                            <th style="text-align: center; padding: 12px; font-size: 16px; color: #000;">Record</th>
+                            <th style="text-align: center; padding: 12px; font-size: 16px; color: #000;">Win %</th>
+                            <th style="text-align: center; padding: 12px; font-size: 16px; color: #000;">Units</th>
+                        </tr>
+                        <tr style="background-color: #fff;">
+                            <td style="padding: 12px; font-weight: bold;">Favorites</td>
+                            <td style="text-align: center; padding: 12px;">{season_record['fav_wins']}-{season_record['fav_losses']}</td>
+                            <td style="text-align: center; padding: 12px;">{(season_record['fav_wins']/season_record['fav_total']*100) if season_record['fav_total'] > 0 else 0:.1f}%</td>
+                            <td style="text-align: center; padding: 12px; {"color: #4caf50;" if season_record['fav_units'] >= 0 else "color: #f44336;"}">{season_record['fav_units']:+.2f}</td>
+                        </tr>
+                        <tr style="background-color: #f9f9f9;">
+                            <td style="padding: 12px; font-weight: bold;">Underdogs</td>
+                            <td style="text-align: center; padding: 12px;">{season_record['dog_wins']}-{season_record['dog_losses']}</td>
+                            <td style="text-align: center; padding: 12px;">{(season_record['dog_wins']/season_record['dog_total']*100) if season_record['dog_total'] > 0 else 0:.1f}%</td>
+                            <td style="text-align: center; padding: 12px; {"color: #4caf50;" if season_record['dog_units'] >= 0 else "color: #f44336;"}">{season_record['dog_units']:+.2f}</td>
+                        </tr>
+                    </table>
+                </div>
+                
+                <!-- Split by Location -->
+                <div style="margin-top: 25px;">
+                    <div style="font-size: 18px; font-weight: bold; color: #000; text-align: center; margin-bottom: 10px;">
+                        By Location (Home/Away)
+                    </div>
+                    <table style="width: 100%; border-collapse: collapse;">
+                        <tr style="border-bottom: 2px solid #ddd;">
+                            <th style="text-align: left; padding: 12px; font-size: 16px; color: #000;">Split</th>
+                            <th style="text-align: center; padding: 12px; font-size: 16px; color: #000;">Record</th>
+                            <th style="text-align: center; padding: 12px; font-size: 16px; color: #000;">Win %</th>
+                            <th style="text-align: center; padding: 12px; font-size: 16px; color: #000;">Units</th>
+                        </tr>
+                        <tr style="background-color: #fff;">
+                            <td style="padding: 12px; font-weight: bold;">Home Picks</td>
+                            <td style="text-align: center; padding: 12px;">{season_record['home_wins']}-{season_record['home_losses']}</td>
+                            <td style="text-align: center; padding: 12px;">{(season_record['home_wins']/season_record['home_total']*100) if season_record['home_total'] > 0 else 0:.1f}%</td>
+                            <td style="text-align: center; padding: 12px; {"color: #4caf50;" if season_record['home_units'] >= 0 else "color: #f44336;"}">{season_record['home_units']:+.2f}</td>
+                        </tr>
+                        <tr style="background-color: #f9f9f9;">
+                            <td style="padding: 12px; font-weight: bold;">Away Picks</td>
+                            <td style="text-align: center; padding: 12px;">{season_record['away_wins']}-{season_record['away_losses']}</td>
+                            <td style="text-align: center; padding: 12px;">{(season_record['away_wins']/season_record['away_total']*100) if season_record['away_total'] > 0 else 0:.1f}%</td>
+                            <td style="text-align: center; padding: 12px; {"color: #4caf50;" if season_record['away_units'] >= 0 else "color: #f44336;"}">{season_record['away_units']:+.2f}</td>
+                        </tr>
+                    </table>
+                </div>
                 
                 <div style="text-align: center; margin-top: 20px; font-size: 14px; color: #666;">
                     Strategy: 1.5% Dog / 0.5% Fav (REGRESSED) | Model: 65% Market + 35% XGBoost
