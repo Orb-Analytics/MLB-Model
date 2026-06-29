@@ -1,8 +1,8 @@
 name: Sync Email Subscribers
 on:
-  # Run daily at 6:00 AM UTC (before ETL workflow at 7 AM)
+  # Run daily at 4:00 AM UTC (midnight ET, well before ETL at 9 AM ET)
   schedule:
-    - cron: '0 6 * * *'
+    - cron: '0 4 * * *'
   
   # Allow manual trigger
   workflow_dispatch:
