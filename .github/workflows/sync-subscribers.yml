@@ -1,5 +1,4 @@
 name: Sync Email Subscribers
-
 on:
   # Run daily at 6:00 AM UTC (before ETL workflow at 7 AM)
   schedule:
