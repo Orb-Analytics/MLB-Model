@@ -1,0 +1,57 @@
+name: Sync Email Subscribers
+
+on:
+  # Run daily at 6:00 AM UTC (before ETL workflow at 7 AM)
+  schedule:
+    - cron: '0 6 * * *'
+  
+  # Allow manual trigger
+  workflow_dispatch:
+
+jobs:
+  sync-subscribers:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        ref: main
+        fetch-depth: 0
+
+    - name: Pull latest changes
+      run: |
+        git pull origin main
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.12'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-core
+
+    - name: Sync subscribers from Google Form
+      env:
+        GOOGLE_SHEETS_CREDENTIALS: ${{ secrets.GOOGLE_SHEETS_CREDENTIALS }}
+        GOOGLE_FORM_SHEET_ID: ${{ secrets.GOOGLE_FORM_SHEET_ID }}
+      run: |
+        python scripts/utilities/sync_email_subscribers.py
+
+    - name: Commit updated subscriber list
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "github-actions[bot]@users.noreply.github.com"
+        
+        # Check if subscriber file changed
+        if git diff --quiet data/mlb_email_subscribers.txt; then
+          echo "No new subscribers"
+        else
+          git add data/mlb_email_subscribers.txt
+          git commit -m "Update email subscriber list ($(date -u +%Y-%m-%d))"
+          git push
+          echo "✅ Subscriber list updated"
+        fi
+      continue-on-error: true
