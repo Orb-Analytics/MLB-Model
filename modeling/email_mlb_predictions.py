@@ -889,6 +889,14 @@ def main():
     # Grade yesterday's picks if they exist
     print(f"📅 Grading yesterday's picks ({yesterday_str})...")
     yesterdays_picks = load_yesterdays_picks()
+    
+    # Convert yesterday_str to M/D/YYYY format for comparison
+    yesterday_display = yesterday.strftime('%-m/%-d/%Y')  # e.g., "6/28/2026"
+    
+    # Filter picks to only include yesterday's date
+    if yesterdays_picks:
+        yesterdays_picks = [p for p in yesterdays_picks if p.get('date') in [yesterday_str, yesterday_display]]
+    
     if yesterdays_picks:
         yesterdays_results_df = load_yesterdays_results(yesterday_str)
         graded_picks, yesterday_units = grade_yesterdays_picks(yesterdays_picks, yesterdays_results_df)
@@ -902,8 +910,19 @@ def main():
             # Reload season record to include yesterday's results
             season_record = load_season_record()
     else:
-        graded_picks = []
+        # No picks to grade - try loading yesterday's results from season record for display
         print("   No picks from yesterday to grade")
+        season_record_file = REPO_ROOT / 'data' / 'mlb_season_record.csv'
+        if season_record_file.exists():
+            season_df = pd.read_csv(season_record_file)
+            yesterdays_from_record = season_df[season_df['date'] == yesterday_display]
+            if not yesterdays_from_record.empty:
+                graded_picks = yesterdays_from_record.to_dict('records')
+                print(f"   Loaded {len(graded_picks)} results from yesterday (already graded)")
+            else:
+                graded_picks = []
+        else:
+            graded_picks = []
     print()
     
     # Generate today's picks
