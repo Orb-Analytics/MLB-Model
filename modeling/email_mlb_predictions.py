@@ -109,6 +109,27 @@ def load_todays_predictions(date_str):
         'away odds': 'away_odds'
     })
     
+    # Filter out doubleheader games (7-inning games)
+    # Doubleheaders have duplicate home/away matchups on the same day
+    # Keep games with unique matchups, drop duplicates
+    initial_count = len(df)
+    df['matchup'] = df.apply(lambda row: tuple(sorted([row['home_team'], row['away_team']])), axis=1)
+    
+    # Identify doubleheaders
+    duplicates = df.duplicated(subset=['matchup'], keep=False)
+    if duplicates.any():
+        doubleheader_teams = df[duplicates][['home_team', 'away_team']].drop_duplicates()
+        print(f"⚠️  Excluding {duplicates.sum()} doubleheader games (7 innings):")
+        for _, row in doubleheader_teams.iterrows():
+            print(f"   • {row['home_team']} vs {row['away_team']}")
+        df = df[~duplicates].copy()
+    
+    df = df.drop(columns=['matchup'])
+    filtered_count = len(df)
+    
+    if initial_count > filtered_count:
+        print(f"📊 Filtered {initial_count} -> {filtered_count} games (removed {initial_count - filtered_count} doubleheader games)")
+    
     return df
 
 
