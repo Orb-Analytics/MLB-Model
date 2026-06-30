@@ -1,0 +1,16 @@
+game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probable_pitcher_id,home_probable_pitcher_name,away_probable_pitcher_id,away_probable_pitcher_name,venue,game_time_utc,status
+824819,2026-06-30T22:35:00Z,110,145,Baltimore Orioles,Chicago White Sox,694346,Trey Gibson,607200,Erick Fedde,Oriole Park at Camden Yards,2026-06-30T22:35:00Z,Scheduled
+824418,2026-06-30T22:40:00Z,114,140,Cleveland Guardians,Texas Rangers,676440,Tanner Bibee,594798,Jacob deGrom,Progressive Field,2026-06-30T22:40:00Z,Scheduled
+823445,2026-06-30T22:40:00Z,143,134,Philadelphia Phillies,Pittsburgh Pirates,650911,Cristopher Sánchez,696149,Bubba Chandler,Citizens Bank Park,2026-06-30T22:40:00Z,Scheduled
+823528,2026-06-30T23:05:00Z,147,116,New York Yankees,Detroit Tigers,693645,Cam Schlittler,669373,Tarik Skubal,Yankee Stadium,2026-06-30T23:05:00Z,Scheduled
+822793,2026-06-30T23:07:00Z,141,121,Toronto Blue Jays,New York Mets,592332,Kevin Gausman,690997,Nolan McLean,Rogers Centre,2026-06-30T23:07:00Z,Scheduled
+824742,2026-06-30T23:10:00Z,111,120,Boston Red Sox,Washington Nationals,813349,Connelly Early,676917,Cade Cavalli,Fenway Park,2026-06-30T23:10:00Z,Scheduled
+824907,2026-06-30T23:15:00Z,144,138,Atlanta Braves,St. Louis Cardinals,527048,Martín Pérez,669461,Matthew Liberatore,Truist Park,2026-06-30T23:15:00Z,Scheduled
+824096,2026-06-30T23:40:00Z,118,139,Kansas City Royals,Tampa Bay Rays,702070,Noah Cameron,643377,Griffin Jax,Kauffman Stadium,2026-06-30T23:40:00Z,Scheduled
+823768,2026-06-30T23:40:00Z,158,113,Milwaukee Brewers,Cincinnati Reds,687075,Brandon Sproat,695076,Rhett Lowder,American Family Field,2026-06-30T23:40:00Z,Scheduled
+824661,2026-07-01T00:05:00Z,112,135,Chicago Cubs,San Diego Padres,571510,Matthew Boyd,676664,JP Sears,Wrigley Field,2026-07-01T00:05:00Z,Scheduled
+824175,2026-07-01T00:10:00Z,117,142,Houston Astros,Minnesota Twins,681347,Mike Burrows,657746,Joe Ryan,Daikin Park,2026-07-01T00:10:00Z,Scheduled
+824338,2026-07-01T00:40:00Z,115,146,Colorado Rockies,Miami Marlins,685299,Tanner Gordon,691587,Eury Pérez,Coors Field,2026-07-01T00:40:00Z,Scheduled
+824984,2026-07-01T01:40:00Z,133,119,Athletics,Los Angeles Dodgers,605488,Jeffrey Springs,680736,Justin Wrobleski,Sutter Health Park,2026-07-01T01:40:00Z,Scheduled
+823122,2026-07-01T01:40:00Z,136,108,Seattle Mariners,Los Angeles Angels,693433,Bryan Woo,667755,José Soriano,T-Mobile Park,2026-07-01T01:40:00Z,Scheduled
+825066,2026-07-01T01:40:00Z,109,137,Arizona Diamondbacks,San Francisco Giants,,,694738,Landen Roupp,Chase Field,2026-07-01T01:40:00Z,Scheduled

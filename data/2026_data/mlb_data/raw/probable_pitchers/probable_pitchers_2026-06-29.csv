@@ -6,9 +6,9 @@ game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probab
 824741,2026-06-29T23:10:00Z,111,120,Boston Red Sox,Washington Nationals,624133,Ranger Suarez,571945,Miles Mikolas,Fenway Park,2026-06-29T23:10:00Z,Scheduled
 824420,2026-06-29T23:10:00Z,114,140,Cleveland Guardians,Texas Rangers,800048,Parker Messick,641302,Tyler Alexander,Progressive Field,2026-06-29T23:10:00Z,Scheduled
 823771,2026-06-29T23:40:00Z,158,113,Milwaukee Brewers,Cincinnati Reds,688107,Robert Gasser,666157,Nick Lodolo,American Family Field,2026-06-29T23:40:00Z,Scheduled
-824662,2026-06-30T00:05:00Z,112,135,Chicago Cubs,San Diego Padres,684007,Shota Imanaga,,,Wrigley Field,2026-06-30T00:05:00Z,Scheduled
+824662,2026-06-30T00:05:00Z,112,135,Chicago Cubs,San Diego Padres,684007,Shota Imanaga,,Griffin Canning,Wrigley Field,2026-06-30T00:05:00Z,Scheduled
 824176,2026-06-30T00:10:00Z,117,142,Houston Astros,Minnesota Twins,663567,Peter Lambert,805673,Zebby Matthews,Daikin Park,2026-06-30T00:10:00Z,Scheduled
-824339,2026-06-30T00:40:00Z,115,146,Colorado Rockies,Miami Marlins,,,645261,Sandy Alcantara,Coors Field,2026-06-30T00:40:00Z,Scheduled
+824339,2026-06-30T00:40:00Z,115,146,Colorado Rockies,Miami Marlins,,Sean Sullivan,645261,Sandy Alcantara,Coors Field,2026-06-30T00:40:00Z,Scheduled
 824986,2026-06-30T01:40:00Z,133,119,Athletics,Los Angeles Dodgers,695611,Gage Jump,641778,Eric Lauer,Sutter Health Park,2026-06-30T01:40:00Z,Scheduled
 823121,2026-06-30T01:40:00Z,136,108,Seattle Mariners,Los Angeles Angels,669923,George Kirby,696270,Ryan Johnson,T-Mobile Park,2026-06-30T01:40:00Z,Scheduled
 825065,2026-06-30T01:40:00Z,109,137,Arizona Diamondbacks,San Francisco Giants,593958,Eduardo Rodriguez,641816,Tyler Mahle,Chase Field,2026-06-30T01:40:00Z,Scheduled
