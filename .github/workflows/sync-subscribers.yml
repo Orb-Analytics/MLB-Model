@@ -38,19 +38,4 @@ jobs:
         GOOGLE_FORM_SHEET_ID: ${{ secrets.GOOGLE_FORM_SHEET_ID }}
       run: |
         python scripts/utilities/sync_email_subscribers.py
-
-    - name: Commit updated subscriber list
-      run: |
-        git config user.name "github-actions[bot]"
-        git config user.email "github-actions[bot]@users.noreply.github.com"
-        
-        # Check if subscriber file changed
-        if git diff --quiet data/mlb_email_subscribers.txt; then
-          echo "No new subscribers"
-        else
-          git add data/mlb_email_subscribers.txt
-          git commit -m "Update email subscriber list ($(date -u +%Y-%m-%d))"
-          git push
-          echo "✅ Subscriber list updated"
-        fi
-      continue-on-error: true
+        echo "✅ Subscriber list updated locally (not committed for privacy)"

@@ -49,6 +49,9 @@ Thumbs.db
 *.csv.gz
 *.parquet
 
+# Email subscribers (privacy - keep private)
+data/mlb_email_subscribers.txt
+
 # Backup directories created during data alignment
 **/game_outlook_backup_*/
 **/backup_original_*/
