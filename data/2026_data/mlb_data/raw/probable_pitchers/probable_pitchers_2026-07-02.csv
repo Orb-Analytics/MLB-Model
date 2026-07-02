@@ -1,0 +1,10 @@
+game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probable_pitcher_id,home_probable_pitcher_name,away_probable_pitcher_id,away_probable_pitcher_name,venue,game_time_utc,status
+823442,2026-07-02T16:35:00Z,143,134,Philadelphia Phillies,Pittsburgh Pirates,660604,Alan Rangel,683003,Jared Jones,Citizens Bank Park,2026-07-02T16:35:00Z,Scheduled
+823765,2026-07-02T18:10:00Z,158,113,Milwaukee Brewers,Cincinnati Reds,694819,Jacob Misiorowski,695505,Chase Burns,American Family Field,2026-07-02T18:10:00Z,Scheduled
+824335,2026-07-02T19:10:00Z,115,146,Colorado Rockies,Miami Marlins,547179,Michael Lorenzen,687473,Ryan Gusto,Coors Field,2026-07-02T19:10:00Z,Scheduled
+824416,2026-07-02T22:40:00Z,114,145,Cleveland Guardians,Chicago White Sox,677944,Slade Cecconi,663436,Davis Martin,Progressive Field,2026-07-02T22:40:00Z,Scheduled
+824906,2026-07-02T23:15:00Z,144,138,Atlanta Braves,St. Louis Cardinals,694462,Hurston Waldrep,669160,Dustin May,Truist Park,2026-07-02T23:15:00Z,Scheduled
+824093,2026-07-02T23:40:00Z,118,139,Kansas City Royals,Tampa Bay Rays,663568,Stephen Kolek,693855,Ian Seymour,Kauffman Stadium,2026-07-02T23:40:00Z,Scheduled
+822884,2026-07-03T00:05:00Z,140,116,Texas Rangers,Detroit Tigers,543135,Nathan Eovaldi,664285,Framber Valdez,Globe Life Field,2026-07-03T00:05:00Z,Scheduled
+823119,2026-07-03T01:40:00Z,136,108,Seattle Mariners,Los Angeles Angels,682243,Bryce Miller,700712,Walbert Ureña,T-Mobile Park,2026-07-03T01:40:00Z,Scheduled
+823935,2026-07-03T02:10:00Z,119,135,Los Angeles Dodgers,San Diego Padres,808963,Roki Sasaki,681190,Randy Vásquez,UNIQLO Field at Dodger Stadium,2026-07-03T02:10:00Z,Scheduled
