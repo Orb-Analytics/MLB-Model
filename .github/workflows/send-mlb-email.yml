@@ -39,7 +39,16 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install pandas numpy
+        pip install pandas numpy google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client
+
+    - name: Sync email subscribers before sending
+      env:
+        GOOGLE_SHEETS_CREDENTIALS: ${{ secrets.GOOGLE_SHEETS_CREDENTIALS }}
+        GOOGLE_FORM_SHEET_ID: ${{ secrets.GOOGLE_FORM_SHEET_ID }}
+      run: |
+        echo "📥 Syncing subscriber list from Google Form..."
+        python scripts/utilities/sync_email_subscribers.py
+        echo "✅ Subscriber list ready"
 
     - name: Send MLB predictions email
       env:
