@@ -1,0 +1,14 @@
+game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probable_pitcher_id,home_probable_pitcher_name,away_probable_pitcher_id,away_probable_pitcher_name,venue,game_time_utc,status
+824659,2026-07-03T20:05:00Z,112,138,Chicago Cubs,St. Louis Cardinals,656849,David Peterson,669467,Andre Pallante,Wrigley Field,2026-07-03T20:05:00Z,Scheduled
+822714,2026-07-03T22:45:00Z,120,134,Washington Nationals,Pittsburgh Pirates,656492,Foster Griffin,656605,Mitch Keller,Nationals Park,2026-07-03T22:45:00Z,Scheduled
+823527,2026-07-03T23:05:00Z,147,142,New York Yankees,Minnesota Twins,543037,Gerrit Cole,702474,Mike Paredes,Yankee Stadium,2026-07-03T23:05:00Z,Scheduled
+824498,2026-07-03T23:10:00Z,113,110,Cincinnati Reds,Baltimore Orioles,663903,Brady Singer,669432,Trevor Rogers,Great American Ball Park,2026-07-03T23:10:00Z,Scheduled
+824417,2026-07-03T23:10:00Z,114,145,Cleveland Guardians,Chicago White Sox,668909,Gavin Williams,641743,Anthony Kay,Progressive Field,2026-07-03T23:10:00Z,Scheduled
+824904,2026-07-03T23:15:00Z,144,121,Atlanta Braves,New York Mets,656550,Grant Holmes,681035,Christian Scott,Truist Park,2026-07-03T23:15:00Z,Scheduled
+824336,2026-07-04T00:10:00Z,115,137,Colorado Rockies,San Francisco Giants,663372,Ryan Feltner,,,Coors Field,2026-07-04T00:10:00Z,Scheduled
+824173,2026-07-04T00:15:00Z,117,139,Houston Astros,Tampa Bay Rays,681293,Spencer Arrighetti,607259,Nick Martinez,Daikin Park,2026-07-04T00:15:00Z,Scheduled
+824013,2026-07-04T01:38:00Z,108,111,Los Angeles Angels,Boston Red Sox,672282,Reid Detmers,687562,Jake Bennett,Angel Stadium,2026-07-04T01:38:00Z,Scheduled
+824982,2026-07-04T01:40:00Z,133,146,Athletics,Miami Marlins,678022,Jack Perkins,663969,Tyler Phillips,Sutter Health Park,2026-07-04T01:40:00Z,Scheduled
+825062,2026-07-04T01:45:00Z,109,158,Arizona Diamondbacks,Milwaukee Brewers,703615,Jose Cabrera,690986,Kyle Harrison,Chase Field,2026-07-04T01:45:00Z,Scheduled
+823933,2026-07-04T02:10:00Z,119,135,Los Angeles Dodgers,San Diego Padres,660271,Shohei Ohtani,650633,Michael King,UNIQLO Field at Dodger Stadium,2026-07-04T02:10:00Z,Scheduled
+823120,2026-07-04T02:10:00Z,136,141,Seattle Mariners,Toronto Blue Jays,622491,Luis Castillo,656302,Dylan Cease,T-Mobile Park,2026-07-04T02:10:00Z,Scheduled
