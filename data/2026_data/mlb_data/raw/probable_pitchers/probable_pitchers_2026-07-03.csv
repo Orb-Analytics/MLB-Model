@@ -5,7 +5,7 @@ game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probab
 824498,2026-07-03T23:10:00Z,113,110,Cincinnati Reds,Baltimore Orioles,663903,Brady Singer,669432,Trevor Rogers,Great American Ball Park,2026-07-03T23:10:00Z,Scheduled
 824417,2026-07-03T23:10:00Z,114,145,Cleveland Guardians,Chicago White Sox,668909,Gavin Williams,641743,Anthony Kay,Progressive Field,2026-07-03T23:10:00Z,Scheduled
 824904,2026-07-03T23:15:00Z,144,121,Atlanta Braves,New York Mets,656550,Grant Holmes,681035,Christian Scott,Truist Park,2026-07-03T23:15:00Z,Scheduled
-824336,2026-07-04T00:10:00Z,115,137,Colorado Rockies,San Francisco Giants,663372,Ryan Feltner,,,Coors Field,2026-07-04T00:10:00Z,Scheduled
+824336,2026-07-04T00:10:00Z,115,137,Colorado Rockies,San Francisco Giants,663372,Ryan Feltner,,Logan Webb,Coors Field,2026-07-04T00:10:00Z,Scheduled
 824173,2026-07-04T00:15:00Z,117,139,Houston Astros,Tampa Bay Rays,681293,Spencer Arrighetti,607259,Nick Martinez,Daikin Park,2026-07-04T00:15:00Z,Scheduled
 824013,2026-07-04T01:38:00Z,108,111,Los Angeles Angels,Boston Red Sox,672282,Reid Detmers,687562,Jake Bennett,Angel Stadium,2026-07-04T01:38:00Z,Scheduled
 824982,2026-07-04T01:40:00Z,133,146,Athletics,Miami Marlins,678022,Jack Perkins,663969,Tyler Phillips,Sutter Health Park,2026-07-04T01:40:00Z,Scheduled

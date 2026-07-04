@@ -1,0 +1,16 @@
+game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probable_pitcher_id,home_probable_pitcher_name,away_probable_pitcher_id,away_probable_pitcher_name,venue,game_time_utc,status
+822716,2026-07-04T15:05:00Z,120,134,Washington Nationals,Pittsburgh Pirates,687223,Carson Palmquist,677952,Braxton Ashcraft,Nationals Park,2026-07-04T15:05:00Z,Pre-Game
+823526,2026-07-04T17:35:00Z,147,142,New York Yankees,Minnesota Twins,694341,Brendan Beck,805673,Zebby Matthews,Yankee Stadium,2026-07-04T17:35:00Z,Scheduled
+822882,2026-07-04T20:05:00Z,140,116,Texas Rangers,Detroit Tigers,677958,Kumar Rocker,656427,Jack Flaherty,Globe Life Field,2026-07-04T20:05:00Z,Scheduled
+823118,2026-07-04T20:10:00Z,136,141,Seattle Mariners,Toronto Blue Jays,669302,Logan Gilbert,669456,Shane Bieber,T-Mobile Park,2026-07-04T20:10:00Z,Scheduled
+824499,2026-07-04T23:10:00Z,113,110,Cincinnati Reds,Baltimore Orioles,668881,Hunter Greene,687064,Brandon Young,Great American Ball Park,2026-07-04T23:10:00Z,Scheduled
+824171,2026-07-04T23:10:00Z,117,139,Houston Astros,Tampa Bay Rays,686613,Hunter Brown,656876,Drew Rasmussen,Daikin Park,2026-07-04T23:10:00Z,Scheduled
+824415,2026-07-04T23:10:00Z,114,145,Cleveland Guardians,Chicago White Sox,800048,Parker Messick,680732,Sean Burke,Progressive Field,2026-07-04T23:10:00Z,Scheduled
+824658,2026-07-05T00:08:00Z,112,138,Chicago Cubs,St. Louis Cardinals,684007,Shota Imanaga,681517,Kyle Leahy,Wrigley Field,2026-07-05T00:08:00Z,Scheduled
+824903,2026-07-05T00:08:00Z,144,121,Atlanta Braves,New York Mets,519242,Chris Sale,640455,Sean Manaea,Truist Park,2026-07-05T00:08:00Z,Scheduled
+824334,2026-07-05T00:10:00Z,115,137,Colorado Rockies,San Francisco Giants,608372,Tomoyuki Sugano,592662,Robbie Ray,Coors Field,2026-07-05T00:10:00Z,Scheduled
+824092,2026-07-05T00:10:00Z,118,143,Kansas City Royals,Philadelphia Phillies,608379,Michael Wacha,666200,Jesús Luzardo,Kauffman Stadium,2026-07-05T00:10:00Z,Scheduled
+824012,2026-07-05T01:38:00Z,108,111,Los Angeles Angels,Boston Red Sox,691951,Sam Aldegheri,543243,Sonny Gray,Angel Stadium,2026-07-05T01:38:00Z,Scheduled
+824983,2026-07-05T01:40:00Z,133,146,Athletics,Miami Marlins,650644,Aaron Civale,645261,Sandy Alcantara,Sutter Health Park,2026-07-05T01:40:00Z,Scheduled
+825063,2026-07-05T01:40:00Z,109,158,Arizona Diamondbacks,Milwaukee Brewers,518876,Merrill Kelly,605540,Brandon Woodruff,Chase Field,2026-07-05T01:40:00Z,Scheduled
+823932,2026-07-05T02:10:00Z,119,135,Los Angeles Dodgers,San Diego Padres,808967,Yoshinobu Yamamoto,656288,Griffin Canning,UNIQLO Field at Dodger Stadium,2026-07-05T02:10:00Z,Scheduled
