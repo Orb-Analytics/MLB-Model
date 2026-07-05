@@ -1,0 +1,16 @@
+game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probable_pitcher_id,home_probable_pitcher_name,away_probable_pitcher_id,away_probable_pitcher_name,venue,game_time_utc,status
+824902,2026-07-05T16:30:00Z,144,121,Atlanta Braves,New York Mets,527048,Martín Pérez,690997,Nolan McLean,Truist Park,2026-07-05T16:30:00Z,Warmup
+822715,2026-07-05T17:00:00Z,120,134,Washington Nationals,Pittsburgh Pirates,676917,Cade Cavalli,696149,Bubba Chandler,Nationals Park,2026-07-05T17:00:00Z,In Progress
+824497,2026-07-05T17:05:00Z,113,110,Cincinnati Reds,Baltimore Orioles,666157,Nick Lodolo,680694,Kyle Bradish,Great American Ball Park,2026-07-05T17:05:00Z,In Progress
+823525,2026-07-05T17:35:00Z,147,142,New York Yankees,Minnesota Twins,677960,Ryan Weathers,657746,Joe Ryan,Yankee Stadium,2026-07-05T17:35:00Z,In Progress
+824413,2026-07-05T18:00:00Z,114,145,Cleveland Guardians,Chicago White Sox,676440,Tanner Bibee,669684,Chris Murphy,Progressive Field,2026-07-05T18:00:00Z,Delayed Start
+824656,2026-07-05T18:30:00Z,112,138,Chicago Cubs,St. Louis Cardinals,665871,Javier Assad,669461,Matthew Liberatore,Wrigley Field,2026-07-05T18:30:00Z,Pre-Game
+824091,2026-07-05T19:00:00Z,118,143,Kansas City Royals,Philadelphia Phillies,679883,Luinder Avila,605400,Aaron Nola,Kauffman Stadium,2026-07-05T19:00:00Z,Pre-Game
+824172,2026-07-05T19:30:00Z,117,139,Houston Astros,Tampa Bay Rays,663567,Peter Lambert,669438,Mason Englert,Daikin Park,2026-07-05T19:30:00Z,Pre-Game
+822879,2026-07-05T19:30:00Z,140,116,Texas Rangers,Detroit Tigers,677958,Kumar Rocker,663554,Casey Mize,Globe Life Field,2026-07-05T19:30:00Z,Pre-Game
+824333,2026-07-05T20:00:00Z,115,137,Colorado Rockies,San Francisco Giants,685299,Tanner Gordon,641816,Tyler Mahle,Coors Field,2026-07-05T20:00:00Z,Pre-Game
+825061,2026-07-05T20:00:00Z,109,158,Arizona Diamondbacks,Milwaukee Brewers,593958,Eduardo Rodriguez,687075,Brandon Sproat,Chase Field,2026-07-05T20:00:00Z,Pre-Game
+824980,2026-07-05T20:30:00Z,133,146,Athletics,Miami Marlins,695611,Gage Jump,691587,Eury Pérez,Sutter Health Park,2026-07-05T20:30:00Z,Pre-Game
+823117,2026-07-05T21:00:00Z,136,141,Seattle Mariners,Toronto Blue Jays,676106,Emerson Hancock,702056,Trey Yesavage,T-Mobile Park,2026-07-05T21:00:00Z,Pre-Game
+823931,2026-07-05T23:20:00Z,119,135,Los Angeles Dodgers,San Diego Padres,686218,Emmet Sheehan,676664,JP Sears,UNIQLO Field at Dodger Stadium,2026-07-05T23:20:00Z,Scheduled
+824010,2026-07-06T01:30:00Z,108,111,Los Angeles Angels,Boston Red Sox,696270,Ryan Johnson,624133,Ranger Suarez,Angel Stadium,2026-07-06T01:30:00Z,Scheduled
