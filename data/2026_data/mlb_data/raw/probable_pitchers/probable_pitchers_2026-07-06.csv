@@ -1,0 +1,9 @@
+game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probable_pitcher_id,home_probable_pitcher_name,away_probable_pitcher_id,away_probable_pitcher_name,venue,game_time_utc,status
+824089,2026-07-06T18:10:00Z,118,143,Kansas City Royals,Philadelphia Phillies,702070,Noah Cameron,650911,Cristopher Sánchez,Kauffman Stadium,2026-07-06T18:10:00Z,Scheduled
+822958,2026-07-06T22:40:00Z,139,147,Tampa Bay Rays,New York Yankees,643377,Griffin Jax,693645,Cam Schlittler,Tropicana Field,2026-07-06T22:40:00Z,Scheduled
+822712,2026-07-06T22:45:00Z,120,117,Washington Nationals,Houston Astros,571945,Miles Mikolas,681347,Mike Burrows,Nationals Park,2026-07-06T22:45:00Z,Scheduled
+824900,2026-07-06T23:15:00Z,144,121,Atlanta Braves,New York Mets,625643,Reynaldo López,642547,Freddy Peralta,Truist Park,2026-07-06T23:15:00Z,Scheduled
+823036,2026-07-06T23:45:00Z,138,158,St. Louis Cardinals,Milwaukee Brewers,669160,Dustin May,675660,Shane Drohan,Busch Stadium,2026-07-06T23:45:00Z,Scheduled
+823282,2026-07-07T01:40:00Z,135,109,San Diego Padres,Arizona Diamondbacks,621111,Walker Buehler,694297,Brandon Pfaadt,Petco Park,2026-07-07T01:40:00Z,Scheduled
+823205,2026-07-07T01:45:00Z,137,141,San Francisco Giants,Toronto Blue Jays,694738,Landen Roupp,592332,Kevin Gausman,Oracle Park,2026-07-07T01:45:00Z,Scheduled
+823930,2026-07-07T02:10:00Z,119,115,Los Angeles Dodgers,Colorado Rockies,641778,Eric Lauer,607536,Kyle Freeland,UNIQLO Field at Dodger Stadium,2026-07-07T02:10:00Z,Scheduled
