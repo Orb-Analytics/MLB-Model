@@ -1,17 +1,17 @@
 game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probable_pitcher_id,home_probable_pitcher_name,away_probable_pitcher_id,away_probable_pitcher_name,venue,game_time_utc,status
-823062,2026-07-07T18:15:00Z,138,158,St. Louis Cardinals,Milwaukee Brewers,,,694819,Jacob Misiorowski,Busch Stadium,2026-07-07T18:15:00Z,Scheduled
-823035,2026-07-07T23:45:00Z,138,158,St. Louis Cardinals,Milwaukee Brewers,,,,,Busch Stadium,2026-07-07T23:45:00Z,Scheduled
+823062,2026-07-07T18:15:00Z,138,158,St. Louis Cardinals,Milwaukee Brewers,,Hunter Dobbins,694819,Jacob Misiorowski,Busch Stadium,2026-07-07T18:15:00Z,Scheduled
+823035,2026-07-07T23:45:00Z,138,158,St. Louis Cardinals,Milwaukee Brewers,,Hunter Dobbins,,Robert Gasser,Busch Stadium,2026-07-07T23:45:00Z,Scheduled
 824820,2026-07-07T22:35:00Z,110,112,Baltimore Orioles,Chicago Cubs,669358,Shane Baz,571510,Matthew Boyd,Oriole Park at Camden Yards,2026-07-07T22:35:00Z,Scheduled
 824254,2026-07-07T22:40:00Z,116,133,Detroit Tigers,Athletics,669373,Tarik Skubal,669372,J.T. Ginn,Comerica Park,2026-07-07T22:40:00Z,Scheduled
 823361,2026-07-07T22:40:00Z,134,144,Pittsburgh Pirates,Atlanta Braves,694973,Paul Skenes,694462,Hurston Waldrep,PNC Park,2026-07-07T22:40:00Z,Scheduled
-823847,2026-07-07T22:40:00Z,146,136,Miami Marlins,Seattle Mariners,676974,Max Meyer,,,loanDepot park,2026-07-07T22:40:00Z,Scheduled
+823847,2026-07-07T22:40:00Z,146,136,Miami Marlins,Seattle Mariners,676974,Max Meyer,,Bryan Woo,loanDepot park,2026-07-07T22:40:00Z,Scheduled
 822956,2026-07-07T22:40:00Z,139,147,Tampa Bay Rays,New York Yankees,693855,Ian Seymour,701542,Will Warren,Tropicana Field,2026-07-07T22:40:00Z,Scheduled
 822713,2026-07-07T22:45:00Z,120,117,Washington Nationals,Houston Astros,674841,Andrew Alvarez,837227,Tatsuya Imai,Nationals Park,2026-07-07T22:45:00Z,Scheduled
-823607,2026-07-07T23:10:00Z,121,118,New York Mets,Kansas City Royals,,,607625,Seth Lugo,Citi Field,2026-07-07T23:10:00Z,Scheduled
-824495,2026-07-07T23:10:00Z,113,143,Cincinnati Reds,Philadelphia Phillies,671096,Andrew Abbott,,,Great American Ball Park,2026-07-07T23:10:00Z,Scheduled
+823607,2026-07-07T23:10:00Z,121,118,New York Mets,Kansas City Royals,,Cionel Perez,607625,Seth Lugo,Citi Field,2026-07-07T23:10:00Z,Scheduled
+824495,2026-07-07T23:10:00Z,113,143,Cincinnati Reds,Philadelphia Phillies,671096,Andrew Abbott,,Zack Wheeler,Great American Ball Park,2026-07-07T23:10:00Z,Scheduled
 823687,2026-07-07T23:40:00Z,142,114,Minnesota Twins,Cleveland Guardians,671737,Taj Bradley,676282,Joey Cantillo,Target Field,2026-07-07T23:40:00Z,Scheduled
 824579,2026-07-07T23:40:00Z,145,111,Chicago White Sox,Boston Red Sox,702273,Noah Schultz,801139,Payton Tolle,Rate Field,2026-07-07T23:40:00Z,Scheduled
 822881,2026-07-08T00:05:00Z,140,108,Texas Rangers,Los Angeles Angels,594798,Jacob deGrom,667755,José Soriano,Globe Life Field,2026-07-08T00:05:00Z,Scheduled
 823280,2026-07-08T01:40:00Z,135,109,San Diego Padres,Arizona Diamondbacks,608566,Germán Márquez,668678,Zac Gallen,Petco Park,2026-07-08T01:40:00Z,Scheduled
-823203,2026-07-08T01:45:00Z,137,141,San Francisco Giants,Toronto Blue Jays,686790,Trevor McDonald,,,Oracle Park,2026-07-08T01:45:00Z,Scheduled
+823203,2026-07-08T01:45:00Z,137,141,San Francisco Giants,Toronto Blue Jays,686790,Trevor McDonald,,Spencer Miles,Oracle Park,2026-07-08T01:45:00Z,Scheduled
 823929,2026-07-08T02:10:00Z,119,115,Los Angeles Dodgers,Colorado Rockies,680736,Justin Wrobleski,547179,Michael Lorenzen,UNIQLO Field at Dodger Stadium,2026-07-08T02:10:00Z,Scheduled
