@@ -1,0 +1,14 @@
+game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probable_pitcher_id,home_probable_pitcher_name,away_probable_pitcher_id,away_probable_pitcher_name,venue,game_time_utc,status
+823359,2026-07-09T16:35:00Z,134,144,Pittsburgh Pirates,Atlanta Braves,656605,Mitch Keller,693821,Bryce Elder,PNC Park,2026-07-09T16:35:00Z,Pre-Game
+823606,2026-07-09T17:10:00Z,121,118,New York Mets,Kansas City Royals,640455,Sean Manaea,608379,Michael Wacha,Citi Field,2026-07-09T17:10:00Z,Pre-Game
+822954,2026-07-09T17:10:00Z,139,147,Tampa Bay Rays,New York Yankees,656876,Drew Rasmussen,,,Tropicana Field,2026-07-09T17:10:00Z,Scheduled
+824816,2026-07-09T17:35:00Z,110,112,Baltimore Orioles,Chicago Cubs,669432,Trevor Rogers,656849,David Peterson,Oriole Park at Camden Yards,2026-07-09T17:35:00Z,Scheduled
+823683,2026-07-09T17:40:00Z,142,114,Minnesota Twins,Cleveland Guardians,641927,Bailey Ober,668909,Gavin Williams,Target Field,2026-07-09T17:40:00Z,Scheduled
+824577,2026-07-09T18:10:00Z,145,111,Chicago White Sox,Boston Red Sox,641743,Anthony Kay,663776,Patrick Sandoval,Rate Field,2026-07-09T18:10:00Z,Scheduled
+824251,2026-07-09T22:40:00Z,116,133,Detroit Tigers,Athletics,664285,Framber Valdez,678022,Jack Perkins,Comerica Park,2026-07-09T22:40:00Z,Scheduled
+823846,2026-07-09T22:40:00Z,146,136,Miami Marlins,Seattle Mariners,676083,Janson Junk,682243,Bryce Miller,loanDepot park,2026-07-09T22:40:00Z,Scheduled
+824494,2026-07-09T23:10:00Z,113,143,Cincinnati Reds,Philadelphia Phillies,663903,Brady Singer,666200,Jesús Luzardo,Great American Ball Park,2026-07-09T23:10:00Z,Scheduled
+823034,2026-07-09T23:45:00Z,138,158,St. Louis Cardinals,Milwaukee Brewers,669467,Andre Pallante,701656,Logan Henderson,Busch Stadium,2026-07-09T23:45:00Z,Scheduled
+822877,2026-07-10T00:05:00Z,140,108,Texas Rangers,Los Angeles Angels,543135,Nathan Eovaldi,672282,Reid Detmers,Globe Life Field,2026-07-10T00:05:00Z,Scheduled
+823277,2026-07-10T01:40:00Z,135,109,San Diego Padres,Arizona Diamondbacks,656288,Griffin Canning,518876,Merrill Kelly,Petco Park,2026-07-10T01:40:00Z,Scheduled
+823201,2026-07-10T01:45:00Z,137,115,San Francisco Giants,Colorado Rockies,,,663372,Ryan Feltner,Oracle Park,2026-07-10T01:45:00Z,Scheduled

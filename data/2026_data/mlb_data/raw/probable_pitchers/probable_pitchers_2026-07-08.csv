@@ -7,7 +7,7 @@ game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probab
 822957,2026-07-08T22:40:00Z,139,147,Tampa Bay Rays,New York Yankees,663556,Shane McClanahan,543037,Gerrit Cole,Tropicana Field,2026-07-08T22:40:00Z,Scheduled
 822710,2026-07-08T22:45:00Z,120,117,Washington Nationals,Houston Astros,656492,Foster Griffin,681293,Spencer Arrighetti,Nationals Park,2026-07-08T22:45:00Z,Scheduled
 823605,2026-07-08T23:10:00Z,121,118,New York Mets,Kansas City Royals,681035,Christian Scott,674444,Steven Cruz,Citi Field,2026-07-08T23:10:00Z,Scheduled
-824496,2026-07-08T23:10:00Z,113,143,Cincinnati Reds,Philadelphia Phillies,695505,Chase Burns,,,Great American Ball Park,2026-07-08T23:10:00Z,Scheduled
+824496,2026-07-08T23:10:00Z,113,143,Cincinnati Reds,Philadelphia Phillies,695505,Chase Burns,,Alan Rangel,Great American Ball Park,2026-07-08T23:10:00Z,Scheduled
 823684,2026-07-08T23:40:00Z,142,114,Minnesota Twins,Cleveland Guardians,687570,Connor Prielipp,677944,Slade Cecconi,Target Field,2026-07-08T23:40:00Z,Scheduled
 824578,2026-07-08T23:40:00Z,145,111,Chicago White Sox,Boston Red Sox,663436,Davis Martin,687562,Jake Bennett,Rate Field,2026-07-08T23:40:00Z,Scheduled
 823032,2026-07-08T23:45:00Z,138,158,St. Louis Cardinals,Milwaukee Brewers,700241,Michael McGreevy,690986,Kyle Harrison,Busch Stadium,2026-07-08T23:45:00Z,Scheduled
