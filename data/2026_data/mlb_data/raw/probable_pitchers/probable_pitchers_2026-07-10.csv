@@ -1,0 +1,16 @@
+game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probable_pitcher_id,home_probable_pitcher_name,away_probable_pitcher_id,away_probable_pitcher_name,venue,game_time_utc,status
+824252,2026-07-10T22:40:00Z,116,143,Detroit Tigers,Philadelphia Phillies,656427,Jack Flaherty,605400,Aaron Nola,Comerica Park,2026-07-10T22:40:00Z,Scheduled
+823357,2026-07-10T22:40:00Z,134,158,Pittsburgh Pirates,Milwaukee Brewers,677952,Braxton Ashcraft,687075,Brandon Sproat,PNC Park,2026-07-10T22:40:00Z,Scheduled
+822709,2026-07-10T22:45:00Z,120,147,Washington Nationals,New York Yankees,687223,Carson Palmquist,677960,Ryan Weathers,Nationals Park,2026-07-10T22:45:00Z,Scheduled
+824817,2026-07-10T23:05:00Z,110,118,Baltimore Orioles,Kansas City Royals,687064,Brandon Young,679883,Luinder Avila,Oriole Park at Camden Yards,2026-07-10T23:05:00Z,Scheduled
+824493,2026-07-10T23:10:00Z,113,112,Cincinnati Reds,Chicago Cubs,668881,Hunter Greene,684007,Shota Imanaga,Great American Ball Park,2026-07-10T23:10:00Z,Scheduled
+822955,2026-07-10T23:10:00Z,139,136,Tampa Bay Rays,Seattle Mariners,607259,Nick Martinez,622491,Luis Castillo,Tropicana Field,2026-07-10T23:10:00Z,Scheduled
+823845,2026-07-10T23:10:00Z,146,114,Miami Marlins,Cleveland Guardians,645261,Sandy Alcantara,800048,Parker Messick,loanDepot park,2026-07-10T23:10:00Z,Scheduled
+823604,2026-07-10T23:15:00Z,121,111,New York Mets,Boston Red Sox,690997,Nolan McLean,543243,Sonny Gray,Citi Field,2026-07-10T23:15:00Z,Scheduled
+824575,2026-07-10T23:40:00Z,145,133,Chicago White Sox,Athletics,680732,Sean Burke,682052,Jacob Lopez,Rate Field,2026-07-10T23:40:00Z,Scheduled
+822878,2026-07-11T00:05:00Z,140,117,Texas Rangers,Houston Astros,615698,Cal Quantrill,686613,Hunter Brown,Globe Life Field,2026-07-11T00:05:00Z,Scheduled
+823685,2026-07-11T00:10:00Z,142,108,Minnesota Twins,Los Angeles Angels,805673,Zebby Matthews,680570,Grayson Rodriguez,Target Field,2026-07-11T00:10:00Z,Scheduled
+823033,2026-07-11T00:15:00Z,138,144,St. Louis Cardinals,Atlanta Braves,681517,Kyle Leahy,519242,Chris Sale,Busch Stadium,2026-07-11T00:15:00Z,Scheduled
+823278,2026-07-11T01:40:00Z,135,141,San Diego Padres,Toronto Blue Jays,676664,JP Sears,669456,Shane Bieber,Petco Park,2026-07-11T01:40:00Z,Scheduled
+823927,2026-07-11T02:10:00Z,119,109,Los Angeles Dodgers,Arizona Diamondbacks,660271,Shohei Ohtani,593958,Eduardo Rodriguez,UNIQLO Field at Dodger Stadium,2026-07-11T02:10:00Z,Scheduled
+823200,2026-07-11T02:15:00Z,137,115,San Francisco Giants,Colorado Rockies,592662,Robbie Ray,685299,Tanner Gordon,Oracle Park,2026-07-11T02:15:00Z,Scheduled
