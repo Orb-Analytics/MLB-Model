@@ -1,0 +1,16 @@
+game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probable_pitcher_id,home_probable_pitcher_name,away_probable_pitcher_id,away_probable_pitcher_name,venue,game_time_utc,status
+823358,2026-07-12T16:15:00Z,134,158,Pittsburgh Pirates,Milwaukee Brewers,694973,Paul Skenes,688107,Robert Gasser,PNC Park,2026-07-12T16:15:00Z,Scheduled
+824814,2026-07-12T17:35:00Z,110,118,Baltimore Orioles,Kansas City Royals,669358,Shane Baz,607625,Seth Lugo,Oriole Park at Camden Yards,2026-07-12T17:35:00Z,Scheduled
+822708,2026-07-12T17:35:00Z,120,147,Washington Nationals,New York Yankees,676917,Cade Cavalli,701542,Will Warren,Nationals Park,2026-07-12T17:35:00Z,Scheduled
+824491,2026-07-12T17:40:00Z,113,112,Cincinnati Reds,Chicago Cubs,671096,Andrew Abbott,571510,Matthew Boyd,Great American Ball Park,2026-07-12T17:40:00Z,Scheduled
+823602,2026-07-12T17:40:00Z,121,111,New York Mets,Boston Red Sox,804267,Zach Thornton,801139,Payton Tolle,Citi Field,2026-07-12T17:40:00Z,Scheduled
+822951,2026-07-12T17:40:00Z,139,136,Tampa Bay Rays,Seattle Mariners,693855,Ian Seymour,676106,Emerson Hancock,Tropicana Field,2026-07-12T17:40:00Z,Scheduled
+824250,2026-07-12T17:40:00Z,116,143,Detroit Tigers,Philadelphia Phillies,669373,Tarik Skubal,554430,Zack Wheeler,Comerica Park,2026-07-12T17:40:00Z,Scheduled
+823842,2026-07-12T17:40:00Z,146,114,Miami Marlins,Cleveland Guardians,663969,Tyler Phillips,676282,Joey Cantillo,loanDepot park,2026-07-12T17:40:00Z,Scheduled
+823681,2026-07-12T18:10:00Z,142,108,Minnesota Twins,Los Angeles Angels,671737,Taj Bradley,667755,José Soriano,Target Field,2026-07-12T18:10:00Z,Scheduled
+824574,2026-07-12T18:10:00Z,145,133,Chicago White Sox,Athletics,702273,Noah Schultz,669372,J.T. Ginn,Rate Field,2026-07-12T18:10:00Z,Scheduled
+823029,2026-07-12T18:15:00Z,138,144,St. Louis Cardinals,Atlanta Braves,669160,Dustin May,702275,JR Ritchie,Busch Stadium,2026-07-12T18:15:00Z,Scheduled
+822876,2026-07-12T18:35:00Z,140,117,Texas Rangers,Houston Astros,669022,MacKenzie Gore,664299,Cristian Javier,Globe Life Field,2026-07-12T18:35:00Z,Scheduled
+823199,2026-07-12T20:05:00Z,137,115,San Francisco Giants,Colorado Rockies,686790,Trevor McDonald,547179,Michael Lorenzen,Oracle Park,2026-07-12T20:05:00Z,Scheduled
+823925,2026-07-12T20:10:00Z,119,109,Los Angeles Dodgers,Arizona Diamondbacks,686218,Emmet Sheehan,683352,Mitch Bratt,UNIQLO Field at Dodger Stadium,2026-07-12T20:10:00Z,Scheduled
+823274,2026-07-12T20:10:00Z,135,141,San Diego Padres,Toronto Blue Jays,608566,Germán Márquez,592332,Kevin Gausman,Petco Park,2026-07-12T20:10:00Z,Scheduled
