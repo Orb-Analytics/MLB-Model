@@ -1,0 +1,2 @@
+game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probable_pitcher_id,home_probable_pitcher_name,away_probable_pitcher_id,away_probable_pitcher_name,venue,game_time_utc,status
+823440,2026-07-16T22:10:00Z,143,121,Philadelphia Phillies,New York Mets,605400,Aaron Nola,681035,Christian Scott,Citizens Bank Park,2026-07-16T22:10:00Z,In Progress
