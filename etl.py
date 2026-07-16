@@ -494,7 +494,7 @@ def compute_bullpen_boxscores(date_str: str):
 
     if not team_path.exists() or not pitcher_path.exists():
         log("4-BULLPEN", f"Missing boxscore data for {date_str}, skipping")
-        return False
+        return True
 
     team_df = pd.read_csv(team_path)
     pitcher_df = pd.read_csv(pitcher_path)
