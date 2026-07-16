@@ -1,1 +1,2 @@
 pick_team,opponent,is_home,is_favorite,pick_odds,edge,cover_prob,home_team,away_team,home_odds,away_odds,date,market_home_prob,market_away_prob,xgb_home_prob,xgb_away_prob,regressed_home_prob,regressed_away_prob,home_is_favorite
+PHI,NYM,True,False,-102.0,1.5872326732673248,0.5208228217821782,PHI,NYM,-102.0,-160.0,7/16/2026,0.504950495049505,0.6153846153846154,0.5503,0.4497,0.5208228217821782,0.557395,0
