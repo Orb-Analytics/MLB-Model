@@ -22,6 +22,7 @@ def update_predictions_with_results(prediction_date):
     # File paths
     pred_file = f'modeling/mlb_xgb_ml/predictions/predictions_{date_str}.csv'
     box_file = f'data/2026_data/mlb_data/raw/boxscores/boxscores_{date_str}.csv'
+    outlook_file = f'data/2026_data/mlb_data/raw/game_outlook/game_outlook_{date_str}.csv'
     
     # Check if files exist
     if not os.path.exists(pred_file):
@@ -37,6 +38,21 @@ def update_predictions_with_results(prediction_date):
     preds = pd.read_csv(pred_file)
     boxes = pd.read_csv(box_file)
     
+    # The game outlook file's status field flags games that may not have finished
+    # (postponed/canceled/suspended/scheduled). Status alone can be stale for older
+    # dates, so below we only skip grading when the boxscore ALSO shows a 0-0 score,
+    # which is impossible for a completed baseball game and reliably confirms the
+    # game never actually happened.
+    if os.path.exists(outlook_file):
+        outlook = pd.read_csv(outlook_file)[['game_pk', 'status', 'date']]
+        outlook = outlook.rename(columns={'date': 'game_start_utc'})
+        boxes = boxes.merge(outlook, on='game_pk', how='left')
+        # Doubleheaders: two real games between the same teams on the same date.
+        # Sort by start time so any duplicate matchup consistently resolves to
+        # Game 1 (the earlier game) instead of arbitrary CSV row order.
+        if 'game_start_utc' in boxes.columns:
+            boxes = boxes.sort_values('game_start_utc')
+    
     # Update each prediction
     updated_count = 0
     for idx, pred_row in preds.iterrows():
@@ -48,6 +64,15 @@ def update_predictions_with_results(prediction_date):
         
         if len(box_match) > 0:
             box_row = box_match.iloc[0]
+            not_final = 'status' in boxes.columns and not pd.isna(box_row.get('status')) \
+                and 'FINAL' not in str(box_row['status'])
+            no_score = box_row['home_batting_r'] == 0 and box_row['away_batting_r'] == 0
+
+            if not_final and no_score:
+                print(f"  Skipping {pred_row['home team']} vs {pred_row['away team']} "
+                      f"(status: {box_row['status']}, 0-0 score - game not played)")
+                continue
+
             home_score = box_row['home_batting_r']
             away_score = box_row['away_batting_r']
             

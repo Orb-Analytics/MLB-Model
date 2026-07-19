@@ -147,6 +147,41 @@ def load_yesterdays_results(date_str):
     df = pd.read_csv(boxscore_file)
     df['date'] = date_fmt
     
+    # Exclude games that were postponed/canceled/suspended (no official result to grade).
+    # A game is only excluded when BOTH signals agree it didn't happen:
+    #   1. The game outlook status isn't FINAL (it may be stale for older dates, so we
+    #      don't trust it alone), and
+    #   2. The boxscore shows a 0-0 score, which is impossible for a completed baseball
+    #      game (no ties) and reliably indicates the game never took place.
+    game_outlook_file = REPO_ROOT / 'data' / '2026_data' / 'mlb_data' / 'raw' / 'game_outlook' / f'game_outlook_{date_str}.csv'
+    if game_outlook_file.exists():
+        outlook = pd.read_csv(game_outlook_file)[['game_pk', 'status', 'date']]
+        outlook = outlook.rename(columns={'date': 'game_start_utc'})
+        df = df.merge(outlook, on='game_pk', how='left')
+        not_final = ~df['status'].str.contains('FINAL', na=False)
+        no_score = (df['home_batting_r'] == 0) & (df['away_batting_r'] == 0)
+        to_exclude = not_final & no_score
+        if to_exclude.any():
+            for _, row in df[to_exclude].iterrows():
+                print(f"⚠️  Excluding {row['home_team_abbreviation']} vs {row['away_team_abbreviation']} "
+                      f"from grading (status: {row['status']}, 0-0 score - game not played)")
+            df = df[~to_exclude].copy()
+        df = df.drop(columns=['status'])
+
+        # Doubleheaders: two real games between the same teams on the same date.
+        # Picks/odds don't distinguish which game they refer to, so resolve
+        # deterministically to the earlier-starting game every time (rather than
+        # relying on arbitrary CSV row order, which previously made grading
+        # inconsistent between mlb_season_record.csv and mlb_detailed_picks_tracking.csv).
+        if 'game_start_utc' in df.columns:
+            dupe_mask = df.duplicated(subset=['home_team_abbreviation', 'away_team_abbreviation'], keep=False)
+            if dupe_mask.any():
+                for (h, a), _ in df[dupe_mask].groupby(['home_team_abbreviation', 'away_team_abbreviation']):
+                    print(f"ℹ️  Doubleheader detected for {h} vs {a} - grading using Game 1 (earlier start time)")
+                df = df.sort_values('game_start_utc')
+                df = df.drop_duplicates(subset=['home_team_abbreviation', 'away_team_abbreviation'], keep='first')
+            df = df.drop(columns=['game_start_utc'])
+    
     # Rename columns
     df = df.rename(columns={
         'home_batting_r': 'home_runs_scored',
