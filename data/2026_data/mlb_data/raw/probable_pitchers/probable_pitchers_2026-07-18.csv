@@ -1,6 +1,6 @@
 game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probable_pitcher_id,home_probable_pitcher_name,away_probable_pitcher_id,away_probable_pitcher_name,venue,game_time_utc,status
 824414,2026-07-18T17:10:00Z,114,134,Cleveland Guardians,Pittsburgh Pirates,668909,Gavin Williams,683003,Jared Jones,Progressive Field,2026-07-18T17:10:00Z,Pre-Game
-824412,2026-07-18T23:10:00Z,114,134,Cleveland Guardians,Pittsburgh Pirates,671106,Logan Allen,,,Progressive Field,2026-07-18T23:10:00Z,Scheduled
+824412,2026-07-18T23:10:00Z,114,134,Cleveland Guardians,Pittsburgh Pirates,671106,Logan Allen,,Mason Montgomery,Progressive Field,2026-07-18T23:10:00Z,Scheduled
 824657,2026-07-18T18:20:00Z,112,142,Chicago Cubs,Minnesota Twins,571510,Matthew Boyd,671737,Taj Bradley,Wrigley Field,2026-07-18T18:20:00Z,Scheduled
 822790,2026-07-18T19:07:00Z,141,145,Toronto Blue Jays,Chicago White Sox,669456,Shane Bieber,663436,Davis Martin,Rogers Centre,2026-07-18T19:07:00Z,Scheduled
 824331,2026-07-18T19:10:00Z,115,113,Colorado Rockies,Cincinnati Reds,608372,Tomoyuki Sugano,695076,Rhett Lowder,Coors Field,2026-07-18T19:10:00Z,Scheduled
