@@ -1,7 +1,7 @@
 game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probable_pitcher_id,home_probable_pitcher_name,away_probable_pitcher_id,away_probable_pitcher_name,venue,game_time_utc,status
 822786,2026-07-19T16:15:00Z,141,145,Toronto Blue Jays,Chicago White Sox,702056,Trey Yesavage,680732,Sean Burke,Rogers Centre,2026-07-19T16:15:00Z,Pre-Game
 823523,2026-07-19T16:35:00Z,147,119,New York Yankees,Los Angeles Dodgers,693645,Cam Schlittler,808967,Yoshinobu Yamamoto,Yankee Stadium,2026-07-19T16:35:00Z,Pre-Game
-823521,2026-07-19T23:20:00Z,147,119,New York Yankees,Los Angeles Dodgers,,,,,Yankee Stadium,2026-07-19T23:20:00Z,Scheduled
+823521,2026-07-19T23:20:00Z,147,119,New York Yankees,Los Angeles Dodgers,,Ryan Yarbrough,,Will Klein,Yankee Stadium,2026-07-19T23:20:00Z,Scheduled
 824739,2026-07-19T17:35:00Z,111,139,Boston Red Sox,Tampa Bay Rays,543243,Sonny Gray,663556,Shane McClanahan,Fenway Park,2026-07-19T17:35:00Z,Pre-Game
 823439,2026-07-19T17:35:00Z,143,121,Philadelphia Phillies,New York Mets,660604,Alan Rangel,690997,Nolan McLean,Citizens Bank Park,2026-07-19T17:35:00Z,Scheduled
 824897,2026-07-19T17:35:00Z,144,140,Atlanta Braves,Texas Rangers,656550,Grant Holmes,543135,Nathan Eovaldi,Truist Park,2026-07-19T17:35:00Z,Scheduled

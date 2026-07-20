@@ -1,0 +1,16 @@
+game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probable_pitcher_id,home_probable_pitcher_name,away_probable_pitcher_id,away_probable_pitcher_name,venue,game_time_utc,status
+824410,2026-07-20T22:40:00Z,114,142,Cleveland Guardians,Minnesota Twins,676440,Tanner Bibee,657746,Joe Ryan,Progressive Field,2026-07-20T22:40:00Z,Scheduled
+823522,2026-07-20T23:05:00Z,147,134,New York Yankees,Pittsburgh Pirates,677960,Ryan Weathers,677952,Braxton Ashcraft,Yankee Stadium,2026-07-20T23:05:00Z,Scheduled
+822788,2026-07-20T23:07:00Z,141,139,Toronto Blue Jays,Tampa Bay Rays,656302,Dylan Cease,607259,Nick Martinez,Rogers Centre,2026-07-20T23:07:00Z,Scheduled
+824736,2026-07-20T23:10:00Z,111,110,Boston Red Sox,Baltimore Orioles,801139,Payton Tolle,669358,Shane Baz,Fenway Park,2026-07-20T23:10:00Z,Scheduled
+823436,2026-07-20T23:10:00Z,143,119,Philadelphia Phillies,Los Angeles Dodgers,650911,Cristopher Sánchez,686218,Emmet Sheehan,Citizens Bank Park,2026-07-20T23:10:00Z,Scheduled
+824898,2026-07-20T23:15:00Z,144,135,Atlanta Braves,San Diego Padres,693821,Bryce Elder,676664,JP Sears,Truist Park,2026-07-20T23:15:00Z,Scheduled
+824087,2026-07-20T23:40:00Z,118,137,Kansas City Royals,San Francisco Giants,608379,Michael Wacha,686790,Trevor McDonald,Kauffman Stadium,2026-07-20T23:40:00Z,Scheduled
+823762,2026-07-20T23:40:00Z,158,121,Milwaukee Brewers,New York Mets,694819,Jacob Misiorowski,642547,Freddy Peralta,American Family Field,2026-07-20T23:40:00Z,Scheduled
+824654,2026-07-21T00:05:00Z,112,116,Chicago Cubs,Detroit Tigers,592791,Jameson Taillon,656427,Jack Flaherty,Wrigley Field,2026-07-21T00:05:00Z,Scheduled
+822874,2026-07-21T00:05:00Z,140,145,Texas Rangers,Chicago White Sox,594798,Jacob deGrom,607200,Erick Fedde,Globe Life Field,2026-07-21T00:05:00Z,Scheduled
+824167,2026-07-21T00:10:00Z,117,146,Houston Astros,Miami Marlins,669854,Ronel Blanco,676083,Janson Junk,Daikin Park,2026-07-21T00:10:00Z,Scheduled
+824328,2026-07-21T00:40:00Z,115,120,Colorado Rockies,Washington Nationals,607536,Kyle Freeland,674841,Andrew Alvarez,Coors Field,2026-07-21T00:40:00Z,Scheduled
+825058,2026-07-21T01:40:00Z,109,133,Arizona Diamondbacks,Athletics,683352,Mitch Bratt,605488,Jeffrey Springs,Chase Field,2026-07-21T01:40:00Z,Scheduled
+823112,2026-07-21T01:40:00Z,136,113,Seattle Mariners,Cincinnati Reds,669923,George Kirby,671096,Andrew Abbott,T-Mobile Park,2026-07-21T01:40:00Z,Scheduled
+824006,2026-07-21T02:10:00Z,108,138,Los Angeles Angels,St. Louis Cardinals,667755,José Soriano,681517,Kyle Leahy,Angel Stadium,2026-07-21T02:10:00Z,Scheduled
