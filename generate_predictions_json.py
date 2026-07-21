@@ -35,14 +35,18 @@ print(f"Today's unplayed games: {len(df_today)}")
 picks_today = []
 for _, row in df_today.iterrows():
     conf  = get_confidence(row)
-    odds  = int(row["pick_odds"])  if pd.notna(row["pick_odds"])  else None
+    home_odds = int(row["home_odds"]) if pd.notna(row["home_odds"]) else None
+    away_odds = int(row["away_odds"]) if pd.notna(row["away_odds"]) else None
+    pick_odds = int(row["pick_odds"]) if pd.notna(row["pick_odds"]) else None
     edge  = round(float(row["edge"]), 2) if pd.notna(row["edge"]) else None
     picks_today.append({
         "home_team":  row["home_team"],
         "away_team":  row["away_team"],
         "pick":       row["pick_made"],
         "confidence": round(float(conf), 4) if pd.notna(conf) else None,
-        "line":       odds,
+        "home_odds":  home_odds,
+        "away_odds":  away_odds,
+        "line":       pick_odds,
         "edge":       edge,
         "notes":      f"XGBoost edge: +{edge}%" if edge else None
     })
