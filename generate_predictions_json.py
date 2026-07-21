@@ -12,7 +12,7 @@ PICKS_FILE  = REPO_ROOT / "data" / "mlb_detailed_picks_tracking.csv"
 TODAY_OUT   = REPO_ROOT / "predictions.json"
 HISTORY_OUT = REPO_ROOT / "predictions_history.json"
 
-today     = datetime.now(ZoneInfo("America/New_York")).date()
+today     = datetime.now(ZoneInfo("America/Chicago")).date()
 today_fmt = f"{today.month}/{today.day}/{today.year}"
 now_utc   = datetime.now(ZoneInfo("UTC")).isoformat()
 
@@ -31,6 +31,14 @@ def get_confidence(row):
 # ─────────────────────────────────────────────────────────────────
 df_today = df[(df["date"] == today_fmt) & (df["home_score"].isna())].copy()
 print(f"Today's unplayed games: {len(df_today)}")
+
+# If no unplayed games found, try yesterday (handles late-night UTC timezone edge)
+if df_today.empty:
+    from datetime import timedelta
+    yesterday = today - timedelta(days=1)
+    yesterday_fmt = f"{yesterday.month}/{yesterday.day}/{yesterday.year}"
+    df_today = df[(df["date"] == yesterday_fmt) & (df["home_score"].isna())].copy()
+    print(f"Falling back to yesterday ({yesterday_fmt}): {len(df_today)} unplayed games")
 
 picks_today = []
 for _, row in df_today.iterrows():
