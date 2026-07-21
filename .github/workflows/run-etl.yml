@@ -35,7 +35,7 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install pandas requests python-dotenv numpy xgboost scikit-learn
+        pip install pandas requests python-dotenv numpy
 
     - name: Create .env file
       run: |
@@ -52,15 +52,9 @@ jobs:
         fi
         python etl.py $ARGS
 
-    - name: Run XGBoost Model
-      run: python modeling/walkforward_xgboost.py
-
-    - name: Generate predictions JSON
-      run: python generate_predictions_json.py
-
     - name: Commit and push changes
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-        git add -A data/2026_data/ training-set/training_set.csv predictions.json predictions_history.json
+        git add -A data/2026_data/ training-set/training_set.csv
         git diff --cached --quiet || (git commit -m "🤖 Daily ETL update $(date -u +%Y-%m-%d)" && git push)
