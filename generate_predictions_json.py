@@ -27,12 +27,18 @@ def get_confidence(row):
     return row["regressed_away_prob"]
 
 # ─────────────────────────────────────────────────────────────────
-# 1. TODAY'S PICKS  (no score yet)
+# 1. TODAY'S PICKS  (all games, with pick flag)
 # ─────────────────────────────────────────────────────────────────
-df_today = df[(df["date"] == today_fmt) & (df["home_score"].isna())].copy()
-print(f"Today's unplayed games: {len(df_today)}")
+DATASET_FILE = REPO_ROOT / "data" / "2026_data" / "2026_dataset" / "2026_dataset.csv"
 
-# If no unplayed games found, try yesterday (handles late-night UTC timezone edge)
+df_dataset = pd.read_csv(DATASET_FILE, encoding='latin-1', low_memory=False)
+df_all_today = df_dataset[df_dataset["Date"] == today_fmt].copy()
+print(f"All games today: {len(df_all_today)}")
+
+# Get picks for today
+df_today = df[(df["date"] == today_fmt) & (df["home_score"].isna())].copy()
+
+# Fallback to yesterday if no unplayed games found
 if df_today.empty:
     from datetime import timedelta
     yesterday = today - timedelta(days=1)
@@ -40,24 +46,49 @@ if df_today.empty:
     df_today = df[(df["date"] == yesterday_fmt) & (df["home_score"].isna())].copy()
     print(f"Falling back to yesterday ({yesterday_fmt}): {len(df_today)} unplayed games")
 
-picks_today = []
+# Build picks lookup keyed by home+away
+picks_lookup = {}
 for _, row in df_today.iterrows():
-    conf  = get_confidence(row)
-    home_odds = int(row["home_odds"]) if pd.notna(row["home_odds"]) else None
-    away_odds = int(row["away_odds"]) if pd.notna(row["away_odds"]) else None
-    pick_odds = int(row["pick_odds"]) if pd.notna(row["pick_odds"]) else None
-    edge  = round(float(row["edge"]), 2) if pd.notna(row["edge"]) else None
+    key = (row["home_team"], row["away_team"])
+    picks_lookup[key] = row
+
+picks_today = []
+for _, row in df_all_today.iterrows():
+    home = row["home team"]
+    away = row["away team"]
+    home_odds = int(row["home ml close"]) if pd.notna(row["home ml close"]) else None
+    away_odds = int(row["away ml close"]) if pd.notna(row["away ml close"]) else None
+
+    # Check if model made a pick for this game
+    pick_row = picks_lookup.get((home, away))
+    has_pick = pick_row is not None
+
+    if has_pick:
+        conf = get_confidence(pick_row)
+        edge = round(float(pick_row["edge"]), 2) if pd.notna(pick_row["edge"]) else None
+        pick_made = pick_row["pick_made"]
+        confidence = round(float(conf), 4) if pd.notna(conf) else None
+        notes = f"XGBoost edge: +{edge}%" if edge else None
+    else:
+        edge = None
+        pick_made = None
+        confidence = None
+        notes = None
+
     picks_today.append({
-        "home_team":  row["home_team"],
-        "away_team":  row["away_team"],
-        "pick":       row["pick_made"],
-        "confidence": round(float(conf), 4) if pd.notna(conf) else None,
+        "home_team":  home,
+        "away_team":  away,
+        "pick":       pick_made,
+        "has_pick":   has_pick,
+        "confidence": confidence,
         "home_odds":  home_odds,
         "away_odds":  away_odds,
-        "line":       pick_odds,
+        "line":       int(pick_row["pick_odds"]) if has_pick and pd.notna(pick_row["pick_odds"]) else None,
         "edge":       edge,
-        "notes":      f"XGBoost edge: +{edge}%" if edge else None
+        "notes":      notes
     })
+
+print(f"Today's unplayed games: {len(df_today)}")
 
 if picks_today:
     with open(TODAY_OUT, "w") as f:
