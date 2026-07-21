@@ -35,7 +35,7 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install pandas requests python-dotenv numpy
+        pip install pandas requests python-dotenv numpy xgboost scikit-learn
 
     - name: Create .env file
       run: |
@@ -51,6 +51,9 @@ jobs:
           ARGS="$ARGS --skip-fetch"
         fi
         python etl.py $ARGS
+
+    - name: Run XGBoost Model
+      run: python modeling/walkforward_xgboost.py
 
     - name: Generate predictions JSON
       run: python generate_predictions_json.py
