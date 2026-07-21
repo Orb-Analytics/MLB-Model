@@ -1,6 +1,106 @@
 {
   "model": "MLB",
-  "generated_at": "2026-07-21T04:20:25.875269+00:00",
+  "generated_at": "2026-07-21T04:25:22.158633+00:00",
   "version": "v2.1",
-  "picks": []
+  "picks": [
+    {
+      "home_team": "PHI",
+      "away_team": "LAD",
+      "pick": "LAD",
+      "confidence": 0.4678,
+      "home_odds": -127,
+      "away_odds": 125,
+      "line": 125,
+      "edge": 2.34,
+      "notes": "XGBoost edge: +2.34%"
+    },
+    {
+      "home_team": "NYY",
+      "away_team": "PIT",
+      "pick": "NYY",
+      "confidence": 0.529,
+      "home_odds": -108,
+      "away_odds": 106,
+      "line": -108,
+      "edge": 0.98,
+      "notes": "XGBoost edge: +0.98%"
+    },
+    {
+      "home_team": "TOR",
+      "away_team": "TB",
+      "pick": "TB",
+      "confidence": 0.4331,
+      "home_odds": -153,
+      "away_odds": 150,
+      "line": 150,
+      "edge": 3.31,
+      "notes": "XGBoost edge: +3.31%"
+    },
+    {
+      "home_team": "ATL",
+      "away_team": "SD",
+      "pick": "ATL",
+      "confidence": 0.5721,
+      "home_odds": -125,
+      "away_odds": 120,
+      "line": -125,
+      "edge": 1.65,
+      "notes": "XGBoost edge: +1.65%"
+    },
+    {
+      "home_team": "MIL",
+      "away_team": "NYM",
+      "pick": "MIL",
+      "confidence": 0.6615,
+      "home_odds": -190,
+      "away_odds": 186,
+      "line": -190,
+      "edge": 0.63,
+      "notes": "XGBoost edge: +0.63%"
+    },
+    {
+      "home_team": "KC",
+      "away_team": "SF",
+      "pick": "KC",
+      "confidence": 0.5406,
+      "home_odds": -113,
+      "away_odds": 106,
+      "line": -113,
+      "edge": 1.01,
+      "notes": "XGBoost edge: +1.01%"
+    },
+    {
+      "home_team": "COL",
+      "away_team": "WSH",
+      "pick": "COL",
+      "confidence": 0.4954,
+      "home_odds": 113,
+      "away_odds": -117,
+      "line": 113,
+      "edge": 2.59,
+      "notes": "XGBoost edge: +2.59%"
+    },
+    {
+      "home_team": "SEA",
+      "away_team": "CIN",
+      "pick": "SEA",
+      "confidence": 0.5912,
+      "home_odds": -135,
+      "away_odds": 133,
+      "line": -135,
+      "edge": 1.67,
+      "notes": "XGBoost edge: +1.67%"
+    },
+    {
+      "home_team": "LAA",
+      "away_team": "STL",
+      "pick": "LAA",
+      "confidence": 0.526,
+      "home_odds": -106,
+      "away_odds": 102,
+      "line": -106,
+      "edge": 1.15,
+      "notes": "XGBoost edge: +1.15%"
+    }
+  ]
 }
