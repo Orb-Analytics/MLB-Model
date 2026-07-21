@@ -59,15 +59,17 @@ for _, row in df_today.iterrows():
         "notes":      f"XGBoost edge: +{edge}%" if edge else None
     })
 
-with open(TODAY_OUT, "w") as f:
-    json.dump({
-        "model":        "MLB",
-        "generated_at": now_utc,
-        "version":      "v2.1",
-        "picks":        picks_today
-    }, f, indent=2)
-
-print(f"✅ predictions.json — {len(picks_today)} picks")
+if picks_today:
+    with open(TODAY_OUT, "w") as f:
+        json.dump({
+            "model":        "MLB",
+            "generated_at": now_utc,
+            "version":      "v2.1",
+            "picks":        picks_today
+        }, f, indent=2)
+    print(f"✅ predictions.json — {len(picks_today)} picks")
+else:
+    print(f"⚠️ No picks found — predictions.json not overwritten")
 
 # ─────────────────────────────────────────────────────────────────
 # 2. HISTORY  (settled picks only — has a result)
