@@ -1,0 +1,18 @@
+game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probable_pitcher_id,home_probable_pitcher_name,away_probable_pitcher_id,away_probable_pitcher_name,venue,game_time_utc,status
+823518,2026-07-22T17:05:00Z,147,134,New York Yankees,Pittsburgh Pirates,543037,Gerrit Cole,656605,Mitch Keller,Yankee Stadium,2026-07-22T17:05:00Z,Pre-Game
+823519,2026-07-22T23:05:00Z,147,134,New York Yankees,Pittsburgh Pirates,608331,Max Fried,696149,Bubba Chandler,Yankee Stadium,2026-07-22T23:05:00Z,Scheduled
+824735,2026-07-22T17:35:00Z,111,110,Boston Red Sox,Baltimore Orioles,687562,Jake Bennett,665152,Dean Kremer,Fenway Park,2026-07-22T17:35:00Z,Pre-Game
+824732,2026-07-22T23:10:00Z,111,110,Boston Red Sox,Baltimore Orioles,,,680694,Kyle Bradish,Fenway Park,2026-07-22T23:10:00Z,Scheduled
+824083,2026-07-22T18:10:00Z,118,137,Kansas City Royals,San Francisco Giants,607625,Seth Lugo,694738,Landen Roupp,Kauffman Stadium,2026-07-22T18:10:00Z,Pre-Game
+823761,2026-07-22T18:10:00Z,158,121,Milwaukee Brewers,New York Mets,701656,Logan Henderson,681035,Christian Scott,American Family Field,2026-07-22T18:10:00Z,Scheduled
+824327,2026-07-22T19:10:00Z,115,120,Colorado Rockies,Washington Nationals,687312,Gabriel Hughes,676917,Cade Cavalli,Coors Field,2026-07-22T19:10:00Z,Scheduled
+825055,2026-07-22T19:40:00Z,109,133,Arizona Diamondbacks,Athletics,518876,Merrill Kelly,695611,Gage Jump,Chase Field,2026-07-22T19:40:00Z,Scheduled
+823110,2026-07-22T19:40:00Z,136,113,Seattle Mariners,Cincinnati Reds,676106,Emerson Hancock,663903,Brady Singer,T-Mobile Park,2026-07-22T19:40:00Z,Scheduled
+824004,2026-07-22T20:07:00Z,108,138,Los Angeles Angels,St. Louis Cardinals,672282,Reid Detmers,690928,Hunter Dobbins,Angel Stadium,2026-07-22T20:07:00Z,Scheduled
+824408,2026-07-22T22:40:00Z,114,142,Cleveland Guardians,Minnesota Twins,677944,Slade Cecconi,641927,Bailey Ober,Progressive Field,2026-07-22T22:40:00Z,Scheduled
+823438,2026-07-22T22:40:00Z,143,119,Philadelphia Phillies,Los Angeles Dodgers,605400,Aaron Nola,641778,Eric Lauer,Citizens Bank Park,2026-07-22T22:40:00Z,Scheduled
+822784,2026-07-22T23:07:00Z,141,139,Toronto Blue Jays,Tampa Bay Rays,680755,Braydon Fisher,643377,Griffin Jax,Rogers Centre,2026-07-22T23:07:00Z,Scheduled
+824896,2026-07-22T23:15:00Z,144,135,Atlanta Braves,San Diego Padres,527048,Martín Pérez,650633,Michael King,Truist Park,2026-07-22T23:15:00Z,Scheduled
+822873,2026-07-23T00:05:00Z,140,145,Texas Rangers,Chicago White Sox,641302,Tyler Alexander,641743,Anthony Kay,Globe Life Field,2026-07-23T00:05:00Z,Scheduled
+824650,2026-07-23T00:10:00Z,112,116,Chicago Cubs,Detroit Tigers,607067,Colin Rea,672456,Keider Montero,Wrigley Field,2026-07-23T00:10:00Z,Scheduled
+824166,2026-07-23T00:10:00Z,117,146,Houston Astros,Miami Marlins,663567,Peter Lambert,645261,Sandy Alcantara,Daikin Park,2026-07-23T00:10:00Z,Scheduled
