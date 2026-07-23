@@ -1,0 +1,6 @@
+date,home team,away team,home odds,away odds,fav at home?,xgb_home_prob,xgb_away_prob,pick?,pick_fav?,pick_home?,pick_made?,pick_correct?,over close,over close odds,under close odds
+7/23/2026,ATL,SD,-233.0,228.0,1,0.6494,0.3506,ATL,1,1,1,,8.5,115.0,-117.0
+7/23/2026,CLE,MIN,-138.0,135.0,1,0.6157,0.3843,CLE,1,1,1,,7.5,113.0,-115.0
+7/23/2026,TOR,TB,102.0,-104.0,0,0.4368,0.5632,TB,1,0,1,,8.5,100.0,-102.0
+7/23/2026,STL,ARI,-111.0,108.0,1,0.5173,0.4827,STL,1,1,0,,7.5,104.0,-106.0
+7/23/2026,DET,KC,-208.0,199.0,1,0.6469,0.3531,DET,1,1,1,,8.5,108.0,-113.0
