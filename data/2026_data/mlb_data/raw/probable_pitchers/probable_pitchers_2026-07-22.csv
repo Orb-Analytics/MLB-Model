@@ -2,7 +2,7 @@ game_pk,date,home_team_id,away_team_id,home_team_name,away_team_name,home_probab
 823518,2026-07-22T17:05:00Z,147,134,New York Yankees,Pittsburgh Pirates,543037,Gerrit Cole,656605,Mitch Keller,Yankee Stadium,2026-07-22T17:05:00Z,Pre-Game
 823519,2026-07-22T23:05:00Z,147,134,New York Yankees,Pittsburgh Pirates,608331,Max Fried,696149,Bubba Chandler,Yankee Stadium,2026-07-22T23:05:00Z,Scheduled
 824735,2026-07-22T17:35:00Z,111,110,Boston Red Sox,Baltimore Orioles,687562,Jake Bennett,665152,Dean Kremer,Fenway Park,2026-07-22T17:35:00Z,Pre-Game
-824732,2026-07-22T23:10:00Z,111,110,Boston Red Sox,Baltimore Orioles,,,680694,Kyle Bradish,Fenway Park,2026-07-22T23:10:00Z,Scheduled
+824732,2026-07-22T23:10:00Z,111,110,Boston Red Sox,Baltimore Orioles,,Eduardo Rivera,680694,Kyle Bradish,Fenway Park,2026-07-22T23:10:00Z,Scheduled
 824083,2026-07-22T18:10:00Z,118,137,Kansas City Royals,San Francisco Giants,607625,Seth Lugo,694738,Landen Roupp,Kauffman Stadium,2026-07-22T18:10:00Z,Pre-Game
 823761,2026-07-22T18:10:00Z,158,121,Milwaukee Brewers,New York Mets,701656,Logan Henderson,681035,Christian Scott,American Family Field,2026-07-22T18:10:00Z,Scheduled
 824327,2026-07-22T19:10:00Z,115,120,Colorado Rockies,Washington Nationals,687312,Gabriel Hughes,676917,Cade Cavalli,Coors Field,2026-07-22T19:10:00Z,Scheduled
